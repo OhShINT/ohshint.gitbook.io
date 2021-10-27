@@ -1,6 +1,6 @@
 # **OH SHINT! Welcome Aboard**
 
-![](Contact/Images/donvito.png)
+![donvito](Contact/donvito.png)
 
 **OBLIGATORY DISCLAIMER**
 ***Myself and any other potential contributors to this website are NOT in any way affiliated with, sponsored by, or endorsed by any of the companies that may be listed on this website. Myself and any other potential contributors of this web site are NOT responsible for the actions of any end users.*** 
