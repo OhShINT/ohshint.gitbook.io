@@ -5,7 +5,7 @@
 > "The internet is just one giant book that is written in real-time, about all of us. 
 > -You just have to know how to read it".
 
-![Digital-World-Map](G:\Blog\Articles\Complete\OSINT-ARTICLES\OSINT_WTF\Images\Digital-World-Map.gif)
+![Digital-World-Map](Images/Digital-World-Map.gif)
 
 ​					*Our world is more connected than ever before, and our data is all out there somewhere.*
 
@@ -88,7 +88,7 @@ It's good for discovering information on just about anything. So yes, you *could
 
 No wonder she dumped you lmao.
 
-![OSINT-WTF-Header](G:\Blog\Articles\Complete\OSINT-ARTICLES\OSINT_WTF\Images\OSINT-WTF-Header.png)
+![OSINT-WTF-Header](Images/OSINT-WTF-Header.png)
 
 ​							A typical OSINT professionals apartment, in case you were wondering.
 
@@ -118,7 +118,7 @@ Offensive OSINT (Also known as "*Active OSINT*") is not usually recommended, as 
 
 There are usually considered to be five phases for conducting a successful OSINT investigation. Take a look at this flow chart for a quick understanding of what the hell I'm talking about.
 
-![The-Five-Phases-of-OSINT](G:\Blog\Articles\Complete\OSINT-ARTICLES\OSINT_WTF\Images\The-Five-Phases-of-OSINT.PNG)
+![The-Five-Phases-of-OSINT](Images/The-Five-Phases-of-OSINT.PNG)
 
 ​									A basic diagram that shows the five phases of OSINT.
 
