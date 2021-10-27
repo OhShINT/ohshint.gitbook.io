@@ -2,7 +2,7 @@
 
 *Sharing some OSINT techniques for OnlyFans! This article should probably be considered NSFW.* 
 
-![img](https://gblobscdn.gitbook.com/assets%2F-MkyelMiBvwVhKSgo_Iy%2F-MlWFm0_BPYHn0i4TK_5%2F-MlWKmlOuyenUKx2AwSq%2FOnlyFans-OSINT-Logo.png?alt=media&token=3c1c3bca-3611-44c2-af3f-1dcee0b19cf9)
+![img](Images/OnlyFans-OSINT-Logo.png)
 
 ​								Open-source intelligence techniques for OnlyFans!
 
@@ -137,7 +137,7 @@ Reddit posts are also archived using the [Pushshift API](https://github.com/push
 Content creators are also able to restrict access to their accounts by geo-blocking certain locations. 
 For example, if you are using an IP address located in Canada and are attempting to view an OF profile that has blocked access from Canadian IPs. You will get an error when loading the page as shown in the screenshot below. 
 
-![img](https://gblobscdn.gitbook.com/assets%2F-MkyelMiBvwVhKSgo_Iy%2F-Ml8920Vw9WfWTD-bzCo%2F-Ml8JBz7eY7gsUSMegdm%2FOF-Page-Not-Available.PNG?alt=media&token=385943e9-f2f5-4fa1-8cdc-7ae10fe063cc)
+![img](Images/OF-Page-Not-Available.PNG)
 
 ​											*Example of an OnlyFans 404 error due to geo-blocking.*
 
@@ -163,7 +163,7 @@ For this article I am using Firefox, however the methods are the same if you are
 
 I'll also be using [Cardi B's](https://onlyfans.com/iamcardib) profile as an example here.
 
-![img](https://gblobscdn.gitbook.com/assets%2F-MkyelMiBvwVhKSgo_Iy%2F-MkygIrNb6V9bJ7GwjOK%2F-Mkyn05GTQnCR0SWOkd1%2FOF-iamcardib.PNG?alt=media&token=012b81d7-ba6b-48f0-a6a2-0492c9974af0)
+![img](Images/OF-iamcardib.PNG)
 
 ​												*@iamcardib OnlyFans profile - Unsubscribed.*
 
@@ -174,7 +174,7 @@ Next, open the ***"Inspector"*** menu and click on the ***"Network"*** tab. Hit 
 > https://public.onlyfans.com/files/thumbs/whatever/avatar.jpg
 > https://public.onlyfans.com/files/thumbs/whatever/header.jpg
 
-![img](https://gblobscdn.gitbook.com/assets%2F-MkyelMiBvwVhKSgo_Iy%2F-MkygIrNb6V9bJ7GwjOK%2F-MkymmRTzY2eMT8KJ2_G%2FOF-iamcardib-JSON-Info.PNG?alt=media&token=21a103e0-aba5-42e6-a6aa-8555ad0c48b6)
+![img](Images/OF-iamcardib-JSON-Info.PNG)
 
 ​								*JSON information and user ID (Highlighted in blue) for @iamcardib.*
 
@@ -185,7 +185,7 @@ The JSON results are under `ids: [...]` section.
 
 Where as`ids 0:` is your user ID, and `ids 1:` is the user ID of the target profile.
 
-![img](https://gblobscdn.gitbook.com/assets%2F-MkyelMiBvwVhKSgo_Iy%2F-MkygIrNb6V9bJ7GwjOK%2F-MkynE7oObh1pfCYlY3H%2FOF-ws2-Response-id1.PNG?alt=media&token=d3a4925f-4ce9-446c-85f1-b87adc29c89f)
+![img](Images/OF-ws2-Response-id1.PNG)
 
 ​										*Secondary method for obtaining OnlyFans user ID's.*
 
@@ -242,7 +242,7 @@ If you want to authenticate via browser instead, simply enter your OnlyFans emai
 
 Here is an example of a properly configured `auth.json` file.
 
-![img](https://gblobscdn.gitbook.com/assets%2F-MkyelMiBvwVhKSgo_Iy%2F-MkygIrNb6V9bJ7GwjOK%2F-Mkynfqv2UfIsP3rJPI_%2FCorrectly-Configured-auth-json.png?alt=media&token=6bd52a3a-c53b-4a51-8a60-567a873b656f)
+![img](Images/Correctly-Configured-auth-json.png)
 
 ​													*Example of a properly configured auth.json file.*
 
@@ -260,7 +260,7 @@ python3 start_ofd.py
 Another way you can rip content from OnlyFans is by using an either an actual Android device, or an emulated Android device and the Firefox app. 
 Login to your account, locate the creator account you wish to rip, then manually open each image and video, then "[long press](https://www.pcmag.com/encyclopedia/term/long-press)" ([Wayback](https://web.archive.org/web/20211019052413/https://www.pcmag.com/encyclopedia/term/long-press)), ([archive.today](https://archive.ph/BQRNP)) on each and every item and click ***"Save Image"*** and/or ***"Save File to Device"***.
 
-<img src="https://gblobscdn.gitbook.com/assets%2F-MkyelMiBvwVhKSgo_Iy%2F-MkygIrNb6V9bJ7GwjOK%2F-MkynRhfuiVbOz-37UtW%2FOF-Android-Firefox-Save-Image.jpg?alt=media&token=d404e741-7ffb-4f73-93cf-ce2fe3be3878" alt="img" style="zoom: 50%;" />
+<img src="Images/OF-Android-Firefox-Save-Image.jpg" alt="img" style="zoom: 50%;" />
 
 ​									*Example of the "Save Image" option on an Android device using Firefox.*
 
@@ -291,7 +291,7 @@ Side note, when collecting images and video posts using this method. Be sure to 
 
 As images and videos listed here are not included under the general ***"Posts"*** or ***"Media"*** sections. Although, not all creator accounts have this section.
 
-![img](https://gblobscdn.gitbook.com/assets%2F-MkyelMiBvwVhKSgo_Iy%2F-MlVylkScPxV1wnol8Yq%2F-MlW6mwMXFBf1PuPSNHt%2FOF-Archived-Section.PNG?alt=media&token=5324edb6-b14b-4e07-8de9-e249adbeaf5d)
+![img](Images/OF-Archived-Section.PNG)
 
 ​						*An example of where to find the "Archived" section on a content creator's OF page.*
 
