@@ -2,7 +2,7 @@
 
 *Have a suggestion? Have any feedback you wish to share? Found an error, typo or dead link? Don't know who to troll? Feel free to drop me a line!*
 
-![donvito](<ohshint.gitbook.io/blob/main/Contact/donvito.png>)
+![donvito](<donvito.png>)
 
 ​												If you know, you know. You know?
 
