@@ -3781,4 +3781,4 @@ Remember, CTRL+F is your friend here.
 
 > *250,270 characters in 30,214 words.*
 
-![](G:\Blog\Articles\Complete\Contact\donvito.png)
+![](Contact/Images/donvito.png)
