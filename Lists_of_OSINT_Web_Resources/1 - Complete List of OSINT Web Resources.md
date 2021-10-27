@@ -1,3 +1,21 @@
+- [<u>***List of OSINT Web Resources***</u>](#list-of-osint-web-resources)
+- [<u>**Search Engines**</u>](#search-engines)
+  * [**General Search**](#general-search)
+  * [**Country Specific Search Engines and Directories**](#country-specific-search-engines-and-directories)
+  * [**Specialty Search**](#specialty-search)
+  * [**Meta Search**](#meta-search)
+  * [**Similar Site Search**](#similar-site-search)
+  * [**Document and File Search**](#document-and-file-search)
+  * [**Video Search**](#video-search)
+  * [**Code Search**](#code-search)
+  * [**Blog, Forum and Image Board Search**](#blog--forum-and-image-board-search)
+  * [**Job Search**](#job-search)
+  * [**Archive Search**](#archive-search)
+  * [**Newspaper and News Search**](#newspaper-and-news-search)
+  * [**Paste Sites**](#paste-sites)
+
+
+
 # <u>***List of OSINT Web Resources***</u>
 
 > *"This is my list. There are many like it, but this one is mine.*
