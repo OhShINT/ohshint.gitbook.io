@@ -75,9 +75,9 @@ That is most of them. Read some more here.
 
 - [Wikipedia - List of Intelligence Gathering Disciplines](https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines). 
   - ([Wayback](https://web.archive.org/web/20211002002607/https://en.wikipedia.org/wiki/List_of_intelligence_gathering_disciplines)), ([archive.today](https://archive.ph/rfzRf)), ([WikiLess](https://wikiless.org/wiki/List_of_intelligence_gathering_disciplines?lang=en)).
-- [[PDF\] DIA - Defense and Intelligence Abbreviations and Acronyms - November 1997](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Other-Available-Records/FileId/39954/). 
+- [[PDF] DIA - Defense and Intelligence Abbreviations and Acronyms - November 1997](https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Other-Available-Records/FileId/39954/). 
   - ([Wayback](https://web.archive.org/web/20210810222713/https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FOIA-Reading-Room-Other-Available-Records/FileId/39954/)), ([Library Genesis](http://libgen.rs/book/index.php?md5=2ABBB54324D2F6403298914E7522D039)).
-- [[PDF\] Counter Intelligence Glossary - Terms and Definitions of Interest for CI Professionals - June 2014](https://fas.org/irp/eprint/ci-glossary.pdf).
+- [[PDF] Counter Intelligence Glossary - Terms and Definitions of Interest for CI Professionals - June 2014](https://fas.org/irp/eprint/ci-glossary.pdf).
   - ([Wayback](https://web.archive.org/web/20211002003503/https://irp.fas.org/eprint/ci-glossary.pdf)), ([Library Genesis](http://libgen.rs/book/index.php?md5=8567E71ED1658AF9496B5CEB780CFB1B)).
 
 Did you read those? Probably not, but that's okay. Just save them to your drive for future reference at least.
