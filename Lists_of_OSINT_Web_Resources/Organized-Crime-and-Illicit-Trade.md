@@ -68,6 +68,8 @@
 
 ## **<u>Drugs and Drug Trade</u>**
 
+- [RxList Pill Identification Tool](https://www.rxlist.com/pill-identification-tool/article.htm)  
+Search for and identify any unknown pills and/or capsules. Search by brand, imprints, color and shape.
 - [[PDF] The Cocaine Pipeline to Europe](https://globalinitiative.net/wp-content/uploads/2021/02/The-cocaine-pipeline-to-Europe-GI-TOCInsightCrime.pdf)  
   Report from Global Initiative that shows information about the cocaine pipeline and smuggling routes into Europe. Archived versions of this document can be found [here (Wayback)](https://web.archive.org/web/20210927003801/https://globalinitiative.net/wp-content/uploads/2021/02/The-cocaine-pipeline-to-Europe-GI-TOCInsightCrime.pdf) and [here (archive.today)](https://archive.ph/kEYyw).
 - [[PDF] DEA Drug Slang Terms and Code Words](https://www.dea.gov/sites/default/files/2018-07/DIR-022-18.pdf)  
