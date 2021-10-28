@@ -74,7 +74,7 @@ The method that I find works well is utilizing the Vanilla pre-paid MasterCard g
 >*Are they all disabled? Great, now take a picture of the front and back of the card with your phone and **DO NOT** connect to anything until you are home. This will ensure that these images are not being potentially backed up to any cloud services or shared in any way.*
 >*Next, cut the card up in three to four separate pieces and dispose of each piece in separate garbage bins spread around the area. Doing this is mostly overkill, but it will ensure your purchase extremely obfuscated.*
 
-Now you need to register the prepaid card in order to use it for online purchases. Connect to a VPN first, then go to the URL listed on the back of the card. Should be the URL or something similar; [https://vanillaprepaid.com](https://vanillaprepaid.com/). 
+Now you need to register the prepaid card in order to use it for online purchases. Connect to a VPN first, then go to the URL listed on the back of the card. Should be this URL or something similar; [https://vanillaprepaid.com](https://vanillaprepaid.com/). 
 
 Login with the card information, then click ***"Assign Postal Code"\***. For this you will need a valid postal/ZIP code. **DO NOT** use your own, instead head over to the [Fake Name Generator](https://fakenamegenerator.com/) website, select a city near your location and use the information provided to register the card. Make sure you use a location in the same state/province and country. This is very important, if you do not. Then the pre-paid card will likely not work! 
 Also, be sure to save this information somewhere safe as you will need it later.
