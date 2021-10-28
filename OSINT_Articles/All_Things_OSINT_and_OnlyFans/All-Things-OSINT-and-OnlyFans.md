@@ -17,7 +17,8 @@
 
 What exactly is OnlyFans and why should you care?
 
-[OnlyFans](https://onlyfans.com/) is a website where users can subscribe to content creators and access their digital content as well as interact with the creators themselves. While not every creator offers nudes and NSFW content, there are artists, musicians, fitness professionals, models and so on. Although its estimated that around ~80% of creator accounts offer porn. So its safe to say they OnlyFans basically is a website where people can purchase a wide range of *mostly* pornographic content offered by women, men, transgender, he/him, she/her, they/them, ect. So, whatever it is that works for you, it's probably offered on OnlyFans (Unless it's kids.. Then you need to leave, right now).
+[OnlyFans](https://onlyfans.com/) is a website where users can subscribe to content creators and access their digital content as well as interact with the creators themselves. While not every creator offers nudes and NSFW content, there are artists, musicians, fitness professionals, models and so on. Although its estimated that around ~80% of creator accounts offer porn. So its safe to say they OnlyFans basically is a website where people can purchase a wide range of *mostly* pornographic content offered by women, men, transgender, he/him, she/her, they/them, ect. 
+So, whatever it is that works for you, it's probably offered on OnlyFans (Unless it's kids.. Then you need to leave, right now and **seek serious mental help**).
 
 As described by their [Wikipedia page](https://en.wikipedia.org/wiki/OnlyFans) ([WikiLess](https://wikiless.org/wiki/OnlyFans)):
 
