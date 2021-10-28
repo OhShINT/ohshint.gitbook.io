@@ -174,10 +174,12 @@ I'll also be using [Cardi B's](https://onlyfans.com/iamcardib) profile as an exa
 
 Next, open the ***"Inspector"*** menu and click on the ***"Network"*** tab. Hit F5 to refresh the page, now search for the target username in the search bar and you will be presented with user profile information in JSON format. Be sure to save the raw JSON data and open all of the *avatar.jpg* and *header.jpg* image URLs and save them all to your drive for later reference. 
 
-> https://public.onlyfans.com/files/whatever/avatar.jpg
-> https://public.onlyfans.com/files/whatever/header.jpg
-> https://public.onlyfans.com/files/thumbs/whatever/avatar.jpg
-> https://public.onlyfans.com/files/thumbs/whatever/header.jpg
+```
+https://public.onlyfans.com/files/whatever/avatar.jpg
+https://public.onlyfans.com/files/whatever/header.jpg
+https://public.onlyfans.com/files/thumbs/whatever/avatar.jpg
+https://public.onlyfans.com/files/thumbs/whatever/header.jpg
+```
 
 ![img](Images/OF-iamcardib-JSON-Info.PNG)
 
