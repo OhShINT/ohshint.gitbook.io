@@ -66,11 +66,13 @@ Although there are many times you will encounter an account that is free to subs
 Keep in mind that when you purchase a subscription, the content creator is unable to see any payment information at all. All they can see is your username and any other information displayed on the sock-puppet profile. However, using any payment methods that are attached to your IRL identity is never a good idea.
 
 > **NOTE:** 
+> 
 > *This method has only been tested in Canada and the United States. I am not sure how pre-paid credit cards work in other countries and locations. If you know, please enlighten me.*
 
 The method that I find works well is utilizing the Vanilla pre-paid MasterCard gift cards. You can find these cards at petrol stations, convenience stores and big box stores like Wal-Mart or Target. When buying these cards, be sure to always pay with physical currency (AKA, Cash), this avoids any kind of paper trail and keeps your OPSEC on point.
 
 >**Extra tip for the extra paranoids:**
+>
 >*After purchasing the Vanilla pre-paid card, take the card out of its packaging, throw the packaging in one or more different garbage bins.* 
 >*First, make sure that ALL of your radios are disabled on your mobile device before taking pictures of the card! Wi-Fi, Bluetooth, Data, Location, NFC, etc, should all be disabled.* 
 >*Are they all disabled? Great, now take a picture of the front and back of the card with your phone and **DO NOT** connect to anything until you are home. This will ensure that these images are not being potentially backed up to any cloud services or shared in any way.*
