@@ -51,6 +51,7 @@ Now just fill in the required information. Click ***"Sign Up"*** and confirm you
 Do not add a bio, location or anything else as there is not really any need for any of it. You *can* add a generic profile picture to your account if you really want too, but most other user accounts do not have a profile picture. So it's best that you don't bother uploading one, as its always better to blend into the crowd rather than stick out!
 
 > **NOTE:**
+> 
 > **DO NOT** use your real name or any usernames that are even remotely related to you!* 
 > *Content creators as well as other users are able to see any information you enter on your profile.* 
 > *Including username, display name, profile picture, header image, bio, location, and so on.* 
@@ -304,6 +305,7 @@ I am not going to actually provide you with links or anything like that here. Ho
 Although, sometimes it is worth checking online to see if a user's content has been leaked. 
 
 > **Story Time:** 
+> 
 > *One such job I worked on involved a professional porn star who had some most of her custom OnlyFans pay-per-view (PPV) videos leaked online.* 
 >
 > *I was hired to locate every copy of these videos I could find online, document the URLs, domains, WHOIS records for those domains as well as any other data and/or metadata I could find in an attempt to press charges against the alleged "leakers". None of whom were ever sued or formally charged with anything, which is how 99% of these cases turn out.* 
