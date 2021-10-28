@@ -597,7 +597,7 @@
 - [ManualsLib](https://www.manualslib.com/)  
   This is a great free resource for finding manuals for a wide range of different products and items. Search by keyword or product brand.
 - [FreeFullPDF](http://www.freefullpdf.com/index.html)  
-  A Google CSE that searches for scientific publications.
+A Google CSE that searches for scientific publications.
 - [Open Directory CSE](http://palined.com/search/)  
   A neat Google CSE for finding open directories.
 - [FileChef](https://www.filechef.com/)  
