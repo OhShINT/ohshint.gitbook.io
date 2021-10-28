@@ -11,8 +11,11 @@ If you would like to contact me to suggest new content, report any issues and/or
 Feel free to reach out to me via email or Twitter.
 
 > **Email:** `ohshint [at] protonmail.com`
+> 
 > **PGP Fingerprint:** `3681 8C7A 5364 6047 4D68 EE9D 5191 FA71 A552 392F`
+> 
 > **Twitter:** [@ohshint_](https://twitter.com/ohshint_)
+> 
 > **GitHub:** [OhShINT](https://github.com/ohshint) 
 
 Like this blog? Consider giving me money so I can buy stuff :)
