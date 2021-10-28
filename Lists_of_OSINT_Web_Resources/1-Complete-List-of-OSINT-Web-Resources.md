@@ -1,3 +1,28 @@
+# <u>***List of OSINT Web Resources***</u>
+
+> *"This is my list. There are many like it, but this one is mine.*
+> *My list is my best friend. It is my life. I must master it as I must master my life.*
+> *Without me, my list is useless. Without my list, I am useless."*
+
+Oh look, its *yet another* list of OSINT resources..
+
+Since I do mainly do OSINT work for a living, you can imagine that I have accumulated a huge amount of resources and tools to assist me in locating certain information about certain things over the years. Figured I should share them in a mostly organized fashion, because sharing is caring right?
+
+These lists are currently still a work in progress! It was going to take ages to write so I've decided to just publish what I already have and continue to push updates on the live versions. So stay tuned for more.
+
+Remember, CTRL+F is your friend here.
+
+> **URL:** https://ohshint.gitbook.io/
+> 
+> **Email:** `ohshint [at] protonmail.com`
+> 
+> **PGP Fingerprint:** `3681 8C7A 5364 6047 4D68 EE9D 5191 FA71 A552 392F`
+> 
+> **Twitter:** [@ohshint_](https://twitter.com/ohshint_)
+> 
+> **GitHub:** [OhShINT](https://github.com/ohshint)
+
+
 # <u>**Table of Contents**</u>
 
 - [<u>***List of OSINT Web Resources***</u>](#list-of-osint-web-resources)
@@ -266,31 +291,6 @@
   * [**Videos**](#videos)
   * [**Other**](#other)
 
-
-
-# <u>***List of OSINT Web Resources***</u>
-
-> *"This is my list. There are many like it, but this one is mine.*
-> *My list is my best friend. It is my life. I must master it as I must master my life.*
-> *Without me, my list is useless. Without my list, I am useless."*
-
-Oh look, its *yet another* list of OSINT resources..
-
-Since I do mainly do OSINT work for a living, you can imagine that I have accumulated a huge amount of resources and tools to assist me in locating certain information about certain things over the years. Figured I should share them in a mostly organized fashion, because sharing is caring right?
-
-These lists are currently still a work in progress! It was going to take ages to write so I've decided to just publish what I already have and continue to push updates on the live versions. So stay tuned for more.
-
-Remember, CTRL+F is your friend here.
-
-> **URL:** https://ohshint.gitbook.io/
-> 
-> **Email:** `ohshint [at] protonmail.com`
-> 
-> **PGP Fingerprint:** `3681 8C7A 5364 6047 4D68 EE9D 5191 FA71 A552 392F`
-> 
-> **Twitter:** [@ohshint_](https://twitter.com/ohshint_)
-> 
-> **GitHub:** [OhShINT](https://github.com/ohshint)
 
 <u>**Search Engines**</u>
 ===========================================================================
@@ -1466,7 +1466,7 @@ Remember, CTRL+F is your friend here.
 - [COVID-19 Travel Regulations Map](https://www.iatatravelcentre.com/world.php)  
   An interactive map that shows you the current travel restrictions and entry requirements in regards to the COVID-19 pandemic.
 - [Travel Restrictions Map](https://apply.joinsherpa.com/map)  
-  Another interactive map the shows you the currently travel restrictions in-place due to the COVID-19 pandemic.
+  Another interactive map the shows you the current travel restrictions in-place due to the COVID-19 pandemic.
 
 ## **Topographic and Geologic Maps**
 
