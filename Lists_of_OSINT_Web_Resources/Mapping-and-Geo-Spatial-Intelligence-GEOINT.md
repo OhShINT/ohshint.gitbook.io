@@ -79,6 +79,10 @@
   Provides information about various hate groups across the USA.
 - [World Map of Encryption](https://www.gp-digital.org/world-map-of-encryption/)  
   An interactive world map that shows the the legal status of encryption by country. In some countries, the use of encryption-related technologies is relatively unconstrained; in others, companies and users face significant restrictions.
+- [COVID-19 Travel Regulations Map](https://www.iatatravelcentre.com/world.php)  
+  An interactive map that shows you the current travel restrictions and entry requirements in regards to the COVID-19 pandemic.
+- [Travel Restrictions Map](https://apply.joinsherpa.com/map)  
+  Another interactive map the shows you the current travel restrictions in-place due to the COVID-19 pandemic.
 
 ## **<u>Topographic and Geologic Maps</u>**
 
