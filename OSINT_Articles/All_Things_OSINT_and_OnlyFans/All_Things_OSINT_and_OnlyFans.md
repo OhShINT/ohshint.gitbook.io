@@ -108,13 +108,13 @@ location:"Timbuktu, Mali",50km
 Here are a few more sites worth mentioning;
 
 - [OnlySearch](https://onlysearch.co/) 
-  Search for OnlyFans accounts via username or keywords.
+  - Search for OnlyFans accounts via username or keywords.
 - [FansMetrics](https://fansmetrics.com/) 
-  Lets you search for accounts by username and provides metrics and analytics for a given account.
+  - Lets you search for accounts by username and provides metrics and analytics for a given account.
 - [FindrFans](https://findr.fans/) 
-  Allows you to search by a username, country, and a few different US states.
+  - Allows you to search by a username, country, and a few different US states.
 - [Hubite](https://hubite.com/onlyfans-search/) 
-  OnlyFans profile search, includes a price filter.
+  - OnlyFans profile search, includes a price filter.
 
 Another simple trick is to search social media link sharing sites like [Linktr.ee](https://linktr.ee) and [AllMyLinks](https://allmylinks.com), as content creator's often use these types of sites to keep all their social media accounts in one place. However, you cannot search these sites directly as they don't include a search function. This is where Google dorking comes in handy once again. Here are a few simple dorks you can use to help locate these types of accounts. Get creative with your Google dorks!
 
@@ -150,6 +150,7 @@ To mitigate this simply connect to TOR, or a VPN, or just use a SOCKS5 proxy and
 If you are still unable to locate a users profile using these search methods but you have an image of their face. Try running it through the [PimEyes](https://pimeyes.com/) facial recognition search tool, as they are the only service to my knowledge that indexes OnlyFans profile and header images. 
 
 > **UPDATE:** 
+> 
 > *As of October 2021, PimEyes has removed their free tier for searches. All searches now require a subscription. Looks like they followed the Pipl business model.*
 
 Once you have their profile picture, you can then reverse image search it and *hopefully* be able to identify their username or other related profiles like Twitter, Instagram or Reddit as these social media sites are commonly used by content creators to promote their OF profiles, so you might just get lucky!
