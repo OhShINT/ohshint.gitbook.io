@@ -889,8 +889,8 @@ Remember, CTRL+F is your friend here.
   Allows you search and download files located on public FTP servers. The most advanced FTP search engine service out there.
 - [ManualsLib](https://www.manualslib.com/)  
   This is a great free resource for finding manuals for a wide range of different products and items. Search by keyword or product brand.
-- [FreeFullPDF](http://www.freefullpdf.com/index.html)
-  A Google CSE that searches for scientific publications.
+- [FreeFullPDF](http://www.freefullpdf.com/index.html)  
+A Google CSE that searches for scientific publications.
 - [Open Directory CSE](http://palined.com/search/)  
   A neat Google CSE for finding open directories.
 - [FileChef](https://www.filechef.com/)  
@@ -1056,7 +1056,7 @@ Remember, CTRL+F is your friend here.
 - [Search is Back](https://searchisback.com/)  
   Find people and events on Facebook. Searchable by name, location, relationship, gender, language, and more.
 - [Facebook Dangerous Individuals and Organizations List](https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/)  
-  A leaked internal document from Facebook that contains their list of dangerous individuals and groups. Worth saving. Archived copies available [here (Wayback)](https://web.archive.org/web/20211013174325/https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/) and [here (archive.today)](https://archive.ph/LQLhK). Original .pdf available [[PDF]here](https://s3.documentcloud.org/documents/21083819/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf). Archived copy available [here (Wayback)](https://web.archive.org/web/20211014081041/https://s3.documentcloud.org/documents/21083819/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf).
+  A leaked internal document from Facebook that contains their list of dangerous individuals and groups. Worth saving. Archived copies available [here (Wayback)](https://web.archive.org/web/20211013174325/https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/) and [here (archive.today)](https://archive.ph/LQLhK). Original PDF available [[PDF]here](https://s3.documentcloud.org/documents/21083819/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf). Archived copy available [here (Wayback)](https://web.archive.org/web/20211014081041/https://s3.documentcloud.org/documents/21083819/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf).
 
 ## **Flickr**
 
@@ -3496,6 +3496,8 @@ Remember, CTRL+F is your friend here.
 
 ## **Drugs and Drug Trade**
 
+- [RxList Pill Identification Tool](https://www.rxlist.com/pill-identification-tool/article.htm)  
+Search for and identify any unknown pills and/or capsules. Search by brand, imprints, color and shape.
 - [[PDF] The Cocaine Pipeline to Europe](https://globalinitiative.net/wp-content/uploads/2021/02/The-cocaine-pipeline-to-Europe-GI-TOCInsightCrime.pdf)  
   Report from Global Initiative that shows information about the cocaine pipeline and smuggling routes into Europe. Archived versions of this document can be found [here (Wayback)](https://web.archive.org/web/20210927003801/https://globalinitiative.net/wp-content/uploads/2021/02/The-cocaine-pipeline-to-Europe-GI-TOCInsightCrime.pdf) and [here (archive.today)](https://archive.ph/kEYyw).
 - [[PDF] DEA Drug Slang Terms and Code Words](https://www.dea.gov/sites/default/files/2018-07/DIR-022-18.pdf)  
@@ -3510,7 +3512,7 @@ Remember, CTRL+F is your friend here.
   Includes information about drugs, including biological products, approved for human use in the United States.
 - [DEA Drug Images](https://www.dea.gov/media-gallery/drug-images)  
   A database with images of many different types of illicit drugs. Created and maintained by the United States DEA.
-- [[PDF] 2020 National Drug Threat Assessment](https://www.dea.gov/sites/default/files/2021-02/DIR-008-21 2020 National Drug Threat Assessment_WEB.pd)  
+- [[PDF] 2020 National Drug Threat Assessment](https://www.dea.gov/sites/default/files/2021-02/DIR-008-21%202020%20National%20Drug%20Threat%20Assessment_WEB.pd)  
   Lots and lots of good information in here including some pretty interesting images. Has information about transnational traffickers in the Americas and Asia, trafficking methods, and illicit finance. Archived copies available [here (Wayback)](https://web.archive.org/web/20210918005345/https://www.dea.gov/sites/default/files/2021-02/DIR-008-21%202020%20National%20Drug%20Threat%20Assessment_WEB.pdf) and [here (Library Genesis)](https://libgen.rs/book/index.php?md5=99DEB4338B7B542BC4EC6CEE9F61515F).
 
 ## **Wildlife Crime**
