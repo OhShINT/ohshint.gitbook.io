@@ -1,4 +1,4 @@
-Weapons and Equipment Identification
+**Weapons and Equipment Identification**
 ===========================================================================
 
 ## <u>**Firearms and Ammunition**</u>
