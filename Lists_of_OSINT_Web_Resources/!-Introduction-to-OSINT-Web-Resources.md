@@ -57,7 +57,7 @@ A comprehensive search engine and real-time analytics tracker for Reddit.
  - **Data Sets**
    - _Added 30/10/2021._ - [Face Recognition Datasets](https://www.face-rec.org/databases/)  
 A large collection of face datasets for training facial recognition systems and other things of that nature.
-   - [Kaggle](https://www.kaggle.com/datasets)  
+   - _Added 30/10/2021._ - [Kaggle](https://www.kaggle.com/datasets)  
 Offers over 50,000 public datasets for all kinds of various things.
    - _Added 30/10/2021._ - [Common Crawl](https://commoncrawl.org/)  
 An open repository of web crawl data that can be accessed and analyzed by anyone.
