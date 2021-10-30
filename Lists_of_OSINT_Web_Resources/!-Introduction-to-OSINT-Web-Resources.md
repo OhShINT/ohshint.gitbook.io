@@ -15,7 +15,7 @@ Since I do mainly do OSINT work for a living, you can imagine that I have accumu
 The below lists are currently still a work in progress! It was going to take ages to write so I've decided to just publish what I already have and continue to push updates on the live versions. So stay tuned for more.
 
 
-**To Do**
+# **To Do**
 
 - [ ] Add additional resources to all sections. (This one will never be completed).
 - [x] ~~Create an organized .html bookmark file of all these resources and make it available for download. So readers can import it directly into their browsers.~~ - Full and organized .html bookmark file available [here](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/Bookmarks/OHSHINT_Complete_Bookmarks_Organized_20-10-2021.html).
@@ -27,7 +27,7 @@ The below lists are currently still a work in progress! It was going to take age
   - [ ] Complete the "People Investigations" section.
   - [ ] Complete the "Real Estate" section.
 
-**Recently Added Resources**
+# **Recently Added Resources**
 
 When new resources are added, they will be listed and dated here. All dates are listed in *DD/MM/YYYY* format. View the full change log above.
 
