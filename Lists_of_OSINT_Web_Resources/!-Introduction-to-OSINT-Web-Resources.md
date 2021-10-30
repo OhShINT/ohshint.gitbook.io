@@ -42,6 +42,9 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
     - _Added 28/10/2021._ - [Travel Restrictions Map](https://apply.joinsherpa.com/map)  
   Another interactive map that shows you the current travel restrictions in-place due to the COVID-19 pandemic.
 - **Digital Network Intelligence [DNINT]**
+  - **WHOIS**
+    - _Added 29/10/2021._ - [GoFindWHOIS](https://gofindwhois.com/)  
+  A great online tool for locating information about a website or IP address. Offers WHOIS lookups, DNS records, IP tools, and other website enumeration tools. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
   - **Exploits and PoC**
     - _Added 29/10/2021._ - [GHDB](https://www.exploit-db.com/google-hacking-database)  
 The Google Hacking Data Base is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
