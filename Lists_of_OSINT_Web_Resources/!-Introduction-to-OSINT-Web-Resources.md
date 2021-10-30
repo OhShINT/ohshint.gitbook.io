@@ -29,7 +29,7 @@ The below lists are currently still a work in progress! It was going to take age
 
 # **Recently Added Resources**
 
-When new resources are added, they will be listed and dated here. All dates are listed in *DD/MM/YYYY* format. View the full change log above.
+When new resources are added, they will be listed and dated here. All dates are listed in *DD/MM/YYYY* format.
 
 - **Organized Crime and Illicit Trade**
   - **Drug Trade**
