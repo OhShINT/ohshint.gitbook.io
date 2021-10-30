@@ -136,44 +136,44 @@ Here is a list of the five phases along with brief descriptions of what they are
 
 Here are some additional white-papers about the OSINT processes and various OSINT cycles. Certainly worth reading.
 
-- [[PDF] Open-Source Intelligence Educational Resources - A Visual Perspective Analysis - Applied Sciences - 2020](https://res.mdpi.com/d_attachment/applsci/applsci-10-07617/article_deploy/applsci-10-07617.pdf)
+- [[PDF] Open-Source Intelligence Educational Resources - A Visual Perspective Analysis - Applied Sciences - 2020](https://res.mdpi.com/d_attachment/applsci/applsci-10-07617/article_deploy/applsci-10-07617.pdf).
   - ([Wayback](https://web.archive.org/web/20201123114434/https://res.mdpi.com/d_attachment/applsci/applsci-10-07617/article_deploy/applsci-10-07617.pdf)), ([Library Genesis](https://libgen.rs/scimag/10.3390/app10217617)).
-- [[PDF] The RIS Open Source Intelligence Cycle - Arno Reuser - 2017](https://arnoreuser.com/wp-content/uploads/2018/12/201712-The-RIS-OSINT-Intelligence-Cycle.pdf)
+- [[PDF] The RIS Open Source Intelligence Cycle - Arno Reuser - 2017](https://arnoreuser.com/wp-content/uploads/2018/12/201712-The-RIS-OSINT-Intelligence-Cycle.pdf).
   - ([Wayback](https://web.archive.org/web/20210802191100/https://arnoreuser.com/wp-content/uploads/2018/12/201712-The-RIS-OSINT-Intelligence-Cycle.pdf)), ([Library Genesis](http://libgen.rs/book/index.php?md5=0AEDA83ECA0BC5DB53ADBD6943B8CEAB)).
 
 ## **Additional Reading Material**
 
 This is a list of open-source related books, manuals, articles and research papers that you should read, or at the very least download and/or purchase for future reference.
 
-- [Open Source Intelligence Techniques 8th Edition - Michael Bazzell - 2021](https://inteltechniques.com/book1.html)
+- [Open Source Intelligence Techniques 8th Edition - Michael Bazzell - 2021](https://inteltechniques.com/book1.html).
   - If you are only going to read one book here, then it should be this one^.
   - ([archive.today](https://archive.ph/qXfBZ)).
-- [[PDF] US Army - Open-Source Intelligence ATP 2-22.9 - June 2017 - Redacted Copy](https://irp.fas.org/doddir/army/atp2-22-9-2017.pdf)
+- [[PDF] US Army - Open-Source Intelligence ATP 2-22.9 - June 2017 - Redacted Copy](https://irp.fas.org/doddir/army/atp2-22-9-2017.pdf).
   - ([Wayback](https://web.archive.org/web/20210926093547/https://irp.fas.org/doddir/army/atp2-22-9-2017.pdf)), ([Library Genesis](https://libgen.rs/book/index.php?md5=B294FA28A8F5E1C52CB7DFE3B391A83C)).
-- [[PDF] US Army - Open-Source Intelligence - ATP 2-22.9 - July 2012](https://fas.org/irp/doddir/army/atp2-22-9.pdf)
+- [[PDF] US Army - Open-Source Intelligence - ATP 2-22.9 - July 2012](https://fas.org/irp/doddir/army/atp2-22-9.pdf).
   - ([Wayback](https://web.archive.org/web/20210926093517/https://irp.fas.org/doddir/army/atp2-22-9.pdf)), ([Library Genesis](https://libgen.rs/book/index.php?md5=090D419ADE50C0E268587291E5F35EC6)).
-- [[PDF] Joint Military Intelligence Training Center - Open Source Intelligence Professional Handbook - October 1996](http://www.oss.net/dynamaster/file_archive/080807/a3127ddeaa9a083affdddce6766401fc/Open%20Source%20Intelligence_Professional%20Handbook.pdf)
+- [[PDF] Joint Military Intelligence Training Center - Open Source Intelligence Professional Handbook - October 1996](http://www.oss.net/dynamaster/file_archive/080807/a3127ddeaa9a083affdddce6766401fc/Open%20Source%20Intelligence_Professional%20Handbook.pdf).
   - ([Wayback](https://web.archive.org/web/20211011044535/http://www.oss.net/dynamaster/file_archive/080807/a3127ddeaa9a083affdddce6766401fc/Open%20Source%20Intelligence_Professional%20Handbook.pdf)), ([Library Genesis](https://libgen.rs/book/index.php?md5=0EFC24973A3CBE8ED28AE01327772AC5)).
-- [[PDF] US Department of Justice - Legal Considerations when Gathering Online Cyber Threat Intelligence and Purchasing Data from Illicit Sources - 2020](https://www.justice.gov/criminal-ccips/page/file/1252341/download)
+- [[PDF] US Department of Justice - Legal Considerations when Gathering Online Cyber Threat Intelligence and Purchasing Data from Illicit Sources - 2020](https://www.justice.gov/criminal-ccips/page/file/1252341/download).
   - ([Wayback](https://web.archive.org/web/20210808074010/https://www.justice.gov/criminal-ccips/page/file/1252341/download)), ([Library Genesis](https://libgen.rs/book/index.php?md5=D9ED377FB72DFCA4E05403E6BE474D44)).
-- [[PDF] The Psychology of Intelligence Analysis - Heuer, R. - 2006](https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf)
+- [[PDF] The Psychology of Intelligence Analysis - Heuer, R. - 2006](https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf).
   - ([Wayback](https://web.archive.org/web/20211011071927/https://www.ialeia.org/docs/Psychology_of_Intelligence_Analysis.pdf)), ([Library Genesis](https://libgen.rs/book/index.php?md5=8597CA7B3A51B41702D419CBDC003BFA)).
-- [[PDF] Romanian Intelligence Service - OSINT Handbook - Undated](http://bib.opensourceintelligence.biz/STORAGE/OSINT%20Handbook.pdf)
+- [[PDF] Romanian Intelligence Service - OSINT Handbook - Undated](http://bib.opensourceintelligence.biz/STORAGE/OSINT%20Handbook.pdf).
   - ([Wayback](https://web.archive.org/web/20210903190205/https://bib.opensourceintelligence.biz/STORAGE/OSINT%20Handbook.pdf)), ([Library Genesis](https://libgen.rs/book/index.php?md5=9F546C7EECCA739702604A279E508F11)).
-- [[PDF] UFMCS - Red Team Handbook - April 2012](http://bib.opensourceintelligence.biz/STORAGE/2012.%20Red%20Team%20Handbook.pdf)
+- [[PDF] UFMCS - Red Team Handbook - April 2012](http://bib.opensourceintelligence.biz/STORAGE/2012.%20Red%20Team%20Handbook.pdf).
   - ([Wayback](https://web.archive.org/web/20210903190122/https://bib.opensourceintelligence.biz/STORAGE/2012.%20Red%20Team%20Handbook.pdf)), ([Library Genesis](https://libgen.rs/book/index.php?md5=D504CAF150062A520CC836B3E9622671)).
-- [[PDF] Open Source Intelligence Investigation: From Strategy to Implementation - Akhgar, B. - 2016](http://bib.opensourceintelligence.biz/STORAGE/2016.%20Open%20source%20intelligence%20investigation.pdf)
+- [[PDF] Open Source Intelligence Investigation: From Strategy to Implementation - Akhgar, B. - 2016](http://bib.opensourceintelligence.biz/STORAGE/2016.%20Open%20source%20intelligence%20investigation.pdf).
   - ([Wayback](https://web.archive.org/web/20210903190138/https://bib.opensourceintelligence.biz/STORAGE/2016.%20Open%20source%20intelligence%20investigation.pdf)), ([Library Genesis](https://libgen.rs/book/index.php?md5=3D8FFB51AA1DE1C7A5DB47F521EE3045)).
-- [[PDF] Sailing the Sea of OSINT in the Information Age - Mercado, S.C. - 2004](http://bib.opensourceintelligence.biz/STORAGE/2004.%20Sailing%20the%20sea%20of%20OSINT.pdf)
+- [[PDF] Sailing the Sea of OSINT in the Information Age - Mercado, S.C. - 2004](http://bib.opensourceintelligence.biz/STORAGE/2004.%20Sailing%20the%20sea%20of%20OSINT.pdf).
   - ([Wayback](https://web.archive.org/web/20210903190116/https://bib.opensourceintelligence.biz/STORAGE/2004.%20Sailing%20the%20sea%20of%20OSINT.pdf)), ([Library Genesis](http://libgen.rs/book/index.php?md5=D6804C2B7EA96CF36D31B058AC3E06EB)).
-- [[PDF] OSS - Special Operations Forces Open Source Intelligence (OSINT) Handbook - 2004](http://bib.opensourceintelligence.biz/STORAGE/2004.%20Special%20operations%20forces%20open%20source%20intellingence%20%28OSINT%29%20handbook.pdf)
+- [[PDF] OSS - Special Operations Forces Open Source Intelligence (OSINT) Handbook - 2004](http://bib.opensourceintelligence.biz/STORAGE/2004.%20Special%20operations%20forces%20open%20source%20intellingence%20%28OSINT%29%20handbook.pdf).
   - ([Wayback](https://web.archive.org/web/20210903190144/https://bib.opensourceintelligence.biz/STORAGE/2004.%20Special%20operations%20forces%20open%20source%20intellingence%20%28OSINT%29%20handbook.pdf)), ([Library Genesis](https://libgen.rs/book/index.php?md5=0784CE80298B415752AB8ED8E7ED6778)).
 
 You probably don't need to read all of those, but you should! If you actually did download and read all of the above books and are hungry for more. Then check out these two awesome and very well put together lists of open-source intelligence related books and papers.
 
-- [The OSINT Treasure Trove](https://bib.opensourceintelligence.biz)
+- [The OSINT Treasure Trove](https://bib.opensourceintelligence.biz).
   - ([Wayback](https://web.archive.org/web/20211010192751/http://bib.opensourceintelligence.biz/)), ([archive.today](https://archive.is/0LNPm)). 
-- [Blockint - The OSINT Library](https://www.blockint.nl/the-osint-library/)
+- [Blockint - The OSINT Library](https://www.blockint.nl/the-osint-library/).
   - ([Wayback](https://web.archive.org/web/20211011075724/https://www.blockint.nl/the-osint-library/)), ([archive.today](https://archive.is/tYj8M)).
 
 ## **Conclusion**
