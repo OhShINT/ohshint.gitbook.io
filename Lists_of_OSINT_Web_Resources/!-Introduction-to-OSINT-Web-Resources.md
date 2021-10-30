@@ -48,3 +48,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   - **Other Tools**
     - _Added 29/10/2021._ - [Bowserling](https://www.browserling.com/)  
 Allows you to view a website in a different browser online. For example, a Mac user can test a website to see how it acts in Internet Explorer, without having to install a VM.
+ - **Social Media Intelligence [SOCMINT]**
+   - **General Social Media Tools**
+     - _Added 30/10/2021._ - [GoFindWho](https://gofindwho.com/)  
+  This is one of the coolest collection of online OSINT tools I have seen. Find people for free by phone number, name, email address, and username on Facebook and in public records. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
