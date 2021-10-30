@@ -14,13 +14,6 @@ Since I do mainly do OSINT work for a living, you can imagine that I have accumu
 
 The below lists are currently still a work in progress! It was going to take ages to write so I've decided to just publish what I already have and continue to push updates on the live versions. So stay tuned for more.
 
-Here is an organized and importable .html file of all resources included from all sections.
-
-> **LAST UPDATED:**  *20/10/2021*
-
-INSERT "OHSHINT_All_Bookmarks_Organized_-------.html" HERE.
-
-*A .html bookmark file that includes ALL of the resources, links and descriptions from ALL sections. Now you can import everything found here directly into your browsers.*
 
 **To Do**
 
