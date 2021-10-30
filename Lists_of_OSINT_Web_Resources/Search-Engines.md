@@ -597,13 +597,15 @@
 - [ManualsLib](https://www.manualslib.com/)  
   This is a great free resource for finding manuals for a wide range of different products and items. Search by keyword or product brand.
 - [FreeFullPDF](http://www.freefullpdf.com/index.html)  
-A Google CSE that searches for scientific publications.
+  A Google CSE that searches for scientific publications.
 - [Open Directory CSE](http://palined.com/search/)  
   A neat Google CSE for finding open directories.
 - [FileChef](https://www.filechef.com/)  
   Search for open directories and files on the web or in Google Drives via keywords. Including document, video, audio, image and executable files. Uses Google dorks.
 - [Palined Open Directory Search](http://palined.com/search/)  
   Search for files and open directories via keyword. Uses a Google CSE.
+- [Gdrive Search](https://www.gdrivesearch.com/)  
+  A simple and fast tool that allows you to search Google Drive for files.
 
 ## <u>**Video Search**</u>
 
@@ -674,6 +676,8 @@ A Google CSE that searches for scientific publications.
   An interactive map of the world that shows you the different newspaper publishers for a specific area, simply zoom into an area of interest.
 - [EMM News Search](https://emm.newsbrief.eu/NewsBrief/clusteredition/en/latest.html)  
   Search for news articles from all over the world via keyword. Very useful when investigating companies and widely known individuals.
+- [NewspaperArchive](https://newspaperarchive.com/)  
+  Explore billions of newspaper articles from all over the world. Extremely useful tool. Requires a paid subscription.
 
 ## <u>**Paste Sites**</u>
 
