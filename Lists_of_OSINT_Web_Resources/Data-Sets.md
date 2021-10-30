@@ -17,6 +17,14 @@
   A censorship measurement platform that collects data using multiple remote measurement techniques in more than 200 countries. Provides reports and offers their raw data sets which are available for download.
 - [DomainsProject](https://dataset.domainsproject.org/)  
   Massive dataset of over 600 million domains. Total size is ~16 GB.
+- [Face Recognition Datasets](https://www.face-rec.org/databases/)  
+  A large collection of face datasets for training facial recognition systems and other things of that nature.
+- [Kaggle](https://www.kaggle.com/datasets)  
+  Offers over 50,000 public datasets for all kinds of various things.
+- [Common Crawl](https://commoncrawl.org/)  
+  An open repository of web crawl data that can be accessed and analyzed by anyone.
+- [OCCRP Catalogue of Research Databases](https://id.occrp.org/databases/)  
+  A massive collection of public data sources compiled by OCCRP researchers that  are the most useful for investigative reporting.
 
 ## **<u>Government Data Sets</u>**
 
