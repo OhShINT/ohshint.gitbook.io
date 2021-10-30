@@ -48,8 +48,8 @@
   Discover what software versions are running on any website.
 - [BuiltWith](https://builtwith.com/)  
   Find out what technology a website is running.
-- [w3techs](https://w3techs.com/sites) 
-  See which technologies a website is running, such as CMS, programming language, web server and hosting provider.
+- [w3techs](https://w3techs.com/sites)  
+See which technologies a website is running, such as CMS, programming language, web server and hosting provider.
 - [NetCraft Site Report](https://sitereport.netcraft.com/)  
   Find out the infrastructure and technologies used by any site.
 - [Hexometer](https://hexometer.com/stack-checker/)  
