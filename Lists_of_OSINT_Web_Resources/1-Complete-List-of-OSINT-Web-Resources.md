@@ -897,6 +897,8 @@ A Google CSE that searches for scientific publications.
   Search for open directories and files on the web or in Google Drives via keywords. Including document, video, audio, image and executable files. Uses Google dorks.
 - [Palined Open Directory Search](http://palined.com/search/)  
   Search for files and open directories via keyword. Uses a Google CSE.
+- [Gdrive Search](https://www.gdrivesearch.com/)  
+  A simple and fast tool that allows you to search Google Drive for files.
 
 ## **Video Search**
 
@@ -967,6 +969,8 @@ A Google CSE that searches for scientific publications.
   An interactive map of the world that shows you the different newspaper publishers for a specific area, simply zoom into an area of interest.
 - [EMM News Search](https://emm.newsbrief.eu/NewsBrief/clusteredition/en/latest.html)  
   Search for news articles from all over the world via keyword. Very useful when investigating companies and widely known individuals.
+- [NewspaperArchive](https://newspaperarchive.com/)  
+  Explore billions of newspaper articles from all over the world. Extremely useful tool. Requires a paid subscription.
 
 ## **Paste Sites**
 
@@ -3405,6 +3409,14 @@ Allows you to view a website in a different browser online. For example, a Mac u
   A censorship measurement platform that collects data using multiple remote measurement techniques in more than 200 countries. Provides reports and offers their raw data sets which are available for download.
 - [DomainsProject](https://dataset.domainsproject.org/)  
   Massive dataset of over 600 million domains. Total size is ~16 GB.
+- [Face Recognition Datasets](https://www.face-rec.org/databases/)  
+  A large collection of face datasets for training facial recognition systems and other things of that nature.
+- [Common Crawl](https://commoncrawl.org/)  
+  An open repository of web crawl data that can be accessed and analyzed by anyone.
+- [Kaggle](https://www.kaggle.com/datasets)  
+  Offers over 50,000 public datasets for all kinds of various things.
+- [OCCRP Catalogue of Research Databases](https://id.occrp.org/databases/)  
+  A massive collection of public data sources compiled by OCCRP researchers that  are the most useful for investigative reporting.
 
 ## **Government Data Sets**
 
