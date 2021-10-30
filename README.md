@@ -11,6 +11,7 @@
 > 
 > *Feel free to save, download, archive, copy, share, edit, re-post and re-upload any content that can be found on this web site. You do not have to give me credit, but that would be obviously preferred if you did! Also, I would prefer that people do not just take this content and claim it as their own. Although I'm sure that will happen eventually because that's how the internet works, not that big of a deal either way. Sharing is caring!*
 
+To view the recently added resources, click [here](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/!-Introduction-to-OSINT-Web-Resources.md#recently-added-resources).
 
 Figured it was time to actually document some of my work. This blog is mostly going to be articles, write-ups and other ramblings about a few different intelligence and counter-intelligence subjects.
 
