@@ -8,6 +8,7 @@
 
 
 > **NOTE:**
+> 
 > *Feel free to save, download, archive, copy, share, edit, re-post and re-upload any content that can be found on this web site. You do not have to give me credit, but that would be obviously preferred if you did! Also, I would prefer that people do not just take this content and claim it as their own. Although I'm sure that will happen eventually because that's how the internet works, not that big of a deal either way. Sharing is caring!*
 
 
