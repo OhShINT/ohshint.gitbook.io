@@ -31,23 +31,17 @@ The below lists are currently still a work in progress! It was going to take age
 
 When new resources are added, they will be listed and dated here. All dates are listed in *DD/MM/YYYY* format.
 
-- **Organized Crime and Illicit Trade**
-  - **Drug Trade**
-    - _Added 28/10/2021._ - [RxList Pill Identification Tool](https://www.rxlist.com/pill-identification-tool/article.htm)  
-Search for and identify any unknown pills and/or capsules. Search by brand, imprints, color and shape.
-- **Mapping and Geo-Spatial Intelligence [GEOINT]**
-  - **Political Maps**
-    - _Added 28/10/2021._ - [COVID-19 Travel Regulations Map](https://www.iatatravelcentre.com/world.php)  
-  An interactive map that shows you the current travel restrictions and entry requirements in regard to the COVID-19 pandemic.
-    - _Added 28/10/2021._ - [Travel Restrictions Map](https://apply.joinsherpa.com/map)  
-  Another interactive map that shows you the current travel restrictions in-place due to the COVID-19 pandemic.
+- **Search Engines**
+  - **Document and File Search**
+    - _Added 29/10/2021._ - [Gdrive Search](https://www.gdrivesearch.com/)  
+A simple and fast tool that allows you to search Google Drive for files.
+  - **Newspaper and News Search**
+    - _Added 29/10/2021._ - [NewspaperArchive](https://newspaperarchive.com/)  
+Explore billions of newspaper articles from all over the world. Extremely useful tool. Requires a paid subscription.
 - **Digital Network Intelligence [DNINT]**
   - **WHOIS**
     - _Added 29/10/2021._ - [GoFindWHOIS](https://gofindwhois.com/)  
   A great online tool for locating information about a website or IP address. Offers WHOIS lookups, DNS records, IP tools, and other website enumeration tools. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
-  - **Exploits and PoC**
-    - _Added 29/10/2021._ - [GHDB](https://www.exploit-db.com/google-hacking-database)  
-The Google Hacking Data Base is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
   - **Other Tools**
     - _Added 29/10/2021._ - [Bowserling](https://www.browserling.com/)  
 Allows you to view a website in a different browser online. For example, a Mac user can test a website to see how it acts in Internet Explorer, without having to install a VM.
@@ -58,3 +52,14 @@ Allows you to view a website in a different browser online. For example, a Mac u
    - **Reddit**
      - _Added 30/10/2021._ - [Reveddit](https://www.reveddit.com/about/)  
    A searchable archive of removed content on Reddit. Search by username, subreddit, link or domain.
+     - _Added 30/10/2021._ - [Pushshift Reddit Search](http://redditsearch.io/)  
+A comprehensive search engine and real-time analytics tracker for Reddit.
+ - **Data Sets**
+   - _Added 30/10/2021._ - [Face Recognition Datasets](https://www.face-rec.org/databases/)  
+A large collection of face datasets for training facial recognition systems and other things of that nature.
+   - [Kaggle](https://www.kaggle.com/datasets)  
+Offers over 50,000 public datasets for all kinds of various things.
+   - _Added 30/10/2021._ - [Common Crawl](https://commoncrawl.org/)  
+An open repository of web crawl data that can be accessed and analyzed by anyone.
+   - _Added 30/10/2021._ - [OCCRP Catalogue of Research Databases](https://id.occrp.org/databases/)  
+A massive collection of public data sources compiled by OCCRP researchers that  are the most useful for investigative reporting.
