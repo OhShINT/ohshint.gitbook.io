@@ -1172,6 +1172,8 @@ A Google CSE that searches for scientific publications.
   Search through comments of a particular reddit user.
 - [ReSavr](https://www.resavr.com/)  
   This site archives deleted comments on Reddit and lets you search them via keyword.
+- [Pushshift Reddit Search](http://redditsearch.io/)  
+  A comprehensive search engine and real-time analytics tracker for Reddit.
 - [Map of Reddit](https://anvaka.github.io/map-of-reddit)  
   A very organized interactive map of subreddits.
 - [Searcheddit](http://searcheddit.com/)  
