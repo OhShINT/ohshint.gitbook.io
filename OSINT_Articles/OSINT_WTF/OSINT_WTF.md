@@ -168,6 +168,8 @@ This is a list of open-source related books, manuals, articles and research pape
   - ([Wayback](https://web.archive.org/web/20210903190116/https://bib.opensourceintelligence.biz/STORAGE/2004.%20Sailing%20the%20sea%20of%20OSINT.pdf)), ([Library Genesis](http://libgen.rs/book/index.php?md5=D6804C2B7EA96CF36D31B058AC3E06EB)).
 - [[PDF] OSS - Special Operations Forces Open Source Intelligence (OSINT) Handbook - 2004](http://bib.opensourceintelligence.biz/STORAGE/2004.%20Special%20operations%20forces%20open%20source%20intellingence%20%28OSINT%29%20handbook.pdf).
   - ([Wayback](https://web.archive.org/web/20210903190144/https://bib.opensourceintelligence.biz/STORAGE/2004.%20Special%20operations%20forces%20open%20source%20intellingence%20%28OSINT%29%20handbook.pdf)), ([Library Genesis](https://libgen.rs/book/index.php?md5=0784CE80298B415752AB8ED8E7ED6778)).
+- [[PDF] NATO - Open Source Intelligence Handbook - November 2001](http://www.oss.net/dynamaster/file_archive/030201/ca5fb66734f540fbb4f8f6ef759b258c/NATO%20OSINT%20Handbook%20v1.2%20-%20Jan%202002.pdf).
+  - ([Wayback](https://web.archive.org/web/20210126020538/http://www.oss.net/dynamaster/file_archive/030201/ca5fb66734f540fbb4f8f6ef759b258c/NATO%20OSINT%20Handbook%20v1.2%20-%20Jan%202002.pdf)), ([Library Genesis]) - Coming soon.
 
 You probably don't need to read all of those, but you should! If you actually did download and read all of the above books and are hungry for more. Then check out these two awesome and very well put together lists of open-source intelligence related books and papers.
 
