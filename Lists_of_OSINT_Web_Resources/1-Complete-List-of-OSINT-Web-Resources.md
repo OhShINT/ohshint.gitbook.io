@@ -2479,6 +2479,8 @@ See which technologies a website is running, such as CMS, programming language, 
 
 - [ExploitDB](https://www.exploit-db.com/)  
   An archive of exploits, vulnerabilities, shellcode, 0days, security articles, whitepapers and more. Ran by Offensive Security.
+- [GHDB](https://www.exploit-db.com/google-hacking-database)  
+The Google Hacking Data Base is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
 - [MITRE CVE](https://cve.mitre.org/)  
   The mission of the CVE program is to identify, define, and catalog publicly disclosed cyber-security vulnerabilities.
 - [NIST NVD](https://nvd.nist.gov/)  
@@ -2509,6 +2511,8 @@ See which technologies a website is running, such as CMS, programming language, 
   An Internet security portal containing original IT security news, digital warfare news, geopolitics, proprietary and general advisories, analyses, forums, and a large archive of website defacements.
 - [Default Router Settings](https://www.cleancss.com/router-default/)  
   A list of default settings and login credentials for over 2,000 routers.
+- [Bowserling](https://www.browserling.com/)  
+Allows you to view a website in a different browser online. For example, a Mac user can test a website to see how it acts in Internet Explorer, without having to install a VM.
 
 <u>**Signals Intelligence [SIGINT]**</u>
 ===========================================================================
