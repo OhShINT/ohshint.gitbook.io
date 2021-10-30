@@ -47,4 +47,4 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 The Google Hacking Data Base is an index of search queries (we call them dorks) used to find publicly available information, intended for pentesters and security researchers.
   - **Other Tools**
     - _Added 29/10/2021._ - [Bowserling](https://www.browserling.com/)  
-Allows you view a website in a different browser online. For example, a Mac user can test a website to see how it acts in Internet Explorer, without having to install a VM.
+Allows you to view a website in a different browser online. For example, a Mac user can test a website to see how it acts in Internet Explorer, without having to install a VM.
