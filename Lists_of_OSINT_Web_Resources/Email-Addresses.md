@@ -55,7 +55,7 @@
 - [DeepSearch Onion](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)  
   An .onion site that lets you search through leaked databases. Requires an account.
 
-## <u>**PGP**</u>
+## <u>**Pretty Good Privacy [PGP]**</u>
 
 - [MIT PGP Public Key Server](https://pgp.mit.edu/)  
   A searchable database of public PGP keys from MIT.
