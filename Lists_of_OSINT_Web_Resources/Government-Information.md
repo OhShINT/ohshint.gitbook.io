@@ -39,7 +39,7 @@
 - [PRADO](https://www.consilium.europa.eu/prado/en/search-by-document-country.html#)  
   Documents of member states of the European Union in alphabetic order of the three-letter country codes used in travel documents, followed by documents of the other countries participating in [PRADO](https://en.wikipedia.org/wiki/Public_Register_of_Travel_and_Identity_Documents_Online).
 
-### **<u>Social Security Numbers (SSN)</u>**
+### **<u>Social Security Numbers [SSN]</u>**
 
 - [Social Security Place of Issue Lookup](https://www.ics.uci.edu/~dan/genealogy/Miller/javascrp/ssn.htm)  
   Allows you to search an SSN and see what location it was issued in.
