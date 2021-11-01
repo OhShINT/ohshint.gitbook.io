@@ -25,7 +25,7 @@
 - [CryptoHound](https://www.c-hound.ai/)  
   A tool for blockchain analysis and BTC or ETH address lookup. Track address activity, transaction history, address relations, and other metrics.
 
-### **<u>Bitcoin (BTC) Specific</u>**
+### **<u>Bitcoin [BTC] Specific</u>**
 
 - [Bitcoin Block Explorer](https://blockexplorer.com/)  
   An online blockchain browser which displays the contents of individual Bitcoin blocks and transactions and the transaction histories and balances of BTC addresses.
@@ -38,19 +38,19 @@
 - [BitRef](https://bitref.com/)  
   A simple tool to display a Bitcoin addresses current balance.
 
-### **<u>Ethereum (ETH) Specific</u>**
+### **<u>Ethereum [ETH] Specific</u>**
 
 - [Etherscan](https://etherscan.io/)  
   View data regarding any pending or confirmed Ethereum blockchain transactions.
 
-### **<u>Monero (XMR) Specific</u>**
+### **<u>Monero [XMR] Specific</u>**
 
 - [Monero Blocks](https://localmonero.co/blocks)  
   Monero blockhain explorer. Search by block height, block hash, transaction hash or payment ID.
 - [XMRChain](https://xmrchain.net/)  
   Allows you to explore Monero data.
 
-### **<u>Dogecoin (DOGE) Specific</u>**
+### **<u>Dogecoin [DOGE] Specific</u>**
 
 - [DogeChain](https://dogechain.info/)  
   The official Dogecoin blockchain explorer. View wallet balances and transactions on the DOGE blockchain.
