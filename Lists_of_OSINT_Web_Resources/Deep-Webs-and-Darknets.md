@@ -8,7 +8,7 @@
 - [DarkOwl](https://www.darkowl.com/darknetdataproducts)  
   A great tool for searching through different darknets including TOR, I2P, ZeroNet and paste sites. Requires a paid subscription.
 
-## <u>**The Onion Router (TOR)**</u>
+## <u>**The Onion Router [TOR]**</u>
 
 ### **<u>TOR Networking Tools</u>**
 
@@ -61,7 +61,7 @@
 - [Njalla](http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/)  
   A privacy focused domain service that acts as a "middle man" between the domain name registration service and you, acting as a privacy shield.
 
-## **<u>Invisible Internet Project (I2P)</u>**
+## **<u>Invisible Internet Project [I2P]</u>**
 
 - [I2P Search](https://i2psearch.com/)  
   A I2P search engine. I2P gateway is used for the search results to access I2P hidden services, known as "eepsites".
@@ -87,7 +87,7 @@
 - [Whonix ZeroNet Wiki](https://www.whonix.org/wiki/ZeroNet)  
   Excellent guide on how to securely setup ZeroNet. Also provides a decent list of common ZeroNet sites.
 
-## <u>**Interplanetary File System (IPFS)**</u>
+## <u>**Interplanetary File System [IPFS]**</u>
 
 - [IPSE](https://www.ipse.io/)  
   An IPFS search engine.
