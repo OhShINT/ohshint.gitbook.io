@@ -1097,7 +1097,7 @@ A Google CSE that searches for scientific publications.
   Analyze any public profile on Instagram. Enter a username of any public profile to view profile information, pictures and precise statistics.
 - [Worldcam](http://worldc.am/)  
   Search Instagram by location. Find the latest Instagram photos from places on the other side of the world, or just around the corner.
-- [BearPanther Insta Map](http://bearpanther.com/instamap/) 
+- [BearPanther Insta Map](http://bearpanther.com/instamap/)  
   Takes geo-tagged Instagram posts and plots them on a map. Similar to Worldcam.
 - [MetaHashtags](https://metahashtags.com/)  
   Find all related Instagram posts via hashtags with analytics and metrics. Allows you to sort hashtags and export them to a list. They also offer a paid subscription that includes additional tools.
