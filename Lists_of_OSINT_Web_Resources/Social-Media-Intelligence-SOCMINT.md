@@ -122,6 +122,8 @@
   View profiles, reels, stories, followers, following and tagged posts anonymously. Allows you to download posts.
 - [Instadp](https://www.instadp.com/)  
   An online tool that displays full size profile pictures of a user. It also allows you to download photos, videos, stories and reels.
+- [InstaFollowers](https://www.instafollowers.co/find-instagram-user-id)  
+  A simple tool that allows you to get a Instagram users user ID by searching their username.
 - [Find Instagram User ID](https://codeofaninja.com/tools/find-instagram-user-id/)  
   A simple tool that extracts a users Instagram user ID from their username.
 
