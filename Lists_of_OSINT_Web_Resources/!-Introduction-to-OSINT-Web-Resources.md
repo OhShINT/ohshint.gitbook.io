@@ -42,6 +42,13 @@ Explore billions of newspaper articles from all over the world. Extremely useful
   - **WHOIS**
     - _Added 29/10/2021._ - [GoFindWHOIS](https://gofindwhois.com/)  
   A great online tool for locating information about a website or IP address. Offers WHOIS lookups, DNS records, IP tools, and other website enumeration tools. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
+  - **Domain Name System [DNS]**
+    - _Added 31/10/2021._ - [DNSlytics](https://dnslytics.com/)  
+Offers loads of great tools such as DNS, MX, WHOIS and SPF lookups along with multiple reverse search tools.
+  - **Website Analysis**
+    - **Enumeration**
+      - _Added 31/10/2021._ - [HackerTarget](https://hackertarget.com/server-info/)  
+Find virtual hosts, server info and IP address reputation of a server or IP address. Gather IP address intelligence including hosting provider, ASN, netblock and IP geolocation.
   - **Other Tools**
     - _Added 29/10/2021._ - [Bowserling](https://www.browserling.com/)  
 Allows you to view a website in a different browser online. For example, a Mac user can test a website to see how it acts in Internet Explorer, without having to install a VM.
@@ -49,11 +56,18 @@ Allows you to view a website in a different browser online. For example, a Mac u
    - **General Social Media Tools**
      - _Added 30/10/2021._ - [GoFindWho](https://gofindwho.com/)  
   This is one of the coolest collection of online OSINT tools I have seen. Find people for free by phone number, name, email address, and username on Facebook and in public records. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
+   - **Instagram**
+     - _Added 31/10/2021._ - [InstaFollowers](https://www.instafollowers.co/find-instagram-user-id)  
+A simple tool that allows you to get a Instagram users user ID by searching their username.
    - **Reddit**
      - _Added 30/10/2021._ - [Reveddit](https://www.reveddit.com/about/)  
    A searchable archive of removed content on Reddit. Search by username, subreddit, link or domain.
      - _Added 30/10/2021._ - [Pushshift Reddit Search](http://redditsearch.io/)  
 A comprehensive search engine and real-time analytics tracker for Reddit.
+ - **Imagery Intelligence [IMINT]**
+   - **Reverse Image Search**
+     - _Added 31/10/2021._ - [EveryPixel](https://www.everypixel.com/)  
+A powerful search engine powered by AI that indexes 51 paid and free stock image websites and allows users to search through a massive database of stock photos in seconds.
  - **Data Sets**
    - _Added 30/10/2021._ - [Face Recognition Datasets](https://www.face-rec.org/databases/)  
 A large collection of face datasets for training facial recognition systems and other things of that nature.
@@ -63,3 +77,6 @@ Offers over 50,000 public datasets for all kinds of various things.
 An open repository of web crawl data that can be accessed and analyzed by anyone.
    - _Added 30/10/2021._ - [OCCRP Catalogue of Research Databases](https://id.occrp.org/databases/)  
 A massive collection of public data sources compiled by OCCRP researchers that  are the most useful for investigative reporting.
+ - **People Investigations**
+   - _Added 31/10/2021._ - [US Census Record Database](https://www.archives.gov/research/census/online-resources)  
+Federal census records have been digitized and made available to the public. US census records currently available date from 1790 to 1940.
