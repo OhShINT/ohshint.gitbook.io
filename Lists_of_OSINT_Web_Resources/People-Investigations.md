@@ -15,6 +15,8 @@
   One very great tool for locating people by name, address, email address, username and so on. Once offered as a free service many moons ago, now requires a paid subscription.
 - [Phonebooks](https://www.phonebooks.com/)  
   A free international people search, telephone directory and address search.
+- [US Census Record Database](https://www.archives.gov/research/census/online-resources)  
+  Federal census records have been digitized and made available to the public. US census records currently available date from 1790 to 1940.
 
 ## <u>**Genealogy**</u> 
 
