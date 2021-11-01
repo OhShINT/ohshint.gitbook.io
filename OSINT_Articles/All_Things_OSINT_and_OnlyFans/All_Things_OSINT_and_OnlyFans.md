@@ -260,6 +260,7 @@ python3 start_ofd.py
 ```
 
 > **NOTE:**
+> 
 > *There is always a chance that using this tool and others like it can potentially get your sock-puppet account banned due to it technically being against the [OnlyFans ToS](https://onlyfans.com/terms) - Under the "Acceptable Use Policy", section 19. lmao.*
 >
 > *This has not happened to me ever, but **the risk is certainly not zero**. So keep that in mind and don't blame me if your OnlyFans account gets banned! You now know the risks.*
