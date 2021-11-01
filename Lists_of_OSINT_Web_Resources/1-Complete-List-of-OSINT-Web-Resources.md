@@ -114,10 +114,10 @@ Remember, CTRL+F is your friend here.
   * [**General FININT**](#general-finint)
   * [**Cryptocurrency and Blockchain**](#cryptocurrency-and-blockchain)
     + [**General Analysis**](#general-analysis)
-    + [**Bitcoin (BTC) Specific**](#bitcoin-btc-specific)
-    + [**Ethereum (ETH) Specific**](#ethereum-eth-specific)
-    + [**Monero (XMR) Specific**](#monero-xmr-specific)
-    + [**Dogecoin (DOGE) Specific**](#dogecoin-doge-specific)
+    + [**Bitcoin [BTC] Specific**](#bitcoin-btc-specific)
+    + [**Ethereum [ETH] Specific**](#ethereum-eth-specific)
+    + [**Monero [XMR] Specific**](#monero-xmr-specific)
+    + [**Dogecoin [DOGE] Specific**](#dogecoin-doge-specific)
   * [**Investments and Stocks**](#investments-and-stocks)
   * [**Banking**](#banking)
   * [**BINs and Card Information**](#bins-and-card-information)
@@ -125,7 +125,7 @@ Remember, CTRL+F is your friend here.
 - [<u>**Vehicle and Transportation Intelligence [VATINT]**</u>](#vehicle-and-transportation-intelligence-vatint)
   * [**Road Vehicles**](#road-vehicles)
     + [**Vehicle Recognition**](#vehicle-recognition)
-    + [**Vehicle Identification Numbers (VIN)**](#vehicle-identification-numbers-vin)
+    + [**Vehicle Identification Numbers [VIN]**](#vehicle-identification-numbers-vin)
     + [**License Plates**](#license-plates)
   * [**Marine**](#marine)
     + [**Vessel Tracking**](#vessel-tracking)
@@ -147,20 +147,20 @@ Remember, CTRL+F is your friend here.
     + [**Other Areas**](#other-areas)
 - [<u>**Digital Network Intelligence [DNINT]**</u>](#digital-network-intelligence-dnint)
   * [**WHOIS**](#whois)
-  * [**Internet Protocol Addresses (IP)**](#internet-protocol-addresses-ip)
-  * [**Domain Name System (DNS) Records**](#domain-name-system-dns-records)
+  * [**Internet Protocol Addresses [IP]**](#internet-protocol-addresses-ip)
+  * [**Domain Name System [DNS] Records**](#domain-name-system-dns-records)
   * [**Website Analysis**](#website-analysis)
     + [**Enumeration**](#enumeration)
   * [**URL Redirects and Backlinks**](#url-redirects-and-backlinks)
-  * [**Wireless Fidelity (WiFi)**](#wireless-fidelity-wifi)
-  * [**Media Access Control (MAC)**](#media-access-control-mac)
+  * [**Wireless Fidelity [WiFi]**](#wireless-fidelity-wifi)
+  * [**Media Access Control [MAC]**](#media-access-control-mac)
   * [**User Agents**](#user-agents)
-  * [**Internet of Things (IoT) Search**](#internet-of-things-iot-search)
+  * [**Internet of Things [IoT] Search**](#internet-of-things-iot-search)
     + [**Device Discovery**](#device-discovery)
     + [**CCTV and Webcams**](#cctv-and-webcams)
   * [**Attack Maps**](#attack-maps)
   * [**Public Buckets**](#public-buckets)
-  * [**Exploits and PoC**](#exploits-and-poc)
+  * [**Exploits and Proof of Concept [PoC]**](#exploits-and-proof-of-concept-poc)
   * [**Personal Connection Profiling**](#personal-connection-profiling)
   * [**Other Tools**](#other-tools)
 - [<u>**Signals Intelligence [SIGINT]**</u>](#signals-intelligence-sigint)
@@ -168,15 +168,15 @@ Remember, CTRL+F is your friend here.
   * [**HAM Radio**](#ham-radio)
 - [<u>**Deep Webs and Darknets**</u>](#deep-webs-and-darknets)
   * [**General Darknet Search**](#general-darknet-search)
-  * [**The Onion Router (TOR)**](#the-onion-router-tor)
+  * [**The Onion Router [TOR]**](#the-onion-router-tor)
     + [**TOR Networking Tools**](#tor-networking-tools)
     + [**TOR Search Engines and Directories**](#tor-search-engines-and-directories)
     + [**Miscellaneous Resources**](#miscellaneous-resources)
-  * [**Invisible Internet Project (I2P)**](#invisible-internet-project-i2p)
+  * [**Invisible Internet Project [I2P]**](#invisible-internet-project-i2p)
   * [**FreeNet**](#freenet)
   * [**eMule**](#emule)
   * [**ZeroNet**](#zeronet)
-  * [**Interplanetary File System (IPFS)**](#interplanetary-file-system-ipfs)
+  * [**Interplanetary File System [IPFS]**](#interplanetary-file-system-ipfs)
   * [**FidoNet**](#fidonet)
   * [**Usenet**](#usenet)
 - [<u>**People Investigations**</u>](#people-investigations)
@@ -189,7 +189,7 @@ Remember, CTRL+F is your friend here.
 - [<u>**Email Addresses**</u>](#email-addresses)
   * [**General Email Tools**](#general-email-tools)
   * [**Data Breach Search**](#data-breach-search)
-  * [**Pretty Good Privacy (PGP)**](#pretty-good-privacy-pgp)
+  * [**Pretty Good Privacy [PGP]**](#pretty-good-privacy-pgp)
 - [<u>**Phone Numbers**</u>](#phone-numbers)
   * [**General Phone Number Tools**](#general-phone-number-tools)
   * [**White and Yellow Page Directories**](#white-and-yellow-page-directories)
@@ -262,7 +262,7 @@ Remember, CTRL+F is your friend here.
     + [**Passports and Travel Documents**](#passports-and-travel-documents)
     + [**Identification and Licenses**](#identification-and-licenses)
       - [**General**](#general-2)
-      - [**Social Security Numbers (SSN)**](#social-security-numbers-ssn)
+      - [**Social Security Numbers [SSN]**](#social-security-numbers-ssn)
     + [**Country Specific**](#country-specific)
       - [**Australia**](#australia)
       - [**Belgium**](#belgium)
@@ -283,7 +283,7 @@ Remember, CTRL+F is your friend here.
       - [**Sweden**](#sweden)
       - [**United Kingdom**](#united-kingdom)
       - [**Ukraine**](#ukraine)
-- [<u>**Dictionaries,  Translation and Decoding**</u>](#dictionaries--translation-and-decoding)
+- [<u>**Dictionaries, Translation and Decoding**</u>](#dictionaries-translation-and-decoding)
   * [**General Translation**](#general-translation)
   * [**General Dictionaries**](#general-dictionaries)
   * [**General Cracking and Decoding**](#general-cracking-and-decoding)
@@ -1913,7 +1913,7 @@ A Google CSE that searches for scientific publications.
 - [CryptoHound](https://www.c-hound.ai/)  
   A tool for blockchain analysis and BTC or ETH address lookup. Track address activity, transaction history, address relations, and other metrics.
 
-### **Bitcoin (BTC) Specific**
+### **Bitcoin [BTC] Specific**
 
 - [Bitcoin Block Explorer](https://blockexplorer.com/)  
   An online blockchain browser which displays the contents of individual Bitcoin blocks and transactions and the transaction histories and balances of BTC addresses.
@@ -1926,19 +1926,19 @@ A Google CSE that searches for scientific publications.
 - [BitRef](https://bitref.com/)  
   A simple tool to display a Bitcoin addresses current balance.
 
-### **Ethereum (ETH) Specific**
+### **Ethereum [ETH] Specific**
 
 - [Etherscan](https://etherscan.io/)  
   View data regarding any pending or confirmed Ethereum blockchain transactions.
 
-### **Monero (XMR) Specific**
+### **Monero [XMR] Specific**
 
 - [Monero Blocks](https://localmonero.co/blocks)  
   Monero blockhain explorer. Search by block height, block hash, transaction hash or payment ID.
 - [XMRChain](https://xmrchain.net/)  
   Allows you to explore Monero data.
 
-### **Dogecoin (DOGE) Specific**
+### **Dogecoin [DOGE] Specific**
 
 - [DogeChain](https://dogechain.info/)  
   The official Dogecoin blockchain explorer. View wallet balances and transactions on the DOGE blockchain.
@@ -1997,7 +1997,7 @@ A Google CSE that searches for scientific publications.
 - [Car Identification](https://www.yourmechanic.com/article/how-to-identify-any-car-you-see-by-ian-swan)  
   Guide to learning and recognizing specific cars.
 
-### **Vehicle Identification Numbers (VIN)**
+### **Vehicle Identification Numbers [VIN]**
 
 - [VINDecoderz](https://www.vindecoderz.com/)  
   A universal VIN decoder.
@@ -2321,7 +2321,7 @@ A Google CSE that searches for scientific publications.
 - [GoFindWHOIS](https://gofindwhois.com/)  
   A great online tool for locating information about a website or IP address. Offers WHOIS lookups, DNS records, IP tools, and other website enumeration tools. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
 
-## **Internet Protocol Addresses (IP)**
+## **Internet Protocol Addresses [IP]**
 
 - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/)  
   Search an IPv4 or IPv6 address and view the most recent torrents that have been downloaded or that the user is currently seeding.
@@ -2340,7 +2340,7 @@ A Google CSE that searches for scientific publications.
 - [CentralOps](https://centralops.net/co/)  
   A great collection of various networking tools. Ping, traceroute, WHOIS, nslookup, domain dossier and so on.
 
-## **Domain Name System (DNS) Records**
+## **Domain Name System [DNS] Records**
 
 - [PTArchive](http://ptrarchive.com/)  
   Search for historical reverse DNS records. Currently has over 230 billion records retrieved from 2008 to now.
@@ -2399,12 +2399,12 @@ A Google CSE that searches for scientific publications.
 - [Backlinks Analyzer](https://app.neilpatel.com/en/seo_analyzer/backlinks)  
   See how many sites link to a web page.
 
-## **Wireless Fidelity (WiFi)**
+## **Wireless Fidelity [WiFi]**
 
 - [Mylnikov API](https://www.mylnikov.org/)  
   A free API that allows you to get latitude and longitude by WiFi BSSID or MAC address.
 
-## **Media Access Control (MAC)**
+## **Media Access Control [MAC]**
 
 - [MAC Address Lookup](https://macvendors.com/)  
   Lookup any MAC address and view the manufacturers name.
@@ -2414,7 +2414,7 @@ A Google CSE that searches for scientific publications.
 - [User Agent Parser](https://developers.whatismybrowser.com/useragents/parse/#parse-useragent)  
   Lookup a browser user-agent and view details about it such as software versions, OS types, and more.
 
-## **Internet of Things (IoT) Search**
+## **Internet of Things [IoT] Search**
 
 ### **Device Discovery**
 
@@ -2497,7 +2497,7 @@ A Google CSE that searches for scientific publications.
 - [GreyHatWarfare Bucket Search](https://buckets.grayhatwarfare.com/)  
   A great tool that lists open AWS S3 buckets and helps you search for interesting files. Requires registration for limited free use. Requires a paid subscription to access advanced features.
 
-## **Exploits and PoC**
+## **Exploits and Proof of Concept [PoC]**
 
 - [ExploitDB](https://www.exploit-db.com/)  
   An archive of exploits, vulnerabilities, shellcode, 0days, security articles, whitepapers and more. Ran by Offensive Security.
@@ -2601,7 +2601,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [DarkOwl](https://www.darkowl.com/darknetdataproducts)  
   A great tool for searching through different darknets including TOR, I2P, ZeroNet and paste sites. Requires a paid subscription.
 
-## **The Onion Router (TOR)**
+## **The Onion Router [TOR]**
 
 ### **TOR Networking Tools**
 
@@ -2654,7 +2654,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [Njalla](http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/)  
   A privacy focused domain service that acts as a "middle man" between the domain name registration service and you, acting as a privacy shield.
 
-## **Invisible Internet Project (I2P)**
+## **Invisible Internet Project [I2P]**
 
 - [I2P Search](https://i2psearch.com/)  
   A I2P search engine. I2P gateway is used for the search results to access I2P hidden services, known as "eepsites".
@@ -2680,7 +2680,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [Whonix ZeroNet Wiki](https://www.whonix.org/wiki/ZeroNet)  
   Excellent guide on how to securely setup ZeroNet. Also provides a decent list of common ZeroNet sites.
 
-## **Interplanetary File System (IPFS)**
+## **Interplanetary File System [IPFS]**
 
 - [IPSE](https://www.ipse.io/)  
   An IPFS search engine.
@@ -2835,7 +2835,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [DeepSearch Onion](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)  
   An .onion site that lets you search through leaked databases. Requires an account.
 
-## **Pretty Good Privacy (PGP)**
+## **Pretty Good Privacy [PGP]**
 
 - [MIT PGP Public Key Server](https://pgp.mit.edu/)  
   A searchable database of public PGP keys from MIT.
@@ -3884,7 +3884,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 - [PRADO](https://www.consilium.europa.eu/prado/en/search-by-document-country.html#)  
   Documents of member states of the European Union in alphabetic order of the three-letter country codes used in travel documents, followed by documents of the other countries participating in [PRADO](https://en.wikipedia.org/wiki/Public_Register_of_Travel_and_Identity_Documents_Online).
 
-#### **Social Security Numbers (SSN)**
+#### **Social Security Numbers [SSN]**
 
 - [Social Security Place of Issue Lookup](https://www.ics.uci.edu/~dan/genealogy/Miller/javascrp/ssn.htm)  
   Allows you to search an SSN and see what location it was issued in.
@@ -4014,7 +4014,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 - [Invalid Document Check](https://nd.dmsu.gov.ua/english.php)  
   Search for invalid personal documents issues by the government of Ukraine. Including passports, national ID cards, refugee status cards, residency permits and more.
 
-<u>**Dictionaries,  Translation and Decoding**</u>
+<u>**Dictionaries, Translation and Decoding**</u>
 ===========================================================================
 
 ## **General Translation**
