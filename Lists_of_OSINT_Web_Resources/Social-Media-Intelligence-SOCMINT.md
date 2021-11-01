@@ -125,7 +125,7 @@
 - [InstaFollowers](https://www.instafollowers.co/find-instagram-user-id)  
   A simple tool that allows you to get a Instagram users user ID by searching their username.
 - [Find Instagram User ID](https://codeofaninja.com/tools/find-instagram-user-id/)  
-  A simple tool that extracts a users Instagram user ID from their username.
+  A tool that shows you how to extract an Instagram users information in JSON format.
 
 ## **<u>Kik Messenger</u>**
 
