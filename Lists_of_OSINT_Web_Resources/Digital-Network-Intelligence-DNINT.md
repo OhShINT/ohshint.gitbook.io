@@ -12,7 +12,7 @@
 - [GoFindWHOIS](https://gofindwhois.com/)  
   A great online tool for locating information about a website or IP address. Offers WHOIS lookups, DNS records, IP tools, and other website enumeration tools. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
 
-## **<u>Internet Protocol Addresses (IP)</u>**
+## **<u>Internet Protocol Addresses [IP]</u>**
 
 - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/)  
   Search an IPv4 or IPv6 address and view the most recent torrents that have been downloaded or that the user is currently seeding.
@@ -31,7 +31,7 @@
 - [CentralOps](https://centralops.net/co/)  
   A great collection of various networking tools. Ping, traceroute, WHOIS, nslookup, domain dossier and so on.
 
-## <u>**Domain Name System (DNS) Records**</u>
+## <u>**Domain Name System [DNS] Records**</u>
 
 - [PTArchive](http://ptrarchive.com/)  
   Search for historical reverse DNS records. Currently has over 230 billion records retrieved from 2008 to now.
@@ -90,12 +90,12 @@
 - [Backlinks Analyzer](https://app.neilpatel.com/en/seo_analyzer/backlinks)  
   See how many sites link to a web page.
 
-## **<u>Wireless Fidelity (WiFi)</u>**
+## **<u>Wireless Fidelity [WiFi]</u>**
 
 - [Mylnikov API](https://www.mylnikov.org/)  
   A free API that allows you to get latitude and longitude by WiFi BSSID or MAC address.
 
-## **<u>Media Access Control (MAC)</u>**
+## **<u>Media Access Control [MAC]</u>**
 
 - [MAC Address Lookup](https://macvendors.com/)  
   Lookup any MAC address and view the manufacturers name.
@@ -105,7 +105,7 @@
 - [User Agent Parser](https://developers.whatismybrowser.com/useragents/parse/#parse-useragent)  
   Lookup a browser user-agent and view details about it such as software versions, OS types, and more.
 
-## <u>**Internet of Things (IoT) Search**</u>
+## <u>**Internet of Things [IoT] Search**</u>
 
 ### **<u>Device Discovery</u>**
 
@@ -188,7 +188,7 @@
 - [GreyHatWarfare Bucket Search](https://buckets.grayhatwarfare.com/)  
   A great tool that lists open AWS S3 buckets and helps you search for interesting files. Requires registration for limited free use. Requires a paid subscription to access advanced features.
 
-## **<u>Exploits and PoC</u>**
+## **<u>Exploits and Proof of Concept [PoC]</u>**
 
 - [ExploitDB](https://www.exploit-db.com/)  
   An archive of exploits, vulnerabilities, shellcode, 0days, security articles, whitepapers and more. Ran by Offensive Security.
