@@ -41,6 +41,8 @@
   Checks the health and configuration of DNS and mail servers.
 - [ViewDNS Info](http://viewdns.info/)  
   Allows users to gather a large amount of data about a given website or IP address.
+- [DNSlytics](https://dnslytics.com/)  
+  Offers loads of great tools such as DNS, MX, WHOIS and SPF lookups along with multiple reverse search tools.
 
 ## <u>**Website Analysis**</u>
 
@@ -51,7 +53,9 @@
 - [BuiltWith](https://builtwith.com/)  
   Find out what technology a website is running.
 - [w3techs](https://w3techs.com/sites)  
-See which technologies a website is running, such as CMS, programming language, web server and hosting provider.
+  See which technologies a website is running, such as CMS, programming language, web server and hosting provider.
+- [HackerTarget](https://hackertarget.com/server-info/)  
+  Find virtual hosts, server info and IP address reputation of a server or IP address. Gather IP address intelligence including hosting provider, ASN, netblock and IP geolocation.
 - [NetCraft Site Report](https://sitereport.netcraft.com/)  
   Find out the infrastructure and technologies used by any site.
 - [Hexometer](https://hexometer.com/stack-checker/)  
