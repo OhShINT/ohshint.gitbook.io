@@ -46,7 +46,7 @@
 - [IACA Darkweb Tools](https://iaca-darkweb-tools.com/)  
   A collection of darkweb search tools. Allows you to query .onion search engines, marketplaces and social media sites.
 
-### **<u>Miscellaneous Resources</u>**
+### **<u>Miscellaneous TOR Resources</u>**
 
 - [Darknet Market Buyers Bible](http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion/content/index.html)  
   The buyer’s DNM bible aims to be a complete guide that covers all steps that users have to take in order to buy securely from darknet markets. It orientates itself on OPSEC best practices and, if exactly followed, will greatly minimize the risk of you getting caught. They also offer an offline version of this guide, available [here (CLEARNET PROXY)](http://biblemeowimkh3utujmhm6oh2oeb3ubjw2lpgeq3lahrfr2l6ev6zgyd.onion.pet/bible.zip) and [here (Wayback)](https://archive.org/details/darknet-market-buyers-bible).
