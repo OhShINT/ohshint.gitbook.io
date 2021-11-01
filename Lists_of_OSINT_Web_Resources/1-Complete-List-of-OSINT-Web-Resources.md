@@ -1706,6 +1706,8 @@ A Google CSE that searches for scientific publications.
   Reverse search an image of a lesser known official, politician, local TV anchor, or whomever to find related information and articles. Searching for Russian companies also works if the image contains a valid OGRN number.
 - [Aliseeks Image Search](https://www.aliseeks.com/search)  
   Search for items via images in both AliExpress and eBay.
+- [EveryPixel](https://www.everypixel.com/)  
+  A powerful search engine powered by AI that indexes 51 paid and free stock image websites and allows users to search through a massive database of stock photos in seconds.
 - [Same Energy](https://same.energy/)  
   A visual search engine. You can use it to find art, photography, decoration ideas, or virtually anything else.
 - [Search by Image](https://searchbyimage.app/)  
@@ -2346,6 +2348,8 @@ A Google CSE that searches for scientific publications.
   Checks the health and configuration of DNS and mail servers.
 - [ViewDNS Info](http://viewdns.info/)  
   Allows users to gather a large amount of data about a given website or IP address.
+- [DNSlytics](https://dnslytics.com/)  
+  Offers loads of great tools such as DNS, MX, WHOIS and SPF lookups along with multiple reverse search tools.
 
 ## **Website Analysis**
 
@@ -2356,7 +2360,9 @@ A Google CSE that searches for scientific publications.
 - [BuiltWith](https://builtwith.com/)  
   Find out what technology a website is running.
 - [w3techs](https://w3techs.com/sites)  
-See which technologies a website is running, such as CMS, programming language, web server and hosting provider.
+  See which technologies a website is running, such as CMS, programming language, web server and hosting provider.
+- [HackerTarget](https://hackertarget.com/server-info/)  
+  Find virtual hosts, server info and IP address reputation of a server or IP address. Gather IP address intelligence including hosting provider, ASN, netblock and IP geolocation.
 - [NetCraft Site Report](https://sitereport.netcraft.com/)  
   Find out the infrastructure and technologies used by any site.
 - [Hexometer](https://hexometer.com/stack-checker/)  
@@ -2526,7 +2532,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [Default Router Settings](https://www.cleancss.com/router-default/)  
   A list of default settings and login credentials for over 2,000 routers.
 - [Bowserling](https://www.browserling.com/)  
-Allows you to view a website in a different browser online. For example, a Mac user can test a website to see how it acts in Internet Explorer, without having to install a VM.
+  Allows you to view a website in a different browser online. For example, a Mac user can test a website to see how it acts in Internet Explorer, without having to install a VM.
 
 <u>**Signals Intelligence [SIGINT]**</u>
 ===========================================================================
@@ -2708,6 +2714,8 @@ Allows you to view a website in a different browser online. For example, a Mac u
   One very great tool for locating people by name, address, email address, username and so on. Once offered as a free service many moons ago, now requires a paid subscription.
 - [Phonebooks](https://www.phonebooks.com/)  
   A free international people search, telephone directory and address search.
+- [US Census Record Database](https://www.archives.gov/research/census/online-resources)  
+  Federal census records have been digitized and made available to the public. US census records currently available date from 1790 to 1940.
 
 ## **Genealogy** 
 
@@ -4051,6 +4059,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Crack MD5, SHA1, MySQL, NTLM, SHA256 and SHA512 hashes online.
 - [CrackStation](https://crackstation.net/)  
   CrackStation uses massive pre-computed lookup tables to crack password hashes. Supports  LM, NTLM, md2, md4, md5, md5(md5_hex), md5-half, sha1, sha224, sha256, sha384, sha512, ripeMD160, whirlpool, MySQL 4.1+ (sha1(sha1_bin)), and QubesV3.1BackupDefaults.
+- [EpochConverter](https://www.epochconverter.com/)  
+  A free online tool that converts Unix timestamps into human readable format.
 
 **<u>Miscellaneous</u>** 
 ===========================================================================
