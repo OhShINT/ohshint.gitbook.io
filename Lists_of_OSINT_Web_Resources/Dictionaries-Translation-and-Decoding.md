@@ -46,6 +46,6 @@
 - [CrackStation](https://crackstation.net)  
   Uses massive pre-computed lookup tables to crack password hashes. Supports  LM, NTLM, md2, md4, md5, md5(md5_hex), md5-half, sha1, sha224, sha256, sha384, sha512, ripeMD160, whirlpool, MySQL 4.1+ (sha1(sha1_bin)), and QubesV3.1BackupDefaults.
 - [EpochConverter](https://www.epochconverter.com/)  
-  A free online tool that converts Unix timestamps into human readable format.
+  A free online tool that converts Unix timestamps into human-readable format.
 
 > *1,941 characters in 327 words.*
