@@ -7,18 +7,20 @@
 
 - [National Cellular Directory](https://www.nationalcellulardirectory.com/)  
   Search via phone number or name and see information about the owner. Requires a paid subscription.
+- [SpyDailer](https://www.spydialer.com/)  
+  A free reverse lookup tool. Reverse search a phone number, name, address or email address.
 - [Cellulaire](http://www.cellulaire411.ca/en)  
   A reverse phone number lookup tool that utilizes public records to help identify the owner of a specific phone number. Appears to not have that much data.
- - [800notes](https://800notes.com/)  
-   A crowd-sourced reverse phone number search. Good for identifying scammer numbers.
- - [FoneFinder](http://fonefinder.net/)  
-   Allows you to enter any phone number and see the type of number, the location where it was assigned, the cell carrier and a few other details.
+- [800notes](https://800notes.com/)  
+  A crowd-sourced reverse phone number search. Good for identifying scammer numbers.
+- [FoneFinder](http://fonefinder.net/)  
+  Allows you to enter any phone number and see the type of number, the location where it was assigned, the cell carrier and a few other details.
 - [Payphone Directory](https://www.payphone-directory.org/)  
   A directory of payphones still in operation in Canada, U.S., UK and other countries.
 - [Country Codes](https://countrycode.org/)  
   This calling chart will help you find the dialing codes you need to make calls around the globe. Simply find and click the country you wish to call.
 - [Wikipedia - List of Country Dialing Codes](https://en.wikipedia.org/wiki/List_of_country_calling_codes) ([WikiLess](https://wikiless.org/wiki/List_of_country_calling_codes))  
-  Similar to the above, this is a big list of dialing codes for each different country.
+Similar to the above, this is a big list of dialing codes for each different country.
 
 ## **<u>White/Yellow Page Directories</u>**
 
