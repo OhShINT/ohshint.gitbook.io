@@ -3333,6 +3333,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Check username on all popular social networks Including Instagram YouTube Facebook Twitch and more.
 - [ClaimBrand](http://claimbrand.com/)  
   Search over 1000 popular social networks for usernames.
+- [PyPI User Search](https://pypi.org/user/<ENTER-USERNAME-HERE>)  
+  Search the Python Package Index (PyPI) for a username. Simply add the target username to the URL. Example: `https://pypi.org/user/<ENTER-USERNAME-HERE>`.
 
 <u>**Gaming**</u>
 ===========
