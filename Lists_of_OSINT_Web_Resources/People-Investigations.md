@@ -15,8 +15,17 @@
   One very great tool for locating people by name, address, email address, username and so on. Once offered as a free service many moons ago, now requires a paid subscription.
 - [Phonebooks](https://www.phonebooks.com/)  
   A free international people search, telephone directory and address search.
+  
+## **Vital Records**
+
+- [Vital Record Search Tools](https://stevemorse.org/index.html)  
+  This site contains tools for finding immigration records, census records, vital records, and for dealing with calendars, maps, foreign alphabets, and numerous other applications. Some of these tools fetch data from other websites but do so in more versatile ways than the search tools provided on those websites. Created by Stephen P, Morse.
 - [US Census Record Database](https://www.archives.gov/research/census/online-resources)  
   Federal census records have been digitized and made available to the public. US census records currently available date from 1790 to 1940.
+- [UK Census Online](https://ukcensusonline.com/search/)  
+  Census records from the United Kingdom have been digitized and made available to the public. Includes birth, death, marriage, and census records.
+- [Social Security Death Index Search](https://stevemorse.org/ssdi/ssdi.html)  
+  Another tool from Stephen P. Morse that allows you to easily search through the US social security death index (SSDI). Records are from 1936 to February 28th, 2014.
 
 ## <u>**Genealogy**</u> 
 
