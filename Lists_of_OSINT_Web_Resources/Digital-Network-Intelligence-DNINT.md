@@ -11,6 +11,8 @@
   Find the registrant and other domains owned by the same person with their reverse WHOIS. Find domain history, domains on same IP, network owner and more.
 - [GoFindWHOIS](https://gofindwhois.com/)  
   A great online tool for locating information about a website or IP address. Offers WHOIS lookups, DNS records, IP tools, and other website enumeration tools. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
+- [Marcaria](https://whois.marcaria.com/en)  
+  Search WHOIS information in over 2,000 extensions including international ccTLDs and gTLDs.
 
 ## **<u>Internet Protocol Addresses [IP]</u>**
 
@@ -20,6 +22,8 @@
   A database of abuse reports. Search an IP address and see if it has been included in any abuse reports, malicious activity reports, and spam campaigns.
 - [Hurricane Electric BGP Toolkit](https://bgp.he.net/)  
   Contains loads of great networking tools.
+- [BGPView](https://bgpview.io/)   
+  A BGP toolkit and ASN routing lookup tool that allows you to debug and investigate information about IP addresses, ASN, IXs, BGP, ISPs, prefixes and domain names.
 - [InfoSniper](https://www.infosniper.net/)  
   Provides detailed IP geo-location information.
 - [IP Hub](https://iphub.info/)  
@@ -30,6 +34,10 @@
   Simple tool that provides basic information about an IP address. Geo-location, ISP, and proxy/VPN/TOR node detection.
 - [CentralOps](https://centralops.net/co/)  
   A great collection of various networking tools. Ping, traceroute, WHOIS, nslookup, domain dossier and so on.
+- [IP-Neighbors](https://www.ip-neighbors.com)  
+  Find neighboring websites, hostnames, and domains. Get an idea who runs a host, the hosting density, and neighboring hosts.
+- [NetworksDB](https://networksdb.io/)  
+  Contains information about the public IPv4 and IPv6 addresses, networks and domains owned by companies and organizations across the world along with city-level IP geolocation data and autonomous system information. Also offers a free API.
 
 ## <u>**Domain Name System [DNS] Records**</u>
 
@@ -43,6 +51,8 @@
   Allows users to gather a large amount of data about a given website or IP address.
 - [DNSlytics](https://dnslytics.com/)  
   Offers loads of great tools such as DNS, MX, WHOIS and SPF lookups along with multiple reverse search tools.
+- [dnstwister](https://dnstwister.report/)  
+  The anti-phishing domain name search engine and DNS monitoring service, Search a domain name and this tool will show you related domain names that could potentially be used for phishing campaigns. 
 
 ## <u>**Website Analysis**</u>
 
@@ -76,6 +86,10 @@
   Enter the URL of a website and find out what cookies are being used and understand their purpose.
 - [Reverse Google AdSense](https://osint.sh/adsense/)  
   Locate domains with the same Google AdSense ID.
+- [Lookyloo Web Forensics Tool](https://lookyloo.circl.lu)  
+  Captures websites and let you analyze and investigate them.
+- [The Favicon Finder](https://besticon.herokuapp.com/)  
+  A free online service to finding icons on websites. Just enter in a target URL.
 
 ### **<u>URL Redirects and Backlinks</u>**
 
@@ -89,6 +103,8 @@
   Allows you to find out how many sites are linking to a certain web page. Requires registration to view full results.
 - [Backlinks Analyzer](https://app.neilpatel.com/en/seo_analyzer/backlinks)  
   See how many sites link to a web page.
+- [SpyFu](https://www.spyfu.com/overview/domain)  
+  Displays website information and metrics, SEO analytics, backlinks and more by searching a URL.
 
 ## **<u>Wireless Fidelity [WiFi]</u>**
 
