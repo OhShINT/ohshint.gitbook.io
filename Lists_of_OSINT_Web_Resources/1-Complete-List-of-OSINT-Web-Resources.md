@@ -884,6 +884,8 @@ Remember, CTRL+F is your friend here.
   A searchable index of the-eye.eu. Much faster than manually digging through subfolders or using Google dorks.
 - [SlideShare](https://www.slideshare.net/)  
   Allows users to upload content including presentations, infographics, documents, and videos. Users can upload files privately or publicly in PowerPoint, Word, PDF, or OpenDocument format.
+- [Slideshare Downloader](https://slideshare-downloader.herokuapp.com/)  
+  Enter the URL of any Slideshare document and this tool will download it for you. 
 - [Directory of Open Access Journals](https://doaj.org/)  
   Search over 16,000 journals, over 6.5 million articles in 80 different languages from 129 different countries.
 - [Napalm FTP Indexer](https://www.searchftps.net/)  
@@ -1068,6 +1070,8 @@ A Google CSE that searches for scientific publications.
   Find people and events on Facebook. Searchable by name, location, relationship, gender, language, and more.
 - [Facebook Dangerous Individuals and Organizations List](https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/)  
   A leaked internal document from Facebook that contains their list of dangerous individuals and groups. Worth saving. Archived copies available [here (Wayback)](https://web.archive.org/web/20211013174325/https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/) and [here (archive.today)](https://archive.ph/LQLhK). Original PDF available [[PDF]here](https://s3.documentcloud.org/documents/21083819/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf). Archived copy available [here (Wayback)](https://web.archive.org/web/20211014081041/https://s3.documentcloud.org/documents/21083819/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf).
+- [Facebook Law Enforcement Guide](https://www.facebook.com/safety/groups/law/guidelines/)  
+  Guidelines and resources for law enforcement officials seeking records from Facebook and/or Instagram.
 
 ## **Flickr**
 
@@ -4143,8 +4147,6 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   An interactive tool that helps identify a certain type of tree by asking a few questions.
 - [FakeSpot](https://www.fakespot.com/)  
   Spot and avoid shady sellers, products with dishonest reviews and scam websites for free. Available as a website, Android and iOS application, Firefox add-on and as a Google Chrome extension.
-- [Slideshare Downloader](https://slideshare-downloader.herokuapp.com/)  
-  Enter the URL of any Slideshare document and this tool will download it for you.
 - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)  
   Interesting tool that shows you a graph of the shortest paths from one Wikipedia topic to another. Mostly useless, but still worth mentioning.
 - [WikiLess](https://wikiless.org/)  
