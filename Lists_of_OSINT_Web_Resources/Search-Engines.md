@@ -590,6 +590,8 @@
   A searchable index of the-eye.eu. Much faster than manually digging through subfolders or using Google dorks.
 - [SlideShare](https://www.slideshare.net/)  
   Allows users to upload content including presentations, infographics, documents, and videos. Users can upload files privately or publicly in PowerPoint, Word, PDF, or OpenDocument format.
+- [Slideshare Downloader](https://slideshare-downloader.herokuapp.com/)  
+  Enter the URL of any Slideshare document and this tool will download it for you.
 - [Directory of Open Access Journals](https://doaj.org/)  
   Search over 16,000 journals, over 6.5 million articles in 80 different languages from 129 different countries.
 - [Napalm FTP Indexer](https://www.searchftps.net/)  
