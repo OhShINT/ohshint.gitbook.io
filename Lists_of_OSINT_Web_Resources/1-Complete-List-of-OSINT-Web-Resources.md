@@ -2829,6 +2829,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Enter an email address and see which sites the email address has been used. This is a web frontend of the [holehe](https://github.com/megadose/holehe) tool.
 - [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)  
   Simple tool that analyzes email headers and making them human-readable.
+- [Free Email Scraper](https://freemailscraper.herokuapp.com/complete-website-email-scraper)  
+  Easily find email addresses by entering a website URL. This tool will scrpae the page for any email addresses and display any results.
 
 ## **Data Breach Search**
 
