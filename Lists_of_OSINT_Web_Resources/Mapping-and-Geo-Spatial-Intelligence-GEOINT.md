@@ -25,6 +25,8 @@
   A free online web mapping service. Allows you to find driving directions, maps, live traffic updates and road conditions, nearby businesses, restaurants and hotels.
 - [Maxar Archive Search](https://discover.digitalglobe.com/)  
   Maxar offers the most comprehensive suite of commercial satellite imagery. Highlight an area of interest, view and download historical satellite imagery. Requires a paid subscription for best results.
+- [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/)  
+  The EO Browser aims to contribute to achieving a global, continuous and easily accessible source of satellite imagery data. Very useful tool.
 - [Terria Australia](https://beta.nationalmap.terria.io/)  
   A great tool for Australian-oriented geospatial investigations. Includes some incredibly high-res imagery.
 - [NOAA Digital Coast](https://coast.noaa.gov/dataviewer)  
@@ -83,6 +85,8 @@
   An interactive map that shows you the current travel restrictions and entry requirements in regards to the COVID-19 pandemic.
 - [Travel Restrictions Map](https://apply.joinsherpa.com/map)  
   Another interactive map the shows you the current travel restrictions in-place due to the COVID-19 pandemic.
+- [World Population Density Map](https://luminocity3d.org/WorldPopDen/)  
+  An interactive map that displays the population densities from all over the world.
 
 ## **<u>Topographic and Geologic Maps</u>**
 
@@ -140,16 +144,18 @@
   An interactive map that shows you earthquakes and information about those earthquakes happening across the globe in near real-time.
 - [GDACS](https://gdacs.org/)  
   The Global Disaster Alerting Coordination System (GDACS) provides real-time access to web‐based disaster information systems and related coordination tools.
+- [Surging Seas Risk Zone Map](https://ss2.climatecentral.org/)  
+  Tracks the risk zones due to the rise in sea levels as a result of global climate change.
 - [Cyclocane](https://www.cyclocane.com/)  
   An interactive map that shows information about hurricanes.
 - [VolcanoDiscovery](https://www.volcanodiscovery.com/erupting_volcanoes.html)  
   Provides a map and information about current volcanic activity all over the globe. Major and minor eruptions, activity reports and warnings.
- - [Volcanoes And Earthquakes](https://www.volcanoesandearthquakes.com/)  
-   A live interactive map that displays information about active volcanic eruptions and earthquakes currently taking place around the world.
- - [Smithsonian Global Volcanism Program](https://volcano.si.edu/gvp_currenteruptions.cfm)  
-   Another map and information source for current and historic global volcanic activity.
- - [USGS Hawaii Lava Flows](https://www.usgs.gov/observatories/hawaiian-volcano-observatory/lava-flow)  
-   Provides information and tracking of lava flows and high-risk areas on the Hawaiian Islands. Click [here](https://pubs.usgs.gov/mf/1992/2193/) for the latest lava flow hazard map. Archived copies of the .pdf document are available [here (Wayback)](https://web.archive.org/web/20211010025640/https://pubs.usgs.gov/mf/1992/2193/mf2193.pdf) and [here (archive.today)](https://archive.ph/h9gbJ).
+- [Volcanoes And Earthquakes](https://www.volcanoesandearthquakes.com/)  
+  A live interactive map that displays information about active volcanic eruptions and earthquakes currently taking place around the world.
+- [Smithsonian Global Volcanism Program](https://volcano.si.edu/gvp_currenteruptions.cfm)  
+  Another map and information source for current and historic global volcanic activity.
+- [USGS Hawaii Lava Flows](https://www.usgs.gov/observatories/hawaiian-volcano-observatory/lava-flow)  
+  Provides information and tracking of lava flows and high-risk areas on the Hawaiian Islands. Click [here](https://pubs.usgs.gov/mf/1992/2193/) for the latest lava flow hazard map. Archived copies of the .pdf document are available [here (Wayback)](https://web.archive.org/web/20211010025640/https://pubs.usgs.gov/mf/1992/2193/mf2193.pdf) and [here (archive.today)](https://archive.ph/h9gbJ).
 
 ## **<u>Ocean Maps</u>**
 
@@ -165,6 +171,8 @@
   Interactive map that allows you to view the current fishing efforts at a specific location.
 - [Submarine Cable Map](https://www.submarinecablemap.com/)  
   A comprehensive and regularly updated interactive map of the world's major submarine communication cable systems and landing stations.
+- [OCEARCH Shark Tracker](https://www.ocearch.org/tracker/)  
+  A pretty interesting mapping tool that lets you track sharks, turtles, whales and other ocean animals. Some of the data appears to be a few years old, but still cool.
 
 ### **<u>Shipwreck Maps</u>**
 
