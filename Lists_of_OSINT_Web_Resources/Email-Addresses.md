@@ -8,7 +8,7 @@
 - [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)  
   Simple tool that analyzes email headers and making them human-readable.
 - [Free Email Scraper](https://freemailscraper.herokuapp.com/complete-website-email-scraper)  
-  Easily find email addresses by entering a website URL. This tool will scrpae the page for any email addresses and display any results.
+  Easily find email addresses by entering a website URL. This tool will scrape the page for any email addresses and display any results.
 
 ## <u>**Data Breach Search**</u>
 
