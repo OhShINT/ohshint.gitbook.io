@@ -1482,7 +1482,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   This interactive map represent time zones around the world and cities observing them. Just point at the city on the map or search it in the search field to see the detailed information.
 - [Native Land](https://native-land.ca/)  
   A global map of first nations land and reservations. 
-- [CIVICUS Monitor](https://monitor.civicus.org/) 
+- [CIVICUS Monitor](https://monitor.civicus.org/)  
   A research tool and map that provides close to real-time data on the state of civil society and civic freedoms in 196 different countries.
 - [HateMap](https://www.splcenter.org/hate-map)  
   Provides information about various hate groups across the USA.
