@@ -1006,12 +1006,16 @@ A Google CSE that searches for scientific publications.
   Allows to search for content in social networks in real-time and provides deep analytics data. Users can search without logging in for publicly posted information on Twitter, Google+, Facebook, YouTube, Instagram, Tumblr, Reddit, Flickr, Dailymotion and Vimeo.
 - [SocialBlade](https://socialblade.com/)  
   Tracks user statistics for YouTube, Twitch, Instagram, and Twitter accounts.
+- [Shreateh Social Media Tools](https://khalil-shreateh.com/khalil.shtml/social_applications/)  
+  A large collection of SOCMINT tools for Facebook, YouTube, Instagram, Twitter and TikTok.
 - [Kriburm](https://kribrum.io/search)  
   A Russian site that act as a search engine for different social media platforms. Includes filters by author and time period.
 - [AussieFinder](https://aussiefinder.com.au/)  
   Search 5 different social media networks at once for Australian citizens. Uses a Google CSE.
 - [Social Salary Calculator](https://lickd.co/blog/social-salary-calculator)  
   Calculate how much views or followers you would need to match a current salary. Almost useless, but still worth mentioning because its *neat*.
+- [SignalHire](https://www.signalhire.com/)  
+  An interesting tool that helps you find emails and phone numbers. Requires a paid subscription.
 
 ## **Clubhouse**
 
@@ -1220,6 +1224,8 @@ A Google CSE that searches for scientific publications.
   Database of public Telegram groups, channels and bots.
 - [Buzz.im Search](https://search.buzz.im/)  
   A tool that allows you to search Telegram channels, messages and authors for a specific string.
+- [SovaWEB Telegram OSINT Bot](https://sovaweb.herokuapp.com/)  
+A very interesting Russian OSINT bot for Telegram. Search via username, email, IMSI, IMEI, BTS, MSISDN, IP address or BSSID. Click [here](https://sovaweb-herokuapp-com.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui) for a Russian to English translation.
 - [Lyzem](https://lyzem.com/)  
   A search engine for Telegram and Telegraph. 
 - [Telegogo Google CSE](https://cse.google.com/cse?&cx=006368593537057042503:efxu7xprihg#gsc.tab=0)  
@@ -1295,6 +1301,8 @@ A Google CSE that searches for scientific publications.
   Visualize hundreds of millions of tweets in real-time, from the global level all the way down to your neighborhood.
 - [OneMillionTweetMap](https://onemilliontweetmap.com/)  
   A tool used to visualize tweets and aggregated Twitter data in a world map.
+- [TrendsMap](https://www.trendsmap.com/map)  
+  An interactive map of the current hashtags, users and subject that are trending on Twitter.
 - [All My Tweets](https://www.allmytweets.net/connect/)  
   View all tweets, likes, followers or timeline on one page. Great for viewing, searching and saving Twitter info.
 - [Twiangulate](http://twiangulate.com/search/)  
@@ -1355,6 +1363,8 @@ A Google CSE that searches for scientific publications.
   Enter a video URL and view that videos metadata.
 - [Channel Search](https://tools.digitalmethods.net/netvizz/youtube/mod_channels_search.php)  
   Tool for searching YouTube channels by keyword and creation date. The result is a table with the channel ID, name, description, date of creation, as well as the number of subscribers, views, and uploaded videos.
+- [Montage](https://montage.meedan.com/welcome)  
+  Search YouTube videos by date or by geo-location. Requires registration.
 - [WatchFrameByFrame](http://www.watchframebyframe.com/)  
   Allows you watch YouTube videos frame-by-frame. Also works with Vimeo.
 - [Anilyzer](https://anilyzer.com/)  
