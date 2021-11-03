@@ -2760,6 +2760,16 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A free international people search, telephone directory and address search.
 - [US Census Record Database](https://www.archives.gov/research/census/online-resources)  
   Federal census records have been digitized and made available to the public. US census records currently available date from 1790 to 1940.
+  
+## **Vital Records**
+- [Vital Record Search Tools](https://stevemorse.org/index.html)  
+  This site contains tools for finding immigration records, census records, vital records, and for dealing with calendars, maps, foreign alphabets, and numerous other applications. Some of these tools fetch data from other websites but do so in more versatile ways than the search tools provided on those websites. Created by Stephen P, Morse.
+- [US Census Record Database](https://www.archives.gov/research/census/online-resources)  
+  Federal census records have been digitized and made available to the public. US census records currently available date from 1790 to 1940.
+- [UK Census Online](https://ukcensusonline.com/search/)  
+  Census records from the United Kingdom have been digitized and made available to the public. Includes birth, death, marriage, and census records.
+- [Social Security Death Index Search](https://stevemorse.org/ssdi/ssdi.html)  
+  Another tool from Stephen P. Morse that allows you to easily search through the US social security death index (SSDI). Records are from 1936 to February 28th, 2014.
 
 ## **Genealogy** 
 
@@ -2830,7 +2840,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)  
   Simple tool that analyzes email headers and making them human-readable.
 - [Free Email Scraper](https://freemailscraper.herokuapp.com/complete-website-email-scraper)  
-  Easily find email addresses by entering a website URL. This tool will scrpae the page for any email addresses and display any results.
+  Easily find email addresses by entering a website URL. This tool will scrape the page for any email addresses and display any results.
 
 ## **Data Breach Search**
 
@@ -4130,12 +4140,14 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Online collection of monologues from movies, TV shows, plays and more. Includes transcripts and video clips.
 - [What Tree Is That?](https://www.arborday.org/trees/whatTree/)  
   An interactive tool that helps identify a certain type of tree by asking a few questions.
- - [FakeSpot](https://www.fakespot.com/)  
-   Spot and avoid shady sellers, products with dishonest reviews and scam websites for free. Available as a website, Android and iOS application, Firefox add-on and as a Google Chrome extension.
- - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)  
-   Interesting tool that shows you a graph of the shortest paths from one Wikipedia topic to another. Mostly useless, but still worth mentioning.
- - [WikiLess](https://wikiless.org/)  
-   A privacy focused alternative to Wikipedia. Basically Wikipedia without all of the invasive tracking.
+- [FakeSpot](https://www.fakespot.com/)  
+  Spot and avoid shady sellers, products with dishonest reviews and scam websites for free. Available as a website, Android and iOS application, Firefox add-on and as a Google Chrome extension.
+- [Slideshare Downloader](https://slideshare-downloader.herokuapp.com/)  
+  Enter the URL of any Slideshare document and this tool will download it for you.
+- [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)  
+  Interesting tool that shows you a graph of the shortest paths from one Wikipedia topic to another. Mostly useless, but still worth mentioning.
+- [WikiLess](https://wikiless.org/)  
+  A privacy focused alternative to Wikipedia. Basically Wikipedia without all of the invasive tracking.
 
 > *250,270 characters in 30,214 words.*
 
