@@ -27,56 +27,152 @@ The below lists are currently still a work in progress! It was going to take age
   - [ ] Complete the "People Investigations" section.
   - [ ] Complete the "Real Estate" section.
 
+
+
 # **Recently Added Resources**
 
-When new resources are added, they will be listed and dated here. All dates are listed in *DD/MM/YYYY* format.
+When new resources are added, they will be listed and dated here.
 
-- **Search Engines**
-  - **Document and File Search**
-    - _Added 29/10/2021._ - [Gdrive Search](https://www.gdrivesearch.com/)  
-A simple and fast tool that allows you to search Google Drive for files.
-  - **Newspaper and News Search**
-    - _Added 29/10/2021._ - [NewspaperArchive](https://newspaperarchive.com/)  
-Explore billions of newspaper articles from all over the world. Extremely useful tool. Requires a paid subscription.
-- **Digital Network Intelligence [DNINT]**
-  - **WHOIS**
-    - _Added 29/10/2021._ - [GoFindWHOIS](https://gofindwhois.com/)  
-  A great online tool for locating information about a website or IP address. Offers WHOIS lookups, DNS records, IP tools, and other website enumeration tools. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
-  - **Domain Name System [DNS]**
-    - _Added 31/10/2021._ - [DNSlytics](https://dnslytics.com/)  
-Offers loads of great tools such as DNS, MX, WHOIS and SPF lookups along with multiple reverse search tools.
-  - **Website Analysis**
-    - **Enumeration**
-      - _Added 31/10/2021._ - [HackerTarget](https://hackertarget.com/server-info/)  
-Find virtual hosts, server info and IP address reputation of a server or IP address. Gather IP address intelligence including hosting provider, ASN, netblock and IP geolocation.
-  - **Other Tools**
-    - _Added 29/10/2021._ - [Bowserling](https://www.browserling.com/)  
-Allows you to view a website in a different browser online. For example, a Mac user can test a website to see how it acts in Internet Explorer, without having to install a VM.
- - **Social Media Intelligence [SOCMINT]**
-   - **General Social Media Tools**
-     - _Added 30/10/2021._ - [GoFindWho](https://gofindwho.com/)  
-  This is one of the coolest collection of online OSINT tools I have seen. Find people for free by phone number, name, email address, and username on Facebook and in public records. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
-   - **Instagram**
-     - _Added 31/10/2021._ - [InstaFollowers](https://www.instafollowers.co/find-instagram-user-id)  
-A simple tool that allows you to get a Instagram users user ID by searching their username.
-   - **Reddit**
-     - _Added 30/10/2021._ - [Reveddit](https://www.reveddit.com/about/)  
-   A searchable archive of removed content on Reddit. Search by username, subreddit, link or domain.
-     - _Added 30/10/2021._ - [Pushshift Reddit Search](http://redditsearch.io/)  
-A comprehensive search engine and real-time analytics tracker for Reddit.
- - **Imagery Intelligence [IMINT]**
-   - **Reverse Image Search**
-     - _Added 31/10/2021._ - [EveryPixel](https://www.everypixel.com/)  
-A powerful search engine powered by AI that indexes 51 paid and free stock image websites and allows users to search through a massive database of stock photos in seconds.
- - **Data Sets**
-   - _Added 30/10/2021._ - [Face Recognition Datasets](https://www.face-rec.org/databases/)  
-A large collection of face datasets for training facial recognition systems and other things of that nature.
-   - _Added 30/10/2021._ - [Kaggle](https://www.kaggle.com/datasets)  
-Offers over 50,000 public datasets for all kinds of various things.
-   - _Added 30/10/2021._ - [Common Crawl](https://commoncrawl.org/)  
-An open repository of web crawl data that can be accessed and analyzed by anyone.
-   - _Added 30/10/2021._ - [OCCRP Catalogue of Research Databases](https://id.occrp.org/databases/)  
-A massive collection of public data sources compiled by OCCRP researchers that  are the most useful for investigative reporting.
- - **People Investigations**
-   - _Added 31/10/2021._ - [US Census Record Database](https://www.archives.gov/research/census/online-resources)  
-Federal census records have been digitized and made available to the public. US census records currently available date from 1790 to 1940.
+All dates are listed in *DD/MM/YYYY* format. 
+
+
+
+## <u>**Search Engines**</u>
+
+### **Document and File Search**
+
+- [Slideshare Downloader](https://slideshare-downloader.herokuapp.com/) - *Added 3/11/2021.*
+- [Gdrive Search](https://www.gdrivesearch.com/) - *Added 29/10/2021.*
+
+### **Newspaper and News Search**
+
+- [NewspaperArchive](https://newspaperarchive.com/) - *Added 29/10/2021.*
+
+## <u>**Social Media Intelligence [SOCMINT]**</u>
+
+### **General Social Media Tools**
+
+- [Shreateh Social Media Tools](https://khalil-shreateh.com/khalil.shtml/social_applications/) - *Added 3/11/2021.*
+- [SignalHire](https://www.signalhire.com/) - *Added 3/11/2021.*
+- [GoFindWho](https://gofindwho.com/) - *Added 30/10/2021.*
+
+### Facebook
+
+- [Facebook Law Enforcement Guide](https://www.facebook.com/safety/groups/law/guidelines/) - *Added 3/11/2021.*
+
+### **Instagram**
+
+- [InstaFollowers](https://www.instafollowers.co/find-instagram-user-id) - *Added 31/10/2021.*
+
+### **Reddit**
+
+- [Reveddit](https://www.reveddit.com/about/) - *Added 30/10/2021.*
+- [Pushshift Reddit Search](http://redditsearch.io/) - *Added 30/10/2021.*
+
+### Telegram
+
+- [SovaWEB Telegram OSINT Bot](https://sovaweb.herokuapp.com/) - *Added 3/11/2021.*
+
+### Twitter
+
+- [TrendsMap](https://www.trendsmap.com/map) - *Added 3/11/2021.*
+
+### YouTube
+
+- [Montage](https://montage.meedan.com/welcome) - *Added 3/11/2021.*
+
+## <u>**Mapping and Geo-Spatial Intelligence [GEOINT]**</u>
+
+### **General Mapping Tools**
+
+- [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/) - *Added 3/11/2021.*
+
+### **Political Maps**
+
+- [World Population Density Map](https://luminocity3d.org/WorldPopDen/) - *Added 3/11/2021.*
+
+### **Weather Maps**
+
+#### **Natural Disaster Maps**
+
+- [Surging Seas Risk Zone Map](https://ss2.climatecentral.org/) - *Added 3/11/2021.*
+
+### Ocean Maps
+
+- [OCEARCH Shark Tracker](https://www.ocearch.org/tracker/) - *Added 3/11/2021.*
+
+## <u>**Imagery Intelligence [IMINT]**</u>
+
+**Reverse Image Search**
+
+- [Portrait Matcher](https://zeus.robots.ox.ac.uk/portraitmatcher/) - *Added 3/11/2021.*
+- [Openi Medical Image Search](https://openi.nlm.nih.gov/gridquery) - *Added 3/11/2021.*
+- [BBC News Search](https://zeus.robots.ox.ac.uk/bbc_search/) - *Added 3/11/2021.*
+- [EveryPixel](https://www.everypixel.com/) - *Added 31/10/2021.*
+
+### Image Generation
+
+- [Face Generator](https://generated.photos/face-generator/) - *Added 3/11/2021.*
+
+## <u>**Digital Network Intelligence [DNINT]**</u>
+
+### **WHOIS**
+
+- [Marcaria](https://whois.marcaria.com/en) - *Added 3/11/2021.*
+- [GoFindWHOIS](https://gofindwhois.com/) - *Added 29/10/2021.*
+
+### Internet Protocol Addresses [IP]
+
+- [BGPView](https://bgpview.io/) - *Added 3/11/2021.*
+- [IP-Neighbors](https://www.ip-neighbors.com) - *Added 3/11/2021.*
+- [NetworksDB](https://networksdb.io/) - *Added 3/11/2021.*
+
+### **Domain Name System [DNS]**
+
+- [dnstwister](https://dnstwister.report/) - *Added 3/11/2021.*
+- [DNSlytics](https://dnslytics.com/) - *Added 31/10/2021.*
+
+### **Website Analysis**
+
+#### **Enumeration**
+
+- [Lookyloo Web Forensics Tool](https://lookyloo.circl.lu) - *Added 3/11/2021.*
+- [The Favicon Finder](https://besticon.herokuapp.com/) - *Added 3/11/2021.*
+- [HackerTarget](https://hackertarget.com/server-info/) - *Added 31/10/2021.*
+
+### URL Redirects and Backlinks
+
+- [SpyFu](https://www.spyfu.com/overview/domain) - *Added 3/11/2021.*
+
+### **Other Tools**
+
+- [Bowserling](https://www.browserling.com/) - *Added 29/10/2021.*
+
+## <u>**People Investigations**</u>
+
+### **Vital Records**
+
+- [Vital Record Search Tools](https://stevemorse.org/index.html) - *Added 3/11/2021.*
+- [UK Census Online](https://ukcensusonline.com/search/) - *Added 3/11/2021.*
+- [Social Security Death Index Search](https://stevemorse.org/ssdi/ssdi.html) - *Added 3/11/2021.*
+- [US Census Record Database](https://www.archives.gov/research/census/online-resources) - *Added 31/10/2021.*
+
+## <u>**Email Addresses**</u>
+
+- [Free Email Scraper](https://freemailscraper.herokuapp.com/complete-website-email-scraper) - *Added 3/11/2021.*
+
+## <u>**Phone Numbers**</u>
+
+- **General Phone number Tools**
+  - [SpyDailer](https://www.spydialer.com/) - *Added 3/11/2021.*
+
+## **<u>Usernames</u>**
+
+- [PyPI User Search](https://pypi.org/user/<ENTER-USERNAME-HERE>) - *Added 3/11/2021.*
+
+## <u>**Data Sets**</u>
+
+- [Face Recognition Datasets](https://www.face-rec.org/databases/) - *Added 31/10/2021.*
+- [Kaggle](https://www.kaggle.com/datasets) - *Added 31/10/2021.*
+- [Common Crawl](https://commoncrawl.org/) - *Added 31/10/2021.*
+- [OCCRP Catalogue of Research Databases](https://id.occrp.org/databases/) - *Added 31/10/2021.*
