@@ -17,8 +17,6 @@
   An interactive tool that helps identify a certain type of tree by asking a few questions.
 - [FakeSpot](https://www.fakespot.com/)  
   Spot and avoid shady sellers, products with dishonest reviews and scam websites for free. Available as a website, Android and iOS application, Firefox add-on and as a Google Chrome extension.
-- [Slideshare Downloader](https://slideshare-downloader.herokuapp.com/)  
-  Enter the URL of any Slideshare document and this tool will download it for you.
 - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)  
   Interesting tool that shows you a graph of the shortest paths from one Wikipedia topic to another. Mostly useless, but still worth mentioning.
 - [WikiLess](https://wikiless.org/)  
