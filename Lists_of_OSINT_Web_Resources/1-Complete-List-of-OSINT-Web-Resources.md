@@ -1720,10 +1720,14 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A powerful search engine powered by AI that indexes 51 paid and free stock image websites and allows users to search through a massive database of stock photos in seconds.
 - [Same Energy](https://same.energy/)  
   A visual search engine. You can use it to find art, photography, decoration ideas, or virtually anything else.
+- [Openi Medical Image Search](https://openi.nlm.nih.gov/gridquery)  
+  Reverse image search tool for scientific and medical images as well as x-ray scans.
 - [Search by Image](https://searchbyimage.app/)  
   Search for any products by using an image. Helps you find deals.
 - [Sogou Image Search](https://pic.sogou.com/)  
   A Chinese reverse image search tool. Works quite well.
+- [Portrait Matcher](https://zeus.robots.ox.ac.uk/portraitmatcher/)  
+  Upload an image of a face and receive three paintings that have a semi-similar face.
 - [Qihoo360](https://image.so.com/)  
   A Chinese reverse image search tool. Also works pretty well.
 - [Lykdat](https://lykdat.com/)  
@@ -1732,6 +1736,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A reverse image search tool designed for anime and manga art.
 - [ASCII2D](https://ascii2d.net/)  
   Japanese reverse image search engine for identifying anime.
+- [BBC News Search](https://zeus.robots.ox.ac.uk/bbc_search/)  
+  BBC news search, Enter the name or an image of an item and the service will show in which news stories and at what time interval it appeared.
 
 ## **Image Generation**
 
@@ -1741,6 +1747,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A directory of websites that use generative adversarial networks (GAN) to generate images of a wide variety of things.
 - [FaceMaker](https://facemaker.uvrg.org/)  
   Based on the average European face can to design a virtual character in real time. You decide on the facial parameters of an avatar. Save, render, and share the generated 3D models. Application is based on WebGL.
+- [Face Generator](https://generated.photos/face-generator/)  
+  A unique face generator tool. Allows you to set parameters and create an image of a unique person in real-time. Great for sock-puppet accounts.
 
 ## **Image Enhancement**
 
