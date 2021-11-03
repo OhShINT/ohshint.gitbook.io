@@ -82,6 +82,8 @@
   Find people and events on Facebook. Searchable by name, location, relationship, gender, language, and more.
 - [Facebook Dangerous Individuals and Organizations List](https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/)  
   A leaked internal document from Facebook that contains their list of dangerous individuals and groups. Worth saving. Archived copies available [here (Wayback)](https://web.archive.org/web/20211013174325/https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/) and [here (archive.today)](https://archive.ph/LQLhK). Original .pdf available [[PDF]here](https://s3.documentcloud.org/documents/21083819/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf). Archived copy available [here (Wayback)](https://web.archive.org/web/20211014081041/https://s3.documentcloud.org/documents/21083819/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf).
+- [Facebook Law Enforcement Guide](https://www.facebook.com/safety/groups/law/guidelines/)  
+  Guidelines and resources for law enforcement officials seeking records from Facebook and/or Instagram.
 
 ## <u>**Flickr**</u>
 
