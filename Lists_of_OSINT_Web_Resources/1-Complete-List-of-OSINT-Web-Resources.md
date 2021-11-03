@@ -181,6 +181,7 @@ Remember, CTRL+F is your friend here.
   * [**Usenet**](#usenet)
 - [<u>**People Investigations**</u>](#people-investigations)
   * [**General People Search**](#general-people-search)
+  * [**Vital Records**](#vital-records)
   * [**Genealogy**](#genealogy)
   * [**Court Records**](#court-records)
   * [**Criminal Records**](#criminal-records)
