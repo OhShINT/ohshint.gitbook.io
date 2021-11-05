@@ -99,11 +99,11 @@ There are generally considered to be two different ways how information can be c
 ***Passive*** collection and ***Offensive*** collection.
 
 **Approach: Passive Collection**  
-Passive OSINT is the preferred way to collect information, this means you are not in anyway interacting with your target(s) at all. Not messaging the target, not sending friend requests, not liking posts, not following their accounts, and so on. Instead, you are collecting information without ever making the target aware of it. An investigator would remain distant from the target, therefor having a much lower risk of getting burned. Here are some examples of what a passive approach would include.
+Passive OSINT is the preferred way to collect information, this means you are not in any way interacting with your target(s) at all. Not messaging the target, not sending friend requests, not liking posts, not following their accounts, and so on. Instead, you are collecting information without ever making the target aware of it. An investigator would remain distant from the target, therefor having a much lower risk of getting burned. Here are some examples of what a passive approach would include.
 
-- Searching a targets username online to locate other accounts.
-- Looking up a targets email addresses in data breaches and leaks.
-- Saving posts, images and videos from a targets social media accounts (Assuming they are public accounts).
+- Searching a target's username online to locate other accounts.
+- Looking up a target's email addresses in data breaches and leaks.
+- Saving posts, images and videos from a target social media accounts (Assuming they are public accounts).
 - Looking up historical WHOIS and DNS records for a target domain.
 
 **Approach: Offensive Collection**  
@@ -111,7 +111,7 @@ Offensive OSINT (Also known as "*Active OSINT*") is not usually recommended, as 
 
 - Sending your target a friend request or follow request from a sock-puppet account.
 - Sending your target a private message of any kind.
-- Liking, commenting or sharing a targets posts.
+- Liking, commenting or sharing a target's posts.
 - Scanning a target web site or device.
 
 ## **The OSINT Process**
