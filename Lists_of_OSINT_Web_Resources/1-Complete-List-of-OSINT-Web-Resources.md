@@ -1111,7 +1111,7 @@ A Google CSE that searches for scientific publications.
 - [MetaHashtags](https://metahashtags.com/)  
   Find all related Instagram posts via hashtags with analytics and metrics. Allows you to sort hashtags and export them to a list. They also offer a paid subscription that includes additional tools.
 - [Pixwox](https://www.pixwox.com/)  
-  Instagram profile, post, story viewer and downloader, easily view and download Instagram photo and videos online.
+  View Instagram profiles, posts, stories, and reels. Easily view and download Instagram photos and videos online.
 - [Dumpor](https://dumpor.com/)  
   View profiles, reels, stories, followers, following and tagged posts anonymously. Allows you to download posts.
 - [Instadp](https://www.instadp.com/)  
