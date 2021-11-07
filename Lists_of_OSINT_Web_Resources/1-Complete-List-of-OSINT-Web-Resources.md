@@ -4172,6 +4172,4 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 - [WikiLess](https://wikiless.org/)  
   A privacy focused alternative to Wikipedia. Basically Wikipedia without all of the invasive tracking.
 
-> *250,270 characters in 30,214 words.*
-
 ![](Contact/Images/donvito.png)
