@@ -34,5 +34,3 @@
   Calculate when you can see the SpaceX Starlink satellites above your location.
 - [ISS Tracker](http://www.isstracker.com/)  
   Track the current location of the International Space Station (ISS) in real-time.
-
-> *3,451 characters in 433 words.*
