@@ -115,5 +115,3 @@
   An online EXIF data viewer with GPS support which allows you to locate and view photos on a map.
 - [ForensicDots](https://www.forensicdots.de/)  
   A web application that detects printer machine identification codes (MICs). Also known as the infamous ["yellow dots"](http://seeingyellow.com/) or "tracking dots".
-
-> *7,471 characters in 999 words.*
