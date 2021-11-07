@@ -122,5 +122,3 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   This illustrated database compiles all the categories of at-risk cultural goods  in the ICOM Red Lists. For more information on the Red Lists, please visit their [dedicated page](https://icom.museum/en/our-actions/heritage-protection/red-lists/).
 - [Havocscope](https://havocscope.com/)  
   Provides information and threat intelligence on the global black market. The information about the black market has been collected from government agencies, academic studies, media reports, and reported data from other private sources.
-
-> *14,048 characters in 1,354 words.*
