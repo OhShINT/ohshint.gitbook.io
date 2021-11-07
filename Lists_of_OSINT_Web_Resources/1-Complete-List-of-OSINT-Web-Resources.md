@@ -1949,6 +1949,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Universal blockchain explorer and search engine BTC, ETH, XRP, XLM, BCH, LTC, DASH, BSV, DOGE, GRS and much more that allow you to find, sort and filter transactions and addresses.
 - [CryptoHound](https://www.c-hound.ai/)  
   A tool for blockchain analysis and BTC or ETH address lookup. Track address activity, transaction history, address relations, and other metrics.
+- [BlockCypher](https://blockcypher.herokuapp.com/)  
+  Blockchain explorer for Bitcoin, Ethereum, Litecoin, DogeCoin and Dash. Provides information about address, transactions, block hashes, block numbers and/or wallet names.
 
 ### **Bitcoin [BTC] Specific**
 
