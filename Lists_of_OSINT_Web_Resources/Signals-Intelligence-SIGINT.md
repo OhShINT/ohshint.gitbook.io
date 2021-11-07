@@ -52,6 +52,3 @@
   Allows you to search for amateur radio operators by callsign, name or FRN. Search results can provide a persons full name, callsign, addresses and in some cases, felony records.
 - [Canadian Amateur Radio Operator Search](https://apc-cap.ic.gc.ca/pls/apc_anon/query_amat_cs$.startup)  
   A database where you can search Canadians who are licensed amateur radio operators. Search by callsign, last name, city, province or postal code.
-
-> *4,198 characters in 517 words.*
-
