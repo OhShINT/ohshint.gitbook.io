@@ -168,5 +168,3 @@
 
 - [Invalid Document Check](https://nd.dmsu.gov.ua/english.php)  
   Search for invalid personal documents issues by the government of Ukraine. Including passports, national ID cards, refugee status cards, residency permits and more.
-
-> *12,670 characters in 1,318 words.*
