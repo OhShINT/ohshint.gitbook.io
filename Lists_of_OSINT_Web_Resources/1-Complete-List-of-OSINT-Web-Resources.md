@@ -1114,6 +1114,12 @@ A Google CSE that searches for scientific publications.
   View Instagram profiles, posts, stories, and reels. Easily view and download Instagram photos and videos online.
 - [Dumpor](https://dumpor.com/)  
   View profiles, reels, stories, followers, following and tagged posts anonymously. Allows you to download posts.
+- [Picuki](https://www.picuki.com/)  
+  Search, view and edit Instagram content without having to log in.
+- [Gramhir](https://gramhir.com/)  
+  Search and analyze profiles and hashtags without having to use an account.
+- [StoriesDown](https://storiesdown.com/)  
+  Allows you to view and download Instagram stories and posts without an account.
 - [Instadp](https://www.instadp.com/)  
   An online tool that displays full size profile pictures of a user. It also allows you to download photos, videos, stories and reels.
 - [InstaFollowers](https://www.instafollowers.co/find-instagram-user-id)  
