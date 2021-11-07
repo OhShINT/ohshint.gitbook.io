@@ -1478,6 +1478,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A simple tool that allows you to get GPS coordinates from an address or landmark.
 - [SunCalc](http://suncalc.net/)  
   A simple tool that determines sun rises and sunsets by location.
+- [WhoDidIt](https://simon04.dev.openstreetmap.org/whodidit/)  
+  Click on an area on the OpenStreetMap to get a list of usernames who have made changes and edits. Includes dates when the edits were made.
 
 ## **Street View Maps**
 
