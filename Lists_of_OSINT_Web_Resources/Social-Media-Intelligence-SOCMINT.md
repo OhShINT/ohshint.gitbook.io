@@ -425,5 +425,3 @@
   A really old, non-searchable archive of 4chan. Dated from 2016.
 - [Qresearch](https://qresear.ch/)  
   A searchable archive of "QAnon" related posts from 8kun/8chan.
-
-> *27,366 characters in 3,406 words.*
