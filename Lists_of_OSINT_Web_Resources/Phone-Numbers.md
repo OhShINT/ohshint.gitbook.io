@@ -446,5 +446,3 @@ Similar to the above, this is a big list of dialing codes for each different cou
 - **<u>Honduras</u>**
 - **<u>Peru</u>**
 - **<u>Venezuela</u>**
-
-> *18,205 characters in 2,066 words.*
