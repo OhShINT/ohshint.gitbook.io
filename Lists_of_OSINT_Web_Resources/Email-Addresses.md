@@ -69,5 +69,3 @@
   Search for public PGP keys via email address, PGP fingerprint or key ID.
 - [Keybase](https://keybase.io/)  
   Search for Keybase users and PGP keys.
-
-> *5,063 characters in 667 words.*
