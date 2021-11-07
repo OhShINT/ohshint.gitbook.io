@@ -20,5 +20,3 @@
 ## <u>**Historical Data**</u>
 
 ## **<u>Property Records</u>**
-
-> *1,358 characters in 164 words.*
