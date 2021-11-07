@@ -98,5 +98,3 @@
   A Wikipedia page that lists all physical currency that is currently in worldwide circulation. Organized by country.
 - [World Currency Codes and Symbols](https://www.currencyremitapp.com/world-currency-symbols/)  
   A list of currencies, currency codes and symbols that are used by each country in the world.
-
-> *7,460 characters in 902 words.*
