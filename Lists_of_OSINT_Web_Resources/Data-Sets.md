@@ -55,5 +55,3 @@
   Data from more than 785,000 offshore companies, foundations and trusts from the [Panama Papers](https://en.wikipedia.org/wiki/Panama_Papers), [Offshore Leaks](https://en.wikipedia.org/wiki/Offshore_Leaks), [Bahamas Leaks](https://en.wikipedia.org/wiki/Bahamas_Leaks), and the [Paradise Papers](https://en.wikipedia.org/wiki/Paradise_Papers).
 - [ICIJ Luxembourg Leaks](https://projects.icij.org/luxembourg-leaks/viz/industries/index.html)  
   Also known as the "LuxLeaks", is a collection of over 350 documents about Luxembourg's tax rulings set up by PricewaterhouseCoopers from 2002 to 2010 to the benefits of its clients. 
-
-> *4,456 characters in 518 words.*
