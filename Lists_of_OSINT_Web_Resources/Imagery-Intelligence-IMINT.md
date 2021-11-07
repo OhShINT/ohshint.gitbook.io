@@ -68,6 +68,8 @@
   Based on the average European face can to design a virtual character in real time. You decide on the facial parameters of an avatar. Save, render, and share the generated 3D models. Application is based on WebGL.
 - [Face Generator](https://generated.photos/face-generator/)  
   A unique face generator tool. Allows you to set parameters and create an image of a unique person in real-time. Great for sock-puppet accounts.
+- [Rudalle](https://rudalle.ru/)  
+  Enter a text query and this neural network will generate a picture based on the input.
 
 ## **<u>Image Enhancement</u>**
 
