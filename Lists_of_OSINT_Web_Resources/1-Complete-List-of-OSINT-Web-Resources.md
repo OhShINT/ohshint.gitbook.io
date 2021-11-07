@@ -34,6 +34,7 @@ Remember, CTRL+F is your friend here.
   * [**Similar Site Search**](#similar-site-search)
   * [**Document and File Search**](#document-and-file-search)
   * [**Video Search**](#video-search)
+  * [**Podcast Search**](#podcast-search)
   * [**Code Search**](#code-search)
   * [**Blog, Forum and Image Board Search**](#blog-forum-and-image-board-search)
   * [**Job Search**](#job-search)
