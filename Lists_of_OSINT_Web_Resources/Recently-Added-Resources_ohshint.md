@@ -158,7 +158,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Phone Numbers**</u>
 
-### **General Phone number Tools**
+### **General Phone Number Tools**
 
 - [SpyDailer](https://www.spydialer.com/) - *Added 3/11/2021.*
 
