@@ -105,5 +105,3 @@
 
 - [NZBFriends](https://nzbfriends.com/)  
   A search engine for Usenet.
-
-> *7,624 characters in 942 words.*
