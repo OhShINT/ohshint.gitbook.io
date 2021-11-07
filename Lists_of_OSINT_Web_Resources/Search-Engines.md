@@ -608,6 +608,12 @@
   Search for files and open directories via keyword. Uses a Google CSE.
 - [Gdrive Search](https://www.gdrivesearch.com/)  
   A simple and fast tool that allows you to search Google Drive for files.
+- [GroupDocs Metadata](https://products.groupdocs.app/metadata/)  
+  Upload a document file an view that documents metadata. Supports over 50 different file types.
+- [ISBNdb](https://isbndb.com/)  
+  Gathers data from hundreds of libraries, publishers, merchants and other sources around the globe to compile a vast collection of unique book data searchable by ISBN, title, author, or publisher.
+- [ISBN Search](https://isbnsearch.org/)  
+  Search for books by ISBN and view related information.
 
 ## <u>**Video Search**</u>
 
@@ -691,6 +697,3 @@
   Search and find strings across multiple IDEs, code aggregators and paste sites. 
 - [Doxbin](https://doxbin.org/)  
   A document sharing and publishing website which invites users to contribute personally identifiable information (PII), or a "dox" of any person of interest. It previously operated on the darknet as a TOR hidden service.
-
-> *44,661 characters in 5,473 words.*
-
