@@ -2597,6 +2597,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Here you will find a gallery of security testing tools that will show you what kind of personal data can be leaked, and how to protect yourself from it.
 - [DNS Leak Test](https://dnsleaktest.com/)  
   A simple tool to check for DNS leakage.
+- [WebKay](https://webkay.robinlinus.com/)  
+  A demonstration of all the data your browser knows about you. All this data can be accessed by any website without asking you.
 
 ## **Other Tools**
 
