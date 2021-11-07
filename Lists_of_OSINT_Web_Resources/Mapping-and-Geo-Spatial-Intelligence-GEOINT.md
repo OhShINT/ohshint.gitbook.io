@@ -280,5 +280,3 @@
   A great list of the different types bollards used around the world. Includes images as well. I converted this into a .pdf for offline use, available [here](https://anonfiles.com/90l8M8M7u8/Bollards-of-the-World_pdf). Archived copy available [here (Wayback)](https://web.archive.org/web/20211010055522/https://cdn-131.anonfiles.com/90l8M8M7u8/3fd7c7c4-1633845914/Bollards-of-the-World.pdf).
 - [McBroken](https://mcbroken.com/)  
   An interactive that tells you which McDonalds locations currently have broken ice cream machines. Probably one of the best uses of OSINT I have ever seen.
-
-> *21,447 characters in 2,707 words.*
