@@ -85,6 +85,3 @@
   Search for U.S. inmates by name. Also provides a generic people search tool.
 - [The Inmate Search](https://theinmatesearch.net/)  
   Yet another U.S. inmate search tool.
-
-> *5,162 characters in 655 words.*
-
