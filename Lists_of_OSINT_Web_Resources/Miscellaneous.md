@@ -21,5 +21,3 @@
   Interesting tool that shows you a graph of the shortest paths from one Wikipedia topic to another. Mostly useless, but still worth mentioning.
 - [WikiLess](https://wikiless.org/)  
   A privacy focused alternative to Wikipedia. Basically Wikipedia without all of the invasive tracking.
-
-> 1,492 characters in 191 words.
