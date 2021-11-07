@@ -2384,6 +2384,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Find neighboring websites, hostnames, and domains. Get an idea who runs a host, the hosting density, and neighboring hosts.
 - [NetworksDB](https://networksdb.io/)  
   Contains information about the public IPv4 and IPv6 addresses, networks and domains owned by companies and organizations across the world along with city-level IP geolocation data and autonomous system information. Also offers a free API.
+- [PeeringDB](https://www.peeringdb.com/)  
+  A user-maintained database of networks. Provides a wealth of interconnection data.
 
 ## **Domain Name System [DNS] Records**
 
@@ -2451,6 +2453,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   See how many sites link to a web page.
 - [SpyFu](https://www.spyfu.com/overview/domain)  
   Displays website information and metrics, SEO analytics, backlinks and more by searching a URL.
+- [CheckShortURL](https://checkshorturl.com)  
+  Easily expand URLs from most URL shortening services such as t.co, goo.gl, bit.ly, amzn.to, tinyurl.com, ow.ly, youtu.be and more.
 
 ## **Wireless Fidelity [WiFi]**
 
