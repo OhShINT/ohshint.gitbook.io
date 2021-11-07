@@ -18,7 +18,7 @@ The below lists are currently still a work in progress! It was going to take age
 # **To Do**
 
 - [ ] Add additional resources to all sections. (This one will never be completed).
-- [x] ~~Create an organized .html bookmark file of all these resources and make it available for download. So readers can import it directly into their browsers.~~ - Full and organized .html bookmark file available [here](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/Bookmarks/1_Complete_Bookmarks_Organized_3-11-2021_ohshint.html).
+- [x] ~~Create an organized .html bookmark file of all these resources and make it available for download. So readers can import it directly into their browsers.~~ - Full and organized .html bookmark file available [here](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/Bookmarks/1_Complete_Bookmarks_Organized_7-11-2021_ohshint.html).
 - [x] ~~Create a PDF document of this entire list and make it available for download.~~ - Available [here](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/PDFs/1_Complete_List_of_OSINT_Web_Resources_Light_ohshint.pdf).
 - [x] ~~Create PDF copies of all individual resource subsections.~~ - All of these are now available [here](https://github.com/OhShINT/ohshint.gitbook.io/tree/main/Lists_of_OSINT_Web_Resources/PDFs).
 - [x] ~~Create PDF copies of all articles.~~ - Now available [here](https://github.com/OhShINT/ohshint.gitbook.io/tree/main/OSINT_Articles/PDFs).
@@ -31,7 +31,7 @@ The below lists are currently still a work in progress! It was going to take age
 
 # **Recently Added Resources**
 
-When new resources are added, they will be listed and dated here: [Recently-Added-Resources.md](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/Recently-Added-Resources-3-11-2021_ohshint.md)
+When new resources are added, they will be listed and dated here: [Recently-Added-Resources.md](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/Recently-Added-Resources_ohshint.md)
 
 All dates are listed in *DD/MM/YYYY* format. 
 
