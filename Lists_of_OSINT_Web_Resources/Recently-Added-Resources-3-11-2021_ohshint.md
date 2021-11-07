@@ -31,6 +31,9 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Instagram**
 
+- [Picuki](https://www.picuki.com/) - *Added 6/11/2021.*
+- [Gramhir](https://gramhir.com/) - *Added 6/11/2021.*
+- [StoriesDown](https://storiesdown.com/) - *Added 6/11/2021.*
 - [InstaFollowers](https://www.instafollowers.co/find-instagram-user-id) - *Added 31/10/2021.*
 
 ### **Reddit**
@@ -92,6 +95,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### Internet Protocol Addresses [IP]
 
+- [PeeringDB](https://www.peeringdb.com/) - *Added 6/11/2021.*
 - [BGPView](https://bgpview.io/) - *Added 3/11/2021.*
 - [IP-Neighbors](https://www.ip-neighbors.com) - *Added 3/11/2021.*
 - [NetworksDB](https://networksdb.io/) - *Added 3/11/2021.*
@@ -111,6 +115,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### URL Redirects and Backlinks
 
+- [CheckShortURL](https://checkshorturl.com) - *Added 6/11/2021.*
 - [SpyFu](https://www.spyfu.com/overview/domain) - *Added 3/11/2021.*
 
 ### **Other Tools**
