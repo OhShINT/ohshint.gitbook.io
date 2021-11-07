@@ -902,6 +902,12 @@ A Google CSE that searches for scientific publications.
   Search for files and open directories via keyword. Uses a Google CSE.
 - [Gdrive Search](https://www.gdrivesearch.com/)  
   A simple and fast tool that allows you to search Google Drive for files.
+- [GroupDocs Metadata](https://products.groupdocs.app/metadata/)  
+  Upload a document file an view that documents metadata. Supports over 50 different file types.
+- [ISBNdb](https://isbndb.com/)  
+  Gathers data from hundreds of libraries, publishers, merchants and other sources around the globe to compile a vast collection of unique book data searchable by ISBN, title, author, or publisher.
+- [ISBN Search](https://isbnsearch.org/)  
+  Search for books by ISBN and view related information.
 
 ## **Video Search**
 
