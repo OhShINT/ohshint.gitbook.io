@@ -65,5 +65,3 @@
   Search for items on eBay in different countries. Great for tracking down stolen items, which are often fenced on eBay.
 - [Lost Numbered Items Search (Lithuania)](https://www.epolicija.lt/indr_paieska/dokumentai_en.php)  
   Find out whether numbered object is lost. A full identification number of an object is required. Indicate the whole number or a part of it searching for lost bicycles.
-
-> *4,990 characters in 624 words.*
