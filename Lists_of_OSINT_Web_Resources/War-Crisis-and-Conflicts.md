@@ -25,6 +25,3 @@
   Provides information for over 200,000 terrorism incidents.
 - [Gun Violence Archive](https://www.gunviolencearchive.org/)  
   An online archive of gun violence incidents collected from over 7,500 law enforcement, media, government and commercial sources daily in an effort to provide near-real time data about the results of gun violence.
-
-> *2,085 characters in 266 words.*
-
