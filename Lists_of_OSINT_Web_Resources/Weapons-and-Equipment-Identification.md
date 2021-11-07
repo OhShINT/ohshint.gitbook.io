@@ -155,5 +155,3 @@
   MAD features over 35,000 records of the exports and imports of small arms and ammunition from more than 262 states and territories between 1992 and 2014.
 - [Arms Trade Statistics](https://webgate.ec.europa.eu/eeasqap/sense/app/75fd8e6e-68ac-42dd-a078-f616633118bb/sheet/24ca368f-a36e-4cdb-94c6-00596b50c5ba/state/analysis)  
   International arms export licenses and statistics.
-
-> *15,179 characters in 1,651 words.*
