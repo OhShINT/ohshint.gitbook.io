@@ -10,12 +10,19 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Document and File Search**
 
+- [GroupDocs Metadata](https://products.groupdocs.app/metadata/) - *Added 7/11/2021.*
+- [ISBNdb](https://isbndb.com/) - *Added 7/11/2021.*
+- [ISBN Search](https://isbnsearch.org/) - *Added 7/11/2021.*
 - [Slideshare Downloader](https://slideshare-downloader.herokuapp.com/) - *Added 3/11/2021.*
 - [Gdrive Search](https://www.gdrivesearch.com/) - *Added 29/10/2021.*
 
 ### **Newspaper and News Search**
 
 - [NewspaperArchive](https://newspaperarchive.com/) - *Added 29/10/2021.*
+
+### Podcast Search
+
+- [ListenNotes](https://listennotes.com/) - *Added 7/11/2021.*
 
 ## <u>**Social Media Intelligence [SOCMINT]**</u>
 
@@ -57,6 +64,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [WhoDidIt](https://simon04.dev.openstreetmap.org/whodidit/) - *Added 7/11/2021.*
 - [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/) - *Added 3/11/2021.*
 
 ### **Political Maps**
@@ -84,7 +92,16 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### Image Generation
 
+- [Rudalle](https://rudalle.ru/) - *Added 7/11/2021.*
 - [Face Generator](https://generated.photos/face-generator/) - *Added 3/11/2021.*
+
+## <u>**Financial Intelligence [FININT]**</u>
+
+### Cryptocurrency and Blockchain
+
+#### **General Analysis**
+
+- [BlockCypher](https://blockcypher.herokuapp.com/) - *Added 7/11/2021.*
 
 ## <u>**Digital Network Intelligence [DNINT]**</u>
 
@@ -137,8 +154,9 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Phone Numbers**</u>
 
-- **General Phone number Tools**
-  - [SpyDailer](https://www.spydialer.com/) - *Added 3/11/2021.*
+### **General Phone number Tools**
+
+- [SpyDailer](https://www.spydialer.com/) - *Added 3/11/2021.*
 
 ## **<u>Usernames</u>**
 
