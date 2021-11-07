@@ -246,5 +246,3 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A list of default settings and login credentials for over 2,000 routers.
 - [Bowserling](https://www.browserling.com/)  
 Allows you to view a website in a different browser online. For example, a Mac user can test a website to see how it acts in Internet Explorer, without having to install a VM.
-
-> *15,151 characters in 1,916 words.*
