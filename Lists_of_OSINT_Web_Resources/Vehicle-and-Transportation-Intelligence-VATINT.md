@@ -319,6 +319,3 @@
   View and track public transit operating in Australia and New Zealand in real-time.
 - [BusGO](https://bus.go.kr/searchResult6.jsp)  
   View routes and timetables for all public transportation systems operating in Seoul, South Korea.
-
-> *22,979 characters in 2,549 words.*
-
