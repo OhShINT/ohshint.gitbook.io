@@ -71,5 +71,3 @@
   Using TRADINT intelligence, they have gathered the best resources, and created tools to make locating trade information simple.
 - [52WMB](https://en.52wmb.com/)  
   International trade data service platform that provides customs data, a buyer and supplier directory, B/L, industry reports, and more. Requires registration.
-
-> *4,286 characters in 527 words.*
