@@ -627,6 +627,11 @@
   A video sharing website that uses the LBRY blockchain network.
 - [BiliBili](https://www.bilibili.com/)  
   A Chinese video sharing website that is very similar to YouTube.
+  
+## **Podcast Search**
+
+- [ListenNotes](https://listennotes.com/)  
+  Podcast search engine where you can search over 118 million episodes, create your own podcast playlist and cut interesting pieces.
 
 ## <u>**Code Search**</u>
 
