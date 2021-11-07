@@ -54,5 +54,3 @@
   View a players UUID and name change history. Also good for checking if a username exists.
 - [NameMC](https://namemc.com/)  
   Check the availability of Minecraft names, look up the name history of Minecraft accounts, view Minecraft skins in 3D, convert UUIDs, and much more.
-
-> *3,526 characters in 472 words.*
