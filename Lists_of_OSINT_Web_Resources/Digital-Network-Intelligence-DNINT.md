@@ -224,6 +224,13 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   You can browse for vendors, products and versions and view CVE entries, vulnerabilities, related to them. You can view statistics about vendors, products and versions of products. Vulnerability data is updated daily using NVD feeds.
 - [VulDB](https://vuldb.com/)  
   A vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.
+  
+## **<u>Advanced Persistent Threats [APTs]</u>**
+
+- [[XLSX] APT Groups and Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)  
+  A large list of known APTs that is organized by country of operation.
+- [[IMAGE] APT Operation Groups](https://imgur.com/a/VePzyqX)  
+  A collection of infographics that display the various known and currently active cyber operation groups per country. Archived [here (Wayback)](https://web.archive.org/web/20211109034140/https://imgur.com/a/VePzyqX) and [here (archive.today)](https://archive.ph/dDkTw).
 
 ## **<u>Personal Connection Profiling</u>**
 
