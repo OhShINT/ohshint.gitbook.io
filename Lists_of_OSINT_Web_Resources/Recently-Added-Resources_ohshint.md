@@ -18,6 +18,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Newspaper and News Search**
 
+- [AllYouCanRead](https://www.allyoucanread.com/) - *Added 8/11/2021.*
 - [NewspaperArchive](https://newspaperarchive.com/) - *Added 29/10/2021.*
 
 ### Podcast Search
@@ -64,6 +65,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [360 Gigapixels](https://360gigapixels.com/) - *Added 8/11/2021.*
 - [WhoDidIt](https://simon04.dev.openstreetmap.org/whodidit/) - *Added 7/11/2021.*
 - [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/) - *Added 3/11/2021.*
 
@@ -107,6 +109,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **WHOIS**
 
+- [IQ WHOIS](https://iqwhois.com/advanced-search) - *Added 8/11/2021.*
 - [Marcaria](https://whois.marcaria.com/en) - *Added 3/11/2021.*
 - [GoFindWHOIS](https://gofindwhois.com/) - *Added 29/10/2021.*
 
@@ -135,8 +138,14 @@ All dates are listed in *DD/MM/YYYY* format.
 - [CheckShortURL](https://checkshorturl.com) - *Added 6/11/2021.*
 - [SpyFu](https://www.spyfu.com/overview/domain) - *Added 3/11/2021.*
 
+### **Advanced Persistent Threats [APTs]**
+
+- [[XLSX] APT Groups and Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)  - *Added 8/11/2021.*
+   - [[IMAGE] APT Operation Groups](https://imgur.com/a/VePzyqX)  - *Added 8/11/2021.*
+
 ### Personal Connection Profiling
 
+- [PrivacyTests](https://privacytests.org/) - *Added 8/11/2021.*
 - [WebKay](https://webkay.robinlinus.com/) - *Added 7/11/2021.*
 
 ### **Other Tools**
@@ -158,7 +167,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Phone Numbers**</u>
 
-### **General Phone Number Tools**
+### **General Phone number Tools**
 
 - [SpyDailer](https://www.spydialer.com/) - *Added 3/11/2021.*
 
