@@ -3,6 +3,8 @@
 
 ## **<u>General Social Media Tools</u>**
 
+- [World Social Media Platforms](https://www.osintcombine.com/world-social-media-platforms)  
+  A tool from OSINTCombine that lets you search for popular social media platforms by country.
 - [GoFindWho](https://gofindwho.com/)  
   This is one of the coolest collection of online OSINT tools I have seen. Find people for free by phone number, name, email address, and username on Facebook and in public records. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
 - [EffectGroup](https://effectgroup.io/)  
@@ -154,6 +156,8 @@
   Recruit'em is a tool that helps you find people on social networks. It creates a basic Boolean string that searches for publicly available webpages using Google.
 - [FreePeopleSearchTool](https://freepeoplesearchtool.com/)  
   Find LinkedIn profiles without using your account.
+- [Chartloop](https://buildorgchart.herokuapp.com/)  
+  Get a birds-eye view of an organizations team structure and location. Requires a paid subscription. 
 
 ## **<u>Mastodon</u>**
 
@@ -397,11 +401,19 @@
   Allows you watch YouTube videos frame-by-frame. Also works with Vimeo.
 - [Anilyzer](https://anilyzer.com/)  
   Another online tool to play any YouTube or Vimeo video frame-by-frame.
+- [PwnYouTube](https://deturl.com/)  
+  Download a YouTube video from any web page by adding `pwn` to the beginning of the URL.
+- [NSFW YouTube](https://nsfwyoutube.com/)  
+  A bookmarklet that bypasses the any restrictions set by YouTube.
+- [AltCensored](https://www.altcensored.com/)  
+  View over 177,000 Censored YouTube videos from over 2,000 deleted channels.
 
 ## **<u>WhatsApp</u>**
 
 - [WACheck](https://wacheck.online/)  
   Enter a WhatsApp number and see if the user is currently online or not.
+- [WATools](https://watools.io/)  
+  Easily download a WhatsApp profile picture online, check to see if a phone number exists on WhatsApp, and check to see if a user is online or not.
 - [WhatsApp Reverse Phone Lookup](https://www.celltrack.eu/whatsapp)  
   Tool that allows you to enter a phone number and view the WhatsApp account connected to it. Including username and profile picture. Requires a paid subscription.
 - [WhatsApp Law Enforcement Guide](https://faq.whatsapp.com/general/security-and-privacy/information-for-law-enforcement-authorities)  
