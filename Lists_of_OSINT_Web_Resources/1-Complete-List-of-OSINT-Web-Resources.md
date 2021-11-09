@@ -2599,7 +2599,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [MITRE ATT&CK Groups](https://attack.mitre.org/groups/)  
   Great collection of known APT groups that are currently in operation as well as groups that are no longer active.
 - [[XLSX] APT Groups and Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)  
-  A large list of known APTs that is organized by country of operation.
+  A large list of known APTs that is organized by country of operation. Archived copies available [here (Wayback)](https://web.archive.org/web/20211109032726/https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml). Offline copy available [here (AnonFiles)](https://cdn-105.anonfiles.com/Za6fKaTbua/10754569-1636429170/APT_Groups_and_Operations.xlsx).
 - [[IMAGE] APT Operation Groups](https://imgur.com/a/VePzyqX)  
   A collection of infographics that display the various known and currently active cyber operation groups per country. Archived [here (Wayback)](https://web.archive.org/web/20211109034140/https://imgur.com/a/VePzyqX) and [here (archive.today)](https://archive.ph/dDkTw).
 
