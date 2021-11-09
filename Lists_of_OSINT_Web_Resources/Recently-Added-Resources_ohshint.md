@@ -8,6 +8,14 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Search Engines**</u>
 
+### **General Search**
+
+- [Brave Search](https://search.brave.com/) - *Added 9/11/2021.*
+
+### **Meta Search**
+
+- [I Search From](http://isearchfrom.com/) - *Added 9/11/2021.*
+
 ### **Document and File Search**
 
 - [GroupDocs Metadata](https://products.groupdocs.app/metadata/) - *Added 7/11/2021.*
@@ -18,6 +26,10 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Newspaper and News Search**
 
+- [Paperboy](https://www.thepaperboy.com/) - *Added 9/11/2021.*
+  - [Elephind](https://elephind.com/) - *Added 9/11/2021.*
+  - [Readium Bookmarklet](https://sugoidesune.github.io/readium/) - *Added 9/11/2021.*
+  - [Wikipedia - List of Newspaper Archives](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives) ([Wikiless](https://wikiless.org/wiki/Wikipedia:List_of_online_newspaper_archives)) - *Added 9/11/2021.*
 - [AllYouCanRead](https://www.allyoucanread.com/) - *Added 8/11/2021.*
 - [NewspaperArchive](https://newspaperarchive.com/) - *Added 29/10/2021.*
 
@@ -29,6 +41,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Social Media Tools**
 
+- [World Social Media Platforms](https://www.osintcombine.com/world-social-media-platforms) - *Added 9/11/2021.*
 - [Shreateh Social Media Tools](https://khalil-shreateh.com/khalil.shtml/social_applications/) - *Added 3/11/2021.*
 - [SignalHire](https://www.signalhire.com/) - *Added 3/11/2021.*
 - [GoFindWho](https://gofindwho.com/) - *Added 30/10/2021.*
@@ -44,8 +57,15 @@ All dates are listed in *DD/MM/YYYY* format.
 - [StoriesDown](https://storiesdown.com/) - *Added 6/11/2021.*
 - [InstaFollowers](https://www.instafollowers.co/find-instagram-user-id) - *Added 31/10/2021.*
 
+### **LinkedIn**
+
+- [Chartloop](https://buildorgchart.herokuapp.com/) - *Added 9/11/2021.*
+
 ### **Reddit**
 
+- [YASIV Reddit Visualization](http://yasiv.com/reddit) - *Added 9/11/2021.*
+- [RedditMetis](https://redditmetis.com/) - *Added 9/11/2021.*
+- [Redective](https://www.redective.com/) - *Added 9/11/2021.*
 - [Reveddit](https://www.reveddit.com/about/) - *Added 30/10/2021.*
 - [Pushshift Reddit Search](http://redditsearch.io/) - *Added 30/10/2021.*
 
@@ -57,8 +77,15 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [TrendsMap](https://www.trendsmap.com/map) - *Added 3/11/2021.*
 
+### **WhatsApp**
+
+- [WATools](https://watools.io/) - *Added 9/11/2021.*
+
 ### YouTube
 
+- [PwnYouTube](https://deturl.com/) - *Added 9/11/2021.*
+- [AltCensored](https://www.altcensored.com/) - *Added 9/11/2021.*
+- [NSFW YouTube](https://nsfwyoutube.com/) - *Added 9/11/2021.*
 - [Montage](https://montage.meedan.com/welcome) - *Added 3/11/2021.*
 
 ## <u>**Mapping and Geo-Spatial Intelligence [GEOINT]**</u>
@@ -138,16 +165,35 @@ All dates are listed in *DD/MM/YYYY* format.
 - [CheckShortURL](https://checkshorturl.com) - *Added 6/11/2021.*
 - [SpyFu](https://www.spyfu.com/overview/domain) - *Added 3/11/2021.*
 
+### **Media Access Control [MAC]**
+
+- [MAC and OUI Lookup](https://aruljohn.com/mac.pl) - *Added 9/11/2021.*
+   - [MAC Lookup](https://dnschecker.org/mac-lookup.php) - *Added 9/11/2021.*
+
+### **Internet of Things [IoT] Search**
+
+- [IPVM Camera Calculator](https://calculator.ipvm.com/) - *Added 9/11/2021.*
+- [SkylineWebcams](https://www.skylinewebcams.com/en/webcam) - *Added 9/11/2021.*
+
 ### **Advanced Persistent Threats [APTs]**
 
+- [SOCRadar Daily APT Feed](https://labs.socradar.com/apt-feeds/) - *Added 9/11/2021.*
 - [MITRE ATT&CK Groups](https://attack.mitre.org/groups/) - *Added 8/11/2021.*
 - [[XLSX] APT Groups and Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)  - *Added 8/11/2021.*
    - [[IMAGE] APT Operation Groups](https://imgur.com/a/VePzyqX)  - *Added 8/11/2021.*
 
 ### Personal Connection Profiling
 
+- [Trackography](https://trackography.org/) - *Added 9/11/2021.*
 - [PrivacyTests](https://privacytests.org/) - *Added 8/11/2021.*
 - [WebKay](https://webkay.robinlinus.com/) - *Added 7/11/2021.*
+
+### **Browser Extension Resources**
+
+- [CRXcavator](https://crxcavator.io/) - *Added 9/11/2021.*
+- [Crx4Chrome](https://www.crx4chrome.com/) - *Added 9/11/2021.*
+- [Firefox Legacy Collector Dump](https://archive.org/details/Firefox_Legacy_Collector_Dump) - *Added 9/11/2021.*
+- [ca-archive](https://github.com/JustOff/ca-archive) - *Added 9/11/2021.*
 
 ### **Other Tools**
 
