@@ -27,9 +27,9 @@ All dates are listed in *DD/MM/YYYY* format.
 ### **Newspaper and News Search**
 
 - [Paperboy](https://www.thepaperboy.com/) - *Added 9/11/2021.*
-  - [Elephind](https://elephind.com/) - *Added 9/11/2021.*
-  - [Readium Bookmarklet](https://sugoidesune.github.io/readium/) - *Added 9/11/2021.*
-  - [Wikipedia - List of Newspaper Archives](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives) ([Wikiless](https://wikiless.org/wiki/Wikipedia:List_of_online_newspaper_archives)) - *Added 9/11/2021.*
+- [Elephind](https://elephind.com/) - *Added 9/11/2021.*
+- [Readium Bookmarklet](https://sugoidesune.github.io/readium/) - *Added 9/11/2021.*
+- [Wikipedia - List of Newspaper Archives](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives) ([Wikiless](https://wikiless.org/wiki/Wikipedia:List_of_online_newspaper_archives)) - *Added 9/11/2021.*
 - [AllYouCanRead](https://www.allyoucanread.com/) - *Added 8/11/2021.*
 - [NewspaperArchive](https://newspaperarchive.com/) - *Added 29/10/2021.*
 
