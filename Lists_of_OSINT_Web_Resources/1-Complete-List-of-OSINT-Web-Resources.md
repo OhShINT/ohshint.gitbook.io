@@ -164,6 +164,7 @@ Remember, CTRL+F is your friend here.
   * [**Exploits and Proof of Concept [PoC]**](#exploits-and-proof-of-concept-poc)
   * [**Advanced Persistent Threats [APTs]**](#advanced-persistent-threats-apts)
   * [**Personal Connection Profiling**](#personal-connection-profiling)
+  * [**Browser Extension Resources**](browser-extension-resources)
   * [**Other Tools**](#other-tools)
 - [<u>**Signals Intelligence [SIGINT]**</u>](#signals-intelligence-sigint)
   * [**Radio Frequencies**](#radio-frequencies)
@@ -2490,6 +2491,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 
 - [MAC Address Lookup](https://macvendors.com/)  
   Lookup any MAC address and view the manufacturers name.
+- [MAC and OUI Lookup](https://aruljohn.com/mac.pl)  
+  Displays the name of the company that manufactured a network card. You can also do a reverse lookup and find the MAC addresses registered by a company.
+- [MAC Lookup](https://dnschecker.org/mac-lookup.php)  
+  Another tool that provides information about any MAC address.
 
 ## **User Agents**
 
@@ -2540,6 +2545,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A large open webcam directory. Formally known as "Lookr".
 - [WebcamMap](http://world-webcams.nsspot.net/)  
   A directory or open IP cameras plotted on a map.
+- [SkylineWebcams](https://www.skylinewebcams.com/en/webcam)  
+  View live webcam feeds from around the world. Sorted by country.
 - [AirportWebcams](https://airportwebcams.net/)  
   Directory of webcams from various airports and runways from around the world.
 - [KrooozCams](https://www.kroooz-cams.com/)  
@@ -2552,6 +2559,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Directory of open IP cameras plotted on a map. Website is in Spanish.
 - [List of Unsecured IP Cameras](https://reolink.com/unsecured-ip-camera-list/)  
   A great article that describes the most common types of IP cameras that are exposed online. Also provides a list of default credentials for common IP cameras.
+- [IPVM Camera Calculator](https://calculator.ipvm.com/)  
+  Calculate the field of view, layout and design of a CCTV camera network.
 - [CamVista](http://www.camvista.com/)  
   A directory of open IP cameras. Appears to be outdated, but still worth mentioning.
 
@@ -2602,6 +2611,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A large list of known APTs that is organized by country of operation. Archived copies available [here (Wayback)](https://web.archive.org/web/20211109032726/https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml). Offline copy available [here (AnonFiles)](https://cdn-105.anonfiles.com/Za6fKaTbua/10754569-1636429170/APT_Groups_and_Operations.xlsx).
 - [[IMAGE] APT Operation Groups](https://imgur.com/a/VePzyqX)  
   A collection of infographics that display the various known and currently active cyber operation groups per country. Archived [here (Wayback)](https://web.archive.org/web/20211109034140/https://imgur.com/a/VePzyqX) and [here (archive.today)](https://archive.ph/dDkTw).
+- [SOCRadar Daily APT Feed](https://labs.socradar.com/apt-feeds/)  
+  Collects APT IOC feeds from several public and private sources and sensors. These feeds are free and refreshed daily. Requires you to provide an email address.
 
 ## **Personal Connection Profiling**
 
@@ -2617,6 +2628,19 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A demonstration of all the data your browser knows about you. All this data can be accessed by any website without asking you.
 - [PrivacyTests](https://privacytests.org/)  
   An open-source list of web browser privacy tests.
+- [Trackography](https://trackography.org/)  
+  Find out who is tracking you when you are reading your favorite news online.
+  
+## **Browser Extension Resources**
+
+- [CRXcavator](https://crxcavator.io/)  
+  Automatically scans browser extension stores every 3 hours and produces a quantified risk score for each extension. Catalogs extensions for Chrome, Firefox and Edge.
+- [Crx4Chrome](https://www.crx4chrome.com/)  
+  A catalogue of Chrome extensions. Allows you to download older versions and view related metadata about an extension. 
+- [Firefox Legacy Collector Dump](https://archive.org/details/Firefox_Legacy_Collector_Dump)  
+  A large archive of legacy Firefox browser extensions.
+- [ca-archive](https://github.com/JustOff/ca-archive)  
+  Another catalogue of classic Firefox add-ons created before WebExtensions apocalypse.
 
 ## **Other Tools**
 
