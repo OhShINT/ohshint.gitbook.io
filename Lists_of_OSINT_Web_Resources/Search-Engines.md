@@ -670,9 +670,9 @@
   An archive site which stores historical snapshots of web pages.
 - [WebCite](https://www.webcitation.org/)  
   WebCite is an on-demand archive site, designed to digitally preserve scientific and educationally important material on the web by making snapshots of Internet contents as they existed at the time when a blogger, or a scholar cited or quoted from it.
-- [Google Cache](https://webcache.googleusercontent.com/search?q=cache:<ENTER URL HERE>)  
+- [Google Cache](https://webcache.googleusercontent.com/search?q=cache:ENTER-URL-HERE)  
   Google takes a snapshot of each web page as a backup in case the current page isn't available. Simply enter the address you wish to search at the end of the URL. Example: `https://webcache.googleusercontent.com/search?q=cache:<ENTER URL HERE>`
-- [Bing Cache](https://www.bing.com/search?q=url:www.<ENTER URL HERE>)  
+- [Bing Cache](https://www.bing.com/search?q=url:www.ENTER-URL-HERE)  
   Bing also allows you to view cached webpages. Simply search `url:www.<ENTER URL HERE>`, click the small arrow next to the result, then click on "Cached".
 - [MementoWeb Time Travel](https://timetravel.mementoweb.org/)  
   Find Mementos in Internet Archive, Archive-It, British Library, archive.today, GitHub and many more.
@@ -687,12 +687,18 @@
 
 - [NewspaperMap](https://newspapermap.com/)  
   An interactive map of the world that shows you the different newspaper publishers for a specific area, simply zoom into an area of interest.
+- [Paperboy](https://www.thepaperboy.com/)  
+  Provides easy access to more than 11,000 online newspapers from around the world.
+- [Elephind](https://elephind.com/)
+  A search engine that allows you to search for newspapers from all over the world.
 - [EMM News Search](https://emm.newsbrief.eu/NewsBrief/clusteredition/en/latest.html)  
   Search for news articles from all over the world via keyword. Very useful when investigating companies and widely known individuals.
 - [NewspaperArchive](https://newspaperarchive.com/)  
   Explore billions of newspaper articles from all over the world. Extremely useful tool. Requires a paid subscription.
 - [AllYouCanRead](https://www.allyoucanread.com/)  
   A searchable list of news sites and newspapers organized by geographic location.
+- [Wikipedia - List of Newspaper Archives](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives) ([Wikiless](https://wikiless.org/wiki/Wikipedia:List_of_online_newspaper_archives))  
+  Wikipedia's list of worldwide newspaper archives.
 
 ## <u>**Paste Sites**</u>
 
