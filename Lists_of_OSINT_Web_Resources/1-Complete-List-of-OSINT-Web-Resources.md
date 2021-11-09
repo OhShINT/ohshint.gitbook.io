@@ -988,7 +988,7 @@ A Google CSE that searches for scientific publications.
   An interactive map of the world that shows you the different newspaper publishers for a specific area, simply zoom into an area of interest.
 - [Paperboy](https://www.thepaperboy.com/)  
   Provides easy access to more than 11,000 online newspapers from around the world.
-- [Elephind](https://elephind.com/)
+- [Elephind](https://elephind.com/)  
   A search engine that allows you to search for newspapers from all over the world.
 - [EMM News Search](https://emm.newsbrief.eu/NewsBrief/clusteredition/en/latest.html)  
   Search for news articles from all over the world via keyword. Very useful when investigating companies and widely known individuals.
