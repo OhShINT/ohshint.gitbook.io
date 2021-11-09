@@ -206,6 +206,12 @@
   A very organized interactive map of subreddits.
 - [Searcheddit](http://searcheddit.com/)  
   Search through Reddit via specific keywords.
+- [YASIV Reddit Visualization](http://yasiv.com/reddit)  
+  Search for a subreddit and view an interactive chart of related subreddits.
+- [RedditMetis](https://redditmetis.com/)  
+  Enter a username and see recent activity, comment and submission summaries, word cloud, and more interesting stats. Data is generated from the last 1,000 comments and submissions.
+- [Redective](https://www.redective.com/)  
+  Search for a username or subreddit and view in-depth statistics about it.
 - [The-Eye Subreddit Archive](https://the-eye.eu/r/)  
   A collection of archived subreddits from the-eye.eu. Includes some NSFW subreddits.
 - [Reddit Archive](http://www.redditarchive.com/)  
