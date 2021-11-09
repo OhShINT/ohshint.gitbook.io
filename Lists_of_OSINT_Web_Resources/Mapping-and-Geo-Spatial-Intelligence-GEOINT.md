@@ -37,6 +37,8 @@
   Collecting and analyzing data from a variety of government and private sources, they are able to create detailed, informative profiles for every city in the United States. From crime rates to weather patterns.
 - [360cities](https://www.360cities.net/map)  
   Interactive map that lets you explore panoramic images taken in specific locations.
+- [360 Gigapixels](https://360gigapixels.com/)  
+  A collection of gigapxel images of various places on Earth. Offered by 360cities.
 - [EOS Land Viewer](https://eos.com/landviewer/)  
   Land Viewer is a satellite observation imagery tool that allows for on-the-fly searching, processing and getting valuable insights from satellites data to tackle real business issues. Lets you mark and download satellite imagery. Requires a paid subscription for best results.
 - [Global Wetlands Map](https://www2.cifor.org/global-wetlands/)  
