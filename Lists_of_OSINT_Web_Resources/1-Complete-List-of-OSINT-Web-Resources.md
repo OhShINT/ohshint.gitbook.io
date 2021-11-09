@@ -3527,6 +3527,10 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   View a players UUID and name change history. Also good for checking if a username exists.
 - [NameMC](https://namemc.com/)  
   Check the availability of Minecraft names, look up the name history of Minecraft accounts, view Minecraft skins in 3D, convert UUIDs, and much more.
+- [LoLProfile](https://lolprofile.net/)  
+  Search for a League of Legends player and view their statistics.
+- [Fortnite Tracker](https://fortnitetracker.com/)  
+  Search for a player by their username and view their Fortnite statistics.
 
 
 <u>**Real Estate**</u>
@@ -3544,8 +3548,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Allows you to search for public property records for addresses in the U.S.
 - [Emporis](https://www.emporis.com/)  
   Provides information about skyscrapers and high-rise buildings. They also provide an [interactive map](https://www.emporis.com/buildings/map#c=57.956477,-16.97009&z=0).
- - [DataTree](https://dna.firstam.com/)  
-   Great resource and toolkit for finding real estate information and records. Requires a paid subscription.
+- [DataTree](https://dna.firstam.com/)  
+  Great resource and toolkit for finding real estate information and records. Requires a paid subscription.
 
 ## **Historical Data**
 
