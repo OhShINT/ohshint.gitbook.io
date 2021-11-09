@@ -557,25 +557,27 @@
 - [YubNub](https://yubnub.org/)  
   Yubnub gives you all the details about a website relevant to the business. This website is user-friendly and functions as a search engine. This allows developing and using commands linked to web pages and web services. 
 - [MyAllSearch](https://www.myallsearch.com/)  
-  a multi metasearch engine that provides search results from a number of different search engines. MyAllSearch offers standard web searches, image searches, video searches, news searches and blog searches. Results are available from major search engines, such as Google, Yahoo, Bing & DuckDuckGo.
+  A multi metasearch engine that provides search results from a number of different search engines. MyAllSearch offers standard web searches, image searches, video searches, news searches and blog searches. Results are available from major search engines, such as Google, Yahoo, Bing & DuckDuckGo.
 - [iZito](https://www.izito.com/)  
   Comines search results from Google, Bing, YouTube, Yahoo!, Wikipedia, Entireweb and many more.
 - [eTools](https://www.etools.ch/search.do)  
   Searches major Swiss and international search engines. Queried search engines include Ask, Base, Bing, Brave, DuckDuckGo, ExaLead, Fastbot, FindX, Google, Mojeek, Moose, Qwant, Search, Tiger, Wikipedia, Yahoo! and Yandex.
 - [Zapmeta](https://www.zapmeta.fi/)  
   Essentially a clone of iZito.
+- [I Search From](http://isearchfrom.com/)  
+  Simulate using Google Search from a different location or device, or perform a search with custom search settings.
 
 ## <u>**Similar Site Search**</u>
 
 - [SimilarSites](https://www.similarsites.com/)  
   Enter a website URL and view websites that are similar.
- - [SitesLike](https://siteslike.com/)  
+- [SitesLike](https://siteslike.com/)  
    Enter a URL or keyword and view websites that are similar or match your keyword.
- - [Alexa Similar Site Search](https://www.alexa.com/find-similar-sites)  
+- [Alexa Similar Site Search](https://www.alexa.com/find-similar-sites)  
    A great similar site search tool offered by Amazon. Simply search any URL and view the results. For additional results a paid subscription is required.
- - [SiteLike](https://www.sitelike.org/)  
+- [SiteLike](https://www.sitelike.org/)  
    Another simple tool to find related websites via URL.
- - [SimilarWeb](https://www.similarweb.com/)  
+- [SimilarWeb](https://www.similarweb.com/)  
    A great tool for finding similar and/or competitor websites. Search via website URL.
 
 ## <u>**Document and File Search**</u>
@@ -697,6 +699,8 @@
   Explore billions of newspaper articles from all over the world. Extremely useful tool. Requires a paid subscription.
 - [AllYouCanRead](https://www.allyoucanread.com/)  
   A searchable list of news sites and newspapers organized by geographic location.
+- [Readium Bookmarklet](https://sugoidesune.github.io/readium/)  
+  A simple bookmarklet for reading premium articles for free.
 - [Wikipedia - List of Newspaper Archives](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives) ([Wikiless](https://wikiless.org/wiki/Wikipedia:List_of_online_newspaper_archives))  
   Wikipedia's list of worldwide newspaper archives.
 
