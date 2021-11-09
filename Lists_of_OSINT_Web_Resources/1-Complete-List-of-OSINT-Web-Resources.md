@@ -861,6 +861,8 @@ Remember, CTRL+F is your friend here.
   Searches major Swiss and international search engines. Queried search engines include Ask, Base, Bing, Brave, DuckDuckGo, ExaLead, Fastbot, FindX, Google, Mojeek, Moose, Qwant, Search, Tiger, Wikipedia, Yahoo! and Yandex.
 - [Zapmeta](https://www.zapmeta.fi/)  
   Essentially a clone of iZito.
+- [I Search From](http://isearchfrom.com/)  
+  Simulate using Google Search from a different location or device, or perform a search with custom search settings.
 
 ## **Similar Site Search**
 
@@ -994,6 +996,8 @@ A Google CSE that searches for scientific publications.
   Explore billions of newspaper articles from all over the world. Extremely useful tool. Requires a paid subscription.
 - [AllYouCanRead](https://www.allyoucanread.com/)  
   A searchable list of news sites and newspapers organized by geographic location.
+- [Readium Bookmarklet](https://sugoidesune.github.io/readium/)  
+  A simple bookmarklet for reading premium articles for free.
 - [Wikipedia - List of Newspaper Archives](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives) ([Wikiless](https://wikiless.org/wiki/Wikipedia:List_of_online_newspaper_archives))  
   Wikipedia's list of worldwide newspaper archives.
 
