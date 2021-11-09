@@ -227,6 +227,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   
 ## **<u>Advanced Persistent Threats [APTs]</u>**
 
+- [MITRE ATT&CK Groups](https://attack.mitre.org/groups/)  
+  Great collection of known APT groups that are currently in operation as well as groups that are no longer active.
 - [[XLSX] APT Groups and Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)  
   A large list of known APTs that is organized by country of operation.
 - [[IMAGE] APT Operation Groups](https://imgur.com/a/VePzyqX)  
