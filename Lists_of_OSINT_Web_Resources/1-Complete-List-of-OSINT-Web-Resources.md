@@ -986,6 +986,8 @@ A Google CSE that searches for scientific publications.
   Search for news articles from all over the world via keyword. Very useful when investigating companies and widely known individuals.
 - [NewspaperArchive](https://newspaperarchive.com/)  
   Explore billions of newspaper articles from all over the world. Extremely useful tool. Requires a paid subscription.
+- [AllYouCanRead](https://www.allyoucanread.com/)  
+  A searchable list of news sites and newspapers organized by geographic location.
 
 ## **Paste Sites**
 
@@ -1466,6 +1468,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Collecting and analyzing data from a variety of government and private sources, they are able to create detailed, informative profiles for every city in the United States. From crime rates to weather patterns.
 - [360cities](https://www.360cities.net/map)  
   Interactive map that lets you explore panoramic images taken in specific locations.
+- [360 Gigapixels](https://360gigapixels.com/)  
+  A collection of gigapxel images of various places on Earth. Offered by 360cities.
 - [EOS Land Viewer](https://eos.com/landviewer/)  
   Land Viewer is a satellite observation imagery tool that allows for on-the-fly searching, processing and getting valuable insights from satellites data to tackle real business issues. Lets you mark and download satellite imagery. Requires a paid subscription for best results.
 - [Global Wetlands Map](https://www2.cifor.org/global-wetlands/)  
@@ -2377,6 +2381,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A great online tool for locating information about a website or IP address. Offers WHOIS lookups, DNS records, IP tools, and other website enumeration tools. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
 - [Marcaria](https://whois.marcaria.com/en)  
   Search WHOIS information in over 2,000 extensions including international ccTLDs and gTLDs.
+- [IQ WHOIS](https://iqwhois.com/advanced-search)  
+  A great WHOIS search tool that offers downloadable databases, historical WHOIS records and more.
 
 ## **Internet Protocol Addresses [IP]**
 
@@ -2599,6 +2605,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A simple tool to check for DNS leakage.
 - [WebKay](https://webkay.robinlinus.com/)  
   A demonstration of all the data your browser knows about you. All this data can be accessed by any website without asking you.
+- [PrivacyTests](https://privacytests.org/)  
+  An open-source list of web browser privacy tests.
 
 ## **Other Tools**
 
