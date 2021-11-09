@@ -328,7 +328,9 @@ Remember, CTRL+F is your friend here.
 - [Lycos](https://www.lycos.com/)  
   Another generic search engine.
 - [Qwant](https://www.qwant.com/)  
-  a search engine that respects your privacy and ensure neutrality and impartiality. Based in Paris, France.
+  A search engine that respects your privacy and ensure neutrality and impartiality. Based in Paris, France.
+- [Brave Search](https://search.brave.com/)  
+  A search engine that is currently still in beta offered by Brave.
 
 ## **Country Specific Search Engines and Directories**
 
