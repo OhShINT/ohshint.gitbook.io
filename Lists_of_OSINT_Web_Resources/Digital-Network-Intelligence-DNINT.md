@@ -13,6 +13,8 @@
   A great online tool for locating information about a website or IP address. Offers WHOIS lookups, DNS records, IP tools, and other website enumeration tools. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
 - [Marcaria](https://whois.marcaria.com/en)  
   Search WHOIS information in over 2,000 extensions including international ccTLDs and gTLDs.
+- [IQ WHOIS](https://iqwhois.com/advanced-search)  
+  A great WHOIS search tool that offers downloadable databases, historical WHOIS records and more.
 
 ## **<u>Internet Protocol Addresses [IP]</u>**
 
@@ -235,6 +237,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A simple tool to check for DNS leakage.
 - [WebKay](https://webkay.robinlinus.com/)  
   A demonstration of all the data your browser knows about you. All this data can be accessed by any website without asking you.
+- [PrivacyTests](https://privacytests.org/)  
+  An open-source list of web browser privacy tests.
 
 ## <u>**Other Tools**</u>
 
