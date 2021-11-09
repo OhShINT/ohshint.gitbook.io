@@ -691,6 +691,8 @@
   Search for news articles from all over the world via keyword. Very useful when investigating companies and widely known individuals.
 - [NewspaperArchive](https://newspaperarchive.com/)  
   Explore billions of newspaper articles from all over the world. Extremely useful tool. Requires a paid subscription.
+- [AllYouCanRead](https://www.allyoucanread.com/)  
+  A searchable list of news sites and newspapers organized by geographic location.
 
 ## <u>**Paste Sites**</u>
 
