@@ -1522,6 +1522,12 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A simple tool that determines sun rises and sunsets by location.
 - [WhoDidIt](https://simon04.dev.openstreetmap.org/whodidit/)  
   Click on an area on the OpenStreetMap to get a list of usernames who have made changes and edits. Includes dates when the edits were made.
+- [Dual Maps](http://data.mashedworld.com/dualmaps/map.htm)  
+  Lets you combine Google Maps, aerial imagery and Google street view into one embeddable control. Very handy.
+- [VirtualGlobeTrotting](https://virtualglobetrotting.com/category/)  
+  View amazing satellite imagery from across the globe. Celebrity homes, roadside attractions, landmarks, military and much more.
+- [VirtualVacation](https://virtualvacation.us/)  
+  The website that lets you experience the world from home. Offers virtual tours, live cameras, a fun "City Guesser" game and more.
 
 ## **Street View Maps**
 
@@ -1554,6 +1560,12 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Another interactive map that shows you the current travel restrictions in-place due to the COVID-19 pandemic.
 - [World Population Density Map](https://luminocity3d.org/WorldPopDen/)  
   An interactive map that displays the population densities from all over the world.
+- [WorldAtlas Countries of the World](https://www.worldatlas.com/countries)  
+  Lists information about each country on Earth. Including flags, populations, GDP statistics, capital cities, ISO codes and dialing codes.
+- [Power Plug Sockets](https://www.power-plugs-sockets.com/)  
+  A directory that shows you the different types of power plug sockets used in different parts of the world.
+- [WorldPlugs](https://www.iec.ch/world-plugs)  
+  Provides information and an interactive map about the different types of electrical outlets used in different parts of the world.
 
 ## **Topographic and Geologic Maps**
 
@@ -1563,6 +1575,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A large collection of topographic maps of Canada provided by the Canadian government.
 - [NGMDB Geologic Maps](https://ngmdb.usgs.gov/mapview/)  
   Map for exploring some geologic maps and articles from the National Geologic Map Database (NGMDB).
+- [OpenTopoMap](https://opentopomap.org/)  
+  A project that renders topographic maps from OSM and SRTM data. 
 
 ## **Weather Maps**
 
@@ -1594,6 +1608,12 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A map that shows where it is currently raining.
 - [World Air Quality Index](https://waqi.info/)  
   Shows global air quality information in real-time.
+- [Blitzortung Live Lightning Map](https://map.blitzortung.org/)  
+  See lightning strikes in real-time for any location on Earth.
+- [Blitzortung Live Lightning Map Archive](https://www.blitzortung.org/en/historical_maps.php)  
+  A historic archive of lightning strikes from any location on Earth.
+- [Light Pollution Map](https://www.lightpollutionmap.info/)  
+  An interactive map that displays light pollution information by area.
 
 ### **Natural Disaster Maps**
 
@@ -1715,16 +1735,14 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   An awesome collection of OSINT tools plotted and sorted on a map. Created by [@cyb_detective](https://twitter.com/cyb_detective), be sure to give him a follow!
 - [RideWithGPS](https://ridewithgps.com/users)  
   Find bicyclists by name and/or location, view maps and other information about their bicycle routes.
- - [BikeMap](https://www.bikemap.net/)  
+- [BikeMap](https://www.bikemap.net/)  
    The world's biggest bike route collection. Find cycling routes by country. Requires registration to upload your own data.
- - [RunMap](http://www.runmap.net/en/)  
+- [RunMap](http://www.runmap.net/en/)  
    One of the largest collections of running routes on the web. Allows you to extract GPS data.
- - [WanderMap](http://www.wandermap.net/en/)  
+- [WanderMap](http://www.wandermap.net/en/)  
    One of the largest collections of hike routes on the internet. Allows you to extract GPS data.
- - [GeoNames](https://www.geonames.org/)  
+- [GeoNames](https://www.geonames.org/)  
    Geographical database covers all countries and contains over 11 million place names that are available for download free of charge.
- - [WorldAtlas Countries of the World](https://www.worldatlas.com/countries)  
-   Lists information about each country on Earth. Including flags, populations, GDP statistics, capital cities, ISO codes and dialing codes.
 - [I Know Where Your Cat Lives](https://iknowwhereyourcatlives.com/)  
   A data visualization experiment that locates a sample of one million public images of cats on a world map by the latitude and longitude coordinates that is embedded in the images EXIF data.
 - [ShadowCalculator](http://shadowcalculator.eu/)  
@@ -1737,16 +1755,24 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A global wheelchair accessibility map.
 - [World Map of Social Networks](https://vincos.it/world-map-of-social-networks/)  
   A map that details the most popular social networks per country. Also provides a wealth of statistics.
-- [Light Pollution Map](https://www.lightpollutionmap.info/)  
-  An interactive map that displays light pollution information by area.
-- [Power Plug Sockets](https://www.power-plugs-sockets.com/)  
-  A directory that shows you the different types of power plug sockets used in different parts of the world.
 - [World Map of Alphabets](https://www.key-shortcut.com/en/writing-systems/world-map-of-alphabets-scripts)  
   A great resource for identifying where in the world a specific written language or script is from.
+- [TravelTime](https://app.traveltime.com/search)  
+  This site helps you calculate how far can someone go from a place in a specific time period. Search by any location in the world, means of transport, and time period.
 - [Bollards of the World](https://docs.google.com/spreadsheets/d/1Glk_gUpSThPqof22DKI3_ol73CULxCeKxEC99z_BM30/htmlview)  
   A great list of the different types bollards used around the world. Includes images as well. I converted this into a .pdf for offline use, available [here](https://anonfiles.com/90l8M8M7u8/Bollards-of-the-World_pdf). Archived copy available [here (Wayback)](https://web.archive.org/web/20211010055522/https://cdn-131.anonfiles.com/90l8M8M7u8/3fd7c7c4-1633845914/Bollards-of-the-World.pdf).
+- [BrueckenWeb](https://www.brueckenweb.de/2content/suchen/suche.php)  
+  An awesome database of bridges from all over the world. Offers a search function as well. Click [here](https://www-brueckenweb-de.translate.goog/2content/suchen/suche.php?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui) for a German to English translation.
 - [McBroken](https://mcbroken.com/)  
   An interactive that tells you which McDonalds locations currently have broken ice cream machines. Probably one of the best uses of OSINT I have ever seen.
+- [Geograph Worldwide](https://www.geograph.org/)  
+  A concept and open source code for a online website to create a comprehensive collection of photographs capturing every part of given region.
+- [Landmark Recognition](https://landmark.toolpie.com/)  
+  Upload a image of a natural landmark or architectural landmark and this will show you where it is located.
+- [PeakVisor](https://peakvisor.com/)  
+  Find out the name, altitude and other information about a mountain.
+- [PeakFinder](https://www.peakfinder.org/)  
+  Shows the names of all mountains and peaks with a 360° panorama display. This functions and worldwide. Contains more than 850,000 peaks.
 
 # <u>**Imagery Intelligence [IMINT]**</u>
 
