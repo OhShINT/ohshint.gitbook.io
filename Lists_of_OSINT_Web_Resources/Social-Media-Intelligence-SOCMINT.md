@@ -19,6 +19,8 @@
   Allows you to easily export comments and other details to .xls format from various social media platforms including Facebook, Twitter, Instagram, YouTube, TikTok, VK, Twitch, Discord and Steam. Free use if limited to 100 comments, a paid subscription is required to remove this limitation.
 - [Synapsint](https://synapsint.com/)  
   Described as the "Unified OSINT research tool". Scrapes data from other sources, combines the results, then displays it using a simple interface. Search for domain, IP address, IPv6 address, ASN, SSL certs, Google accounts, email address, phone number, Twitter handle or Bitcoin address.
+- [FindMyFBID](https://findmyfbid.in/)  
+  A collection of tools for Facebook, Twitter, Instagram, Reddit and YouTube. Find user IDs, search comments on Reddit, calculate earnings from a YouTube channel and more. 
 - [Social-Searcher](https://www.social-searcher.com/)  
   Allows to search for content in social networks in real-time and provides deep analytics data. Users can search without logging in for publicly posted information on Twitter, Google+, Facebook, YouTube, Instagram, Tumblr, Reddit, Flickr, Dailymotion and Vimeo.
 - [SocialBlade](https://socialblade.com/)  
@@ -78,8 +80,6 @@
   This page tries to be a simple interface to show how the current Facebook search function works. Still experimental.
 - [Facebook Matrix](https://plessas.net/facebookmatrix)  
   A collection of techniques and formulas for searching Facebook.
-- [Face Facebook ID](https://findmyfbid.in/)  
-  A simple tool that helps you find a users Facebook ID.
 - [Search is Back](https://searchisback.com/)  
   Find people and events on Facebook. Searchable by name, location, relationship, gender, language, and more.
 - [Facebook Dangerous Individuals and Organizations List](https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/)  
