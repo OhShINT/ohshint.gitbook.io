@@ -305,7 +305,7 @@ Remember, CTRL+F is your friend here.
   The most popular search engine in the world. You already know what this is.
 - [DuckDuckGo](https://duckduckgo.com/)  
   A privacy respecting search engine.
-- [Bing](https://www.bing.com/)
+- [Bing](https://www.bing.com/)  
   A search engine owned and operated by Microsoft.
 - [Yahoo!](https://yahoo.com/)  
   Yahoo! search is basically a rebadged version of the Bing search engine.
@@ -331,6 +331,8 @@ Remember, CTRL+F is your friend here.
   A search engine that respects your privacy and ensure neutrality and impartiality. Based in Paris, France.
 - [Brave Search](https://search.brave.com/)  
   A search engine that is currently still in beta offered by Brave.
+- [I Search From](http://isearchfrom.com/)  
+  Simulate using Google Search from a different location or device, or perform a search with custom search settings.
 
 ## **Country Specific Search Engines and Directories**
 
