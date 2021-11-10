@@ -32,6 +32,8 @@
   A search engine that respects your privacy and ensure neutrality and impartiality. Based in Paris, France.
 - [Brave Search](https://search.brave.com/)  
   A search engine that is currently still in beta offered by Brave.
+- [I Search From](http://isearchfrom.com/)  
+  Simulate using Google Search from a different location or device, or perform a search with custom search settings.
 
 ## <u>**Country Specific Search Engines and Directories**</u>
 
