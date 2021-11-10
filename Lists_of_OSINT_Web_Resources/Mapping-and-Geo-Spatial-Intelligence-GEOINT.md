@@ -237,7 +237,7 @@
 - [Canadian Satellite Phone Coverage](https://www.canadasatellite.ca/Canada-Satellite-Coverage-Maps-s/2571.htm)  
   Coverage maps for satellite phone providers for Canada.
 
-## <u>**Industry Mapping**</u>
+## <u>**Industry Maps**</u>
 
 - [MinDat](https://www.mindat.org/countrylist.php)  
   Maps, information and images regarding mineral mines in various different countries.
