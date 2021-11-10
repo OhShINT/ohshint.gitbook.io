@@ -4,7 +4,7 @@
 ## **<u>General Social Media Tools</u>**
 
 - [World Social Media Platforms](https://www.osintcombine.com/world-social-media-platforms)  
-  A tool from OSINTCombine that lets you search for popular social media platforms by country.
+  A tool from [@osintcombine](https://twitter.com/osintcombine) that lets you search for popular social media platforms by country.
 - [GoFindWho](https://gofindwho.com/)  
   This is one of the coolest collection of online OSINT tools I have seen. Find people for free by phone number, name, email address, and username on Facebook and in public records. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
 - [EffectGroup](https://effectgroup.io/)  
