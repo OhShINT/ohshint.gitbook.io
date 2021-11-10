@@ -89,7 +89,7 @@ Remember, CTRL+F is your friend here.
     + [**Cell Tower Maps**](#cell-tower-maps)
     + [**Cellular Coverage Maps**](#cellular-coverage-maps)
     + [**Satellite Phone Coverage Maps**](#satellite-phone-coverage-maps)
-  * [**Industry Mapping**](#industry-mapping)
+  * [**Industry Maps**](#industry-maps)
   * [**Other Mapping Resources**](#other-mapping-resources)
 - [<u>**Imagery Intelligence [IMINT]**</u>](#imagery-intelligence-imint)
   * [**General Image Search**](#general-image-search)
@@ -1700,7 +1700,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [Canadian Satellite Phone Coverage](https://www.canadasatellite.ca/Canada-Satellite-Coverage-Maps-s/2571.htm)  
   Coverage maps for satellite phone providers for Canada.
 
-## **Industry Mapping**
+## **Industry Maps**
 
 - [MinDat](https://www.mindat.org/countrylist.php)  
   Maps, information and images regarding mineral mines in various different countries.
