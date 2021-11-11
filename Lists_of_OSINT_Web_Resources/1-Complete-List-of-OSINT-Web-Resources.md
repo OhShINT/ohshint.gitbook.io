@@ -4323,5 +4323,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Interesting tool that shows you a graph of the shortest paths from one Wikipedia topic to another. Mostly useless, but still worth mentioning.
 - [WikiLess](https://wikiless.org/)  
   A privacy focused alternative to Wikipedia. Basically Wikipedia without all of the invasive tracking.
+- [Barcode Reader](https://online-barcode-reader.inliteresearch.com/default.aspx)  
+  A free online tool that allows you to scan barcodes and QR codes.
 
 ![](Contact/Images/donvito.png)
