@@ -361,6 +361,8 @@
   Search Twitter for the tweets most important to you and receive custom tweet alerts. Requires a paid subscription.
 - [TweetsMap](https://tweepsmap.com/)  
   AI powered Twitter analytics. Requires a paid subscription.
+- [TweetedAt](https://oduwsdl.github.io/tweetedat/)  
+  Extracts the exact date and time from the tweet ID by reverse-engineering the [Twitter Snowflake](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html).
 
 ## <u>**Untappd**</u>
 
@@ -409,6 +411,8 @@
   A bookmarklet that bypasses the any restrictions set by YouTube.
 - [AltCensored](https://www.altcensored.com/)  
   View over 177,000 Censored YouTube videos from over 2,000 deleted channels.
+- [You-TLDR](https://you-tldr.com/)  
+  A free tool and bookmarklet that gathers an easy to read "too long, didn't read" (TLDR) transcript of any YouTube video.
 
 ## **<u>WhatsApp</u>**
 
