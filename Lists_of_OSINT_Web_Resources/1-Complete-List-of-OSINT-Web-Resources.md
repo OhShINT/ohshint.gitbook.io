@@ -1943,6 +1943,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search for a company and receive a wealth of information, analytics, financials, and locations.
 - [LEI Search](https://search.gleif.org/#/search/)  
   Search for a legal entity identifier (LEI) and find other associated companies.
+- [OpenLEIs](http://openleis.com/)  
+  A free, open and searchable database of Legal Entity Identifier (LEI) information.
 - [Effect International](https://effect.international/)  
   Find business information for corporate risk, B2B marketing and sales. Explore data on over 170 million companies across 200 different countries. Requires a paid subscription.
 - [BizDirLib](https://bizdirlib.com/country)  
