@@ -18,6 +18,8 @@
   Collects, classifies, and analyzes images of weapons from the ongoing conflict in South Sudan, one of the least documented conflicts in the world.
 - [Hunger Map](https://hungermap.wfp.org/)  
   A global hunger monitoring system that tracks and aims to predict a hunger crisis in near real-time. Monitors over 90 different countries.
+- [Live Universal Awareness Map](https://liveuamap.com/)  
+  An independent global news and information site dedicated to factual reporting of a variety of important topics including conflicts, human rights issues, protests, terrorism, weapons deployment, health matters, natural disasters, and weather related stories.
 
 ## **<u>Terrorism</u>**
 
