@@ -1,7 +1,7 @@
 **Digital Network Intelligence [DNINT]**
 ===========================================================================
 
-## <u>**WHOIS**</u>
+## **WHOIS**
 
 - [WhoisFreaks](https://whoisfreaks.com/)  
   An API which allows you to search for WHOIS records by company name, owner name or keyword. Currently has over 430 million records dating as far back as 1986. Requires registration.
@@ -16,7 +16,7 @@
 - [IQ WHOIS](https://iqwhois.com/advanced-search)  
   A great WHOIS search tool that offers downloadable databases, historical WHOIS records and more.
 
-## **<u>Internet Protocol Addresses [IP]</u>**
+## **Internet Protocol Addresses [IP]**
 
 - [IKnowWhatYouDownload](https://iknowwhatyoudownload.com/)  
   Search an IPv4 or IPv6 address and view the most recent torrents that have been downloaded or that the user is currently seeding.
@@ -43,7 +43,7 @@
 - [PeeringDB](https://www.peeringdb.com/)  
   A user-maintained database of networks. Provides a wealth of interconnection data.
 
-## <u>**Domain Name System [DNS] Records**</u>
+## **Domain Name System [DNS] Records**
 
 - [PTArchive](http://ptrarchive.com/)  
   Search for historical reverse DNS records. Currently has over 230 billion records retrieved from 2008 to now.
@@ -58,9 +58,9 @@
 - [dnstwister](https://dnstwister.report/)  
   The anti-phishing domain name search engine and DNS monitoring service, Search a domain name and this tool will show you related domain names that could potentially be used for phishing campaigns. 
 
-## <u>**Website Analysis**</u>
+## **Website Analysis**
 
-### **<u>Enumeration</u>**
+### **Enumeration**
 
 - [Wappalyzer](https://www.wappalyzer.com/)  
   Discover what software versions are running on any website.
@@ -94,8 +94,17 @@
   Captures websites and let you analyze and investigate them.
 - [The Favicon Finder](https://besticon.herokuapp.com/)  
   A free online service to finding icons on websites. Just enter in a target URL.
+  
+### **Web Page Monitoring**
 
-### **<u>URL Redirects and Backlinks</u>**
+- [FollowthatPage](https://followthatpage.com/)  
+  A change detection and notification service that sends you an email when your favorite web pages have changed.
+- [WatchThatPage](http://watchthatpage.com/)  
+  A service that enables you to automatically collect new information from any web page. Select which pages to monitor, and this will find which pages have changed, and collect all the new content for you.
+- [VisualPing](https://visualping.io/)  
+  Enter a URL that you would like to monitor, then enter an email address and this will send you emails everytime that page changes.
+
+## **URL Redirects and Backlinks**
 
 - [RedirectDetective](https://redirectdetective.com/)  
   A free URL redirection checker that allows you to see the complete path a redirected URL goes through.
@@ -112,12 +121,12 @@
 - [CheckShortURL](https://checkshorturl.com)  
   Easily expand URLs from most URL shortening services such as t.co, goo.gl, bit.ly, amzn.to, tinyurl.com, ow.ly, youtu.be and more.
 
-## **<u>Wireless Fidelity [WiFi]</u>**
+## **Wireless Fidelity [WiFi]**
 
 - [Mylnikov API](https://www.mylnikov.org/)  
   A free API that allows you to get latitude and longitude by WiFi BSSID or MAC address.
 
-## **<u>Media Access Control [MAC]</u>**
+## **Media Access Control [MAC]**
 
 - [MAC Address Lookup](https://macvendors.com/)  
   Lookup any MAC address and view the manufacturers name.
@@ -125,15 +134,19 @@
   Displays the name of the company that manufactured a network card. You can also do a reverse lookup and find the MAC addresses registered by a company.
 - [MAC Lookup](https://dnschecker.org/mac-lookup.php)  
   Another tool that provides information about any MAC address.
+- [MAC Address Search](https://mac.lc)  
+  Yep, it's another MAC address search tool.
 
-## **<u>User Agents</u>**
+## **User Agents**
 
 - [User Agent Parser](https://developers.whatismybrowser.com/useragents/parse/#parse-useragent)  
   Lookup a browser user-agent and view details about it such as software versions, OS types, and more.
+- [UA Parser](https://useragent.toolpie.com/)  
+  A simple tool that displays your current user agent strings.
 
-## <u>**Internet of Things [IoT] Search**</u>
+## **Internet of Things [IoT] Search**
 
-### **<u>Device Discovery</u>**
+### **Device Discovery**
 
 - [WiGLE](https://wigle.net/)  
   The Wireless Geographic Logging Engine is a website for collecting crowd-sourced wardriving information about the different wireless networks and cell towers around the world. Users can register on the website and upload hotspot data like GPS coordinates, SSID, MAC address and the encryption type used on the hotspots discovered. Great way to get an address from a WiFi SSID.
@@ -159,7 +172,7 @@
 - [BinaryEdge](https://app.binaryedge.io/)  
   Focuses on acquiring, analyzing and classifying internet wide data by combining efforts in the areas of cybersecurity, data science and machine learning. Requires registration.
 
-### <u>**CCTV and Webcams**</u>
+### **CCTV and Webcams**
 
 - [EarthCam](https://www.earthcam.com/)  
   A searchable global network of live streaming webcam feeds.
@@ -194,7 +207,7 @@
 - [CamVista](http://www.camvista.com/)  
   A directory of open IP cameras. Appears to be outdated, but still worth mentioning.
 
-## <u>**Attack Maps**</u>
+## **Attack Maps**
 
 - [Bitdefender Threat Map](https://threatmap.bitdefender.com/)  
   A cyber threat and cyber-attack map that displays information in real-time.
@@ -211,14 +224,14 @@
 - [Talos Intelligence Reputation Center](https://talosintelligence.com/reputation_center/)  
   Claims to be the world’s most comprehensive real-time threat detection network. Includes an interactive map.
 
-## **<u>Public Buckets</u>**
+## **Public Buckets**
 
 - [Public Buckets](https://osint.sh/buckets/)  
   Find public AWS and Azure buckets and documents via keyword.
 - [GreyHatWarfare Bucket Search](https://buckets.grayhatwarfare.com/)  
   A great tool that lists open AWS S3 buckets and helps you search for interesting files. Requires registration for limited free use. Requires a paid subscription to access advanced features.
 
-## **<u>Exploits and Proof of Concept [PoC]</u>**
+## **Exploits and Proof of Concept [PoC]**
 
 - [ExploitDB](https://www.exploit-db.com/)  
   An archive of exploits, vulnerabilities, shellcode, 0days, security articles, whitepapers and more. Ran by Offensive Security.
@@ -233,7 +246,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [VulDB](https://vuldb.com/)  
   A vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.
   
-## **<u>Advanced Persistent Threats [APTs]</u>**
+## **Advanced Persistent Threats [APTs]**
 
 - [MITRE ATT&CK Groups](https://attack.mitre.org/groups/)  
   Great collection of known APT groups that are currently in operation as well as groups that are no longer active.
@@ -244,7 +257,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [SOCRadar Daily APT Feed](https://labs.socradar.com/apt-feeds/)  
   Collects APT IOC feeds from several public and private sources and sensors. These feeds are free and refreshed daily. Requires you to provide an email address.
 
-## **<u>Personal Connection Profiling</u>**
+## **Personal Connection Profiling**
 
 - [GRC SheildsUP](https://www.grc.com/shieldsup)  
   Great tool for profiling your internet connection and router for exposure, potential vulnerabilities, and open ports. These are the results you want to see; [[IMAGE] SheildsUP TruStealth](https://i.imgur.com/R9w11GS_d.jpg?maxwidth=640&shape=full&fidelity=large), [(Wayback)](https://web.archive.org/web/20211020070418/https://i.imgur.com/R9w11GS_d.jpg?maxwidth=640&shape=full&fidelity=large), [(archive.today)](https://archive.ph/tjzKa).
@@ -261,7 +274,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [Trackography](https://trackography.org/)  
   Find out who is tracking you when you are reading your favorite news online.
 
-## <u>**Browser Extension Resources**</u>
+## **Browser Extension Resources**
 
 - [CRXcavator](https://crxcavator.io/)  
   Automatically scans browser extension stores every 3 hours and produces a quantified risk score for each extension. Catalogs extensions for Chrome, Firefox and Edge.
@@ -272,7 +285,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [ca-archive](https://github.com/JustOff/ca-archive)  
   Another catalogue of classic Firefox add-ons created before WebExtensions apocalypse.
 
-## <u>**Other Tools**</u>
+## **Other Tools**
 
 - [Domains-Index](https://domains-index.com/)  
   An index of registered domains, sorted by TLD. Allows you to download lists of registered TLDs in .csv format. Requires registration and a paid subscription. However, some TLD lists are free.
