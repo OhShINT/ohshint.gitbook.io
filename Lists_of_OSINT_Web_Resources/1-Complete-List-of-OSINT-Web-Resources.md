@@ -1840,6 +1840,14 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Japanese reverse image search engine for identifying anime.
 - [BBC News Search](https://zeus.robots.ox.ac.uk/bbc_search/)  
   BBC news search, Enter the name or an image of an item and the service will show in which news stories and at what time interval it appeared.
+- [Geoestimation](https://labs.tib.eu/geoestimation/)  
+  Upload an image and this AI powered tool will "guesstimate" the location where that image was taken.
+- [Brand Recognition](https://logo.toolpie.com/)  
+  Upload an logo and this tool will display which company it belongs to.
+- [Plant Identification](https://plant.toolpie.com/)  
+  Upload an image of a plant and this tool will figure out what plant it is.
+- [Animal Identification](https://animal.toolpie.com/)  
+  Upload an image of an animal and this tool will tell you what animal it is.
 
 ## **Image Generation**
 
@@ -1862,6 +1870,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A great tool that uses AI to increase image resolution without loss of quality. Requires a paid subscription for best results.
 - [ImageEnlarger](https://www.imageenlarger.com/)  
   Allows you to upscale small images without losing quality or introducing distortion (also known as "artifacts").
+- [AutoStitch](http://matthewalunbrown.com/autostitch/autostitch.html)  
+  A handy tool that allows you to easily stitch together multiple photos into one.
+- [Colorize Photo](https://colorize.toolpie.com/)  
+  Upload a black and white image and this tool will colorize it for you.
 
 ## **Image Editing and Manipulation**
 
