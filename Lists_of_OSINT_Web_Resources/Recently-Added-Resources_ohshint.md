@@ -52,6 +52,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Instagram**
 
+- [iGram Downloader](https://igram.io/) - *Added 10/11/2021.*
 - [Picuki](https://www.picuki.com/) - *Added 6/11/2021.*
 - [Gramhir](https://gramhir.com/) - *Added 6/11/2021.*
 - [StoriesDown](https://storiesdown.com/) - *Added 6/11/2021.*
@@ -75,6 +76,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### Twitter
 
+- [TweetedAt](https://oduwsdl.github.io/tweetedat/) - *Added 10/11/2021.*
 - [TrendsMap](https://www.trendsmap.com/map) - *Added 3/11/2021.*
 
 ### **WhatsApp**
@@ -83,6 +85,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### YouTube
 
+- [You-TLDR](https://you-tldr.com/) - *Added 10/11/2021.*
 - [PwnYouTube](https://deturl.com/) - *Added 9/11/2021.*
 - [AltCensored](https://www.altcensored.com/) - *Added 9/11/2021.*
 - [NSFW YouTube](https://nsfwyoutube.com/) - *Added 9/11/2021.*
@@ -92,15 +95,28 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [VirtualVacation](https://virtualvacation.us/) - *Added 10/11/2021.*
+- [VirtualGlobeTrotting](https://virtualglobetrotting.com/category/) - *Added 10/11/2021.*
+- [Dual Maps](http://data.mashedworld.com/dualmaps/map.htm) - *Added 10/11/2021.*
 - [360 Gigapixels](https://360gigapixels.com/) - *Added 8/11/2021.*
 - [WhoDidIt](https://simon04.dev.openstreetmap.org/whodidit/) - *Added 7/11/2021.*
 - [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/) - *Added 3/11/2021.*
 
 ### **Political Maps**
 
+- [WorldPlugs](https://www.iec.ch/world-plugs) - *Added 10/11/2021.*
 - [World Population Density Map](https://luminocity3d.org/WorldPopDen/) - *Added 3/11/2021.*
 
+### **Topographic and Geologic Maps**
+
+- [OpenTopoMap](https://opentopomap.org/) - *Added 10/11/2021.*
+
 ### **Weather Maps**
+
+#### **General Weather Maps**
+
+- [Blitzortung Live Lightning Map](https://map.blitzortung.org/) - *Added 10/11/2021.*
+- [Blitzortung Live Lightning Map Archive](https://www.blitzortung.org/en/historical_maps.php) - *Added 10/11/2021.*
 
 #### **Natural Disaster Maps**
 
@@ -110,10 +126,23 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [OCEARCH Shark Tracker](https://www.ocearch.org/tracker/) - *Added 3/11/2021.*
 
+### **Other Mapping Resources**
+
+- [TravelTime](https://app.traveltime.com/search) - *Added 10/11/2021.*
+- [Geograph Worldwide](https://www.geograph.org/) - *Added 10/11/2021.*
+- [BrueckenWeb](https://www.brueckenweb.de/2content/suchen/suche.php) - *Added 10/11/2021.*
+- [PeakFinder](https://www.peakfinder.org/) - *Added 10/11/2021.*
+- [PeakVisor](https://peakvisor.com/) - *Added 10/11/2021.*
+- [Landmark Recognition](https://landmark.toolpie.com/) - *Added 10/11/2021.*
+
 ## <u>**Imagery Intelligence [IMINT]**</u>
 
-**Reverse Image Search**
+### **Reverse Image Search**
 
+- [Animal Identification](https://animal.toolpie.com/) - *Added 10/11/2021.*
+- [Plant Identification](https://plant.toolpie.com/) - *Added 10/11/2021.*
+- [Brand Recognition](https://logo.toolpie.com/) - *Added 10/11/2021.*
+- [Geoestimation](https://labs.tib.eu/geoestimation/) - *Added 10/11/2021.*
 - [Portrait Matcher](https://zeus.robots.ox.ac.uk/portraitmatcher/) - *Added 3/11/2021.*
 - [Openi Medical Image Search](https://openi.nlm.nih.gov/gridquery) - *Added 3/11/2021.*
 - [BBC News Search](https://zeus.robots.ox.ac.uk/bbc_search/) - *Added 3/11/2021.*
@@ -124,6 +153,17 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Rudalle](https://rudalle.ru/) - *Added 7/11/2021.*
 - [Face Generator](https://generated.photos/face-generator/) - *Added 3/11/2021.*
 
+### **Image Enhancement**
+
+- [AutoStitch](http://matthewalunbrown.com/autostitch/autostitch.html) - *Added 10/11/2021.*
+- [Colorize Photo](https://colorize.toolpie.com/) - *Added 10/11/2021.*
+
+## <u>**Business Research and Trade intelligence [TRADINT]**</u>
+
+### General Business Search
+
+- [OpenLEIs](http://openleis.com/) - *Added 10/11/2021.*
+
 ## <u>**Financial Intelligence [FININT]**</u>
 
 ### Cryptocurrency and Blockchain
@@ -131,6 +171,30 @@ All dates are listed in *DD/MM/YYYY* format.
 #### **General Analysis**
 
 - [BlockCypher](https://blockcypher.herokuapp.com/) - *Added 7/11/2021.*
+
+## **<u>Vehicle and Transportation Intelligence [VATINT]</u>**
+
+### **Road Vehicles**
+
+#### **Vehicle Recognition**
+
+- [Vehicle Recognition](https://carmodel.toolpie.com/) - *Added 10/11/2021.*
+
+#### **License Plates**
+
+- [Partial Number Plate Search UK](https://www.partialnumberplate.co.uk/) - *Added 10/11/2021.*
+- [UK Number Plate Search](https://vehicleenquiry.service.gov.uk/?locale=en) - *Added 10/11/2021.*
+- [Number Plate Check](https://www.checkcardetails.co.uk/number-plate-check) - *Added 10/11/2021.*
+
+### **Marine**
+
+#### **Vessel Tracking**
+
+- [Fleet Tracker News](https://news.usni.org/category/fleet-tracker) - *Added 10/11/2021.*
+
+### **Public Transport**
+
+- [MetroLogos](http://mic-ro.com/metro/metrologos.html) - *Added 10/11/2021.*
 
 ## <u>**Digital Network Intelligence [DNINT]**</u>
 
@@ -160,6 +224,13 @@ All dates are listed in *DD/MM/YYYY* format.
 - [The Favicon Finder](https://besticon.herokuapp.com/) - *Added 3/11/2021.*
 - [HackerTarget](https://hackertarget.com/server-info/) - *Added 31/10/2021.*
 
+#### **Web Page Monitoring**
+
+- [FollowthatPage](https://followthatpage.com/) - *Added 10/11/2021.*
+- [WatchThatPage](http://watchthatpage.com/)  - *Added 10/11/2021.*
+- [VisualPing](https://visualping.io/) - *Added 10/11/2021.*
+- [Carbon Dating The Web](https://carbondate.cs.odu.edu/) - *Added 10/11/2021.*
+
 ### URL Redirects and Backlinks
 
 - [CheckShortURL](https://checkshorturl.com) - *Added 6/11/2021.*
@@ -167,8 +238,13 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Media Access Control [MAC]**
 
+- [MAC Address Search](https://mac.lc) - *Added 10/11/2021.*
 - [MAC and OUI Lookup](https://aruljohn.com/mac.pl) - *Added 9/11/2021.*
-   - [MAC Lookup](https://dnschecker.org/mac-lookup.php) - *Added 9/11/2021.*
+- [MAC Lookup](https://dnschecker.org/mac-lookup.php) - *Added 9/11/2021.*
+
+### **User Agents**
+
+- [UA Parser](https://useragent.toolpie.com/) - *Added 10/11/2021.*
 
 ### **Internet of Things [IoT] Search**
 
@@ -180,7 +256,7 @@ All dates are listed in *DD/MM/YYYY* format.
 - [SOCRadar Daily APT Feed](https://labs.socradar.com/apt-feeds/) - *Added 9/11/2021.*
 - [MITRE ATT&CK Groups](https://attack.mitre.org/groups/) - *Added 8/11/2021.*
 - [[XLSX] APT Groups and Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)  - *Added 8/11/2021.*
-   - [[IMAGE] APT Operation Groups](https://imgur.com/a/VePzyqX)  - *Added 8/11/2021.*
+- [[IMAGE] APT Operation Groups](https://imgur.com/a/VePzyqX)  - *Added 8/11/2021.*
 
 ### Personal Connection Profiling
 
@@ -222,9 +298,23 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [PyPI User Search](https://pypi.org/user/<ENTER-USERNAME-HERE>) - *Added 3/11/2021.*
 
+## **<u>Gaming</u>**
+
+- [LoLProfile](https://lolprofile.net/) - *Added 10/11/2021.*
+- [Fortnite Tracker](https://fortnitetracker.com/) - *Added 10/11/2021.*
+
 ## <u>**Data Sets**</u>
 
 - [Face Recognition Datasets](https://www.face-rec.org/databases/) - *Added 31/10/2021.*
 - [Kaggle](https://www.kaggle.com/datasets) - *Added 31/10/2021.*
 - [Common Crawl](https://commoncrawl.org/) - *Added 31/10/2021.*
 - [OCCRP Catalogue of Research Databases](https://id.occrp.org/databases/) - *Added 31/10/2021.*
+
+## <u>**War, Crisis and Conflicts**</u>
+
+- [Live Universal Awareness Map](https://liveuamap.com/) - *Added 10/11/2021.*
+
+## **<u>Miscellaneous</u>**
+
+- [eBird](https://ebird.org/explore) - *Added 10/11/2021.*
+- [Barcode Reader](https://online-barcode-reader.inliteresearch.com/default.aspx) - *Added 10/11/2021.*
