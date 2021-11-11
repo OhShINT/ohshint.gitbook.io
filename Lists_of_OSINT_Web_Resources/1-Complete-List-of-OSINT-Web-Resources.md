@@ -2177,6 +2177,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A detailed map of maritime borders and economic zones with statistical data on ports and more.
 - [IMB Piracy and Armed Robbery Map](https://www.icc-ccs.org/piracy-reporting-centre/live-piracy-map)  
   This site lists all the piracy and armed robbery incidents reported to the IMB Piracy Reporting Centre since 2011.
+- [Fleet Tracker News](https://news.usni.org/category/fleet-tracker)  
+  This is a great site that shows you positions of U.S. Navy carriers around the world.
 
 ### **Vessel and Crew Information**
 
