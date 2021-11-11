@@ -152,6 +152,7 @@ Remember, CTRL+F is your friend here.
   * [**Domain Name System [DNS] Records**](#domain-name-system-dns-records)
   * [**Website Analysis**](#website-analysis)
     + [**Enumeration**](#enumeration)
+    + [**Web Page Monitoring**](#web-page-monitoring)
   * [**URL Redirects and Backlinks**](#url-redirects-and-backlinks)
   * [**Wireless Fidelity [WiFi]**](#wireless-fidelity-wifi)
   * [**Media Access Control [MAC]**](#media-access-control-mac)
@@ -2520,6 +2521,15 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Captures websites and let you analyze and investigate them.
 - [The Favicon Finder](https://besticon.herokuapp.com/)  
   A free online service to finding icons on websites. Just enter in a target URL.
+  
+### **Web Page Monitoring**
+
+- [FollowthatPage](https://followthatpage.com/)  
+  A change detection and notification service that sends you an email when your favorite web pages have changed.
+- [WatchThatPage](http://watchthatpage.com/)  
+  A service that enables you to automatically collect new information from any web page. Select which pages to monitor, and this will find which pages have changed, and collect all the new content for you.
+- [VisualPing](https://visualping.io/)  
+  Enter a URL that you would like to monitor, then enter an email address and this will send you emails everytime that page changes.
 
 ## **URL Redirects and Backlinks**
 
@@ -2551,11 +2561,15 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Displays the name of the company that manufactured a network card. You can also do a reverse lookup and find the MAC addresses registered by a company.
 - [MAC Lookup](https://dnschecker.org/mac-lookup.php)  
   Another tool that provides information about any MAC address.
+- [MAC Address Search](https://mac.lc)  
+  Yep, it's another MAC address search tool.
 
 ## **User Agents**
 
 - [User Agent Parser](https://developers.whatismybrowser.com/useragents/parse/#parse-useragent)  
   Lookup a browser user-agent and view details about it such as software versions, OS types, and more.
+- [UA Parser](https://useragent.toolpie.com/)  
+  A simple tool that displays your current user agent strings.
 
 ## **Internet of Things [IoT] Search**
 
