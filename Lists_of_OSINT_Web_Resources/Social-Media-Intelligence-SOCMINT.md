@@ -140,6 +140,8 @@
   A simple tool that allows you to get a Instagram users user ID by searching their username.
 - [Find Instagram User ID](https://codeofaninja.com/tools/find-instagram-user-id/)  
   A tool that shows you how to extract an Instagram users information in JSON format.
+- [iGram Downloader](https://igram.io/)  
+  A simple online tool that allows you to download images, videos and IGTV posts via URL.
 
 ## **<u>Kik Messenger</u>**
 
