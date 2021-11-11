@@ -15,6 +15,8 @@
   Online collection of monologues from movies, TV shows, plays and more. Includes transcripts and video clips.
 - [What Tree Is That?](https://www.arborday.org/trees/whatTree/)  
   An interactive tool that helps identify a certain type of tree by asking a few questions.
+- [eBird](https://ebird.org/explore)  
+  A database of birds. Offers an interactive map of bird species, searchable database of sounds and photos, hotspot maps and more.
 - [FakeSpot](https://www.fakespot.com/)  
   Spot and avoid shady sellers, products with dishonest reviews and scam websites for free. Available as a website, Android and iOS application, Firefox add-on and as a Google Chrome extension.
 - [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/)  
