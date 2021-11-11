@@ -1157,6 +1157,8 @@ A Google CSE that searches for scientific publications.
   A simple tool that allows you to get a Instagram users user ID by searching their username.
 - [Find Instagram User ID](https://codeofaninja.com/tools/find-instagram-user-id/)  
   A tool that shows you how to extract an Instagram users information in JSON format.
+- [iGram Downloader](https://igram.io/)  
+  A simple online tool that allows you to download images, videos and IGTV posts via URL.
 
 ## **Kik Messenger**
 
@@ -1377,6 +1379,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search Twitter for the tweets most important to you and receive custom tweet alerts. Requires a paid subscription.
 - [TweetsMap](https://tweepsmap.com/)  
   AI powered Twitter analytics. Requires a paid subscription.
+- [TweetedAt](https://oduwsdl.github.io/tweetedat/)  
+  Extracts the exact date and time from the tweet ID by reverse-engineering the [Twitter Snowflake](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html).
 
 ## **Untappd**
 
@@ -1425,6 +1429,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A bookmarklet that bypasses the any restrictions set by YouTube.
 - [AltCensored](https://www.altcensored.com/)  
   View over 177,000 Censored YouTube videos from over 2,000 deleted channels.
+- [You-TLDR](https://you-tldr.com/)  
+  A free tool and bookmarklet that gathers an easy to read "too long, didn't read" (TLDR) transcript of any YouTube video.
 
 ## **WhatsApp**
 
