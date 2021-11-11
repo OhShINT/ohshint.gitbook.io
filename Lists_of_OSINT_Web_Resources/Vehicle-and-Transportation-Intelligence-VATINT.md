@@ -9,6 +9,8 @@
   An amazing tool that allows you to simply upload an image of a vehicle, and its AI will identify the make, model and year of that vehicle. Claims to have a 97% accuracy.
 - [Car Identification](https://www.yourmechanic.com/article/how-to-identify-any-car-you-see-by-ian-swan)  
   Guide to learning and recognizing specific cars.
+- [Vehicle Recognition](https://carmodel.toolpie.com/)  
+  This car recognition system can accurately identify vehicle information based on an uploaded image of a car. Including brand, model, year and color.
 
 ### **<u>Vehicle Identification Numbers [VIN]</u>**
 
@@ -35,6 +37,12 @@
   Contains a few great guides on how to decipher license plates from various different countries.
 - [[IMAGE] Map of License Plates in Europe](https://upload.wikimedia.org/wikipedia/commons/b/bb/Vehicle_registration_plates_in_Europe.png)  
   A simple map that shows examples of the different plates for each country in Europe. Archived copies available [here (Wayback)](https://web.archive.org/web/20210927044105/https://upload.wikimedia.org/wikipedia/commons/b/bb/Vehicle_registration_plates_in_Europe.png) and [here (archive.today)](https://archive.ph/Qahid).
+- [Partial Number Plate Search UK](https://www.partialnumberplate.co.uk/)  
+  Need to find a UK registration plate but don't know all of the characters? Give this tool a try.
+- [UK Number Plate Search](https://vehicleenquiry.service.gov.uk/?locale=en)  
+  A number plate search tool offered by the UK government.
+- [Number Plate Check](https://www.checkcardetails.co.uk/number-plate-check)  
+  Another tool where you can check the number plate for any registered plate number in the UK.
 
 ## <u>**Marine**</u>
 
@@ -276,6 +284,8 @@
 
 - [Travic](https://mobility.portal.geops.io/)  
   Transit routes and timetables for trains and busses operating in North America, South America, Europe, Asia and Oceania. 
+- [MetroLogos](http://mic-ro.com/metro/metrologos.html)  
+  This website shows you all of the different metro system logos from around the world. 
 
 ### **<u>Europe</u>**
 
