@@ -7,6 +7,7 @@
 ***In other words, don't be malicious.***
 
 > **NOTE:**
+> 
 > *Feel free to save, download, archive, copy, share, edit, re-post and re-upload any content that can be found on this web site. You do not have to give me credit, but that would be obviously preferred if you did! Also, I would prefer that people do not just take this content and claim it as their own. Although I'm sure that will happen eventually because that's how the internet works, not that big of a deal either way. Sharing is caring!*
 
 This site looks much better in dark mode. Since I do not pay for GitBook pro, I am unable to actually make it dark. You can use a browser addon called [DarkReader](https://darkreader.org) or something similar. Your eyes will thank you!
@@ -97,4 +98,3 @@ Welcome aboard my ship friends, hope you decide to stay for a while and learn ab
 
 Basically means that I do not care what you do, and that I am not responsible for what you do with any of the information available on this website.
 
-> *8,911 characters in 995 words.*
