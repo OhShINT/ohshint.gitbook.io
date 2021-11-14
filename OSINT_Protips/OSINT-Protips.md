@@ -129,7 +129,7 @@ Created by [@sinwindie](https://twitter.com/sinwindie), so go give him a follow 
 
 Attached images:
 
-<img src="G:\Blog\GitBook\Articles\Twitter-Attack-Surface-for-OSINT-Investigations.jpg" style="zoom: 25%;" /> <img src="G:\Blog\GitBook\Articles\Person-Attack-Surface-for-OSINT-Investigations.jpg" style="zoom:25%;" /> <img src="G:\Blog\GitBook\Articles\Instagram-Attack-Surface-for-OSINT-Investigations.jpg" style="zoom:25%;" /> <img src="G:\Blog\GitBook\Articles\DWM-Attack-Surface-for-OSINT-Investigations.jpg" style="zoom:25%;" />
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Twitter-Attack-Surface-for-OSINT-Investigations.jpg"/> <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Person-Attack-Surface-for-OSINT-Investigations.jpg"/> <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Instagram-Attack-Surface-for-OSINT-Investigations.jpg"/> <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/DWM-Attack-Surface-for-OSINT-Investigations.jpg"/>
 
 
 
@@ -176,7 +176,7 @@ Read more here:
 
 Attached image:
 
-<img src="G:\Blog\GitBook\Articles\Common-Intelligence-Acronyms-and-Their-Meanings.png" style="zoom: 80%;" />
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Common-Intelligence-Acronyms-and-Their-Meanings.png"/>
 
 
 
@@ -197,4 +197,4 @@ This technique also works with [#Pinterest](https://twitter.com/hashtag/Pinteres
 
 Attached image:
 
-![](G:\Blog\GitBook\Articles\Instagram-Login-Bypass.png)
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Instagram-Login-Bypass.png"/>
