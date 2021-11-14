@@ -4,7 +4,7 @@ When new resources are added, they will be listed and dated here.
 
 All dates are listed in *DD/MM/YYYY* format. 
 
-> ohshint.gitbook.io **|** github.com/OhShINT **|** @ohshint_ 
+> [ohshint.gitbook.io](https://ohshint.gitbook.io/) **|** [github.com/OhShINT](https://github.com/OhShINT) **|** [@ohshint_](twitter.com/ohshint_)
 
 ## <u>**Search Engines**</u>
 
