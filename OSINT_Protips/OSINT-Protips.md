@@ -198,3 +198,21 @@ This technique also works with [#Pinterest](https://twitter.com/hashtag/Pinteres
 Attached image:
 
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Instagram-Login-Bypass.png"/>
+  
+
+## #OSINT Protip 10
+
+> Posted on *14/11/2021* at *5:32 PM*.  
+> URL: [https://twitter.com/ohshint_/status/1460058111188733952](https://twitter.com/ohshint_/status/1460058111188733952)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 10:
+
+[#Gmail](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) addresses ignore dots, but everything else usually does not. Potentially discover new information and additional leads!
+
+Example:
+`johnathandoe@gmail.com` and `johnathan.doe@gmail.com` is the same address, but they provide different results:
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached images:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/HIBP-Results.PNG"/> <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Holehe-Output.PNG"/>
