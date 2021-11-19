@@ -200,6 +200,7 @@ Attached image:
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Instagram-Login-Bypass.png"/>
   
 
+  
 ## #OSINT Protip 10
 
 > Posted on *14/11/2021* at *5:32 PM*.  
@@ -217,3 +218,34 @@ Example:
 Attached images:
   
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/HIBP-Results.PNG"/> <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Holehe-Output.PNG"/>
+  
+ 
+  
+## **OSINT Protip 11**
+
+> Posted on *18/11/2021* at *4:47 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1461496264181223426](https://twitter.com/ohshint_/status/1461496264181223426)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 11:
+
+IP addresses can sometimes be useful. Other than geo-location, you can also check to see if and what torrents have been downloaded by searching a specific IP:
+
+- [https://iknowwhatyoudownload.com/](https://iknowwhatyoudownload.com/)
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+
+
+## **OSINT Protip 12**
+
+> Posted on *18/11/2021* at *9:18 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1461564466781306880](https://twitter.com/ohshint_/status/1461564466781306880) 
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 12: 
+
+Sometimes its needed to use foreign information services while working on a specific case.  
+Here is a list of telephone and business directories for different parts of the world. Very useful! Translation may be needed.  
+
+- [https://om.1881.no/nyttige-sider/kataloger-i-utlandet](https://om.1881.no/nyttige-sider/kataloger-i-utlandet) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
