@@ -249,3 +249,19 @@ Here is a list of telephone and business directories for different parts of the 
 - [https://om.1881.no/nyttige-sider/kataloger-i-utlandet](https://om.1881.no/nyttige-sider/kataloger-i-utlandet) 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+  
+  
+  
+## **OSINT Protip 13**
+
+> Posted on *19/11/2021* at *7:09 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1461894323750916099](https://twitter.com/ohshint_/status/1461894323750916099)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 13: 
+
+Is [#Instagram](https://twitter.com/hashtag/Instagram?src=hashtag_click) banning your sockpuppets? Use this simple trick to bypass their new "video verification" data collection scheme.  
+
+Step 1: Go to [https://sketchfab.com/tqyw/collections/human-face](https://sketchfab.com/tqyw/collections/human-face)   
+Step 2: Use your phones camera and follow Instagram's instructions. 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#Metaverse](
