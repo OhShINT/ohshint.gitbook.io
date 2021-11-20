@@ -264,4 +264,4 @@ Is [#Instagram](https://twitter.com/hashtag/Instagram?src=hashtag_click) banning
 Step 1: Go to [https://sketchfab.com/tqyw/collections/human-face](https://sketchfab.com/tqyw/collections/human-face)   
 Step 2: Use your phones camera and follow Instagram's instructions. 
 
-[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#Metaverse](
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#Metaverse](https://twitter.com/hashtag/Metaverse?src=hashtag_click)
