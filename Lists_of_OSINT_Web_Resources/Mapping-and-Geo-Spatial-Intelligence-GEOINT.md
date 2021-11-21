@@ -29,6 +29,8 @@
   The EO Browser aims to contribute to achieving a global, continuous and easily accessible source of satellite imagery data. Very useful tool.
 - [Terria Australia](https://beta.nationalmap.terria.io/)  
   A great tool for Australian-oriented geospatial investigations. Includes some incredibly high-res imagery.
+- [GeoHack Tools](https://geohack.toolforge.org/)  
+  Just add location and receive a list of OSINT resources for that area. Maps/satellite imagery, photos, live weather, flight and maritime tracking, railways, peaks and even fitness device data.
 - [NOAA Digital Coast](https://coast.noaa.gov/dataviewer)  
   Provides the data, tools, and training that communities use to manage their coastal resources. Here users find topics of interest from climate adaptation to ocean planning, plus quick access to the Digital Coast data, tools, and training most relevant to a particular topic.
 - [Wikimapia](http://wikimapia.org)  
@@ -65,6 +67,16 @@
   View amazing satellite imagery from across the globe. Celebrity homes, roadside attractions, landmarks, military and much more.
 - [VirtualVacation](https://virtualvacation.us/)  
   The website that lets you experience the world from home. Offers virtual tours, live cameras, a fun "City Guesser" game and more.
+- [EarthEngine](https://www.earthengine.app/)  
+  Allows users to use simple UI elements to leverage Earth Engine's data catalog and analytical power, for experts and non-experts alike to use.
+- [The Degree Confluence Project](https://www.confluence.org/index.php)  
+  Contains photographs of the intersections of integer latitude and longitude degree lines.
+- [Mapcarta](https://mapcarta.com/)  
+  Explore open knowledge from OpenStreetMap, Wikipedia, and more.
+- [DarkSky Map](https://maps.darksky.net/)  
+  A 3D view of Earth with different data layers such as temperature, UV, cloud cover, wind, and more.
+- [Mapy](https://de.mapy.cz/)  
+  A general all-purpose online map with plenty of options.
 
 ## **<u>Street View Maps</u>**
 
@@ -91,6 +103,10 @@
   Provides information about various hate groups across the USA.
 - [World Map of Encryption](https://www.gp-digital.org/world-map-of-encryption/)  
   An interactive world map that shows the the legal status of encryption by country. In some countries, the use of encryption-related technologies is relatively unconstrained; in others, companies and users face significant restrictions.
+- [DLA Piper Global Data Protection Law Map](https://www.dlapiperdataprotection.com/)  
+  Provides an overview of the key privacy and data protection laws and regulations across the globe.
+- [MapIt](https://global.mapit.mysociety.org/)  
+  A service that maps geographical points to administrative areas. Uses OSM data.
 - [COVID-19 Travel Regulations Map](https://www.iatatravelcentre.com/world.php)  
   An interactive map that shows you the current travel restrictions and entry requirements in regards to the COVID-19 pandemic.
 - [Travel Restrictions Map](https://apply.joinsherpa.com/map)  
@@ -114,6 +130,13 @@
   Map for exploring some geologic maps and articles from the National Geologic Map Database (NGMDB).
 - [OpenTopoMap](https://opentopomap.org/)  
   A project that renders topographic maps from OSM and SRTM data. 
+  
+## **<u>Historical Maps</u>**
+
+- [OldMapsOnline](https://www.oldmapsonline.org/)  
+  Offers old and historic maps from all over the world.
+- [Arcanum Maps](https://maps.arcanum.com/en/)  
+  Offers loads of historical maps from all over Europe. Requires registration and payment.
 
 ## **<u>Weather Maps</u>**
 
@@ -197,6 +220,8 @@
   A comprehensive and regularly updated interactive map of the world's major submarine communication cable systems and landing stations.
 - [OCEARCH Shark Tracker](https://www.ocearch.org/tracker/)  
   A pretty interesting mapping tool that lets you track sharks, turtles, whales and other ocean animals. Some of the data appears to be a few years old, but still cool.
+- [OpenCPN](https://opencpn.org/)  
+  This software allows you to download and organize ocean and navigation charts.
 
 ### **<u>Shipwreck Maps</u>**
 
@@ -211,6 +236,8 @@
 
 ## <u>**Tree Maps**</u>
 
+- [GlobalForestWatch](https://www.globalforestwatch.org/map/)  
+  Explore the state of forests worldwide by analyzing tree cover change on GFW's interactive global forest map using satellite data.
 - [OpenTreeMap](https://opentreemap.github.io/)  
   A collaborative platform for crowdsourced tree inventory, ecosystem services calculations and urban forestry analysis. Basically one giant database of trees.
 - [NYC Street Tree Map](https://tree-map.nycgovparks.org/)  
@@ -223,6 +250,11 @@
   A dataset of street trees in Toronto, ON Canada.
 
 ## <u>**Network Maps**</u>
+
+### <u>**Internet Maps**</u>
+
+- [HE Backbone Network Map](https://he.net/3d-map/)  
+  A 3D WebGL map of Hurricane Electric's backbone network, global submarine cables and global data-centers.
 
 ### **<u>Cell Tower Maps</u>**
 
@@ -249,6 +281,8 @@
   Maps for 3G, 4G and 5G cellular data network coverage in the United Kingdom.
 - [MastData](https://www.mastdata.com/resources/map.aspx)  
   Mobile telecom base station resources, tools and coverage maps for the UK.
+- [GSMA Network Coverage Maps](https://www.gsma.com/coverage/)  
+  Continuously updated GSMA network coverage maps. Simply select the country you are visiting and the operators in that country will be listed.
 
 ### **<u>Satellite Phone Coverage Maps</u>**
 
@@ -265,21 +299,53 @@
   Provides a detailed map and other information regarding gas pipelines currently in use all over the world.
 - [EnergyWebAtlas](https://energywebatlas.com/interactiveworldgasmap.html)  
   An interactive gas map that provides a comprehensive source of facility and project data. Allows users to access the latest project data including facility status and ownership details, detailed pipeline information, industry gas information and more.
+- [OpenInfraMap](https://openinframap.org/)  
+  Map the world's electricity, telecom, oil, and gas infrastructure. Uses OSM data.
+- [Infrapedia Map](https://www.infrapedia.com/)  
+  Claims to be the most complete and versatile interactive infrastructure map of the Internet. Requires registration.
+  
+## <u>**Landmark Recognition**</u>
+
+- [HeyWhatsThat](https://heywhatsthat.com/)  
+  A large collection of panoramic images from many different mountain summits all over the world.
+- [Landmark Recognition](https://landmark.toolpie.com/)  
+  Upload a image of a natural landmark or architectural landmark and this will show you where it is located.
+- [PeakVisor](https://peakvisor.com/)  
+  Find out the name, altitude and other information about a mountain.
+- [PeakFinder](https://www.peakfinder.org/)  
+  Shows the names of all mountains and peaks with a 360° panorama display. This functions and worldwide. Contains more than 850,000 peaks.
+- [AlleBurgen Castle Map](https://www.alleburgen.de/index-atlas.php)  
+  An interactive map of castles, palaces and other fortified buildings across Europe.
+- [BrueckenWeb](https://www.brueckenweb.de/2content/suchen/suche.php)  
+  An awesome database of bridges from all over the world. Offers a search function as well. Click [here](https://www-brueckenweb-de.translate.goog/2content/suchen/suche.php?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui) for a German to English translation.
+- [Bollards of the World](https://docs.google.com/spreadsheets/d/1Glk_gUpSThPqof22DKI3_ol73CULxCeKxEC99z_BM30/htmlview)  
+  A great list of the different types bollards used around the world. Includes images as well. I converted this into a .pdf for offline use, available [here](https://anonfiles.com/90l8M8M7u8/Bollards-of-the-World_pdf). Archived copy available [here (Wayback)](https://web.archive.org/web/20211010055522/https://cdn-131.anonfiles.com/90l8M8M7u8/3fd7c7c4-1633845914/Bollards-of-the-World.pdf).
+  
+## <u>**Outdoor Activity Maps**</u>
+
+- [Strava Heatmap](https://www.strava.com/heatmap)  
+  A heat map from athletes all over the world. Shows places that are popular spots for physical activity. Data collected from Strava, map updated monthly.
+- [RideWithGPS](https://ridewithgps.com/users)  
+  Find bicyclists by name and/or location, view maps and other information about their bicycle routes.
+- [BikeMap](https://www.bikemap.net/)  
+  The world's biggest bike route collection. Find cycling routes by country. Requires registration to upload your own data.
+- [RunMap](http://www.runmap.net/en/)  
+  One of the largest collections of running routes on the web. Allows you to extract GPS data.
+- [WanderMap](http://www.wandermap.net/en/)  
+  One of the largest collections of hike routes on the internet. Allows you to extract GPS data.
+- [OpenRouteService Map](https://maps.openrouteservice.org/)  
+  An open-source route planner with plenty of features for car, heavy vehicles, hiking, cycling and wheelchair.
+- [OpenCampingMap](https://opencampingmap.org/)  
+  Global map of camp grounds. Based on data from OpenStreetMap. 
+- [Map of Music Festivals](https://www.musicworldmap.com/world-map/?category=All%20Festivals)  
+  A map that shows the upcoming music festivals around the world.
 
 ## <u>**Other Mapping Resources**</u>
 
 - [World Map of OSINT Tools](https://cipher387.github.io/osintmap/)  
   An awesome collection of OSINT tools plotted and sorted on a map. Created by [@cyb_detective](https://twitter.com/cyb_detective), be sure to give him a follow!
-- [RideWithGPS](https://ridewithgps.com/users)  
-  Find bicyclists by name and/or location, view maps and other information about their bicycle routes.
- - [BikeMap](https://www.bikemap.net/)  
-   The world's biggest bike route collection. Find cycling routes by country. Requires registration to upload your own data.
- - [RunMap](http://www.runmap.net/en/)  
-   One of the largest collections of running routes on the web. Allows you to extract GPS data.
- - [WanderMap](http://www.wandermap.net/en/)  
-   One of the largest collections of hike routes on the internet. Allows you to extract GPS data.
- - [GeoNames](https://www.geonames.org/)  
-   Geographical database covers all countries and contains over 11 million place names that are available for download free of charge.
+- [GeoNames](https://www.geonames.org/)  
+  Geographical database covers all countries and contains over 11 million place names that are available for download free of charge.
 - [I Know Where Your Cat Lives](https://iknowwhereyourcatlives.com/)  
   A data visualization experiment that locates a sample of one million public images of cats on a world map by the latitude and longitude coordinates that is embedded in the images EXIF data.
 - [ShadowCalculator](http://shadowcalculator.eu/)  
@@ -296,17 +362,15 @@
   A great resource for identifying where in the world a specific written language or script is from.
 - [TravelTime](https://app.traveltime.com/search)  
   This site helps you calculate how far can someone go from a place in a specific time period. Search by any location in the world, means of transport, and time period.
-- [Bollards of the World](https://docs.google.com/spreadsheets/d/1Glk_gUpSThPqof22DKI3_ol73CULxCeKxEC99z_BM30/htmlview)  
-  A great list of the different types bollards used around the world. Includes images as well. I converted this into a .pdf for offline use, available [here](https://anonfiles.com/90l8M8M7u8/Bollards-of-the-World_pdf). Archived copy available [here (Wayback)](https://web.archive.org/web/20211010055522/https://cdn-131.anonfiles.com/90l8M8M7u8/3fd7c7c4-1633845914/Bollards-of-the-World.pdf).
-- [BrueckenWeb](https://www.brueckenweb.de/2content/suchen/suche.php)  
-  An awesome database of bridges from all over the world. Offers a search function as well. Click [here](https://www-brueckenweb-de.translate.goog/2content/suchen/suche.php?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui) for a German to English translation.
 - [McBroken](https://mcbroken.com/)  
   An interactive that tells you which McDonalds locations currently have broken ice cream machines. Probably one of the best uses of OSINT I have ever seen.
 - [Geograph Worldwide](https://www.geograph.org/)  
   A concept and open source code for a online website to create a comprehensive collection of photographs capturing every part of given region.
-- [Landmark Recognition](https://landmark.toolpie.com/)  
-  Upload a image of a natural landmark or architectural landmark and this will show you where it is located.
-- [PeakVisor](https://peakvisor.com/)  
-  Find out the name, altitude and other information about a mountain.
-- [PeakFinder](https://www.peakfinder.org/)  
-  Shows the names of all mountains and peaks with a 360° panorama display. This functions and worldwide. Contains more than 850,000 peaks.
+- [BatchGeo](https://batchgeo.com)  
+  A great way to create Google Maps from spreadsheets.
+- [NavBug](https://www.navbug.com/mindex2.php)  
+  Traffic reports, construction, live news and road condition by location.
+- [The True Size Of](https://thetruesize.com/)  
+  A simple tool that lets you compare the relative size of countries.
+- [NukeMap](https://nuclearsecrecy.com/nukemap/)  
+  An rather *interesting* tool that lets you simulate explosions of nuclear weapons.
