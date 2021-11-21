@@ -327,6 +327,10 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**People Investigations**</u>
 
+### **General People Search**
+
+- [xLek](https://xlek.com/) - *Added 21/11/2021.*
+
 ### **Vital Records**
 
 - [Vital Record Search Tools](https://stevemorse.org/index.html) - *Added 3/11/2021.*
@@ -342,7 +346,12 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Phone number Tools**
 
+- [Global Prepaid SIM Registration Policies](https://prepaid-data-sim-card.fandom.com/wiki/Registration_Policies_Per_Country) - *Added 21/11/2021.*
 - [SpyDailer](https://www.spydialer.com/) - *Added 3/11/2021.*
+
+#### **White/Yellow Page Directories**
+
+- [OldPhonebook](http://oldphonebook.com/)  - *Added 21/11/2021.*
 
 ## **<u>Usernames</u>**
 
