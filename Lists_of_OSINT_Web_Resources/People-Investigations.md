@@ -15,6 +15,8 @@
   One very great tool for locating people by name, address, email address, username and so on. Once offered as a free service many moons ago, now requires a paid subscription.
 - [Phonebooks](https://www.phonebooks.com/)  
   A free international people search, telephone directory and address search.
+- [xLek](https://xlek.com/)  
+  A free public data search site mainly for U.S. citizens. Was formerly known as Cubib. 
   
 ## **Vital Records**
 
