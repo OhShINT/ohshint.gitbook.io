@@ -355,6 +355,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## **<u>Usernames</u>**
 
+- [Usersearch.io](https://www.usersearch.io/) - *Added 21/11/2021.*
 - [PyPI User Search](https://pypi.org/user/<ENTER-USERNAME-HERE>) - *Added 3/11/2021.*
 
 ## **<u>Gaming</u>**
