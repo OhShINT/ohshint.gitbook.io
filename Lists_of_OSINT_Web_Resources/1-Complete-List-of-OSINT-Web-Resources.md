@@ -3009,8 +3009,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   One very great tool for locating people by name, address, email address, username and so on. Once offered as a free service many moons ago, now requires a paid subscription.
 - [Phonebooks](https://www.phonebooks.com/)  
   A free international people search, telephone directory and address search.
-- [US Census Record Database](https://www.archives.gov/research/census/online-resources)  
-  Federal census records have been digitized and made available to the public. US census records currently available date from 1790 to 1940.
+- [xLek](https://xlek.com/)  
+  A free public data search site mainly for U.S. citizens. Was formerly known as Cubib. 
   
 ## **Vital Records**
 - [Vital Record Search Tools](https://stevemorse.org/index.html)  
@@ -3174,6 +3174,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   This calling chart will help you find the dialing codes you need to make calls around the globe. Simply find and click the country you wish to call.
 - [Wikipedia - List of Country Dialing Codes](https://en.wikipedia.org/wiki/List_of_country_calling_codes) ([WikiLess](https://wikiless.org/wiki/List_of_country_calling_codes))  
   Similar to the above, this is a big list of dialing codes for each different country.
+- [Global Prepaid SIM Registration Policies](https://prepaid-data-sim-card.fandom.com/wiki/Registration_Policies_Per_Country)  
+  A neatly sorted list that shows you the different laws and requirements to purchase a prepaid burner SIM card in different countries.
 
 ## **White and Yellow Page Directories**
 
@@ -3191,8 +3193,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A decent directory of links to white pages for specific countries.
 - [World Yellow Pages](https://yellowpages.fr/world/)  
   A large directory of links to both white and yellow pages for different countries around the world.
- - [GetHuman](https://gethuman.com/)  
-   Web service designed to help people get assistance quickly by providing a directory or support numbers and contact emails. Simply enter the name of the company you wish to reach and view ways to contact their support teams. GetHuman generally only deals with large, national, or international firms.
+- [GetHuman](https://gethuman.com/)  
+  Web service designed to help people get assistance quickly by providing a directory or support numbers and contact emails. Simply enter the name of the company you wish to reach and view ways to contact their support teams. GetHuman generally only deals with large, national, or international firms.
 
 ## **Country Specific White Pages**
 
@@ -3307,6 +3309,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
     USA white pages.
   - [USA411](https://www.411.com/)  
     Another white page directory for the USA.
+  - [OldPhonebook](http://oldphonebook.com/)  
+    Contains historical white page data from 1994 until today. Focused around U.S. citizens.
 
 ### **South America**
 
