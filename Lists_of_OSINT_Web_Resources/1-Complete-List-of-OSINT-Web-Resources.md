@@ -2481,6 +2481,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Transit routes and timetables for trains and busses operating in North America, South America, Europe, Asia and Oceania. 
 - [MetroLogos](http://mic-ro.com/metro/metrologos.html)  
   This website shows you all of the different metro system logos from around the world. 
+- [Mapnificent](https://www.mapnificent.net/)  
+  Shows you areas you can reach with public transport in a given time. 
 
 ### **Europe**
 
