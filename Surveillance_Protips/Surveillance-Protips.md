@@ -17,3 +17,23 @@ But they won't ever change their shoes once.
 
  People notice seemingly small details like this, so counter it by changing your shoes!
 
+
+## **Surveillance Protip 2**
+
+> Posted on *20/11/2021* at *3:38 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1462203715411066884](https://twitter.com/ohshint_/status/1462203715411066884)
+
+[#SurveillanceProtip](https://twitter.com/hashtag/SurveillanceProtip?src=hashtag_click) 2: 
+
+Situational awareness is important. 
+
+Always practice proper OODA loops and awareness when working in the field.  
+Read more in US Army - TC 3-22.69: 
+
+- [PDF] [https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf](https://armypubs.army.mil/epubs/DR_pubs/DR_a/ARN32030-TC_3-22.69-000-WEB-1.pdf)
+
+This will help you "get off the X" and avoid getting burned.
+
+Attached image:
+
+![OODA-Loop-Flowchart.png](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Surveillance_Protips/Images/OODA-Loop-Flowchart.png)
