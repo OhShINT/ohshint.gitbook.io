@@ -93,7 +93,7 @@ Remember, CTRL+F is your friend here.
     + [**Satellite Phone Coverage Maps**](#satellite-phone-coverage-maps)
   * [**Industry Maps**](#industry-maps)
   * [**Landmark Recognition**](#landmark-recognition)
-  * [**Outdoor activity Maps**](#outdoor-activity-maps)
+  * [**Outdoor Activity Maps**](#outdoor-activity-maps)
   * [**Other Mapping Resources**](#other-mapping-resources)
 - [<u>**Imagery Intelligence [IMINT]**</u>](#imagery-intelligence-imint)
   * [**General Image Search**](#general-image-search)
