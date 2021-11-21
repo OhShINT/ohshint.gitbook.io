@@ -21,7 +21,7 @@
   This calling chart will help you find the dialing codes you need to make calls around the globe. Simply find and click the country you wish to call.
 - [Wikipedia - List of Country Dialing Codes](https://en.wikipedia.org/wiki/List_of_country_calling_codes) ([WikiLess](https://wikiless.org/wiki/List_of_country_calling_codes))  
 Similar to the above, this is a big list of dialing codes for each different country.
-- [Global Prepaid SIM Registration Policies](https://prepaid-data-sim-card.fandom.com/wiki/Registration_Policies_Per_Country) 
+- [Global Prepaid SIM Registration Policies](https://prepaid-data-sim-card.fandom.com/wiki/Registration_Policies_Per_Country)  
   A neatly sorted list that shows you the different laws and requirements to purchase a prepaid burner SIM card in different countries.
 
 ## **<u>White/Yellow Page Directories</u>**
