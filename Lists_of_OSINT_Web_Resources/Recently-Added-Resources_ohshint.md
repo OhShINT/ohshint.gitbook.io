@@ -95,12 +95,12 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
-- [Mapy](https://de.mapy.cz/) - *Added 20/11/2021.*
-- [DarkSky Map](https://maps.darksky.net/) - *Added 20/11/2021.*
-- [Mapcarta](https://mapcarta.com/) - *Added 20/11/2021.*
-- [The Degree Confluence Project](https://www.confluence.org/index.php) - *Added 20/11/2021.*
-- [EarthEngine](https://www.earthengine.app/) - *Added 20/11/2021.*
-- [GeoHack Tools](https://geohack.toolforge.org/) - *Added 20/11/2021.*
+- [Mapy](https://de.mapy.cz/) - *Added 21/11/2021.*
+- [DarkSky Map](https://maps.darksky.net/) - *Added 21/11/2021.*
+- [Mapcarta](https://mapcarta.com/) - *Added 21/11/2021.*
+- [The Degree Confluence Project](https://www.confluence.org/index.php) - *Added 21/11/2021.*
+- [EarthEngine](https://www.earthengine.app/) - *Added 21/11/2021.*
+- [GeoHack Tools](https://geohack.toolforge.org/) - *Added 21/11/2021.*
 - [VirtualVacation](https://virtualvacation.us/) - *Added 10/11/2021.*
 - [VirtualGlobeTrotting](https://virtualglobetrotting.com/category/) - *Added 10/11/2021.*
 - [Dual Maps](http://data.mashedworld.com/dualmaps/map.htm) - *Added 10/11/2021.*
@@ -110,8 +110,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Political Maps**
 
-- [MapIt](https://global.mapit.mysociety.org/) - *Added 20/11/2021.*
-- [DLA Piper Global Data Protection Law Map](https://www.dlapiperdataprotection.com/) - *Added 20/11/2021.*
+- [MapIt](https://global.mapit.mysociety.org/) - *Added 21/11/2021.*
+- [DLA Piper Global Data Protection Law Map](https://www.dlapiperdataprotection.com/) - *Added 21/11/2021.*
 - [WorldPlugs](https://www.iec.ch/world-plugs) - *Added 10/11/2021.*
 - [World Population Density Map](https://luminocity3d.org/WorldPopDen/) - *Added 3/11/2021.*
 
@@ -121,8 +121,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Historical Maps**
 
-- [OldMapsOnline](https://www.oldmapsonline.org/) - *Added 20/11/2021.*
-- [Arcanum Maps](https://maps.arcanum.com/en/) - *Added 20/11/2021.*
+- [OldMapsOnline](https://www.oldmapsonline.org/) - *Added 21/11/2021.*
+- [Arcanum Maps](https://maps.arcanum.com/en/) - *Added 21/11/2021.*
 
 ### **Weather Maps**
 
@@ -142,27 +142,27 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Tree Maps**
 
-- [GlobalForestWatch](https://www.globalforestwatch.org/map/) - *Added 20/11/2021.*
+- [GlobalForestWatch](https://www.globalforestwatch.org/map/) - *Added 21/11/2021.*
 
 ### **Network Maps**
 
 #### **Internet Maps**
 
-- [HE Backbone Network Map](https://he.net/3d-map/) - *Added 20/11/2021.*
+- [HE Backbone Network Map](https://he.net/3d-map/) - *Added 21/11/2021.*
 
 #### **Cellular Coverage Maps**
 
-- [GSMA Network Coverage Maps](https://www.gsma.com/coverage/) - *Added 20/11/2021.*
+- [GSMA Network Coverage Maps](https://www.gsma.com/coverage/) - *Added 21/11/2021.*
 
 ### **Industry Maps**
 
-- [OpenInfraMap](https://openinframap.org/) - *Added 20/11/2021.*
-- [Infrapedia Map](https://www.infrapedia.com/) - *Added 20/11/2021.*
+- [OpenInfraMap](https://openinframap.org/) - *Added 21/11/2021.*
+- [Infrapedia Map](https://www.infrapedia.com/) - *Added 21/11/2021.*
 
 ### **Landmark Recognition**
 
-- [HeyWhatsThat](https://heywhatsthat.com/) - *Added 20/11/2021.*
-- [AlleBurgen Castle Map](https://www.alleburgen.de/index-atlas.php) - *Added 20/11/2021.*
+- [HeyWhatsThat](https://heywhatsthat.com/) - *Added 21/11/2021.*
+- [AlleBurgen Castle Map](https://www.alleburgen.de/index-atlas.php) - *Added 21/11/2021.*
 - [BrueckenWeb](https://www.brueckenweb.de/2content/suchen/suche.php) - *Added 10/11/2021.*
 - [PeakFinder](https://www.peakfinder.org/) - *Added 10/11/2021.*
 - [PeakVisor](https://peakvisor.com/) - *Added 10/11/2021.*
@@ -170,17 +170,17 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Outdoor Activity Maps**
 
-- [Strava Heatmap](https://www.strava.com/heatmap) - *Added 20/11/2021.*
- - [OpenRouteService Map](https://maps.openrouteservice.org/) - *Added 20/11/2021.*
- - [OpenCampingMap](https://opencampingmap.org/) - *Added 20/11/2021.*
- - [Map of Music Festivals](https://www.musicworldmap.com/world-map/?category=All%20Festivals) - *Added 20/11/2021.*
+- [Strava Heatmap](https://www.strava.com/heatmap) - *Added 21/11/2021.*
+ - [OpenRouteService Map](https://maps.openrouteservice.org/) - *Added 21/11/2021.*
+ - [OpenCampingMap](https://opencampingmap.org/) - *Added 21/11/2021.*
+ - [Map of Music Festivals](https://www.musicworldmap.com/world-map/?category=All%20Festivals) - *Added 21/11/2021.*
 
 ### **Other Mapping Resources**
 
-- [BatchGeo](https://batchgeo.com) - *Added 20/11/2021.*
-- [NavBug](https://www.navbug.com/mindex2.php) - *Added 20/11/2021.*
-- [The True Size Of](https://thetruesize.com/) - *Added 20/11/2021.*
-- [NukeMap](https://nuclearsecrecy.com/nukemap/)  - *Added 20/11/2021.*
+- [BatchGeo](https://batchgeo.com) - *Added 21/11/2021.*
+- [NavBug](https://www.navbug.com/mindex2.php) - *Added 21/11/2021.*
+- [The True Size Of](https://thetruesize.com/) - *Added 21/11/2021.*
+- [NukeMap](https://nuclearsecrecy.com/nukemap/)  - *Added 21/11/2021.*
 - [TravelTime](https://app.traveltime.com/search) - *Added 10/11/2021.*
 - [Geograph Worldwide](https://www.geograph.org/) - *Added 10/11/2021.*
 
@@ -243,6 +243,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Public Transport**
 
+- [Mapnificent](https://www.mapnificent.net/) - *Added 21/11/2021.* 
 - [MetroLogos](http://mic-ro.com/metro/metrologos.html) - *Added 10/11/2021.*
 
 ## <u>**Digital Network Intelligence [DNINT]**</u>
