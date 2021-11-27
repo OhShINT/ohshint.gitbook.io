@@ -270,7 +270,7 @@ Step 2: Use your phones camera and follow Instagram's instructions.
   
 ## **OSINT Protip 14**
 
-> Posted on *22/11/2021* at *2:16 AM*  
+> Posted on *22/11/2021* at *2:16 AM.*  
 > URL: [https://twitter.com/ohshint_/status/1462726721950552074](https://twitter.com/ohshint_/status/1462726721950552074)
 
 [#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 14:  
@@ -291,5 +291,41 @@ If you want to read more, check out these great lists of [#OSINT](https://twitte
 
 These are all certainly worth downloading and reading.  
 Go get learn't! 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+  
+  
+  
+## **OSINT Protip 15**
+
+> Posted on *23/11/2021* at *7:32 PM.* 
+> URL: [https://twitter.com/ohshint_/status/1463349823139028993](https://twitter.com/ohshint_/status/1463349823139028993)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 15: 
+
+There are many datasets, maps and more online for many different, and very specific things.    Everything from public toilets to license plates.  
+Here are a few examples: 
+
+- [https://toiletmap.gov.au](https://toiletmap.gov.au/) 
+- [https://dataset.domainsproject.org](https://dataset.domainsproject.org/) 
+- [http://worldlicenseplates.com](http://www.worldlicenseplates.com/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+
+
+## **OSINT Protip 16**
+
+> Posted on * 25/11/2021* at *10:23 PM.*
+> URL: [https://twitter.com/ohshint_/status/1464117691078221826](https://twitter.com/ohshint_/status/1464117691078221826)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 16: 
+
+You can search for amateur radio operators by callsign, name or FRN.  
+Results can provide a persons full name, callsign, addresses and in some cases, felony records. 
+
+- [https://qrz.com/lookup/](https://www.qrz.com/lookup/) 
+- [https://wireless2.fcc.gov/UlsApp/UlsSearch/searchLicense.jsp](https://wireless2.fcc.gov/UlsApp/UlsSearch/searchLicense.jsp)
+- [https://apc-cap.ic.gc.ca/pls/apc_anon/query_amat_cs$.startup](https://apc-cap.ic.gc.ca/pls/apc_anon/query_amat_cs$.startup)
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
