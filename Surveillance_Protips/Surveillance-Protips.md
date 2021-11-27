@@ -37,3 +37,24 @@ This will help you "get off the X" and avoid getting burned.
 Attached image:
 
 ![OODA-Loop-Flowchart.png](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Surveillance_Protips/Images/OODA-Loop-Flowchart.png)
+
+
+
+## **Surveillance Protip 3**
+
+> Posted on *26/11/2021* at *6:30 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1464421440489332741](https://twitter.com/ohshint_/status/1464421440489332741)
+
+[#SurveillanceProtip](https://twitter.com/hashtag/SurveillanceProtip?src=hashtag_click) 3: 
+
+This was the original [#SurveillanceProtip](https://twitter.com/hashtag/SurveillanceProtip?src=hashtag_click) tweet. 
+
+If you are a PI, then you already know that this information is EXTREMELY valuable. 
+
+[#NotMakingThatMistakeTwice](https://twitter.com/hashtag/NotMakingThatMistakeTwice?src=hashtag_click)
+
+LARRY PLANT
+[@lplant01](https://twitter.com/lplant01)
+
+Make certain that while on surveillance that your water bottle and urine bottle are CLEARLY marked. [#tastesdifferent](https://twitter.com/hashtag/tastesdifferent?src=hashtag_click) [#surveillanceprotip](https://twitter.com/hashtag/surveillanceprotip?src=hashtag_click)
+
