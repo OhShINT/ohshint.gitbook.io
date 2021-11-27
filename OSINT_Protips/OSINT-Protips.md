@@ -274,6 +274,7 @@ Step 2: Use your phones camera and follow Instagram's instructions.
 > URL: [https://twitter.com/ohshint_/status/1462726721950552074](https://twitter.com/ohshint_/status/1462726721950552074)
 
 [#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 14:  
+  
 Books. They contain lots of information, so you should read some!  
 Here is a list of great OSINT books: 
 
