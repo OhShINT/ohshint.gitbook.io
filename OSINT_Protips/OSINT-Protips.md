@@ -298,7 +298,7 @@ Go get learn't!
   
 ## **OSINT Protip 15**
 
-> Posted on *23/11/2021* at *7:32 PM.* 
+> Posted on *23/11/2021* at *7:32 PM.*  
 > URL: [https://twitter.com/ohshint_/status/1463349823139028993](https://twitter.com/ohshint_/status/1463349823139028993)
 
 [#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 15: 
@@ -316,7 +316,7 @@ Here are a few examples:
 
 ## **OSINT Protip 16**
 
-> Posted on *25/11/2021* at *10:23 PM.*
+> Posted on * 25/11/2021* at *10:23 PM.*  
 > URL: [https://twitter.com/ohshint_/status/1464117691078221826](https://twitter.com/ohshint_/status/1464117691078221826)
 
 [#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 16: 
