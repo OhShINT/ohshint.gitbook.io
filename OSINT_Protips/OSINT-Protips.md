@@ -265,3 +265,30 @@ Step 1: Go to [https://sketchfab.com/tqyw/collections/human-face](https://sketch
 Step 2: Use your phones camera and follow Instagram's instructions. 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#Metaverse](https://twitter.com/hashtag/Metaverse?src=hashtag_click)
+  
+
+  
+## **OSINT Protip 14**
+
+> Posted on *22/11/2021* at *2:16 AM*  
+> URL: [https://twitter.com/ohshint_/status/1462726721950552074](https://twitter.com/ohshint_/status/1462726721950552074)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 14:  
+Books. They contain lots of information, so you should read some!  
+Here is a list of great OSINT books: 
+
+- Open Source Intelligence Techniques 8th Edition by Bazzell, M. 
+- US Army ATP 2-22.9. 
+- The Psychology of Intelligence Analysis by Heuer, R. 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+If you want to read more, check out these great lists of [#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) related books and research papers.  
+
+- [https://bib.opensourceintelligence.biz](https://bib.opensourceintelligence.biz/) 
+- [https://www.blockint.nl/the-osint-library/](https://www.blockint.nl/the-osint-library/)
+
+These are all certainly worth downloading and reading.  
+Go get learn't! 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
