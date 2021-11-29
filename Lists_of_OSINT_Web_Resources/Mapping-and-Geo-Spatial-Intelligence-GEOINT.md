@@ -216,8 +216,6 @@
   An interactive map that displays depths and other information for a selected body of water. They also offer nautical maps.
 - [GlobalFishingWatch](https://globalfishingwatch.org/map/)  
   Interactive map that allows you to view the current fishing efforts at a specific location.
-- [Submarine Cable Map](https://www.submarinecablemap.com/)  
-  A comprehensive and regularly updated interactive map of the world's major submarine communication cable systems and landing stations.
 - [OCEARCH Shark Tracker](https://www.ocearch.org/tracker/)  
   A pretty interesting mapping tool that lets you track sharks, turtles, whales and other ocean animals. Some of the data appears to be a few years old, but still cool.
 - [OpenCPN](https://opencpn.org/)  
@@ -255,6 +253,10 @@
 
 - [HE Backbone Network Map](https://he.net/3d-map/)  
   A 3D WebGL map of Hurricane Electric's backbone network, global submarine cables and global data-centers.
+- [Submarine Cable Map](https://www.submarinecablemap.com/)  
+  A comprehensive and regularly updated interactive map of the world's major submarine communication cable systems and landing stations.
+- [Infrapedia Map](https://www.infrapedia.com/)  
+  Claims to be the most complete and versatile interactive infrastructure map of the Internet. Requires registration.
 
 ### **<u>Cell Tower Maps</u>**
 
@@ -301,8 +303,6 @@
   An interactive gas map that provides a comprehensive source of facility and project data. Allows users to access the latest project data including facility status and ownership details, detailed pipeline information, industry gas information and more.
 - [OpenInfraMap](https://openinframap.org/)  
   Map the world's electricity, telecom, oil, and gas infrastructure. Uses OSM data.
-- [Infrapedia Map](https://www.infrapedia.com/)  
-  Claims to be the most complete and versatile interactive infrastructure map of the Internet. Requires registration.
   
 ## <u>**Landmark Recognition**</u>
 
