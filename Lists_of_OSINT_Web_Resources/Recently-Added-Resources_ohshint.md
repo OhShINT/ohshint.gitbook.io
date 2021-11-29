@@ -300,6 +300,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### Internet Protocol Addresses [IP]
 
+- [Robtex](https://www.robtex.com/) - *Added 28/11/2021.*
 - [PeeringDB](https://www.peeringdb.com/) - *Added 6/11/2021.*
 - [BGPView](https://bgpview.io/) - *Added 3/11/2021.*
 - [IP-Neighbors](https://www.ip-neighbors.com) - *Added 3/11/2021.*
@@ -327,6 +328,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### URL Redirects and Backlinks
 
+- [OpenLinkProfiler](https://openlinkprofiler.org) - *Added 28/11/2021.*
+- [URLScan](https://urlscan.io/) - *Added 28/11/2021.*
 - [CheckShortURL](https://checkshorturl.com) - *Added 6/11/2021.*
 - [SpyFu](https://www.spyfu.com/overview/domain) - *Added 3/11/2021.*
 
@@ -344,6 +347,22 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [IPVM Camera Calculator](https://calculator.ipvm.com/) - *Added 9/11/2021.*
 - [SkylineWebcams](https://www.skylinewebcams.com/en/webcam) - *Added 9/11/2021.*
+
+### **Attack Maps**
+
+- [Spamhaus Live Botnet Threat Map](https://www.spamhaus.com/threat-map/) - *Added 28/11/2021.*
+- [Imperva Threat Attack Map](https://www.imperva.com/cyber-threat-attack-map/) - *Added 28/11/2021.*
+- [Talos Intelligence Cyber Attack Map](https://talosintelligence.com/fullpage_maps/) - *Added 28/11/2021.*
+- [ThreatButt](https://threatbutt.com/map/) - *Added 28/11/2021.*
+- [Akamai Attack Visualizations](https://www.akamai.com/visualizations/visualizing-akamai?tab=attacks&theme=dark) - *Added 28/11/2021.*
+- [Fortinet Threat Map](https://threatmap.fortiguard.com/) - *Added 28/11/2021.*
+- [Sophos Threat Intelligence](https://www.sophos.com/en-us/threat-center/threat-monitoring/threatdashboard.aspx) - *Added 28/11/2021.*
+- [NetScout Omnis Threat Map](https://horizon.netscout.com/) - *Added 28/11/2021.*
+- [SonicWall Worldwide Attacks](https://securitycenter.sonicwall.com/m/page/worldwide-attacks) - *Added 28/11/2021.*
+
+### **Exploits and Proof of Concept [PoC]**
+
+- [CVE Trends](https://cvetrends.com/) - *Added 28/11/2021.*
 
 ### **Advanced Persistent Threats [APTs]**
 
@@ -367,6 +386,9 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Tools**
 
+- [ISP Quick List](https://www.ispquicklist.com/) - *Added 28/11/2021.*
+- [ISP Today](https://isp.today/) - *Added 28/11/2021.*
+- [Wikipedia - Lists of Internet Service Providers by Country](https://en.wikipedia.org/wiki/Category:Internet_service_providers_by_country) ([Wikiless](https://wikiless.org/wiki/Category:Internet_service_providers_by_country)) - *Added 28/11/2021.*
 - [Bowserling](https://www.browserling.com/) - *Added 29/10/2021.*
 
 ## <u>**People Investigations**</u>
