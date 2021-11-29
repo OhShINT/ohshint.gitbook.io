@@ -9,6 +9,12 @@
   Simple tool that analyzes email headers and making them human-readable.
 - [Free Email Scraper](https://freemailscraper.herokuapp.com/complete-website-email-scraper)  
   Easily find email addresses by entering a website URL. This tool will scrape the page for any email addresses and display any results.
+- [HaveIBeenEmotet](https://www.haveibeenemotet.com/index.php)  
+  Check if an email address or domain is involved in the Emotet malspam campaign.
+- [Email-Format](https://www.email-format.com/)  
+  Helps find the email address formats in use for thousands of different companies.
+- [Hunter.io](https://hunter.io/)  
+  Lets you find professional email addresses in seconds. Very useful tool. For best results, a paid subscription is required.
 
 ## <u>**Data Breach Search**</u>
 
