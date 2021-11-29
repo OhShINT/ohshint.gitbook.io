@@ -343,6 +343,10 @@
   Global map of camp grounds. Based on data from OpenStreetMap. 
 - [Map of Music Festivals](https://www.musicworldmap.com/world-map/?category=All%20Festivals)  
   A map that shows the upcoming music festivals around the world.
+- [Komoot](https://www.komoot.com/)  
+  Route planner for hiking, cycling and running.
+- [OpenCycleMap](https://www.opencyclemap.org/)  
+  A global cycling map for general overview and trip planning.
 
 ## <u>**Other Mapping Resources**</u>
 
