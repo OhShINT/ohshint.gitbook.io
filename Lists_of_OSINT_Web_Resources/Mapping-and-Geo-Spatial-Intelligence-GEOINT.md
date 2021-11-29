@@ -261,6 +261,30 @@
   A comprehensive and regularly updated interactive map of the world's major submarine communication cable systems and landing stations.
 - [Infrapedia Map](https://www.infrapedia.com/)  
   Claims to be the most complete and versatile interactive infrastructure map of the Internet. Requires registration.
+- [Map of the Internet](https://mapoftheinternet.com/)  
+  A 3D interactive internet map, search engine, index and directory. Each domain, website, or any other internet address is represented by cubes in 3D space. Over 1 Billion internet domain hosts can be found on this map. Pretty neat.
+- [Historical Computer Network Maps](https://personalpages.manchester.ac.uk/staff/m.dodge/cybergeography/atlas/historical.html)  
+  Interesting collection of historical maps for ARPANET, the internet, Usenet, and other computer networks.
+- [Indexmundi Internet Users by Country](https://www.indexmundi.com/map/?v=118)  
+  Shows how internet use varies by country. The shade of the country corresponds to the magnitude of the indicator. The darker the shade, the higher the value.
+- [Internet Exchange Map](https://www.internetexchangemap.com/)  
+  A free interactive map of internet exchanges that depicts over 300 active exchanges and more than 500 buildings. Data contained in this map was complied by TeleGeography and is updated on a regular basis.
+- [The Internet Mapping Project](https://www.cheswick.com/ches/map/)  
+  Started at Bell Labs in the summer of 1998. Its goal is to acquire and save Internet topological data over a long period of time. This data has been used in the study of routing problems and changes, DDoS attacks, and graph theory.
+- [CRTC Broadband Coverage Map](https://crtc.gc.ca/cartovista/internetcanada-en/)  
+  Broadband internet coverage map for Canada, provided by the CRTC.
+- [Lightbox Connectivity Map](https://www.lightboxre.com/connectivity-map/)  
+  This service provides users with precise internet connectivity data for all structures across the United States. Requires a paid subscription.
+- [TeleGeography Global Internet Map 2021](https://global-internet-map-2021.telegeography.com/)  
+  A collection of internet and telecom infrastructure maps.
+- [US National Broadband Map](https://broadbandnow.com/national-broadband-map)  
+  This national broadband map provides the most accurate, up-to-date map of availability and speeds in the U.S. It is also the first map that provides a national view of pricing down to the census block.
+- [Pingdom Map](https://livemap.pingdom.com/)  
+  A live map of internet downtime and statistics.
+- [Internet Map](http://internet-map.net/)  
+  An interactive map of the World Wide Web.
+- [Halcyon 2021 Map of the Internet](https://www.halcyonmaps.com/map-of-the-internet-2021)  
+  Inspired by design of historical maps, this project aims to concisely, but still comprehensively visualize the current state of the World Wide Web.
 
 ### **<u>Cell Tower Maps</u>**
 
