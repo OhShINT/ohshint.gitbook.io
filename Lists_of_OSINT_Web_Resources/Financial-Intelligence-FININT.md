@@ -45,7 +45,7 @@
   Preforms address clustering. Find out if addresses belong to the same user, or in rare cases, identify what mixer was used.
 - [BitRef](https://bitref.com/)  
   A simple tool to display a Bitcoin addresses current balance.
-- [BitcoinAbuse](https://www.bitcoinabuse.com/) 
+- [BitcoinAbuse](https://www.bitcoinabuse.com/)  
   Tracking bitcoin addresses used by ransomware, blackmailers, fraudsters, etc.
 
 ### **<u>Ethereum [ETH] Specific</u>**
