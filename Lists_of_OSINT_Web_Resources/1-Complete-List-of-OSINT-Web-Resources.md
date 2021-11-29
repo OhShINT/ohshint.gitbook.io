@@ -3124,7 +3124,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 ## **Data Breach Search**
 
 - [HaveIBeenPwned](https://haveibeenpwned.com/)  
-  Lets you search for an email address of phone number. Will tell you what breaches include what you have searched.
+  Lets you search for an email address or phone number. Will tell you what breaches include what you have searched.
 - [BreachDirectory](https://breachdirectory.org/)  
   Search via email address, username or phone number to see censored passwords. They also provide the full password as a SHA-1 hash, which can easily be cracked.
 - [DeHashed](https://dehashed.com/)  
