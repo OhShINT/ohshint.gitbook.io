@@ -58,3 +58,18 @@ LARRY PLANT
 
 Make certain that while on surveillance that your water bottle and urine bottle are CLEARLY marked. [#tastesdifferent](https://twitter.com/hashtag/tastesdifferent?src=hashtag_click) [#surveillanceprotip](https://twitter.com/hashtag/surveillanceprotip?src=hashtag_click)
 
+
+
+## **Surveillance Protip 4**
+
+> Posted on *26/11/2021* at *8:53 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1464457232876072963](https://twitter.com/ohshint_/status/1464457232876072963)
+
+[#SurveillanceProtip](https://twitter.com/hashtag/SurveillanceProtip?src=hashtag_click) 4:  
+
+A great way to practice your surveillance photography is by snapping pictures of wildlife. 
+
+See how close you can get before the animals get spooked! 
+
+Plus, it's also pretty fun and you will (hopefully) get some awesome images out of it.
+
