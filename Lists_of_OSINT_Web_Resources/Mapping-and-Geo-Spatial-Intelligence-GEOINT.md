@@ -174,6 +174,10 @@
   A historic archive of lightning strikes from any location on Earth.
 - [Light Pollution Map](https://www.lightpollutionmap.info/)  
   An interactive map that displays light pollution information by area.
+- [WindFinder](https://www.windfinder.com/)  
+  Wind forecasts, wind radar, wind force and weather.
+- [WindGuru](https://www.windguru.cz/)  
+  Provides maps of wind and weather model forecasts.
 
 ### **<u>Natural Disaster Maps</u>**
 
