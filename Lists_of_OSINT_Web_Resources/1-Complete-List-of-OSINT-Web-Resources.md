@@ -2134,10 +2134,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A tool for blockchain analysis and BTC or ETH address lookup. Track address activity, transaction history, address relations, and other metrics.
 - [BlockCypher](https://blockcypher.herokuapp.com/)  
   Blockchain explorer for Bitcoin, Ethereum, Litecoin, DogeCoin and Dash. Provides information about address, transactions, block hashes, block numbers and/or wallet names.
-- [Breadcrumbs](https://breadcrumbs.app/) 
-  An open blockchain analytics platform that allows you to trace and monitor crypto-currency transactions.
-- [CryptoLogos](https://cryptologos.cc/) 
-  Locate a certain crypto currency by its logo.
+- [Breadcrumbs](https://breadcrumbs.app/)  
+  An open blockchain analytics platform that allows you to trace and monitor cryptocurrency transactions.
+- [CryptoLogos](https://cryptologos.cc/)  
+  Locate a certain cryptocurrency by its logo.
 
 ### **Bitcoin [BTC] Specific**
 
@@ -2151,7 +2151,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Preforms address clustering. Find out if addresses belong to the same user, or in rare cases, identify what mixer was used.
 - [BitRef](https://bitref.com/)  
   A simple tool to display a Bitcoin addresses current balance.
-- [BitcoinAbuse](https://www.bitcoinabuse.com/) 
+- [BitcoinAbuse](https://www.bitcoinabuse.com/)  
   Tracking bitcoin addresses used by ransomware, blackmailers, fraudsters, etc.
 
 ### **Ethereum [ETH] Specific**
@@ -2162,7 +2162,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 ### **Monero [XMR] Specific**
 
 - [Monero Blocks](https://localmonero.co/blocks)  
-  Monero blockhain explorer. Search by block height, block hash, transaction hash or payment ID.
+  Monero blockchain explorer. Search by block height, block hash, transaction hash or payment ID.
 - [XMRChain](https://xmrchain.net/)  
   Allows you to explore Monero data.
 
