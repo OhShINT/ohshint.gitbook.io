@@ -95,6 +95,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [EuroGeoGraphics](https://eurogeographics.org/) - *Added 28/11/2021.*
 - [Mapy](https://de.mapy.cz/) - *Added 21/11/2021.*
 - [DarkSky Map](https://maps.darksky.net/) - *Added 21/11/2021.*
 - [Mapcarta](https://mapcarta.com/) - *Added 21/11/2021.*
@@ -121,6 +122,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Historical Maps**
 
+- [Disease Map](http://disease-map.net/) - *Added 28/11/2021.*
 - [OldMapsOnline](https://www.oldmapsonline.org/) - *Added 21/11/2021.*
 - [Arcanum Maps](https://maps.arcanum.com/en/) - *Added 21/11/2021.*
 
@@ -128,6 +130,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **General Weather Maps**
 
+- [WindFinder](https://www.windfinder.com/)  - *Added 28/11/2021.*
+- [WindGuru](https://www.windguru.cz/)  - *Added 28/11/2021.*
 - [Blitzortung Live Lightning Map](https://map.blitzortung.org/) - *Added 10/11/2021.*
 - [Blitzortung Live Lightning Map Archive](https://www.blitzortung.org/en/historical_maps.php) - *Added 10/11/2021.*
 
@@ -148,6 +152,18 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Internet Maps**
 
+- [Pingdom Map](https://livemap.pingdom.com/) - *Added 28/11/2021.*
+- [Internet Map](http://internet-map.net/) - *Added 28/11/2021.*
+- [Halcyon 2021 Map of the Internet](https://www.halcyonmaps.com/map-of-the-internet-2021) - *Added 28/11/2021.*
+- [US National Broadband Map](https://broadbandnow.com/national-broadband-map) - *Added 28/11/2021.*
+- [TeleGeography Global Internet Map 2021](https://global-internet-map-2021.telegeography.com/) - *Added 28/11/2021.*
+- [Lightbox Connectivity Map](https://www.lightboxre.com/connectivity-map/) - *Added 28/11/2021.*
+- [CRTC Broadband Coverage Map](https://crtc.gc.ca/cartovista/internetcanada-en/) - *Added 28/11/2021.*
+- [The Internet Mapping Project](https://www.cheswick.com/ches/map/) - *Added 28/11/2021.*
+- [Internet Exchange Map](https://www.internetexchangemap.com/) - *Added 28/11/2021.*
+- [Indexmundi Internet Users by Country](https://www.indexmundi.com/map/?v=118) - *Added 28/11/2021.*
+- [Historical Computer Network Maps](https://personalpages.manchester.ac.uk/staff/m.dodge/cybergeography/atlas/historical.html) - *Added 28/11/2021.*
+- [Map of the Internet](https://mapoftheinternet.com/) - *Added 28/11/2021.*
 - [HE Backbone Network Map](https://he.net/3d-map/) - *Added 21/11/2021.*
 
 #### **Cellular Coverage Maps**
@@ -157,7 +173,6 @@ All dates are listed in *DD/MM/YYYY* format.
 ### **Industry Maps**
 
 - [OpenInfraMap](https://openinframap.org/) - *Added 21/11/2021.*
-- [Infrapedia Map](https://www.infrapedia.com/) - *Added 21/11/2021.*
 
 ### **Landmark Recognition**
 
@@ -170,6 +185,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Outdoor Activity Maps**
 
+- [OpenCycleMap](https://www.opencyclemap.org/) - *Added 28/11/2021.*
+- [Komoot](https://www.komoot.com/) - *Added 28/11/2021.*
 - [Strava Heatmap](https://www.strava.com/heatmap) - *Added 21/11/2021.*
  - [OpenRouteService Map](https://maps.openrouteservice.org/) - *Added 21/11/2021.*
  - [OpenCampingMap](https://opencampingmap.org/) - *Added 21/11/2021.*
@@ -177,6 +194,11 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Mapping Resources**
 
+- [TorontoToilets](https://torontotoilets.org/) - *Added 28/11/2021.*
+- [ToiletMap Australia](https://toiletmap.gov.au/) - *Added 28/11/2021.*
+- [McBroken Australia](http://mcbrokenaustralia.com/) - *Added 28/11/2021.*
+- [Tesla Supercharger Map](https://supercharge.info/map) - *Added 28/11/2021.*
+- [Mundraub](https://mundraub.org/map) - *Added 28/11/2021.*
 - [BatchGeo](https://batchgeo.com) - *Added 21/11/2021.*
 - [NavBug](https://www.navbug.com/mindex2.php) - *Added 21/11/2021.*
 - [The True Size Of](https://thetruesize.com/) - *Added 21/11/2021.*
@@ -207,6 +229,18 @@ All dates are listed in *DD/MM/YYYY* format.
 - [AutoStitch](http://matthewalunbrown.com/autostitch/autostitch.html) - *Added 10/11/2021.*
 - [Colorize Photo](https://colorize.toolpie.com/) - *Added 10/11/2021.*
 
+## **<u>Orbital Intelligence [ORBINT]</u>**
+
+### **General Orbital Intelligence**
+
+- [Stellarium](https://stellarium-web.org/) - *Added 28/11/2021.*
+- [Moon Trek](https://trek.nasa.gov/moon/) - *Added 28/11/2021.*
+- [Mars Trek](https://trek.nasa.gov/mars/) - *Added 28/11/2021.*
+- [3D Solar System Simulator](https://theskylive.com/3dsolarsystem) - *Added 28/11/2021.*
+- [Solar System Scope](https://www.solarsystemscope.com/) - *Added 28/11/2021.*
+- [100,000 Stars](https://stars.chromeexperiments.com/) - *Added 28/11/2021.*
+- [InTheSky](https://in-the-sky.org/ngc3d.php) - *Added 28/11/2021.*
+
 ## <u>**Business Research and Trade intelligence [TRADINT]**</u>
 
 ### General Business Search
@@ -215,11 +249,21 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Financial Intelligence [FININT]**</u>
 
+### **General FININT**
+
+- [OpenPayrolls](https://openpayrolls.com/) - *Added 28/11/2021.*
+
 ### Cryptocurrency and Blockchain
 
 #### **General Analysis**
 
+- [CryptoLogos](https://cryptologos.cc/) - *Added 28/11/2021.*
+- [Breadcrumbs](https://breadcrumbs.app/) - *Added 28/11/2021.*
 - [BlockCypher](https://blockcypher.herokuapp.com/) - *Added 7/11/2021.*
+
+#### **Bitcoin [BTC] Specific**
+
+- [BitcoinAbuse](https://www.bitcoinabuse.com/) - *Added 28/11/2021.*
 
 ## **<u>Vehicle and Transportation Intelligence [VATINT]</u>**
 
@@ -340,6 +384,9 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Email Addresses**</u>
 
+- [Hunter.io](https://hunter.io/) - *Added 28/11/2021.*
+- [Email-Format](https://www.email-format.com/) - *Added 28/11/2021.*
+- [HaveIBeenEmotet](https://www.haveibeenemotet.com/index.php)  - *Added 28/11/2021.*
 - [Free Email Scraper](https://freemailscraper.herokuapp.com/complete-website-email-scraper) - *Added 3/11/2021.*
 
 ## <u>**Phone Numbers**</u>
