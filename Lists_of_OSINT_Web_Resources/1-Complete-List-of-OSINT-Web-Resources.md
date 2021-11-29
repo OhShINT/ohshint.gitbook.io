@@ -1551,6 +1551,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A 3D view of Earth with different data layers such as temperature, UV, cloud cover, wind, and more.
 - [Mapy](https://de.mapy.cz/)  
   A general all-purpose online map with plenty of options.
+- [EuroGeoGraphics](https://eurogeographics.org/)  
+  A non-profit organization representing Europe’s national mapping, cadastral and land registration authorities. Requires a paid subscription.
 
 ## **Street View Maps**
 
@@ -1611,6 +1613,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Offers old and historic maps from all over the world.
 - [Arcanum Maps](https://maps.arcanum.com/en/)  
   Offers loads of historical maps from all over Europe. Requires registration and payment.
+- [Disease Map](http://disease-map.net/)  
+  An interactive map of human diseases, both historical and current.
 
 ## **Weather Maps**
 
@@ -1870,6 +1874,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   This site helps you calculate how far can someone go from a place in a specific time period. Search by any location in the world, means of transport, and time period.
 - [McBroken](https://mcbroken.com/)  
   An interactive that tells you which McDonalds locations currently have broken ice cream machines. Probably one of the best uses of OSINT I have ever seen.
+- [McBrokenAustralia](http://mcbrokenaustralia.com/)  
+  A map that shows you if the McDonalds ice cream machines are working or not in Australia.
 - [Geograph Worldwide](https://www.geograph.org/)  
   A concept and open source code for a online website to create a comprehensive collection of photographs capturing every part of given region.
 - [BatchGeo](https://batchgeo.com)  
@@ -1884,6 +1890,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A global map of edible plants and fruits.
 - [Tesla Supercharger Map](https://supercharge.info/map)  
   An interactive map that displays all of the Tesla Superchargers all over the world.
+- [ToiletMap Australia](https://toiletmap.gov.au/)  
+  A data set and map of public toilets in Australia.
+- [TorontoToilets](https://torontotoilets.org/)  
+  A map of public toilets for Toronto, ON, Canada.
 
 # <u>**Imagery Intelligence [IMINT]**</u>
 
