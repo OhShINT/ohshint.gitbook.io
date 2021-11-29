@@ -2639,6 +2639,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Contains information about the public IPv4 and IPv6 addresses, networks and domains owned by companies and organizations across the world along with city-level IP geolocation data and autonomous system information. Also offers a free API.
 - [PeeringDB](https://www.peeringdb.com/)  
   A user-maintained database of networks. Provides a wealth of interconnection data.
+- [Robtex](https://www.robtex.com/)  
+  Gathers public information about IP numbers, domain names, host names, autonomous systems, routes, etc. It then indexes the data in a big database and provides free access to the data.
 
 ## **Domain Name System [DNS] Records**
 
@@ -2719,6 +2721,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Displays website information and metrics, SEO analytics, backlinks and more by searching a URL.
 - [CheckShortURL](https://checkshorturl.com)  
   Easily expand URLs from most URL shortening services such as t.co, goo.gl, bit.ly, amzn.to, tinyurl.com, ow.ly, youtu.be and more.
+- [URLScan](https://urlscan.io/)  
+  Scan URLs for any malicious activity.
+- [OpenLinkProfiler](https://openlinkprofiler.org)  
+  A free link research tool that enables you to check the backlinks of any website. Enter a domain name in the search box and click the 'Get backlink data' button to get an immediate link analysis.
 
 ## **Wireless Fidelity [WiFi]**
 
@@ -2822,6 +2828,24 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Displays real-time malware infections, phishing attacks and exploitation on a map.
 - [Talos Intelligence Reputation Center](https://talosintelligence.com/reputation_center/)  
   Claims to be the world’s most comprehensive real-time threat detection network. Includes an interactive map.
+- [Spamhaus Live Botnet Threat Map](https://www.spamhaus.com/threat-map/)  
+  A live map of botnet activity, zombies and C2 servers.
+- [Imperva Threat Attack Map](https://www.imperva.com/cyber-threat-attack-map/)  
+  Real-time view of on-going cyber attacks.
+- [Talos Intelligence Cyber Attack Map](https://talosintelligence.com/fullpage_maps/)  
+  A live map that shows the top spam and malware distributors.
+- [ThreatButt](https://threatbutt.com/map/)  
+  A real-time cyber attack map. By far the most 1337 looking attack map out there.
+- [Akamai Attack Visualizations](https://www.akamai.com/visualizations/visualizing-akamai?tab=attacks&theme=dark)  
+  This real-time visualization shows the phishing, malware, and command & control threats that Akamai is blocking (for customers) through its Intelligent Platform and its unprecedented insights into DNS and IP traffic.
+- [Fortinet Threat Map](https://threatmap.fortiguard.com/)  
+  Interactive map that displays statistics of active cyber attacks in real-time.
+- [Sophos Threat Intelligence](https://www.sophos.com/en-us/threat-center/threat-monitoring/threatdashboard.aspx)  
+  A static threat tracking map. All data comes from SophosLabs monitoring and malware research activities. Map is not in real-time.
+- [NetScout Omnis Threat Map](https://horizon.netscout.com/)  
+  Displays DDoS attacks observed globally in real-time as well as other statistics such as size, type, sources, destinations, time span and more.
+- [SonicWall Worldwide Attacks](https://securitycenter.sonicwall.com/m/page/worldwide-attacks)  
+  Provides a graphical view of worldwide attacks over the last 24 hours. It shows which countries are being attacked and where the attack originates. This interactive map shows not only malware attacks, but ransomware, encrypted traffic, intrusion attempts, and spam/phishing attacks. Also included are attack site statistics for the past 24 hours.
 
 ## **Public Buckets**
 
@@ -2844,6 +2868,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   You can browse for vendors, products and versions and view CVE entries, vulnerabilities, related to them. You can view statistics about vendors, products and versions of products. Vulnerability data is updated daily using NVD feeds.
 - [VulDB](https://vuldb.com/)  
   A vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.
+- [CVE Trends](https://cvetrends.com/)  
+  Crowdsourced CVE intelligence and trends.
   
 ## **Advanced Persistent Threats [APTs]**
 
@@ -2896,6 +2922,12 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A list of default settings and login credentials for over 2,000 routers.
 - [Bowserling](https://www.browserling.com/)  
   Allows you to view a website in a different browser online. For example, a Mac user can test a website to see how it acts in Internet Explorer, without having to install a VM.
+- [ISP Quick List](https://www.ispquicklist.com/)  
+  A free database that lists ISPs for wireless, broadband, DSL, ADSL, cable, etc. Organized by country.
+- [ISP Today](https://isp.today/)  
+  A worldwide database of internet service providers.
+- [Wikipedia - Lists of Internet Service Providers by Country](https://en.wikipedia.org/wiki/Category:Internet_service_providers_by_country) ([Wikiless](https://wikiless.org/wiki/Category:Internet_service_providers_by_country))  
+  Lists of ISPs organized by country.
 
 <u>**Signals Intelligence [SIGINT]**</u>
 ===========================================================================
