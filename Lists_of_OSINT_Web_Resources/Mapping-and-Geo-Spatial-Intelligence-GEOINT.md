@@ -382,3 +382,7 @@
   A simple tool that lets you compare the relative size of countries.
 - [NukeMap](https://nuclearsecrecy.com/nukemap/)  
   An rather *interesting* tool that lets you simulate explosions of nuclear weapons.
+- [Mundraub](https://mundraub.org/map)  
+  A global map of edible plants and fruits.
+- [Tesla Supercharger Map](https://supercharge.info/map)  
+  An interactive map that displays all of the Tesla Superchargers all over the world.
