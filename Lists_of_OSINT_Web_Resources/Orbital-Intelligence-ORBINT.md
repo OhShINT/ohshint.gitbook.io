@@ -19,6 +19,20 @@
   A great resource that displays images and information for *most* mission patches from the early days of space exploration to present day missions. Appears to be missing some more recent patches like the [Inspiration 4](https://inspiration4.com/) patch and a few others.
 - [[PDF] NASA ISS Reference Guide](https://www.nasa.gov/pdf/508318main_ISS_ref_guide_nov2010.pdf)  
   A document provided by NASA in November 2010 that acts as a reference guide and provides details of the construction and layout of the International Space Station. Archived copies can be found [here (Wayback)](https://web.archive.org/web/20210912213137/https://www.nasa.gov/pdf/508318main_ISS_ref_guide_nov2010.pdf) and [here (Library Genesis)](http://libgen.rs/book/index.php?md5=8E878DE8BE1D9C769B83D2C7CCE68FE2).
+- [Stellarium](https://stellarium-web.org/)  
+  A virtual online planetarium. Pretty neat.
+- [Moon Trek](https://trek.nasa.gov/moon/)  
+  Exploration portal for the moon, provided by NASA.
+- [Mars Trek](https://trek.nasa.gov/mars/)  
+  Exploration portal for Mars, provided by NASA.
+- [3D Solar System Simulator](https://theskylive.com/3dsolarsystem)  
+  Orbits of planets and more than 150 comets and asteroids.
+- [Solar System Scope](https://www.solarsystemscope.com/)  
+  Solar system, night sky and outer space in real time.
+- [100,000 Stars](https://stars.chromeexperiments.com/)   
+  An interactive visualization of the stellar neighborhood.
+- [InTheSky](https://in-the-sky.org/ngc3d.php)  
+  An interactive 3D map of the universe. 
 
 ## **<u>Visualization</u>**
 
