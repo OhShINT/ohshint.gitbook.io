@@ -1396,7 +1396,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [TweetedAt](https://oduwsdl.github.io/tweetedat/)  
   Extracts the exact date and time from the tweet ID by reverse-engineering the [Twitter Snowflake](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html).
 - [FollowerAudit](https://www.followeraudit.com/)  
-  In-depth analysis of Twitter followers. Identifies inactive and fake accounts, asesses followers by the number of tweets, profile information, biography, geolocation, links, profile picture. Requires you to login to Twitter.
+  In-depth analysis of Twitter followers. Identifies inactive and fake accounts, assesses followers by the number of tweets, profile information, biography, geolocation, links, profile picture. Requires you to login to Twitter.
 
 
 ## **Untappd**
