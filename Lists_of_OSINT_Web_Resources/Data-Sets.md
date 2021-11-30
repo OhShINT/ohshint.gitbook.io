@@ -43,7 +43,13 @@
 - [Archives Canada](http://www.archivescanada.ca/)  
   A gateway to over 800 archival repositories across Canada.
 - [Australian National Archives Search](https://recordsearch.naa.gov.au/SearchNRetrieve/Interface/SearchScreens/BasicSearch.aspx)  
-  A tool to search the national archives of Australia. Includes an advanced search function.
+  A tool to search the national archives of Australia. Includes an advanced search function.\
+- [ICO Search](https://ico.org.uk/ESDWebPages/Search)  
+  The Information Commissioner's Office (ICO) upholds information rights in the public interest, promoting openness by public bodies and data privacy for individuals. ICO is an executive non-departmental public body, sponsored by the Department for Digital, Culture, Media and Sport.
+- [CORE Research Paper Database](https://core.ac.uk/)  
+  CORE currently contains 207,255,818 searchable open access articles and research papers collected from 10,286 data providers around the world, which you can search using keywords.
+- [David McKie Open Data Portals](http://www.davidmckie.com/open-data-portals/)  
+  This is a great collection of Canadian open data portals, both federal and provincial. This site also provides some other useful non-Canadian data sets.
 
 ## **<u>Leaked Data Sets</u>**
 
