@@ -870,6 +870,8 @@ Remember, CTRL+F is your friend here.
   Essentially a clone of iZito.
 - [I Search From](http://isearchfrom.com/)  
   Simulate using Google Search from a different location or device, or perform a search with custom search settings.
+- [ScrapersnBots](https://scrapersnbots.com/webtools/)  
+  A large collection of online tools for OSINT. Search for users with a specific name on different sites or a single domain. Google image search, YouTube tags, URL extractor and more.
 
 ## **Similar Site Search**
 
