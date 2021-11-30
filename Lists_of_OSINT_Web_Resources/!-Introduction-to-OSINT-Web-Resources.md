@@ -2,7 +2,7 @@
 
 Yet another list of OSINT web resources.
 
-> _"This is my list. There are many like it, but this one is mine. My list is my best friend. It is my life. I must master is as I mush master my life. Without me, my list is useless. Without my list, I am useless."_
+> _"This is my list. There are many like it, but this one is mine. My list is my best friend. It is my life. I must master it as I must master my life. Without me, my list is useless. Without my list, I am useless."_
 
 ![](Images/List-of-OSINT-Web-Resources-Header-Image.PNG)
 
