@@ -1123,6 +1123,8 @@ A Google CSE that searches for scientific publications.
   A list of the currently most active GitHub users, sorted by country.
 - [Gitstar Ranking](https://gitstar-ranking.com/)  
   Unofficial GitHub star ranking for users, organizations and repositories.
+- [GitHubCompare](https://githubcompare.com/)  
+  A tool that allows you to compare two GitHub repositories.
 
 ## **Gravatar**
 
@@ -1155,6 +1157,8 @@ A Google CSE that searches for scientific publications.
   Search and analyze profiles and hashtags without having to use an account.
 - [StoriesDown](https://storiesdown.com/)  
   Allows you to view and download Instagram stories and posts without an account.
+- [Bibliogram](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)  
+  Takes data from Instagram's public profile views and puts it into a friendlier page that loads faster, gives downloadable images, eliminates ads, generates RSS feeds, and doesn't urge you to sign up.
 - [Instadp](https://www.instadp.com/)  
   An online tool that displays full size profile pictures of a user. It also allows you to download photos, videos, stories and reels.
 - [InstaFollowers](https://www.instafollowers.co/find-instagram-user-id)  
@@ -1215,6 +1219,8 @@ A Google CSE that searches for scientific publications.
 
 - [PinGroupie](https://pingroupie.com/)  
   A massive Group Pinterest board directory with over 29,000 group boards listed. Also has an advanced search function.
+- [Pinterest Site Map](https://www.pinterest.ca/html_sitemap/pinners_a.html)  
+  A site map of Pinterest users, collections and topics.
 
 ## **Reddit**
 
@@ -1244,6 +1250,8 @@ A Google CSE that searches for scientific publications.
   A collection of archived subreddits from the-eye.eu. Includes some NSFW subreddits.
 - [Reddit Archive](http://www.redditarchive.com/)  
   A non-searchable historical archive of Reddit posts. Almost useless, but still worth mentioning.
+- [Rdddeck](https://rdddeck.com/)  
+  A simple tool for monitoring subreddits.
 
 ## **SnapChat**
 
@@ -1336,6 +1344,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   In October 6th, 2021, Twitch got hacked and their data was dumped online. This article explains the contents of the breached data and provides a magnet URI to download the raw data. Page has been archived [here (archive.today)](https://archive.ph/IBNSS). Read the official statement from Twitch [here](https://blog.twitch.tv/en/2021/10/06/updates-on-the-twitch-security-incident/).
 - [Twitch Earnings Lookup](https://twitch.fckdmca.com/)  
   Data was taken from the hacked Twitch data that was leaked online on October 6th, 2021. Page archived [here (Wayback)](https://web.archive.org/web/20211007151749/https://twitch.fckdmca.com/) and [here (archive.today)](https://archive.ph/MKGsy).
+- [TwitchTools](https://twitch-tools.rootonline.de/channel_previews.php)  
+  Search streams and filter results by title, game, language, number of viewers. Also provides other useful tools for Twitch.
 
 ## **Twitter**
 
@@ -1385,6 +1395,9 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   AI powered Twitter analytics. Requires a paid subscription.
 - [TweetedAt](https://oduwsdl.github.io/tweetedat/)  
   Extracts the exact date and time from the tweet ID by reverse-engineering the [Twitter Snowflake](https://blog.twitter.com/engineering/en_us/a/2010/announcing-snowflake.html).
+- [FollowerAudit](https://www.followeraudit.com/)  
+  In-depth analysis of Twitter followers. Identifies inactive and fake accounts, asesses followers by the number of tweets, profile information, biography, geolocation, links, profile picture. Requires you to login to Twitter.
+
 
 ## **Untappd**
 
