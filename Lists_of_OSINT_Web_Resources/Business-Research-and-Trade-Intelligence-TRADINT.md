@@ -21,6 +21,10 @@
   A directory of European businesses, sorted by category.
 - [Panjiva](https://panjiva.com/)  
   Provides supply chain intelligence for global trade companies. Requires a paid subscription.
+- [TradeMap](https://www.trademap.org/Index.aspx)  
+  Provides indicators on export performance, international demand, alternative markets and competitive markets, as well as a directory of importing and exporting companies in the form of tables, graphs and maps.
+- [TendersInfo](https://www.tendersinfo.com/)  
+  Search tenders around the world via keywords. Requires registration. If you do not want to register to see the full data, then just copy the names of found tenders and search it on Google.
 
 ## **<u>Patents and Trademarks</u>**
 
@@ -57,6 +61,8 @@
 
 - [North Data](https://www.northdata.com/)  
   Provides easily understandable company information that is publicly available for European companies. Obtained from sources such as trade registers, yearly reports, funding registers, trademark registers, patent registers and others.
+ - [Societe Ninja](https://societe.ninja/)  
+   Free public information about companies located in France.
 
 ### <u>**North America**</u>
 
