@@ -163,6 +163,8 @@
   Live European glider and other flight tracking data.
 - [Freedar UK](https://radar.freedar.uk/VirtualRadar/desktop.html)  
   A live flight tracking map that includes many military aircraft.
+- [DictatorAlert](https://dictatoralert.org/)  
+  A project that tracks the aircrafts of authoritarian regimes all over the world.
 
 ### **<u>Aircraft Information</u>**
 
