@@ -50,8 +50,13 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [Facebook Law Enforcement Guide](https://www.facebook.com/safety/groups/law/guidelines/) - *Added 3/11/2021.*
 
+### **GitHub**
+
+- [GitHubCompare](https://githubcompare.com/)  
+
 ### **Instagram**
 
+- [Bibliogram](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md) - *Added 29/11/2021.*
 - [iGram Downloader](https://igram.io/) - *Added 10/11/2021.*
 - [Picuki](https://www.picuki.com/) - *Added 6/11/2021.*
 - [Gramhir](https://gramhir.com/) - *Added 6/11/2021.*
@@ -62,8 +67,13 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [Chartloop](https://buildorgchart.herokuapp.com/) - *Added 9/11/2021.*
 
+### **Pinterest**
+
+- [Pinterest Site Map](https://www.pinterest.ca/html_sitemap/pinners_a.html) - *Added 29/11/2021.*
+
 ### **Reddit**
 
+- [Rdddeck](https://rdddeck.com/) - *Added 29/11/2021.*
 - [YASIV Reddit Visualization](http://yasiv.com/reddit) - *Added 9/11/2021.*
 - [RedditMetis](https://redditmetis.com/) - *Added 9/11/2021.*
 - [Redective](https://www.redective.com/) - *Added 9/11/2021.*
@@ -74,8 +84,13 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [SovaWEB Telegram OSINT Bot](https://sovaweb.herokuapp.com/) - *Added 3/11/2021.*
 
+### **Twitch**
+
+- [TwitchTools](https://twitch-tools.rootonline.de/channel_previews.php) - *Added 29/11/2021.*
+
 ### Twitter
 
+- [FollowerAudit](https://www.followeraudit.com/) - *Added 29/11/2021.*
 - [TweetedAt](https://oduwsdl.github.io/tweetedat/) - *Added 10/11/2021.*
 - [TrendsMap](https://www.trendsmap.com/map) - *Added 3/11/2021.*
 
