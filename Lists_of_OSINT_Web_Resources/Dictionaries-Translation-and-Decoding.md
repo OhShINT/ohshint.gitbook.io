@@ -19,6 +19,8 @@
   Combines translators from Google, Bing, Baidu, Yandex and more into on simple tool.
 - [[PDF] Regional Naming Conventions](https://www.bankersonline.com/sites/default/files/tools/namingconventions_0.pdf)  
   This document describes the different naming conventions used in a variety of different languages. Archived copies can be found [here (Wayback)](https://web.archive.org/web/20210927032149/bankersonline.com/sites/default/files/tools/namingconventions_0.pdf).
+- [Translit](https://translit.net/)  
+  A handy Cyrillic transliteration tool. This will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names.
 
 ## **<u>General Dictionaries</u>**
 
