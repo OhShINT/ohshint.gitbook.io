@@ -420,3 +420,7 @@
   A data set and map of public toilets in Australia.
 - [TorontoToilets](https://torontotoilets.org/)  
   A map of public toilets for Toronto, ON, Canada.
+- [Flaggenlexikon](https://www.flaggenlexikon.de/)  
+  Helps identify over 2,200 flags, including historical ones.
+- [FlagID](https://flagid.org/)  
+  A vexillologic database and tool to help identify flags.
