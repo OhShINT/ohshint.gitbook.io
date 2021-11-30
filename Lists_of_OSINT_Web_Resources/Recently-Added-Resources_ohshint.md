@@ -417,6 +417,11 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Wikipedia - Lists of Internet Service Providers by Country](https://en.wikipedia.org/wiki/Category:Internet_service_providers_by_country) ([Wikiless](https://wikiless.org/wiki/Category:Internet_service_providers_by_country)) - *Added 28/11/2021.*
 - [Bowserling](https://www.browserling.com/) - *Added 29/10/2021.*
 
+## <u>**Signals Intelligence [SIGINT]**</u>
+
+- [EchoLink Link Status](http://www.echolink.org/links.jsp) - *Added 29/11/2021.*
+- [FindU](https://www.findu.com/) - *Added 29/11/2021.*
+
 ## <u>**People Investigations**</u>
 
 ### **General People Search**
@@ -466,10 +471,18 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Data Sets**</u>
 
+### **General Data Sets**
+
+- [CORE Research Paper Database](https://core.ac.uk/) - *Added 29/11/2021.*
 - [Face Recognition Datasets](https://www.face-rec.org/databases/) - *Added 31/10/2021.*
 - [Kaggle](https://www.kaggle.com/datasets) - *Added 31/10/2021.*
 - [Common Crawl](https://commoncrawl.org/) - *Added 31/10/2021.*
 - [OCCRP Catalogue of Research Databases](https://id.occrp.org/databases/) - *Added 31/10/2021.*
+
+### **Government Data Sets**
+
+- [ICO Search](https://ico.org.uk/ESDWebPages/Search) - *Added 29/11/2021.*
+- [David McKie Open Data Portals](http://www.davidmckie.com/open-data-portals/) - *Added 29/11/2021.*
 
 ## <u>**War, Crisis and Conflicts**</u>
 
@@ -477,5 +490,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## **<u>Miscellaneous</u>**
 
+- [4QRCode](https://4qrcode.com/scan-qr-code.php) - *Added 29/11/2021.*
+- [MobilePhoneMuseum](https://www.mobilephonemuseum.com/catalogue) - *Added 29/11/2021.*
+- [BrickInstructions](https://lego.brickinstructions.com/) - *Added 29/11/2021.*
 - [eBird](https://ebird.org/explore) - *Added 10/11/2021.*
 - [Barcode Reader](https://online-barcode-reader.inliteresearch.com/default.aspx) - *Added 10/11/2021.*
