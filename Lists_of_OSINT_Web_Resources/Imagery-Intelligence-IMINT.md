@@ -130,4 +130,4 @@
 - [ForensicDots](https://www.forensicdots.de/)  
   A web application that detects printer machine identification codes (MICs). Also known as the infamous ["yellow dots"](http://seeingyellow.com/) or "tracking dots".
 - [Online Protractor](https://www.ginifab.com/feeds/angle_measurement/)  
-  A simple tool measure angles within an image.
+  A simple tool to measure angles within an image.
