@@ -3157,7 +3157,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [CaseLaw Access Project](https://case.law/)  
   A free tool that allows you to search over 1.7 million U.S. federal cases and over 4.9 million state cases.
 - [CourtListener](https://www.courtlistener.com/)  
-  Search over 4 million U.S federal and state cases and opinions in over 400 different jurisdictions.
+  Search over 4 million U.S. federal and state cases and opinions in over 400 different jurisdictions.
 - [CourtRecord](https://www.courtrecord.net/)  
   Search complete and up-to-date public court records in the U.S.
 - [DocketAlarm](https://www.docketalarm.com/)  
