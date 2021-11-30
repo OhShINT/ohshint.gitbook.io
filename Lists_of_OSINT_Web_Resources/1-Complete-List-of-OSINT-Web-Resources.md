@@ -2453,6 +2453,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Live European glider and other flight tracking data.
 - [Freedar UK](https://radar.freedar.uk/VirtualRadar/desktop.html)  
   A live flight tracking map that includes many military aircraft.
+- [DictatorAlert](https://dictatoralert.org/)  
+  A project that tracks the aircrafts of authoritarian regimes all over the world.
 
 ### **Aircraft Information**
 
@@ -4507,6 +4509,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Combines translators from Google, Bing, Baidu, Yandex and more into on simple tool.
 - [[PDF] Regional Naming Conventions](https://www.bankersonline.com/sites/default/files/tools/namingconventions_0.pdf)  
   This document describes the different naming conventions used in a variety of different languages. Archived copies can be found [here (Wayback)](https://web.archive.org/web/20210927032149/bankersonline.com/sites/default/files/tools/namingconventions_0.pdf).
+- [Translit](https://translit.net/)  
+  A handy Cyrillic transliteration tool. This will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names.
 
 ## **General Dictionaries**
 
