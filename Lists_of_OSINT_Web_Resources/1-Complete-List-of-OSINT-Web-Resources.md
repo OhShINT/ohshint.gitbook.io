@@ -2116,6 +2116,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A directory of European businesses, sorted by category.
 - [Panjiva](https://panjiva.com/)  
   Provides supply chain intelligence for global trade companies. Requires a paid subscription.
+- [OpenSanctions](https://opensanctions.org/)  
+  Provides open-source sanctions data on persons and companies of interest.
 - [TradeMap](https://www.trademap.org/Index.aspx)  
   Provides indicators on export performance, international demand, alternative markets and competitive markets, as well as a directory of importing and exporting companies in the form of tables, graphs and maps.
 - [TendersInfo](https://www.tendersinfo.com/)  
