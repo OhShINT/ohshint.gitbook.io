@@ -225,6 +225,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Reverse Image Search**
 
+- [DepositPhotos](https://depositphotos.com/search/by-images.html) - *Added 29/11/2021.*
 - [Animal Identification](https://animal.toolpie.com/) - *Added 10/11/2021.*
 - [Plant Identification](https://plant.toolpie.com/) - *Added 10/11/2021.*
 - [Brand Recognition](https://logo.toolpie.com/) - *Added 10/11/2021.*
@@ -244,6 +245,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [AutoStitch](http://matthewalunbrown.com/autostitch/autostitch.html) - *Added 10/11/2021.*
 - [Colorize Photo](https://colorize.toolpie.com/) - *Added 10/11/2021.*
 
+### **Image Metadata and Forensics**
+
+- [Online Protractor](https://www.ginifab.com/feeds/angle_measurement/) - *Added 29/11/2021.*
+
 ## **<u>Orbital Intelligence [ORBINT]</u>**
 
 ### **General Orbital Intelligence**
@@ -260,7 +265,13 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### General Business Search
 
+- [TendersInfo](https://www.tendersinfo.com/) - *Added 29/11/2021.*
+- [TradeMap](https://www.trademap.org/Index.aspx) - *Added 29/11/2021.*
 - [OpenLEIs](http://openleis.com/) - *Added 10/11/2021.*
+
+### **Business Registries**
+
+- [Societe Ninja](https://societe.ninja/) - *Added 29/11/2021.*
 
 ## <u>**Financial Intelligence [FININT]**</u>
 
@@ -418,6 +429,12 @@ All dates are listed in *DD/MM/YYYY* format.
 - [UK Census Online](https://ukcensusonline.com/search/) - *Added 3/11/2021.*
 - [Social Security Death Index Search](https://stevemorse.org/ssdi/ssdi.html) - *Added 3/11/2021.*
 - [US Census Record Database](https://www.archives.gov/research/census/online-resources) - *Added 31/10/2021.*
+
+### **Court Records**
+
+- [UniCourt](https://unicourt.com/) - *Added 29/11/2021.*
+- [BRB Public Records](https://publicrecordsblog.typepad.com/brbs_public_records_blog/) - *Added 29/11/2021.*
+- [New Zealand Court Records](https://www.courtsofnz.govt.nz/judgments/) - *Added 29/11/2021.*
 
 ## <u>**Email Addresses**</u>
 
