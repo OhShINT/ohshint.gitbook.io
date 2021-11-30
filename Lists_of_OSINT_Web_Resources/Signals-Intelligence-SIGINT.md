@@ -43,6 +43,10 @@
   A tool that allows you to search various frequency databases. Requires a paid subscription.
 - [Default Frequencies for Motorola Business Radios](https://www.buytwowayradios.com/blog/2015/05/default_frequencies_for_motorola_business_radios.html)  
   A list of Motorola business radios with their channel numbers and the default frequencies assigned to them out of the box.
+- [EchoLink Link Status](http://www.echolink.org/links.jsp)  
+  A list of currently available link stations for amateur radio operators.
+- [FindU](https://www.findu.com/)  
+  The primary source of data is an amateur radio system called APRS, some weather data comes from an internet based system called the Citizen Weather Observer Program. Data is constantly being updated.
 
 ## <u>**HAM Radio**</u>
 
