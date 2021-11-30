@@ -1975,6 +1975,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Upload an image of a plant and this tool will figure out what plant it is.
 - [Animal Identification](https://animal.toolpie.com/)  
   Upload an image of an animal and this tool will tell you what animal it is.
+- [DepositPhotos](https://depositphotos.com/search/by-images.html)  
+  Reverse image search through their dataset, which contains over 200 million images.
 
 ## **Image Generation**
 
@@ -2037,6 +2039,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   An online EXIF data viewer with GPS support which allows you to locate and view photos on a map.
 - [ForensicDots](https://www.forensicdots.de/)  
   A web application that detects printer machine identification codes (MICs). Also known as the infamous ["yellow dots"](http://seeingyellow.com/) or "tracking dots".
+- [Online Protractor](https://www.ginifab.com/feeds/angle_measurement/)  
+  A simple tool measure angles within an image.
 
 <u>**Orbital Intelligence [ORBINT]**</u>
 ===========================================================================
