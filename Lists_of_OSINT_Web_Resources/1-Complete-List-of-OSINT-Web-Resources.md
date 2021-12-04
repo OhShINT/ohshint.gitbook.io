@@ -2000,6 +2000,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A unique face generator tool. Allows you to set parameters and create an image of a unique person in real-time. Great for sock-puppet accounts.
 - [Rudalle](https://rudalle.ru/)  
   Enter a text query and this neural network will generate a picture based on the input.
+- [HOTDRV Facegen](http://foto.hotdrv.ru/facegen)  
+  Generate faces using artificial intelligence. Essentially a Russian version of thispersondoesnotexist, very handy.
 
 ## **Image Enhancement**
 
