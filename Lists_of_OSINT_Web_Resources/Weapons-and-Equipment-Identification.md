@@ -5,7 +5,7 @@
 
 - [Armalytics](https://www.armalytics.ca/)  
   Here is a database of almost every firearm ever made.
-  Its a digital version of the Canadian RCMP Firearms Reference Table (FRT). You can download the full FRT in .pdf format from [here](https://www.rcmp-grc.gc.ca/en/firearms/firearms-reference-table), which is constantly being updated. An archived copy created on 3/12/2021 can be found [here (Wayback)](https://web.archive.org/web/20211203095856/https://mpfirearmspublicstore.blob.core.windows.net/firearms-reference-table/frt-traf-eng.pdf).
+  It's a digital version of the Canadian RCMP Firearms Reference Table (FRT). You can download the full FRT in .pdf format from [here](https://www.rcmp-grc.gc.ca/en/firearms/firearms-reference-table), which is constantly being updated. An archived copy created on 3/12/2021 can be found [here (Wayback)](https://web.archive.org/web/20211203095856/https://mpfirearmspublicstore.blob.core.windows.net/firearms-reference-table/frt-traf-eng.pdf).
 - [Modern Firearms](https://modernfirearms.net/)  
   Encyclopedia of firearms and ammunition from the 20th and 21st centuries.
 - [The Weapons ID Database](http://www.smallarmssurvey.org/weapons-and-markets/tools/weapons-id-database.html)  
