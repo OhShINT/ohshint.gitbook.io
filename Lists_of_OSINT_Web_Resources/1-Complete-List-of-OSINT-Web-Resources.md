@@ -4024,7 +4024,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Includes information about drugs, including biological products, approved for human use in the United States.
 - [DEA Drug Images](https://www.dea.gov/media-gallery/drug-images)  
   A database with images of many different types of illicit drugs. Created and maintained by the United States DEA.
-- [[PDF] 2020 National Drug Threat Assessment](https://www.dea.gov/sites/default/files/2021-02/DIR-008-21%202020%20National%20Drug%20Threat%20Assessment_WEB.pd)  
+- [[PDF] 2020 National Drug Threat Assessment](https://www.dea.gov/sites/default/files/2021-02/DIR-008-21%202020%20National%20Drug%20Threat%20Assessment_WEB.pdf)  
   Lots and lots of good information in here including some pretty interesting images. Has information about transnational traffickers in the Americas and Asia, trafficking methods, and illicit finance. Archived copies available [here (Wayback)](https://web.archive.org/web/20210918005345/https://www.dea.gov/sites/default/files/2021-02/DIR-008-21%202020%20National%20Drug%20Threat%20Assessment_WEB.pdf) and [here (Library Genesis)](https://libgen.rs/book/index.php?md5=99DEB4338B7B542BC4EC6CEE9F61515F).
 
 ## **Wildlife Crime**
