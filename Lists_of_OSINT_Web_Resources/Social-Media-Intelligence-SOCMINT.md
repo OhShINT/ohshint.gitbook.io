@@ -425,6 +425,8 @@
   View over 177,000 Censored YouTube videos from over 2,000 deleted channels.
 - [You-TLDR](https://you-tldr.com/)  
   A free tool and bookmarklet that gathers an easy to read "too long, didn't read" (TLDR) transcript of any YouTube video.
+- [SaveSubs](https://savesubs.com/)  
+  Allows you to convert, edit and download subtitles from YouTube, Facebook, DailyMotion and more for free.
 
 ## **<u>WhatsApp</u>**
 
