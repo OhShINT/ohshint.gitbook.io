@@ -2695,6 +2695,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Offers loads of great tools such as DNS, MX, WHOIS and SPF lookups along with multiple reverse search tools.
 - [dnstwister](https://dnstwister.report/)  
   The anti-phishing domain name search engine and DNS monitoring service, Search a domain name and this tool will show you related domain names that could potentially be used for phishing campaigns. 
+- [DMNS](https://dmns.app/)  
+  Domains App makes it easy to see domains availability across extensions and notifies you about any WHOIS or DNS changes.
 
 ## **Website Analysis**
 
