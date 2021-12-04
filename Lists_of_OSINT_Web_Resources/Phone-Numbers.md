@@ -23,6 +23,8 @@
 Similar to the above, this is a big list of dialing codes for each different country.
 - [Global Prepaid SIM Registration Policies](https://prepaid-data-sim-card.fandom.com/wiki/Registration_Policies_Per_Country)  
   A neatly sorted list that shows you the different laws and requirements to purchase a prepaid burner SIM card in different countries.
+- [NummerSearch](https://nummer.pts.se/NbrSearch)  
+  Search for a Swedish phone number and confirm which phone operator the number belongs to.
 
 ## **<u>White/Yellow Page Directories</u>**
 
