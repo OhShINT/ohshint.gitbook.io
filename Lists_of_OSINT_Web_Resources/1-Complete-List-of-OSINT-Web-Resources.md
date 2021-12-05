@@ -2769,8 +2769,28 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 
 ## **Wireless Fidelity [WiFi]**
 
+- [WiGLE](https://wigle.net/)  
+  The Wireless Geographic Logging Engine is a website for collecting crowd-sourced wardriving information about the different wireless networks and cell towers around the world. Users can register on the website and upload hotspot data like GPS coordinates, SSID, MAC address and the encryption type used on the hotspots discovered. Great way to get an address from a Wi-Fi SSID.
 - [Mylnikov API](https://www.mylnikov.org/)  
-  A free API that allows you to get latitude and longitude by WiFi BSSID or MAC address.
+  A free API that allows you to get latitude and longitude by Wi-Fi BSSID or MAC address.
+- [OpenWiFi](https://openwifi.su/)  
+  API and database. The project seems idle since 2018 but the service is still online.
+- [3WiFi](https://3wifi.stascorp.com/)  
+  Similar to Wigle, this is a interactive, crowd-sourced map of wireless access points.
+- [RadioCells](https://radiocells.org/)  
+  A community project to collect information on cell tower and Wi-Fi base stations and plot them on a map. The project itself was founded in 2009.
+- [OpenWiFiMap](https://openwifimap.net/)  
+  Database and map for free network Wi-Fi access points from all over the world.
+- [WiMan](https://www.wiman.me/)  
+  Helps find all the free Wi-Fi hotspots available per destination and elsewhere in the world. 
+- [WiFiSpace](https://wifispc.com/)  
+  Find open free and public Wi-Fi hotspots practically anywhere in the world.
+- [WiFi Map](https://www.wifimap.io/)  
+  Another site that shows you publicly open Wi-Fi networks by location. They also offer a mobile app.
+- [BT WiFi](https://www.btwifi.com/)  
+  The UK's biggest Wi-Fi hotspot network. Over 5 million available hotspots nation wide.
+- [OpenWiFiSpots](http://openwifispots.com/)  
+  Search for free open wireless networks worldwide.
 
 ## **Media Access Control [MAC]**
 
@@ -2794,8 +2814,6 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 
 ### **Device Discovery**
 
-- [WiGLE](https://wigle.net/)  
-  The Wireless Geographic Logging Engine is a website for collecting crowd-sourced wardriving information about the different wireless networks and cell towers around the world. Users can register on the website and upload hotspot data like GPS coordinates, SSID, MAC address and the encryption type used on the hotspots discovered. Great way to get an address from a WiFi SSID.
 - [Shodan](https://www.shodan.io/)  
   A search engine that lets the user find specific types of computers and IoT devices connected to the internet using a variety of filters.
 - [Censys](https://censys.io/)  
