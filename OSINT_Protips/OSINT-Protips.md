@@ -329,3 +329,32 @@ Results can provide a persons full name, callsign, addresses and in some cases, 
 - [https://apc-cap.ic.gc.ca/pls/apc_anon/query_amat_cs$.startup](https://apc-cap.ic.gc.ca/pls/apc_anon/query_amat_cs$.startup)
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+  
+  
+## **OSINT Protip 17**
+
+> Posted on *3/12/2021* at *1:09 AM.*  
+> URL: [https://twitter.com/ohshint_/status/1466696128691204096](https://twitter.com/ohshint_/status/1466696128691204096)
+  
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 17: 
+
+When investigating footage coming out of conflict areas, it's important to identify the types of ordnance used and where it came from.  
+
+Here are a few great resources: 
+
+- [https://bulletpicker.com/_ord.html](https://bulletpicker.com/_ord.html)
+- [https://ordnance.info](https://ordnance.info/) 
+- [https://riotid.com](https://riotid.com/)
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Being able to identify other things like firearms, ordnance, vehicles, aircraft, boats, uniforms and more is also important.  
+
+I have a large list of resources to help identify these different types of military equipment, find it here: 
+  
+- [https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md#weapons-and-equipment-identification](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md#weapons-and-equipment-identification) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+  
+Attached images: 
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/RiotID-Identify-the-Weapon-1.jpg"/> <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/RiotID-Identify-the-Weapon-2.jpg"/>
