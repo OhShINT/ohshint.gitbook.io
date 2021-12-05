@@ -90,6 +90,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### Twitter
 
+- [TweetTopicExplorer](https://tweettopicexplorer.neoformix.com/) - *Added 4/12/2021.*
 - [FollowerAudit](https://www.followeraudit.com/) - *Added 29/11/2021.*
 - [TweetedAt](https://oduwsdl.github.io/tweetedat/) - *Added 10/11/2021.*
 - [TrendsMap](https://www.trendsmap.com/map) - *Added 3/11/2021.*
@@ -100,6 +101,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### YouTube
 
+- [SaveSubs](https://savesubs.com/) - *Added 4/12/2021.*
 - [You-TLDR](https://you-tldr.com/) - *Added 10/11/2021.*
 - [PwnYouTube](https://deturl.com/) - *Added 9/11/2021.*
 - [AltCensored](https://www.altcensored.com/) - *Added 9/11/2021.*
@@ -237,6 +239,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### Image Generation
 
+- [HOTDRV Facegen](http://foto.hotdrv.ru/facegen) - *Added 4/12/2021.*
 - [Rudalle](https://rudalle.ru/) - *Added 7/11/2021.*
 - [Face Generator](https://generated.photos/face-generator/) - *Added 3/11/2021.*
 
@@ -359,6 +362,18 @@ All dates are listed in *DD/MM/YYYY* format.
 - [CheckShortURL](https://checkshorturl.com) - *Added 6/11/2021.*
 - [SpyFu](https://www.spyfu.com/overview/domain) - *Added 3/11/2021.*
 
+### **Wireless Fidelity [WiFi]**
+
+- [OpenWiFi](https://openwifi.su/) - *Added 4/12/2021.*
+- [3WiFi](https://3wifi.stascorp.com/) - *Added 4/12/2021.*
+- [RadioCells](https://radiocells.org/) - *Added 4/12/2021.*
+- [OpenWiFiMap](https://openwifimap.net/) - *Added 4/12/2021.*
+- [WiMan](https://www.wiman.me/) - *Added 4/12/2021.*
+- [WiFiSpace](https://wifispc.com/) - *Added 4/12/2021.*
+- [WiFi Map](https://www.wifimap.io/) - *Added 4/12/2021.*
+- [BT WiFi](https://www.btwifi.com/) - *Added 4/12/2021.*
+- [OpenWiFiSpots](http://openwifispots.com/) - *Added 4/12/2021.*
+
 ### **Media Access Control [MAC]**
 
 - [MAC Address Search](https://mac.lc) - *Added 10/11/2021.*
@@ -452,6 +467,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Phone number Tools**
 
+- [NummerSearch](https://nummer.pts.se/NbrSearch) - *Added 4/12/2021.*
 - [Global Prepaid SIM Registration Policies](https://prepaid-data-sim-card.fandom.com/wiki/Registration_Policies_Per_Country) - *Added 21/11/2021.*
 - [SpyDailer](https://www.spydialer.com/) - *Added 3/11/2021.*
 
