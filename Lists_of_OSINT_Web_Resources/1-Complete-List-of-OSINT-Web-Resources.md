@@ -1572,6 +1572,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A general all-purpose online map with plenty of options.
 - [EuroGeoGraphics](https://eurogeographics.org/)  
   A non-profit organization representing Europe’s national mapping, cadastral and land registration authorities. Requires a paid subscription.
+- [MapChecking](https://www.mapchecking.com/)  
+  Helps estimate the maximum amount of people standing within any given area. Great for fact checking.
+- [ShadeMap](https://shademap.app/)  
+  An amazing interactive map that displays where shadows fall in a specific location, at a specific time and date all from within a browser. It uses [Mapbox's 3D Dataset](https://docs.mapbox.com/mapbox-gl-js/example/3d-buildings/) and was created by Twitter user [@truted2](https://twitter.com/truted2), be sure to follow him for updates on this project.
 
 ## **Street View Maps**
 
@@ -1614,6 +1618,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A directory that shows you the different types of power plug sockets used in different parts of the world.
 - [WorldPlugs](https://www.iec.ch/world-plugs)  
   Provides information and an interactive map about the different types of electrical outlets used in different parts of the world.
+- [Global Military Base Map](http://u.osmfr.org/m/510207/)  
+  An interactive map that provides information about different military bases and installations around the world. Uses OpenStreetMap data. Map created by [@GONZOs_int](https://twitter.com/GONZOs_int), go give him a follow!
 
 ## **Topographic and Geologic Maps**
 
@@ -1845,6 +1851,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   An awesome database of bridges from all over the world. Offers a search function as well. Click [here](https://www-brueckenweb-de.translate.goog/2content/suchen/suche.php?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui) for a German to English translation.
 - [Bollards of the World](https://docs.google.com/spreadsheets/d/1Glk_gUpSThPqof22DKI3_ol73CULxCeKxEC99z_BM30/htmlview)  
   A great list of the different types bollards used around the world. Includes images as well. I converted this into a .pdf for offline use, available [here](https://anonfiles.com/90l8M8M7u8/Bollards-of-the-World_pdf). Archived copy available [here (Wayback)](https://web.archive.org/web/20211010055522/https://cdn-131.anonfiles.com/90l8M8M7u8/3fd7c7c4-1633845914/Bollards-of-the-World.pdf).
+- [Sobory](https://sobory.ru/karta/)  
+  An interactive map that displays the locations of Orthodox churches and temples from all over the world.
   
 ## **Outdoor Activity Maps**
 
@@ -1911,6 +1919,14 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   An interactive map that displays all of the Tesla Superchargers all over the world.
 - [ToiletMap Australia](https://toiletmap.gov.au/)  
   A data set and map of public toilets in Australia.
+- [Toilet Map France](https://opendata.paris.fr/explore/dataset/sanisettesparis/map/)  
+  A dataset of public toilets for France.
+- [UK Toilet Map](https://www.toiletmap.org.uk/)  
+  An interactive map of public toilets in the UK.
+- [Ottawa Public Washroom Map](https://www.ottawapublictoilets.ca/public-washroom-maps/)  
+  A dataset of public toilets for Ottawa, ON, Canada.
+- [Vancouver Public Washroom Map](https://opendata.vancouver.ca/explore/dataset/public-washrooms/map/)  
+  Another dataset of public toilets for Vancouver, BC, Canada.
 - [TorontoToilets](https://torontotoilets.org/)  
   A map of public toilets for Toronto, ON, Canada.
 - [Flaggenlexikon](https://www.flaggenlexikon.de/)  
