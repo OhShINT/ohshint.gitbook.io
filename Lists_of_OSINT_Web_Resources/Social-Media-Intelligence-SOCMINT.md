@@ -250,6 +250,8 @@
   Search for Skype users by username, real name or location. Provides profile picture, name, Skype username, country, city, date of birth and live ID.
 - [Email2Skype](https://www.vedbex.com/tools/email2skype)  
   A simple tool that retrieves a Skype account details such as profile picture, username, real name and location from an email address. Looks like a typical skid site, but it actually does work. This site also offers a bunch of other useful tools as well.
+- [Skype Avatar](https://avatar.skype.com/v1/avatars/username/public)  
+  Replace the username section of this URL to a target username and recieve their profiles avatar.
 
 ## **<u>Spotify</u>**
 
