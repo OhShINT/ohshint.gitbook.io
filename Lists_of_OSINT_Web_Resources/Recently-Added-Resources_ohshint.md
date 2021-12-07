@@ -112,6 +112,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [ShadeMap](https://shademap.app/) - *Added 6/12/2021.*
+- [MapChecking](https://www.mapchecking.com/) - *Added 6/12/2021.*
 - [EuroGeoGraphics](https://eurogeographics.org/) - *Added 28/11/2021.*
 - [Mapy](https://de.mapy.cz/) - *Added 21/11/2021.*
 - [DarkSky Map](https://maps.darksky.net/) - *Added 21/11/2021.*
@@ -128,6 +130,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Political Maps**
 
+- [Global Military Base Map](http://u.osmfr.org/m/510207/) - *Added 6/12/2021.*
 - [MapIt](https://global.mapit.mysociety.org/) - *Added 21/11/2021.*
 - [DLA Piper Global Data Protection Law Map](https://www.dlapiperdataprotection.com/) - *Added 21/11/2021.*
 - [WorldPlugs](https://www.iec.ch/world-plugs) - *Added 10/11/2021.*
@@ -193,6 +196,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Landmark Recognition**
 
+- [Sobory](https://sobory.ru/karta/) - *Added 6/12/2021.*
 - [HeyWhatsThat](https://heywhatsthat.com/) - *Added 21/11/2021.*
 - [AlleBurgen Castle Map](https://www.alleburgen.de/index-atlas.php) - *Added 21/11/2021.*
 - [BrueckenWeb](https://www.brueckenweb.de/2content/suchen/suche.php) - *Added 10/11/2021.*
@@ -211,6 +215,11 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Mapping Resources**
 
+- [PeePlace](https://pee.place/) - *Added 6/12/2021.*
+- [Vancouver Public Washroom Map](https://opendata.vancouver.ca/explore/dataset/public-washrooms/map/) - *Added 6/12/2021.*
+- [Ottawa Public Washroom Map](https://www.ottawapublictoilets.ca/public-washroom-maps/) - *Added 6/12/2021.*
+- [UK Toilet Map](https://www.toiletmap.org.uk/) - *Added 6/12/2021.*
+- [Toilet Map France](https://opendata.paris.fr/explore/dataset/sanisettesparis/map/) - *Added 6/12/2021.*
 - [TorontoToilets](https://torontotoilets.org/) - *Added 28/11/2021.*
 - [ToiletMap Australia](https://toiletmap.gov.au/) - *Added 28/11/2021.*
 - [McBroken Australia](http://mcbrokenaustralia.com/) - *Added 28/11/2021.*
