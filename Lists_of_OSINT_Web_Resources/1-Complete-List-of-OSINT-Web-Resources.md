@@ -1836,6 +1836,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   An interactive gas map that provides a comprehensive source of facility and project data. Allows users to access the latest project data including facility status and ownership details, detailed pipeline information, industry gas information and more.
 - [OpenInfraMap](https://openinframap.org/)  
   Map the world's electricity, telecom, oil, and gas infrastructure. Uses OSM data.
+- [UK Power Network Map](https://ukpowernetworks.opendatasoft.com/map/+26ec7ef055f84650/)  
+  Contains maps if the UK power grid, and also allows you to add many other layers.
   
 ## **Landmark Recognition**
 
@@ -4366,6 +4368,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   MAD features over 35,000 records of the exports and imports of small arms and ammunition from more than 262 states and territories between 1992 and 2014.
 - [Arms Trade Statistics](https://webgate.ec.europa.eu/eeasqap/sense/app/75fd8e6e-68ac-42dd-a078-f616633118bb/sheet/24ca368f-a36e-4cdb-94c6-00596b50c5ba/state/analysis)  
   International arms export licenses and statistics.
+- [ArmsGlobe](https://armsglobe.chromeexperiments.com/)  
+  This visualization includes over 1 million individual import and export data points from annual custom reports and maps the transfer of small arms, light weapons and other munitions.
 
 # <u>**Government Information**</u>
 
