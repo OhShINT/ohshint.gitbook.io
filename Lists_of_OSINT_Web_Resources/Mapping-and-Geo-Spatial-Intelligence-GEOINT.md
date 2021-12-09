@@ -341,6 +341,8 @@
   An interactive gas map that provides a comprehensive source of facility and project data. Allows users to access the latest project data including facility status and ownership details, detailed pipeline information, industry gas information and more.
 - [OpenInfraMap](https://openinframap.org/)  
   Map the world's electricity, telecom, oil, and gas infrastructure. Uses OSM data.
+- [UK Power Network Map](https://ukpowernetworks.opendatasoft.com/map/+26ec7ef055f84650/)  
+  Contains maps if the UK power grid, and also allows you to add many other layers.
   
 ## <u>**Landmark Recognition**</u>
 
