@@ -358,3 +358,29 @@ I have a large list of resources to help identify these different types of milit
   
 Attached images: 
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/RiotID-Identify-the-Weapon-1.jpg"/> <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/RiotID-Identify-the-Weapon-2.jpg"/>
+  
+  
+## **OSINT Protip 18**
+
+> Posted on *4/12/2021* at *9:45 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1467369618486398978](https://twitter.com/ohshint_/status/1467369618486398978)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 18:  
+
+Online maps exist for just about anything. Locations of military bases to Orthodox churches, and everything in between.  
+
+Here's a few:  
+
+- [http://u.osmfr.org/m/510207](http://u.osmfr.org/m/510207) 
+- [https://sobory.ru/karta/](https://sobory.ru/karta/) 
+- [https://alleburgen.de/index-atlas.php](https://alleburgen.de/index-atlas.php) 
+- [https://he.net/3d-map/](https://he.net/3d-map/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#GEOINT](https://twitter.com/hashtag/GEOINT?src=hashtag_click)
+
+As always, I keep a list of things like this over on my blog and also on GitHub. 
+
+- [https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geo-spatial-intelligence-geoint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/mapping-and-geo-spatial-intelligence-geoint) 
+- [https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md#mapping-and-geo-spatial-intelligence-geoint](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md#mapping-and-geo-spatial-intelligence-geoint) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#GEOINT](
