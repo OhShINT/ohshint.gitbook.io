@@ -192,6 +192,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Industry Maps**
 
+- [UK Power Network Map](https://ukpowernetworks.opendatasoft.com/map/+26ec7ef055f84650/) - *Added 8/12/2021.*
 - [OpenInfraMap](https://openinframap.org/) - *Added 21/11/2021.*
 
 ### **Landmark Recognition**
@@ -512,6 +513,10 @@ All dates are listed in *DD/MM/YYYY* format.
 ## <u>**War, Crisis and Conflicts**</u>
 
 - [Live Universal Awareness Map](https://liveuamap.com/) - *Added 10/11/2021.*
+
+## <u>**Weapons and Equipment Identification**</u>
+
+- [ArmsGlobe](https://armsglobe.chromeexperiments.com/) - *Added 8/12/2021.*
 
 ## **<u>Miscellaneous</u>**
 
