@@ -384,3 +384,31 @@ As always, I keep a list of things like this over on my blog and also on GitHub.
 - [https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md#mapping-and-geo-spatial-intelligence-geoint](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md#mapping-and-geo-spatial-intelligence-geoint) 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#GEOINT](https://twitter.com/hashtag/GEOINT?src=hashtag_click)
+  
+
+## **OSINT Protip 19**
+
+> Posted on *9/12/2021* at *10:30 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1469192864995311624](https://twitter.com/ohshint_/status/1469192864995311624)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 19:  
+
+S P A C E  
+
+The last frontier is certainly an interesting one to research! Earths orbit is a fun thing to investigate, see how polluted our orbit actually is.  
+Check these tools out:  
+
+- [http://platform.leolabs.space/visualization](https://platform.leolabs.space/visualization) 
+- [http://stuffin.space](http://stuffin.space/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#ORBINT](https://twitter.com/hashtag/ORBINT?src=hashtag_click)
+
+Check out my growing list of [#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) resources for all things space: 
+
+- [https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md#orbital-intelligence-orbint](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/1-Complete-List-of-OSINT-Web-Resources.md#orbital-intelligence-orbint) 
+- [https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/orbital-intelligence-orbint](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/orbital-intelligence-orbint) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#ORBINT](https://twitter.com/hashtag/ORBINT?src=hashtag_click)
+
+Attached image:  
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Low-Earth-Orbit.jpg"/>
