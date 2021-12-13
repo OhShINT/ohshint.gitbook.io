@@ -412,3 +412,19 @@ Check out my growing list of [#OSINT](https://twitter.com/hashtag/OSINT?src=hash
 
 Attached image:  
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Low-Earth-Orbit.jpg"/>
+  
+  
+## **OSINT Protip 20**
+
+> Posted on *12/12/2021* at *6:32 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1470219998983426050](https://twitter.com/ohshint_/status/1470219998983426050)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 20: 
+
+There are a few databases of scammers available online. Search by email, crypto, name, etc. Some of these sites are crowd-sourced. So there is risk of false positives. 
+
+- [scamsearch.io](https://scamsearch.io/) 
+- [scamalert.sg](https://scamalert.sg/) 
+- [bitcoinabuse.com](https://www.bitcoinabuse.com/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
