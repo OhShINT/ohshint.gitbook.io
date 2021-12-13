@@ -116,6 +116,12 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 
 - [Fake-Scam](https://www.fake-scam.info/)  
   A German website with information, reports and guides on how to identify and avoid scams. Click [here](https://www-fake--scam-info.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui) for a German to English translation.
+- [ScamSearch](https://scamsearch.io/)  
+  Global scam database. Search by picture, email, username, pseudo name, number or crypto address. Be aware that this is a crowd-sourced database, so there is potential for false positives.
+- [ScamAlert](https://scamalert.sg/)  
+  Search for scam stories and common scammer methods via keyword.
+- [ScamNumbers](https://scamnumbers.info/index.php)  
+  A world wide database of phone numbers that have been proven to be used by internet scammers. Tells you where in the world it is from, along with any other additional details that are available.
 
 ## **<u>Other Illicit Trade</u>**
 - [ICOM Red Lists](https://icom.museum/en/resources/red-lists/)  
