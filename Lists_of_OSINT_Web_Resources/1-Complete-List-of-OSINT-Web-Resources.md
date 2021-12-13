@@ -1058,6 +1058,8 @@ A Google CSE that searches for scientific publications.
   Calculate how much views or followers you would need to match a current salary. Almost useless, but still worth mentioning because its *neat*.
 - [SignalHire](https://www.signalhire.com/)  
   An interesting tool that helps you find emails and phone numbers. Requires a paid subscription.
+- [SocialNetworkHarvester](https://www.socialnetworkharvester.de/)  
+  A great tool that allows you to gather, analyze and visualize data. Requires a paid subscription.
 
 ## **Clubhouse**
 
@@ -1310,6 +1312,12 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A large directory of Telegram channels, organized by subject.
 - [sssoou](http://www.sssoou.com/)  
   Search Telegram for Chinese channels, groups and bots.
+- [CommentGram](https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0)  
+  A Google CSE that allows you to search for comments in Telegram threads.
+- [Tgstat](https://tgstat.com/)  
+  One of the largest directories of Telegram channels. Provides detailed information about audience growth, engagements, and mentions of a particular channel in various sources.
+- [Exgram Search](https://yandex.ru/search/site/?text=osint&searchid=2424333&lr=213)  
+  Tool based by Yandex Custom Search. Searches 17 telegram content aggregator sites.
 
 ## **TikTok**
 
