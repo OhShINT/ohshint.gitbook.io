@@ -1411,6 +1411,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   In-depth analysis of Twitter followers. Identifies inactive and fake accounts, assesses followers by the number of tweets, profile information, biography, geolocation, links, profile picture. Requires you to login to Twitter.
 - [TweetTopicExplorer](https://tweettopicexplorer.neoformix.com/)  
   Retrieves recent tweets and displays the most common words used in those tweets. The larger the circles, the more frequent the word used.
+- [SleepingTime](http://sleepingtime.org/)  
+  Find the potential sleeping schedule of a Twitter user. Requires you to log in to a Twitter account.
+- [FollowerWonk](https://followerwonk.com/)  
+  Search Twitter bios, compare users, and analyze location and tweet activity of followers.
 
 
 ## **Untappd**
