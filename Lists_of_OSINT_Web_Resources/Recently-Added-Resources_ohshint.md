@@ -41,6 +41,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Social Media Tools**
 
+- [SocialNetworkHarvester](https://www.socialnetworkharvester.de/) - *Added 12/12/2021.*
 - [World Social Media Platforms](https://www.osintcombine.com/world-social-media-platforms) - *Added 9/11/2021.*
 - [Shreateh Social Media Tools](https://khalil-shreateh.com/khalil.shtml/social_applications/) - *Added 3/11/2021.*
 - [SignalHire](https://www.signalhire.com/) - *Added 3/11/2021.*
@@ -82,6 +83,9 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### Telegram
 
+- [Exgram Search](https://yandex.ru/search/site/?text=osint&searchid=2424333&lr=213) - *Added 12/12/2021.*
+- [Tgstat](https://tgstat.com/) - *Added 12/12/2021.*
+- [CommentGram](https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0) - *Added 12/12/2021.*
 - [SovaWEB Telegram OSINT Bot](https://sovaweb.herokuapp.com/) - *Added 3/11/2021.*
 
 ### **Twitch**
@@ -90,6 +94,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### Twitter
 
+- [FollowerWonk](https://followerwonk.com/) - *Added 12/12/2021.*
+- [SleepingTime](http://sleepingtime.org/) - *Added 12/12/2021.*
 - [TweetTopicExplorer](https://tweettopicexplorer.neoformix.com/) - *Added 4/12/2021.*
 - [FollowerAudit](https://www.followeraudit.com/) - *Added 29/11/2021.*
 - [TweetedAt](https://oduwsdl.github.io/tweetedat/) - *Added 10/11/2021.*
