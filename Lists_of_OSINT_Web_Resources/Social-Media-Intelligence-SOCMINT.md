@@ -166,6 +166,8 @@
   Find LinkedIn profiles without using your account.
 - [Chartloop](https://buildorgchart.herokuapp.com/)  
   Get a birds-eye view of an organizations team structure and location. Requires a paid subscription. 
+- [LinkedIn Prospect Boolean Search](https://linkedprospect.com/linkedin-boolean-search-tool/)  
+  Designed to help easily build search strings to generate targeted lists of LinkedIn users.
 
 ## **<u>Mastodon</u>**
 
