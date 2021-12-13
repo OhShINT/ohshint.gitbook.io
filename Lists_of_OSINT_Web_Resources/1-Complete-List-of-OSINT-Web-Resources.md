@@ -1188,7 +1188,9 @@ A Google CSE that searches for scientific publications.
 - [FreePeopleSearchTool](https://freepeoplesearchtool.com/)  
   Find LinkedIn profiles without using your account.
 - [Chartloop](https://buildorgchart.herokuapp.com/)  
-  Get a birds-eye view of an organizations team structure and location. Requires a paid subscription. 
+  Get a birds-eye view of an organizations team structure and location. Requires a paid subscription.
+- [LinkedIn Prospect Boolean Search](https://linkedprospect.com/linkedin-boolean-search-tool/)  
+  Designed to help easily build search strings to generate targeted lists of LinkedIn users.
 
 ## **Mastodon**
 
@@ -1216,7 +1218,6 @@ A Google CSE that searches for scientific publications.
 ## **Patreon**
 
 - [Graphtreon](https://graphtreon.com/)  
-
   Provides information and statistics for Patreon accounts such as earnings, rank, creation date and more.
 
 ## **Pinterest**
