@@ -428,3 +428,17 @@ There are a few databases of scammers available online. Search by email, crypto,
 - [bitcoinabuse.com](https://www.bitcoinabuse.com/) 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+  
+  
+## **OSINT Protip 21**
+
+> Posted on *14/12/2021* at *12:04 AM.*  
+> URL: [https://twitter.com/ohshint_/status/1470665894816747523](https://twitter.com/ohshint_/status/1470665894816747523)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 21:  
+
+When searching for a person, username, email or phone number. Sometimes you can discover additional information by searching with emojis.
+  
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Searching-With-Emojis.PNG"/>
+  
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
