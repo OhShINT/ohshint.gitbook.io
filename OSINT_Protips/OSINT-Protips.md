@@ -445,6 +445,9 @@ When searching for a person, username, email or phone number. Sometimes you can 
   
   
 ## **OSINT Protip 22**
+  
+> Posted on *17/12/2021* at *11:05 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1472100597595717632](https://twitter.com/ohshint_/status/1472100597595717632)
 
 [#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 22: 
 
