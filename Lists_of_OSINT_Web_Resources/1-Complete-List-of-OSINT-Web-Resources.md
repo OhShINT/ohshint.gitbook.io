@@ -922,6 +922,8 @@ A Google CSE that searches for scientific publications.
   Gathers data from hundreds of libraries, publishers, merchants and other sources around the globe to compile a vast collection of unique book data searchable by ISBN, title, author, or publisher.
 - [ISBN Search](https://isbnsearch.org/)  
   Search for books by ISBN and view related information.
+- [OAPEN](https://library.oapen.org/)  
+  A massive collection of open access books.
 
 ## **Video Search**
 
