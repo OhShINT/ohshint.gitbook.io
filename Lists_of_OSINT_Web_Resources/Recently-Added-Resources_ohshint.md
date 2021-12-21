@@ -18,11 +18,18 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Document and File Search**
 
+- [OAPEN](https://library.oapen.org/) - *Added 21/12/2021.*
 - [GroupDocs Metadata](https://products.groupdocs.app/metadata/) - *Added 7/11/2021.*
 - [ISBNdb](https://isbndb.com/) - *Added 7/11/2021.*
 - [ISBN Search](https://isbnsearch.org/) - *Added 7/11/2021.*
 - [Slideshare Downloader](https://slideshare-downloader.herokuapp.com/) - *Added 3/11/2021.*
 - [Gdrive Search](https://www.gdrivesearch.com/) - *Added 29/10/2021.*
+
+### **Archive Search**
+
+- [Arquivo](https://arquivo.pt/) - *Added 21/12/2021.*
+- [TheOldNet](https://theoldnet.com/) - *Added 21/12/2021.*
+- [Quick Cache and Archive Search](https://cipher387.github.io/quickcacheandarchivesearch/) - *Added 21/12/2021.*
 
 ### **Newspaper and News Search**
 
@@ -33,7 +40,7 @@ All dates are listed in *DD/MM/YYYY* format.
 - [AllYouCanRead](https://www.allyoucanread.com/) - *Added 8/11/2021.*
 - [NewspaperArchive](https://newspaperarchive.com/) - *Added 29/10/2021.*
 
-### Podcast Search
+### **Podcast Search**
 
 - [ListenNotes](https://listennotes.com/) - *Added 7/11/2021.*
 
@@ -47,7 +54,7 @@ All dates are listed in *DD/MM/YYYY* format.
 - [SignalHire](https://www.signalhire.com/) - *Added 3/11/2021.*
 - [GoFindWho](https://gofindwho.com/) - *Added 30/10/2021.*
 
-### Facebook
+### **Facebook**
 
 - [Facebook Law Enforcement Guide](https://www.facebook.com/safety/groups/law/guidelines/) - *Added 3/11/2021.*
 
@@ -74,6 +81,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Reddit**
 
+- [DeaditArchive](https://deaditarchive.netlify.app/) - *Added 21/12/2021.*
 - [Rdddeck](https://rdddeck.com/) - *Added 29/11/2021.*
 - [YASIV Reddit Visualization](http://yasiv.com/reddit) - *Added 9/11/2021.*
 - [RedditMetis](https://redditmetis.com/) - *Added 9/11/2021.*
@@ -81,18 +89,22 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Reveddit](https://www.reveddit.com/about/) - *Added 30/10/2021.*
 - [Pushshift Reddit Search](http://redditsearch.io/) - *Added 30/10/2021.*
 
-### Telegram
+### **Telegram**
 
 - [Exgram Search](https://yandex.ru/search/site/?text=osint&searchid=2424333&lr=213) - *Added 12/12/2021.*
 - [Tgstat](https://tgstat.com/) - *Added 12/12/2021.*
 - [CommentGram](https://cse.google.com/cse?cx=006368593537057042503:ig4r3rz35qi#gsc.tab=0) - *Added 12/12/2021.*
 - [SovaWEB Telegram OSINT Bot](https://sovaweb.herokuapp.com/) - *Added 3/11/2021.*
 
+### **TikTok**
+
+- [ssstik](https://ssstik.io/en) - *Added 21/12/2021.*
+
 ### **Twitch**
 
 - [TwitchTools](https://twitch-tools.rootonline.de/channel_previews.php) - *Added 29/11/2021.*
 
-### Twitter
+### **Twitter**
 
 - [FollowerWonk](https://followerwonk.com/) - *Added 12/12/2021.*
 - [SleepingTime](http://sleepingtime.org/) - *Added 12/12/2021.*
@@ -103,9 +115,11 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **WhatsApp**
 
+- [ChatVisualizer](https://chatvisualizer.com/) - *Added 21/12/2021.*
+- [WhatsAnalyze](https://whatsanalyze.com/) - *Added 21/12/2021.*
 - [WATools](https://watools.io/) - *Added 9/11/2021.*
 
-### YouTube
+### **YouTube**
 
 - [SaveSubs](https://savesubs.com/) - *Added 4/12/2021.*
 - [You-TLDR](https://you-tldr.com/) - *Added 10/11/2021.*
@@ -118,6 +132,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [Ocelli Project: Rakhine](https://ocelli.c4ads.org/) - *Added 21/12/2021.*
 - [ShadeMap](https://shademap.app/) - *Added 6/12/2021.*
 - [MapChecking](https://www.mapchecking.com/) - *Added 6/12/2021.*
 - [EuroGeoGraphics](https://eurogeographics.org/) - *Added 28/11/2021.*
@@ -144,6 +159,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Topographic and Geologic Maps**
 
+- [OpenTopography](https://portal.opentopography.org/datasets) - *Added 21/12/2021.*
 - [OpenTopoMap](https://opentopomap.org/) - *Added 10/11/2021.*
 
 ### **Historical Maps**
@@ -165,7 +181,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [Surging Seas Risk Zone Map](https://ss2.climatecentral.org/) - *Added 3/11/2021.*
 
-### Ocean Maps
+### **Ocean Maps**
 
 - [OpenCPN](https://opencpn.org/) - *Added 20/11/2021.*
 - [OCEARCH Shark Tracker](https://www.ocearch.org/tracker/) - *Added 3/11/2021.*
@@ -222,6 +238,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Mapping Resources**
 
+- [OpenAddresses](https://openaddresses.io/) - *Added 21/12/2021.*
+- [PDF Map Maker](https://pdfmapmaker.com/) - *Added 21/12/2021.*
 - [PeePlace](https://pee.place/) - *Added 6/12/2021.*
 - [Vancouver Public Washroom Map](https://opendata.vancouver.ca/explore/dataset/public-washrooms/map/) - *Added 6/12/2021.*
 - [Ottawa Public Washroom Map](https://www.ottawapublictoilets.ca/public-washroom-maps/) - *Added 6/12/2021.*
@@ -253,7 +271,7 @@ All dates are listed in *DD/MM/YYYY* format.
 - [BBC News Search](https://zeus.robots.ox.ac.uk/bbc_search/) - *Added 3/11/2021.*
 - [EveryPixel](https://www.everypixel.com/) - *Added 31/10/2021.*
 
-### Image Generation
+### **Image Generation**
 
 - [HOTDRV Facegen](http://foto.hotdrv.ru/facegen) - *Added 4/12/2021.*
 - [Rudalle](https://rudalle.ru/) - *Added 7/11/2021.*
@@ -282,7 +300,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Business Research and Trade intelligence [TRADINT]**</u>
 
-### General Business Search
+### **General Business Search**
 
 - [TendersInfo](https://www.tendersinfo.com/) - *Added 29/11/2021.*
 - [TradeMap](https://www.trademap.org/Index.aspx) - *Added 29/11/2021.*
@@ -290,6 +308,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Business Registries**
 
+- [Infoveriti](https://www.infoveriti.pl/) - *Added 21/12/2021.*
 - [Societe Ninja](https://societe.ninja/) - *Added 29/11/2021.*
 
 ## <u>**Financial Intelligence [FININT]**</u>
@@ -298,7 +317,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [OpenPayrolls](https://openpayrolls.com/) - *Added 28/11/2021.*
 
-### Cryptocurrency and Blockchain
+### **Cryptocurrency and Blockchain**
 
 #### **General Analysis**
 
@@ -330,8 +349,15 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [Fleet Tracker News](https://news.usni.org/category/fleet-tracker) - *Added 10/11/2021.*
 
+### **Aricraft**
+
+#### **Airport Information**
+
+- [List of German Airfields](https://ulforum.de/flugplatzliste) - *Added 21/12/2021.*
+
 ### **Public Transport**
 
+- [TransitLand](https://www.transit.land/) - *Added 21/12/2021.*
 - [Mapnificent](https://www.mapnificent.net/) - *Added 21/11/2021.* 
 - [MetroLogos](http://mic-ro.com/metro/metrologos.html) - *Added 10/11/2021.*
 
@@ -343,7 +369,7 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Marcaria](https://whois.marcaria.com/en) - *Added 3/11/2021.*
 - [GoFindWHOIS](https://gofindwhois.com/) - *Added 29/10/2021.*
 
-### Internet Protocol Addresses [IP]
+### **Internet Protocol Addresses [IP]**
 
 - [Robtex](https://www.robtex.com/) - *Added 28/11/2021.*
 - [PeeringDB](https://www.peeringdb.com/) - *Added 6/11/2021.*
@@ -371,7 +397,7 @@ All dates are listed in *DD/MM/YYYY* format.
 - [VisualPing](https://visualping.io/) - *Added 10/11/2021.*
 - [Carbon Dating The Web](https://carbondate.cs.odu.edu/) - *Added 10/11/2021.*
 
-### URL Redirects and Backlinks
+### **URL Redirects and Backlinks**
 
 - [OpenLinkProfiler](https://openlinkprofiler.org) - *Added 28/11/2021.*
 - [URLScan](https://urlscan.io/) - *Added 28/11/2021.*
@@ -428,7 +454,7 @@ All dates are listed in *DD/MM/YYYY* format.
 - [[XLSX] APT Groups and Operations](https://docs.google.com/spreadsheets/u/1/d/1H9_xaxQHpWaa4O_Son4Gx0YOIzlcBWMsdvePFX68EKU/pubhtml)  - *Added 8/11/2021.*
 - [[IMAGE] APT Operation Groups](https://imgur.com/a/VePzyqX)  - *Added 8/11/2021.*
 
-### Personal Connection Profiling
+### **Personal Connection Profiling**
 
 - [Trackography](https://trackography.org/) - *Added 9/11/2021.*
 - [PrivacyTests](https://privacytests.org/) - *Added 8/11/2021.*
@@ -457,10 +483,14 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General People Search**
 
+- [BehindTheName](https://www.behindthename.com/) - *Added 21/12/2021.*
+- [Cloob](https://www.cloob.com/profile/search/index) - *Added 21/12/2021.*
 - [xLek](https://xlek.com/) - *Added 21/11/2021.*
 
 ### **Vital Records**
 
+- [Ellis Island Passenger Search](https://heritage.statueofliberty.org/) - *Added 21/12/2021.*
+- [SlaveVoyages](https://slavevoyages.org/resources/names-database) - *Added 21/12/2021.*
 - [Vital Record Search Tools](https://stevemorse.org/index.html) - *Added 3/11/2021.*
 - [UK Census Online](https://ukcensusonline.com/search/) - *Added 3/11/2021.*
 - [Social Security Death Index Search](https://stevemorse.org/ssdi/ssdi.html) - *Added 3/11/2021.*
@@ -474,10 +504,15 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Email Addresses**</u>
 
+- [Snov Email Finder](https://snov.io/email-finder) - *Added 21/12/2021.*
 - [Hunter.io](https://hunter.io/) - *Added 28/11/2021.*
 - [Email-Format](https://www.email-format.com/) - *Added 28/11/2021.*
 - [HaveIBeenEmotet](https://www.haveibeenemotet.com/index.php)  - *Added 28/11/2021.*
 - [Free Email Scraper](https://freemailscraper.herokuapp.com/complete-website-email-scraper) - *Added 3/11/2021.*
+
+### **Data Breach Search**
+
+- [CheckLeaked](https://checkleaked.cc/) - *Added 21/12/2021.*
 
 ## <u>**Phone Numbers**</u>
 
@@ -489,7 +524,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **White/Yellow Page Directories**
 
-- [OldPhonebook](http://oldphonebook.com/)  - *Added 21/11/2021.*
+- [Ratsit Sweden](https://www.ratsit.se/) - *Added 21/12/2021.*
+- [OldPhonebook](http://oldphonebook.com/) - *Added 21/11/2021.*
 
 ## **<u>Usernames</u>**
 
