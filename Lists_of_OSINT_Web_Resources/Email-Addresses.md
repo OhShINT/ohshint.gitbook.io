@@ -57,7 +57,7 @@
 - [Ashley Madison Search](https://ashley.cynic.al/)  
   Check to see if an email address was included in the Ashley Madison breach.
 - [PwnDB Onion](https://pwndb2am4tzkvold.onion/)  
-  A .onion site that allows you search an email address and provides you with free uncensored results. You can visit this site without TOR [here (CLEARNET PROXY)](http://pwndb2am4tzkvold.onion.pet/).
+  A .onion site that allows you to search an email address and provides you with free, uncensored results. You can visit this site without TOR [here (CLEARNET PROXY)](http://pwndb2am4tzkvold.onion.pet/).
 - [Leaked.Domains](https://leaked.domains/)  
   Contains a large number of breached datasets to perform passive intelligence gathering on domains. Allows you to search a domain name and see how many times the domain has been included in breached data. Requires registration with a company email to access full reports for that specific domain.
 - [DeepSearch Onion](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)  
