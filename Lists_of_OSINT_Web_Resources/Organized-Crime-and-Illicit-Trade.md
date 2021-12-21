@@ -122,6 +122,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Search for scam stories and common scammer methods via keyword.
 - [ScamNumbers](https://scamnumbers.info/index.php)  
   A worldwide database of phone numbers that have been proven to be used by internet scammers. Tells you where in the world it is from, along with any other additional details that are available.
+- [ScamDigger](https://scamdigger.com/)  
+  A list of people who have been reported as scammers. Searchable via email, IP, real name and username. Data is crowd-sourced, so there is potential of false positives.
 
 ## **<u>Other Illicit Trade</u>**
 - [ICOM Red Lists](https://icom.museum/en/resources/red-lists/)  
