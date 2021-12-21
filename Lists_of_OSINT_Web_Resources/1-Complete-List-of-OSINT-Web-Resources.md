@@ -3221,6 +3221,10 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A free international people search, telephone directory and address search.
 - [xLek](https://xlek.com/)  
   A free public data search site mainly for U.S. citizens. Was formerly known as Cubib. 
+- [Cloob](https://www.cloob.com/profile/search/index)  
+  An Iranian people search engine.
+- [BehindTheName](https://www.behindthename.com/)  
+  Find different pronunciations of a name and their diminutives.
   
 ## **Vital Records**
 - [Vital Record Search Tools](https://stevemorse.org/index.html)  
@@ -3231,6 +3235,10 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Census records from the United Kingdom have been digitized and made available to the public. Includes birth, death, marriage, and census records.
 - [Social Security Death Index Search](https://stevemorse.org/ssdi/ssdi.html)  
   Another tool from Stephen P. Morse that allows you to easily search through the US social security death index (SSDI). Records are from 1936 to February 28th, 2014.
+- [SlaveVoyages](https://slavevoyages.org/resources/names-database)  
+  Includes detailed information on over 35,000 trans-atlantic slave trading voyages that occurred between 1520 and 1866 as well as estimates of the overall size and direction of the trade.
+- [Ellis Island Passenger Search](https://heritage.statueofliberty.org/)  
+  A searchable archive of over 65 million records of passengers arriving to the Port of New York, USA from 1820 to 1957.
 
 ## **Genealogy** 
 
