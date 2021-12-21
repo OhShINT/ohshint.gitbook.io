@@ -1265,6 +1265,8 @@ A Google CSE that searches for scientific publications.
   A non-searchable historical archive of Reddit posts. Almost useless, but still worth mentioning.
 - [Rdddeck](https://rdddeck.com/)  
   A simple tool for monitoring subreddits.
+- [DeaditArchive](https://deaditarchive.netlify.app/)  
+  A small archive of various banned subreddits.
 
 ## **SnapChat**
 
@@ -1340,6 +1342,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Performs profile analytics for a user profile.
 - [TikTokD](https://tiktokd.com/)  
   Allows you to download TikTok videos without watermarks via username.
+- [ssstik](https://ssstik.io/en)  
+  A simple online tool that allows you to download TikTok videos without the watermark via a URL.
 
 ## **Tinder**
 
@@ -1488,6 +1492,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Tool that allows you to enter a phone number and view the WhatsApp account connected to it. Including username and profile picture. Requires a paid subscription.
 - [WhatsApp Law Enforcement Guide](https://faq.whatsapp.com/general/security-and-privacy/information-for-law-enforcement-authorities)  
   A guide for law enforcement personnel when dealing with and requesting data from WhatsApp.
+- [WhatsAnalyze](https://whatsanalyze.com/)  
+  An open-source tool that analyzes WhatsApp group messages and provides statistics such as word clouds, timelines, message frequency and more.
+- [ChatVisualiser](https://chatvisualizer.com/)  
+  A simple tool to assist with the visualization of WhatsApp chats.
 
 ## **4chan and 8chan**
 
