@@ -3306,6 +3306,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Helps find the email address formats in use for thousands of different companies.
 - [Hunter.io](https://hunter.io/)  
   Lets you find professional email addresses in seconds. Very useful tool. For best results, a paid subscription is required.
+- [Snov Email Finder](https://snov.io/email-finder)  
+  Locate employee email addresses via domain name. Very handy.
 
 ## **Data Breach Search**
 
