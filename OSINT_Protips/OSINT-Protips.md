@@ -442,3 +442,37 @@ When searching for a person, username, email or phone number. Sometimes you can 
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Searching-With-Emojis.PNG"/>
   
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+  
+  
+## **OSINT Protip 22**
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 22: 
+
+[1/2] 
+
+Email addresses are a very powerful piece of information to have.  
+
+Discover email addresses via domain: 
+
+- [snov.io/email-finder](https://snov.io/email-finder) 
+
+Confirm that it belongs to your target and see what services they use: 
+
+- [tools.epieos.com/email.php](https://tools.epieos.com/email.php) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+[2/2] 
+
+Check for any PGP keys: 
+
+- [pgp.mit.edu](https://pgp.mit.edu) 
+- [keys.openpgp.org](https://keys.openpgp.org) 
+
+Search for any additional information via breached data: 
+
+- [haveibeenpwned.com](https://haveibeenpwned.com) 
+- [breachdirectory.org](https://breachdirectory.org) 
+- [dehashed.com](https://dehashed.com) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
