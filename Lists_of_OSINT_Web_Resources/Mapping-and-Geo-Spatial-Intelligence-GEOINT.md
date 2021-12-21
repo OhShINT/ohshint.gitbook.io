@@ -83,6 +83,8 @@
   Helps estimate the maximum amount of people standing within any given area. Great for fact checking.
 - [ShadeMap](https://shademap.app/)  
   An amazing interactive map that displays where shadows fall in a specific location, at a specific time and date all from within a browser. It uses [Mapbox's 3D Dataset](https://docs.mapbox.com/mapbox-gl-js/example/3d-buildings/) and was created by Twitter user [@truted2](https://twitter.com/truted2), be sure to follow him for updates on this project.
+- [Ocelli Project: Rakhine](https://ocelli.c4ads.org/)  
+  An interactive geospatial dataset that documents open source evidence of the systematic displacement and genocide of the Rohingya ethnic minority in Myanmar's Rakhine state.
 
 ## **<u>Street View Maps</u>**
 
@@ -138,6 +140,8 @@
   Map for exploring some geologic maps and articles from the National Geologic Map Database (NGMDB).
 - [OpenTopoMap](https://opentopomap.org/)  
   A project that renders topographic maps from OSM and SRTM data. 
+- [OpenTopography](https://portal.opentopography.org/datasets)  
+  An interactive map that helps users find and download any available topographic data for a specific area.
   
 ## **<u>Historical Maps</u>**
 
@@ -442,3 +446,7 @@
   Helps identify over 2,200 flags, including historical ones.
 - [FlagID](https://flagid.org/)  
   A vexillologic database and tool to help identify flags.
+- [PDF Map Maker](https://pdfmapmaker.com/)  
+  A free online tool that lets you create a PDF map of a specific area of interest.
+- [OpenAddresses](https://openaddresses.io/)  
+  A free, worldwide and open-source database of addresses.
