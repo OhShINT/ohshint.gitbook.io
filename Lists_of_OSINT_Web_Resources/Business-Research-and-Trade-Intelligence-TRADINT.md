@@ -63,8 +63,10 @@
 
 - [North Data](https://www.northdata.com/)  
   Provides easily understandable company information that is publicly available for European companies. Obtained from sources such as trade registers, yearly reports, funding registers, trademark registers, patent registers and others.
- - [Societe Ninja](https://societe.ninja/)  
-   Free public information about companies located in France.
+- [Societe Ninja](https://societe.ninja/)  
+  Free public information about companies located in France.
+- [Infoveriti](https://www.infoveriti.pl/)  
+  The largest supplier of business information in Poland. It has an updated database of companies, associations and debtors. Full access requires a paid subscription.
 
 ### <u>**North America**</u>
 
