@@ -217,6 +217,8 @@
   A database of airfields, not airports in the UK and elsewhere, searchable via map.
 - [AirportWebcams](https://airportwebcams.net/)  
   Directory of webcams from various airports and runways from around the world.
+- [List of German Airfields](https://ulforum.de/flugplatzliste)  
+  Great airfield database for Germany. Includes smaller training, private and military airfields. Click [here](https://www-ulforum-de.translate.goog/flugplatzliste?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US) for a German to English translation.
 
 ### **<u>Other Information</u>**
 
