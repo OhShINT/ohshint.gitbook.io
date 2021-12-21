@@ -1494,7 +1494,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A guide for law enforcement personnel when dealing with and requesting data from WhatsApp.
 - [WhatsAnalyze](https://whatsanalyze.com/)  
   An open-source tool that analyzes WhatsApp group messages and provides statistics such as word clouds, timelines, message frequency and more.
-- [ChatVisualiser](https://chatvisualizer.com/)  
+- [ChatVisualizer](https://chatvisualizer.com/)  
   A simple tool to assist with the visualization of WhatsApp chats.
 
 ## **4chan and 8chan**
