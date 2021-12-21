@@ -3323,7 +3323,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   An all-in-one online data protection platform. Search for your publicly leaked passwords using an email or username. Shows you censored results. Requires a paid subscription to view uncensored results.
 - [LeakedSource](https://leakedsource.ru/)  
   Search for leaked data by email address, name , username, phone number, IP address or password. Requires a paid subscription.
-- [LeakCheck](https://checkleaked.cc/)  
+- [LeakCheck](https://leakcheck.net/)  
   Check your account for leaks. Requires a paid subscription for best results.
 - [HotSheet](https://www.hotsheet.com/inoitsu)  
   Use this free service to check if an email address is in any hacked data from known breaches. Get a summary of what specific information may be at risk. Essentially a clone of HaveIBeenPwned.
@@ -3349,6 +3349,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Contains a large number of breached datasets to perform passive intelligence gathering on domains. Allows you to search a domain name and see how many times the domain has been included in breached data. Requires registration with a company email to access full reports for that specific domain.
 - [DeepSearch Onion](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)  
   An .onion site that lets you search through leaked databases. Requires an account.
+- [CheckLeaked](https://checkleaked.cc/)  
+  Discover leaks, know the passwords and information that hackers already have about you. Requires a paid subscription.
 
 ## **Pretty Good Privacy [PGP]**
 
