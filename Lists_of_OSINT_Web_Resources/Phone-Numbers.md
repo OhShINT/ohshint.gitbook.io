@@ -140,6 +140,9 @@ Similar to the above, this is a big list of dialing codes for each different cou
 - **<u>Slovakia</u>**
 - **<u>Slovenia</u>**
 - **<u>Spain</u>**
+- **<u>Sweden</u>**
+  - [Ratsit Sweden](https://www.ratsit.se/)  
+    Swedish white pages.
 - **<u>Switzerland</u>**
 - **<u>United Kingdom</u>**
   - [192 UK](https://www.192.com/)  
