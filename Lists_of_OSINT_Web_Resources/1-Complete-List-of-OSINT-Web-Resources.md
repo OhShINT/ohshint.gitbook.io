@@ -3507,6 +3507,9 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - **Slovakia**
 - **Slovenia**
 - **Spain**
+- **Sweden**
+  - [Ratsit Sweden](https://www.ratsit.se/)  
+    Swedish white pages.
 - **Switzerland**
 - **United Kingdom**
   - [192 UK](https://www.192.com/)  
