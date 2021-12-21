@@ -294,6 +294,8 @@
   This website shows you all of the different metro system logos from around the world. 
 - [Mapnificent](https://www.mapnificent.net/)  
   Shows you areas you can reach with public transport in a given time. 
+- [TransitLand](https://www.transit.land/)  
+  An open data platform that collects [General Transit Feed Specification (GTFS)](https://en.wikipedia.org/wiki/General_Transit_Feed_Specification) ([WikiLess](https://wikiless.org/wiki/General_Transit_Feed_Specification)), GTFS Realtime, and other open data feeds from over 2,500 transit providers in over 55 countries. Also offers a free API.
 
 ### **<u>Europe</u>**
 
