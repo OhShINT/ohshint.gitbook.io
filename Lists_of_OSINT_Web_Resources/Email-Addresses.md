@@ -63,7 +63,7 @@
 - [DeepSearch Onion](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)  
   An .onion site that lets you search through leaked databases. Requires an account.
 - [CheckLeaked](https://checkleaked.cc/)  
-  Discover leaks, know the passwords and information that hackers already have about you. Requires a paid subscription
+  Discover leaks, know the passwords and information that hackers already have about you. Requires a paid subscription.
 
 ## <u>**Pretty Good Privacy [PGP]**</u>
 
