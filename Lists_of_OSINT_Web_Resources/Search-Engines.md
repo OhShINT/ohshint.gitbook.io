@@ -690,6 +690,12 @@
   Contains the main websites of the EU institutions, which are hosted on the european .eu domain and subdomains. Its aim is to preserve EU web content in the long term and to keep it accessible for the public. 
 - [iTools](http://itools.com/)  
   iTools is not just a website repository, but it is also a website analyzer that provides you with specifics of the website like contact information, website traffic, Alexa rating, website reputation, data, etc.
+- [Arquivo](https://arquivo.pt/)  
+  A Portuguese web archive service that serves as a research infrastructure that enables search and access to files archived from the web since 1996.
+- [TheOldNet](https://theoldnet.com/)  
+  A service that lets users see how websites looked in the past.
+- [Quick Cache and Archive Search](https://cipher387.github.io/quickcacheandarchivesearch/)  
+  An awesome tool created by [@cyb_detective](https://twitter.com/cyb_detective) that lets you search for older versions of websites via search engines and various web archive services.
 
 ## <u>**Newspaper and News Search**</u>
 
