@@ -63,3 +63,5 @@
   Data from more than 785,000 offshore companies, foundations and trusts from the [Panama Papers](https://en.wikipedia.org/wiki/Panama_Papers), [Offshore Leaks](https://en.wikipedia.org/wiki/Offshore_Leaks), [Bahamas Leaks](https://en.wikipedia.org/wiki/Bahamas_Leaks), and the [Paradise Papers](https://en.wikipedia.org/wiki/Paradise_Papers).
 - [ICIJ Luxembourg Leaks](https://projects.icij.org/luxembourg-leaks/viz/industries/index.html)  
   Also known as the "LuxLeaks", is a collection of over 350 documents about Luxembourg's tax rulings set up by PricewaterhouseCoopers from 2002 to 2010 to the benefits of its clients. 
+- [Distributed Denial of Secrets](https://www.ddosecrets.com/wiki/Distributed_Denial_of_Secrets)  
+  A journalist 501(c)(3) non-profit devoted to enabling the free transmission of data in the public interest. Aims to avoid political, corporate or personal leanings, to act as a beacon of available information.
