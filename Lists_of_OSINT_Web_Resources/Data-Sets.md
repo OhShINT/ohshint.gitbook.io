@@ -27,6 +27,8 @@
   A massive collection of public data sources compiled by OCCRP researchers that  are the most useful for investigative reporting.
 - [CORE Research Paper Database](https://core.ac.uk/)  
   CORE currently contains 207,255,818 searchable open access articles and research papers collected from 10,286 data providers around the world, which you can search using keywords.
+- [Public Intelligence](https://publicintelligence.net/)  
+  An international, collaborative research project aimed at aggregating the collective work of independent researchers around the globe who wish to defend the public’s right to access information.
 
 ## **<u>Government Data Sets</u>**
 
