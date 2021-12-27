@@ -3913,7 +3913,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A great tool for finding information on a target. Search via email, username, real name, address, etc, and receive a wealth of results. Requires a paid subscription.
 
 <u>**Gaming**</u>
-===========
+===========================================================================
 
 ## **Gaming Forums**
 
@@ -4025,6 +4025,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A massive collection of public data sources compiled by OCCRP researchers that  are the most useful for investigative reporting.
 - [CORE Research Paper Database](https://core.ac.uk/)  
   CORE currently contains 207,255,818 searchable open access articles and research papers collected from 10,286 data providers around the world, which you can search using keywords.
+- [Public Intelligence](https://publicintelligence.net/)  
+  An international, collaborative research project aimed at aggregating the collective work of independent researchers around the globe who wish to defend the public’s right to access information.
 
 ## **Government Data Sets**
 
