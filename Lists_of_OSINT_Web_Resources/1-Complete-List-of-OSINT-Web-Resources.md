@@ -1609,6 +1609,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   An amazing interactive map that displays where shadows fall in a specific location, at a specific time and date all from within a browser. It uses [Mapbox's 3D Dataset](https://docs.mapbox.com/mapbox-gl-js/example/3d-buildings/) and was created by Twitter user [@truted2](https://twitter.com/truted2), be sure to follow him for updates on this project.
 - [Ocelli Project: Rakhine](https://ocelli.c4ads.org/)  
   An interactive geospatial dataset that documents open source evidence of the systematic displacement and genocide of the Rohingya ethnic minority in Myanmar's Rakhine state.
+- [HawkEye360](https://www.he360.com/)  
+  Provides precise mapping of radio frequency emissions. This unique ability to identify and geolocate sources of radio frequencies from space. Requires a paid subscription.
+- [Kakao Map](https://map.kakao.com/)  
+  A very detailed map of South Korea.
 
 ## **Street View Maps**
 
@@ -1778,6 +1782,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 
 - [GlobalForestWatch](https://www.globalforestwatch.org/map/)  
   Explore the state of forests worldwide by analyzing tree cover change on GFW's interactive global forest map using satellite data.
+- [FallingFruit](https://fallingfruit.org/)  
+  A massive, collaborative map of the urban harvest uniting the efforts of foragers, freegans, and foresters around the world. Explore and share information about the sources of free food in your neighborhood.
 - [OpenTreeMap](https://opentreemap.github.io/)  
   A collaborative platform for crowdsourced tree inventory, ecosystem services calculations and urban forestry analysis. Basically one giant database of trees.
 - [NYC Street Tree Map](https://tree-map.nycgovparks.org/)  
@@ -1890,6 +1896,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A great list of the different types bollards used around the world. Includes images as well. I converted this into a .pdf for offline use, available [here](https://anonfiles.com/90l8M8M7u8/Bollards-of-the-World_pdf). Archived copy available [here (Wayback)](https://web.archive.org/web/20211010055522/https://cdn-131.anonfiles.com/90l8M8M7u8/3fd7c7c4-1633845914/Bollards-of-the-World.pdf).
 - [Sobory](https://sobory.ru/karta/)  
   An interactive map that displays the locations of Orthodox churches and temples from all over the world.
+- [CCD School Map](https://nces.ed.gov/ccd/schoolmap/)  
+  An interactive map of schools, colleges and universities in the U.S.
   
 ## **Outdoor Activity Maps**
 
