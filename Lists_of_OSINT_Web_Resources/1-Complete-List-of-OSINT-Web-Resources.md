@@ -3303,7 +3303,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Search for United States public records.
 - [UniCourt](https://unicourt.com/)  
   Provides case research, tracking and legal analytics of court data.
-- [BRB Public Records](https://publicrecordsblog.typepad.com/brbs_public_records_blog/)  
+- [BRB Public Records](https://www.brbpublications.com/freesites/freesites.aspx)  
   A large catalog of public records and data sources for the U.S.
 - [New Zealand Court Records](https://www.courtsofnz.govt.nz/judgments/)  
   Judgements of public interest issued by the Supreme Court, Court of Appeal and the High Court of New Zealand.
