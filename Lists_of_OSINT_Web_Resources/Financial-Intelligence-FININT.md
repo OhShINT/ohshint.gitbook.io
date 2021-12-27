@@ -32,6 +32,10 @@
   An open blockchain analytics platform that allows you to trace and monitor cryptocurrency transactions.
 - [CryptoLogos](https://cryptologos.cc/)  
   Locate a certain cryptocurrency by its logo.
+- [CoinWink Alerts](https://coinwink.com/)  
+  Receive email notifications when a specific cryptocurrency rises or drops below a certain value.
+- [Crypto Currency Alerting](https://cryptocurrencyalerting.com/)  
+  Another tool to receive alerts whenever a coin reaches a specific value.
 
 ### **<u>Bitcoin [BTC] Specific</u>**
 
@@ -47,6 +51,8 @@
   A simple tool to display a Bitcoin addresses current balance.
 - [BitcoinAbuse](https://www.bitcoinabuse.com/)  
   Tracking bitcoin addresses used by ransomware, blackmailers, fraudsters, etc.
+- [LearnMeABitcoin](https://learnmeabitcoin.com/tools/path/)  
+  Locate transactions between two Bitcoin addresses.
 
 ### **<u>Ethereum [ETH] Specific</u>**
 
