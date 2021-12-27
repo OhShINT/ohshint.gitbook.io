@@ -843,6 +843,10 @@ Remember, CTRL+F is your friend here.
   A Google CSE that lets you search for pages in two languages.
 - [Internet Movie Database](https://www.imdb.com/)  
   IMDb is an online database of information related to films, television programs, home videos, video games, and streaming content. Including information about cast, production crew, personal biographies, plot summaries, trivia, ratings, reviews and more.
+- [fnd.io](https://fnd.io/)  
+  A search engine for the Apple app store and iTunes store.
+- [There Is A Bot For That](https://thereisabotforthat.com/bots/search)  
+  A search engine that has over 5,000 bots for over 15 different platforms.
 
 ## **Meta Search**
 
