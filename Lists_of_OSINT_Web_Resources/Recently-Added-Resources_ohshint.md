@@ -12,6 +12,11 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [Brave Search](https://search.brave.com/) - *Added 9/11/2021.*
 
+### **Specialty Search**
+
+- [fnd.io](https://fnd.io/) - *Added 26/12/2021.*
+- [There Is A Bot For That](https://thereisabotforthat.com/bots/search) - *Added 26/12/2021.*
+
 ### **Meta Search**
 
 - [I Search From](http://isearchfrom.com/) - *Added 9/11/2021.*
@@ -132,6 +137,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [Kakao Map](https://map.kakao.com/) - *Added 26/12/2021.*
+- [HawkEye360](https://www.he360.com/) - *Added 26/12/2021.*
 - [Ocelli Project: Rakhine](https://ocelli.c4ads.org/) - *Added 21/12/2021.*
 - [ShadeMap](https://shademap.app/) - *Added 6/12/2021.*
 - [MapChecking](https://www.mapchecking.com/) - *Added 6/12/2021.*
@@ -188,6 +195,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Tree Maps**
 
+- [FallingFruit](https://fallingfruit.org/) - *Added 26/12/2021.*
 - [GlobalForestWatch](https://www.globalforestwatch.org/map/) - *Added 21/11/2021.*
 
 ### **Network Maps**
@@ -219,6 +227,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Landmark Recognition**
 
+- [CCD School Map](https://nces.ed.gov/ccd/schoolmap/) - *Added 26/12/2021.*
 - [Sobory](https://sobory.ru/karta/) - *Added 6/12/2021.*
 - [HeyWhatsThat](https://heywhatsthat.com/) - *Added 21/11/2021.*
 - [AlleBurgen Castle Map](https://www.alleburgen.de/index-atlas.php) - *Added 21/11/2021.*
@@ -321,12 +330,15 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **General Analysis**
 
+- [CoinWink Alerts](https://coinwink.com/) - *Added 26/12/2021.*
+- [Crypto Currency Alerting](https://cryptocurrencyalerting.com/) - *Added 26/12/2021.*
 - [CryptoLogos](https://cryptologos.cc/) - *Added 28/11/2021.*
 - [Breadcrumbs](https://breadcrumbs.app/) - *Added 28/11/2021.*
 - [BlockCypher](https://blockcypher.herokuapp.com/) - *Added 7/11/2021.*
 
 #### **Bitcoin [BTC] Specific**
 
+- [LearnMeABitcoin](https://learnmeabitcoin.com/tools/path/) - *Added 26/12/2021.*
 - [BitcoinAbuse](https://www.bitcoinabuse.com/) - *Added 28/11/2021.*
 
 ## **<u>Vehicle and Transportation Intelligence [VATINT]</u>**
@@ -504,6 +516,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Email Addresses**</u>
 
+- [MailsHunt](https://www.mailshunt.com/) - *Added 26/12/2021.*
 - [Snov Email Finder](https://snov.io/email-finder) - *Added 21/12/2021.*
 - [Hunter.io](https://hunter.io/) - *Added 28/11/2021.*
 - [Email-Format](https://www.email-format.com/) - *Added 28/11/2021.*
@@ -541,6 +554,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Data Sets**
 
+- [Public Intelligence](https://publicintelligence.net/) - *Added 26/12/2021.*
 - [CORE Research Paper Database](https://core.ac.uk/) - *Added 29/11/2021.*
 - [Face Recognition Datasets](https://www.face-rec.org/databases/) - *Added 31/10/2021.*
 - [Kaggle](https://www.kaggle.com/datasets) - *Added 31/10/2021.*
@@ -551,6 +565,10 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [ICO Search](https://ico.org.uk/ESDWebPages/Search) - *Added 29/11/2021.*
 - [David McKie Open Data Portals](http://www.davidmckie.com/open-data-portals/) - *Added 29/11/2021.*
+
+### **Leaked Data Sets**
+
+- [Distributed Denial of Secrets](https://www.ddosecrets.com/wiki/Distributed_Denial_of_Secrets) - *Added 26/12/2021.*
 
 ## <u>**War, Crisis and Conflicts**</u>
 
