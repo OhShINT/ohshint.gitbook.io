@@ -17,6 +17,8 @@
   Lets you find professional email addresses in seconds. Very useful tool. For best results, a paid subscription is required.
 - [Snov Email Finder](https://snov.io/email-finder)  
   Locate employee email addresses via domain name. Very handy.
+- [MailsHunt](https://www.mailshunt.com/)  
+  Search a domain name and get a list of email addresses. Requires registration.
 
 ## <u>**Data Breach Search**</u>
 
