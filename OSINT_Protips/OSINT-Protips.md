@@ -479,3 +479,41 @@ Search for any additional information via breached data:
 - [dehashed.com](https://dehashed.com) 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+  
+
+## **OSINT Protip 23**
+
+> Posted on *22/12/2021* at *8:31 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1473873765800939524](https://twitter.com/ohshint_/status/1473873765800939524)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 23: 
+
+[1/3] 
+
+Twitter lists are a great source of information about all kinds of different subjects bundled into one.  Here are a few that I've made:  
+
+- [OSINT] [https://twitter.com/i/lists/1459796018183106564](https://twitter.com/i/lists/1459796018183106564) 
+- [GEOINT] [https://twitter.com/i/lists/1471402240665534471](https://twitter.com/i/lists/1471402240665534471)
+- [ORBINT] [https://twitter.com/i/lists/1471409424619081732](https://twitter.com/i/lists/1471409424619081732) 
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 23: 
+
+[2/3] 
+
+- [OPSEC/Privacy] [https://twitter.com/i/lists/1471377222371995650](https://twitter.com/i/lists/1471377222371995650) 
+- [HUMINT/SE] [https://twitter.com/i/lists/1471736382146056193](https://twitter.com/i/lists/1471736382146056193) 
+- [PhySec] [https://twitter.com/i/lists/1471719126338920449](https://twitter.com/i/lists/1471719126338920449) 
+- [InfoSec] [https://twitter.com/i/lists/1471367805731696641](https://twitter.com/i/lists/1471367805731696641) 
+- [Spycraft] [https://twitter.com/i/lists/1471397901469245445](https://twitter.com/i/lists/1471397901469245445)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 23: 
+
+[3/3] 
+
+Some other great lists made by other Twitter users that are certainly worth following. 
+
+- [Breaches/Leaks] [https://twitter.com/i/lists/1472108413614133248](https://twitter.com/i/lists/1472108413614133248) 
+- [OOSI] [https://twitter.com/i/lists/839124356638904320](https://twitter.com/i/lists/839124356638904320) 
+- [OSINT Companies] [https://twitter.com/i/lists/1438495446809333760](https://twitter.com/i/lists/1438495446809333760) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
