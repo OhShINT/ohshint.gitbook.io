@@ -51,4 +51,4 @@
 - [ISS Tracker](http://www.isstracker.com/)  
   Track the current location of the International Space Station (ISS) in real-time.
 - [Aurora Service](https://auroraforecast.space/)  
-  An online tool and map that monitors visible auroras, geomagnetic and solar radiation activity.
+  An online tool and map that monitors visible auroras, geomagnetic and solar radiation activity. Also offers a [free API](https://auroraforecast.space/#api).
