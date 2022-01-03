@@ -1,7 +1,7 @@
 # <u>**Recently Added Resources - 2021**</u>
 
 When new resources were added during 2021, they were listed and dated here. 
-For the newest added resources for 2022, click [here](placeholder).
+For the newest added resources for 2022, click [here](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/2022-Recently-Added-Resources_ohshint.md).
 
 All dates are listed in *DD/MM/YYYY* format. 
 
