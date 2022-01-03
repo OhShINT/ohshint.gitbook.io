@@ -2817,6 +2817,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Captures websites and let you analyze and investigate them.
 - [The Favicon Finder](https://besticon.herokuapp.com/)  
   A free online service to finding icons on websites. Just enter in a target URL.
+- [SOCRadar Deep Web Report](https://labs.socradar.com/deep-web-report/)  
+  Search a domain and get a simple report of the companies exposure. Requires a pais subscription to view full reports.
   
 ### **Web Page Monitoring**
 
