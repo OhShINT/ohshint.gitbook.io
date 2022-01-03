@@ -3074,6 +3074,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Lists of ISPs organized by country.
 - [Abuse.ch](https://abuse.ch/)  
   A research project at the Bern University of Applied Sciences (BFH). Home of some great projects such as MalwareBazzar, botnet C&C trackers, SSL blacklists and more.
+- [URLHaus](https://urlhaus.abuse.ch/)  
+  A project from abuse.ch with the goal of sharing malicious URLs that are being used for malware distribution.
 
 <u>**Signals Intelligence [SIGINT]**</u>
 ===========================================================================
