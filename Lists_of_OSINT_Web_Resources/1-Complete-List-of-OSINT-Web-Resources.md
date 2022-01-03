@@ -2180,6 +2180,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Calculate when you can see the SpaceX Starlink satellites above your location.
 - [ISS Tracker](http://www.isstracker.com/)  
   Track the current location of the International Space Station (ISS) in real-time.
+- [Aurora Service](https://auroraforecast.space/)  
+  An online tool and map that monitors visible auroras, geomagnetic and solar radiation activity.
 
 <u>**Business Research and Trade Intelligence [TRADINT]**</u>
 ===========================================================================
