@@ -154,6 +154,8 @@
 
 - [Passport Validity Check](https://polisen.se/en/services-and-permits/passport-and-national-id-card/check-validity-online-for-passports-and-national-id-cards/)  
   Check the validity of Swedish passports and national ID cards online.
+- [Upplysning](https://www.upplysning.se/)  
+  Allows you to discover get hold of various tax information, and in some cases, people's Personnummer (Swedish social security number). Requires registration.
 
 ### <u>**United Kingdom**</u>
 
