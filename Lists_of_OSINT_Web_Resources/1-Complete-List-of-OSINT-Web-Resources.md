@@ -4130,6 +4130,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Provides information and current news regarding various street gangs and prison gangs.
 - [Wikipedia - List of Criminal Enterprises](https://en.wikipedia.org/wiki/List_of_criminal_enterprises,_gangs,_and_syndicates) ([WikiLess](https://wikiless.org/wiki/List_of_criminal_enterprises,_gangs,_and_syndicates))  
   This is a global listing of criminal enterprises, cartels, smuggling rings, street and prison gangs, tongs, mafias, syndicates and cybercrime networks that are or have been involved in organized crime. Some data here is out-dated, but still valuable.
+- [Metro Vancouver Shooting Map 2021/2022](https://www.google.com/maps/d/u/0/viewer?mid=14ii0RD12wwH3n-hUHtRTjzwxc_YnSxOr)  
+  A custom Google map of shootings and gang-related incidents for Vancouver, BC.
 
 ## **Human Trafficking and Migration**
 
