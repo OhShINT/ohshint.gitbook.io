@@ -20,6 +20,8 @@
   Useful VIN search for finding more information regarding the vehicle. 
 - [VIN Decoding Explained](https://www.motortrend.com/how-to/look-up-and-decode-a-vin/)  
   Guide on how to lookup and decode a VIN number.
+- [FaxVIN](https://www.faxvin.com/)  
+  Search via VIN number and get vehicle information, specifications, title information and more. For best results, a paid subscription is required.
 
 ### <u>**License Plates**</u>
 
@@ -43,6 +45,16 @@
   A number plate search tool offered by the UK government.
 - [Number Plate Check](https://www.checkcardetails.co.uk/number-plate-check)  
   Another tool where you can check the number plate for any registered plate number in the UK.
+- [VehicleHistory](https://www.vehiclehistory.com/license-plate-search)  
+  Search via U.S. plate number and get vehicle history and other details.
+- [FaxVIN](https://www.faxvin.com/license-plate-lookup)  
+  Lookup a U.S. license plate.
+- [SearchQuarry](https://www.searchquarry.com/free-license-plate-number-lookup/)  
+  Another U.S. license plate search tool. Requires a paid subscription for best results.
+- [FindByPlate](https://findbyplate.com/)  
+  Search for a U.S. license plate and receive details about the vehicle.
+- [AutoCheck License Plate Search](https://www.autocheck.com/vehiclehistory/search-by-license-plate)  
+  A U.S. license plate search tool.
 
 ## <u>**Marine**</u>
 
@@ -230,6 +242,8 @@
   A searchable database of the most recent aircraft accidents from all over the world. 
 - [World Aviation Accident Database 1962-2007](https://www.ntsb.gov/_layouts/ntsb.aviation/index.aspx)  
   A searchable database of historical aircraft accidents from all over the world.
+- [NOTAM Map](http://notammap.net/Notam.aspx)  
+  A free tool that allows you to search for NOTAMs.
 
 ## **<u>Railways</u>**
 
