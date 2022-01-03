@@ -24,7 +24,7 @@
 - [ImgOps](https://imgops.com/)  
   An online image toolkit. Allows you to preform reverse image searches on many different platforms, metadata extraction, image editing and conversions.
 - [Pl@ntNet](https://identify.plantnet.org/)  
-  A web application which allows you to identify plants simply by taking a picture of them with your phone. They also provide a a free mobile application for [Android](https://play.google.com/store/apps/details?id=org.plantnet) and [iPhone](https://itunes.apple.com/app/plantnet/id600547573). Allows you to identify all kinds of plants including flowering plants, trees, grasses, conifers, ferns, vines, wild salads and cacti. Before you ask, yes it works with weed plants.
+  A web application which allows you to identify plants simply by taking a picture of them with your phone. They also provide a free mobile application for [Android](https://play.google.com/store/apps/details?id=org.plantnet) and [iPhone](https://itunes.apple.com/app/plantnet/id600547573). Allows you to identify all kinds of plants including flowering plants, trees, grasses, conifers, ferns, vines, wild salads and cacti. Before you ask, yes it works with weed plants.
 - [Reverse Image Search](https://www.reverse-image-search.org/)  
   Simply upload an image and find matching images and similar images using Google, Bing and Yandex.
 - [Image-Search](https://www.image-search.org/)  
