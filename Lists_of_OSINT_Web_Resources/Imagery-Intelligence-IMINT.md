@@ -6,6 +6,8 @@
   View old photos from 1826 to 2000 that have been geo-located and plotted on a map.
 - [FaceSaerch](http://www.facesaerch.com/)  
   Uses Google to search for images of faces from a specific keyword.
+- [IconFinder](https://www.iconfinder.com/search)  
+  Search for icons used for various apps and websites via keywords.
 
 ## **<u>Reverse Image Search</u>**
 
