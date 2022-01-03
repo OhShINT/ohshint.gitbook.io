@@ -2164,7 +2164,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [InTheSky](https://in-the-sky.org/ngc3d.php)  
   An interactive 3D map of the universe. 
 - [MoonCalc](https://www.mooncalc.org/)  
-  Shows the motion of the Moon and Moon phase for a particular day at a particular location.
+  Shows the motion of the Moon and Moon phase for a particular day at a particular location. Also offers a [free API](https://auroraforecast.space/#api).
 
 ## **Visualization**
 
