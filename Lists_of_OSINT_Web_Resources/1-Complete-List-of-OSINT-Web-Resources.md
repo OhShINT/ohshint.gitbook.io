@@ -4659,6 +4659,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   This document describes the different naming conventions used in a variety of different languages. Archived copies can be found [here (Wayback)](https://web.archive.org/web/20210927032149/bankersonline.com/sites/default/files/tools/namingconventions_0.pdf).
 - [Translit](https://translit.net/)  
   A handy Cyrillic transliteration tool. This will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names.
+- [Lingva](https://lingva.ml/)  
+  Alternative front-end for Google Translate, serving as a Free and Open Source translator with over a hundred languages available.
 
 ## **General Dictionaries**
 
