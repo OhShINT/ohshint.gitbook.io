@@ -285,6 +285,7 @@ Remember, CTRL+F is your friend here.
       - [**Latvia**](#latvia)
       - [**Norway**](#norway)
       - [**Netherlands**](#netherlands)
+      - [**Malta**](#malta)
       - [**Poland**](#poland)
       - [**Russia**](#russia)
       - [**Slovakia**](#slovakia)
