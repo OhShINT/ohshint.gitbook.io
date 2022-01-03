@@ -3062,6 +3062,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   An Internet security portal containing original IT security news, digital warfare news, geopolitics, proprietary and general advisories, analyses, forums, and a large archive of website defacements.
 - [Default Router Settings](https://www.cleancss.com/router-default/)  
   A list of default settings and login credentials for over 2,000 routers.
+- [OpenSezMe](https://open-sez.me/)  
+  Contains over 6,000 default credentials for routers and other IoT devices.
 - [Bowserling](https://www.browserling.com/)  
   Allows you to view a website in a different browser online. For example, a Mac user can test a website to see how it acts in Internet Explorer, without having to install a VM.
 - [ISP Quick List](https://www.ispquicklist.com/)  
@@ -4617,6 +4619,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 
 - [Passport Validity Check](https://polisen.se/en/services-and-permits/passport-and-national-id-card/check-validity-online-for-passports-and-national-id-cards/)  
   Check the validity of Swedish passports and national ID cards online.
+- [Upplysning](https://www.upplysning.se/)  
+  Allows you to discover get hold of various tax information, and in some cases, people's Personnummer (Swedish social security number). Requires registration.
 
 #### **United Kingdom**
 
