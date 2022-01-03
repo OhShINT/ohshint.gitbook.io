@@ -2427,7 +2427,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Another tool where you can check the number plate for any registered plate number in the UK.
 - [VehicleHistory](https://www.vehiclehistory.com/license-plate-search)  
   Search via U.S. plate number and get vehicle history and other details.
-- [FaxVIN](https://www.faxvin.com/license-plate-lookup)  
+- [FaxVIN Plate Lookup](https://www.faxvin.com/license-plate-lookup)  
   Lookup a U.S. license plate.
 - [SearchQuarry](https://www.searchquarry.com/free-license-plate-number-lookup/)  
   Another U.S. license plate search tool. Requires a paid subscription for best results.
