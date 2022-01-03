@@ -361,7 +361,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [Fleet Tracker News](https://news.usni.org/category/fleet-tracker) - *Added 10/11/2021.*
 
-### **Aricraft**
+### **Aircraft**
 
 #### **Airport Information**
 
