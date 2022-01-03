@@ -3179,13 +3179,15 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [TOR66](http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh)  
   An onion site that lists newly discovered onion sites that have been submitted from a variety of different clearnet platforms.
 - [H-Indexer](http://jncyepk6zbnosf4p.onion/onions.html)  
-  Another onion site that offers a list of fresh onions. Beware, results are often uncensored so you may encounter illegal material.
+  Another onion site that offers a list of fresh onions. Beware, results are often uncensored, so you may encounter illegal material.
 - [DarkSearch](https://darksearch.io/)  
   A search engine for TOR onion sites. Claims to index thousands of onions. Offers the ability to use [advanced search operators](https://darksearch.io/dorks), and they also provide a free API. Appears to be a bit outdated though.
 - [Kilos](http://mlyusr6htlxsyc7t2f4z53wdxh3win7q3qpxcrbam6jf3dmua7tnzuyd.onion/)  
   Specific market & vendor sale of goods engine. Currently indexing over 876,601 forum posts, 106,558 listings, 6,313 vendors, and 1,443,739 reviews from 12 markets and 5 forums.
 - [IACA Darkweb Tools](https://iaca-darkweb-tools.com/)  
   A collection of darkweb search tools. Allows you to query .onion search engines, marketplaces and social media sites.
+- [TOR Taxi](https://tor.taxi/)  
+  A catalog and directory of the most popular onion sites.
 
 ### **Miscellaneous TOR Resources**
 
