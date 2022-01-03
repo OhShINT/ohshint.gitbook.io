@@ -123,6 +123,11 @@
 
 - [Dutch ID Cards for Aliens](https://www.identiteitsdocumenten.nl/en)  
   A site that displays information and security features for Dutch identity cards and documents.
+  
+### **Malta**
+
+- [[XLSX] List of Maltese Passport Buyers](https://docs.google.com/spreadsheets/u/0/d/11EcfcCp8Pe8d83b5TBijG74ZF1jxz5Crk1tbks8lN9c/htmlview)  
+  The latest list of Malta "golden passport" buyers, as well as naturalised citizens. Updated database from 2014 to 2020. Click [here (Wayback)](https://web.archive.org/web/20211231233424/https://docs.google.com/spreadsheets/u/0/d/11EcfcCp8Pe8d83b5TBijG74ZF1jxz5Crk1tbks8lN9c/htmlview) for an archived version. Click [here (Wayback)](https://web.archive.org/web/20211231233638/https://doc-0c-5s-sheets.googleusercontent.com/export/70cmver1f290kjsnpar5ku2h9g/ahm1tj4kbjcpnnr6qacp6imr98/1640993795000/107501199201130235541/*/11EcfcCp8Pe8d83b5TBijG74ZF1jxz5Crk1tbks8lN9c?filetype=xlsx) to download an offline copy in XLSX format.
 
 ### <u>**Poland**</u>
 
