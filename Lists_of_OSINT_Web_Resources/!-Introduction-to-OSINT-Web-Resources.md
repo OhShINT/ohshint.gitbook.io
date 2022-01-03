@@ -24,14 +24,16 @@ The below lists are currently still a work in progress! It was going to take age
 - [x] ~~Create PDF copies of all articles.~~ - Now available [here](https://github.com/OhShINT/ohshint.gitbook.io/tree/main/OSINT_Articles/PDFs).
 - [ ] Complete the *mostly* incomplete sections.
   - [ ] Complete the "Phone Numbers" section.
-  - [ ] Complete the "People Investigations" section.
+  - [x] ~~Complete the "People Investigations" section.~~
   - [ ] Complete the "Real Estate" section.
 
 
 
 # **Recently Added Resources**
 
-When new resources are added, they will be listed and dated here: [Recently-Added-Resources.md](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/Recently-Added-Resources_ohshint.md)
+When new resources are added, they will be listed and dated here: [2022-Recently-Added-Resources_ohshint.md](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/2022-Recently-Added-Resources_ohshint.md)
+
+Additions from 2021 can be found here: [2021-Recently-Added-Resources_ohshint.md](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/2021-Recently-Added-Resources_ohshint.md)
 
 All dates are listed in *DD/MM/YYYY* format. 
 
