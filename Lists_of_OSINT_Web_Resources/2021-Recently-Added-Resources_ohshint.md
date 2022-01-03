@@ -1,6 +1,7 @@
-# <u>**Recently Added Resources**</u>
+# <u>**Recently Added Resources - 2021**</u>
 
-When new resources are added, they will be listed and dated here. 
+When new resources were added during 2021, they were listed and dated here. 
+For the newest added resources for 2022, click [here](placeholder).
 
 All dates are listed in *DD/MM/YYYY* format. 
 
