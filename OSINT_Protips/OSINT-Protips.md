@@ -517,3 +517,22 @@ Some other great lists made by other Twitter users that are certainly worth foll
 - [OSINT Companies] [https://twitter.com/i/lists/1438495446809333760](https://twitter.com/i/lists/1438495446809333760) 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+  
+  
+## **OSINT Protip 24**
+
+> Posted on *4/1/2022* at *6:15 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1478550818685022209](https://twitter.com/ohshint_/status/1478550818685022209)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 24: 
+
+Newspapers, both current and historic, are very valuable sources. Marriages, events, obituaries and more can be found. 
+
+Here's a few useful sites. 
+
+- [https://newspaperarchive.com](https://newspaperarchive.com/)
+-  [https://newspapermap.com](https://newspapermap.com/) 
+-  [https://elephind.com](https://elephind.com/) 
+-  Your local library. 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
