@@ -68,7 +68,7 @@ Here is a list and brief descriptions of the common acronyms that you will likel
 | **PERSINT** | **Pers**onality **Int**elligence                            |
 | **RUMINT**  | **Rum**or **Int**elligence                                  |
 | **OPSEC**   | **Op**eration **Sec**urity                                  |
-| **TSCM**    | **T**echnical Surveillance **C**ounter-**M**easures         |
+| **TSCM**    | **T**echnical **S**urveillance **C**ounter-**M**easures         |
 | **CI**      | **C**ounter-**I**ntelligence/**C**onfidential **I**nformant |
 
 That is most of them. Read some more here.
@@ -145,7 +145,7 @@ Here are some additional white-papers about the OSINT processes and various OSIN
 
 This is a list of open-source related books, manuals, articles and research papers that you should read, or at the very least download and/or purchase for future reference.
 
-- [Open Source Intelligence Techniques 8th Edition - Michael Bazzell - 2021](https://inteltechniques.com/book1.html).
+- [Open Source Intelligence Techniques 9th Edition - Michael Bazzell - 2022](https://inteltechniques.com/book1.html).
   - If you are only going to read one book here, then it should be this one^.
   - ([archive.today](https://archive.ph/qXfBZ)).
 - [[PDF] US Army - Open-Source Intelligence ATP 2-22.9 - June 2017 - Redacted Copy](https://irp.fas.org/doddir/army/atp2-22-9-2017.pdf).
