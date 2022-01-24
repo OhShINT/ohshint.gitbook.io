@@ -4063,6 +4063,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Provides information about skyscrapers and high-rise buildings. They also provide an [interactive map](https://www.emporis.com/buildings/map#c=57.956477,-16.97009&z=0).
 - [DataTree](https://dna.firstam.com/)  
   Great resource and toolkit for finding real estate information and records. Requires a paid subscription.
+- [Virtual Tours CSE](https://cse.google.com/cse?cx=b5bba571be1788aaa)  
+  A Google CSE that searches major real estate sites that offer virtual tours of buildings and homes. Very useful.
 
 ## **Historical Data**
 
