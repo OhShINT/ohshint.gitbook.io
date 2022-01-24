@@ -94,6 +94,7 @@ Remember, CTRL+F is your friend here.
   * [**Industry Maps**](#industry-maps)
   * [**Landmark Recognition**](#landmark-recognition)
   * [**Outdoor Activity Maps**](#outdoor-activity-maps)
+  * [**Drone Footage**](#drone-footage)
   * [**Other Mapping Resources**](#other-mapping-resources)
 - [<u>**Imagery Intelligence [IMINT]**</u>](#imagery-intelligence-imint)
   * [**General Image Search**](#general-image-search)
@@ -1944,6 +1945,22 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Route planner for hiking, cycling and running.
 - [OpenCycleMap](https://www.opencyclemap.org/)  
   A global cycling map for general overview and trip planning.
+  
+## **Drone Footage**
+- [TravelWithDrone](https://travelwithdrone.com/)  
+  A database of aireal drone footage and community of travel and quadcopter enthusiasts.
+- [Dronestagr.am](https://www.dronestagr.am/)  
+  A large photo sharing community dedicated to drone photography. The site that has been described as "Instagram for drones".
+- [Mixkit Drone Footage](https://mixkit.co/free-drone-footage/)  
+  Download free aireal drone footage from many different worldwide locations.
+- [DroneZon](https://www.dronezon.com/category/best-drone-videos/)  
+  Drone videos of terrific scenery and action from around the globe. These top videos really show how beautiful our planet Earth really is.
+- [AirVuz](https://www.airvuz.com/)  
+  Discover, watch, and share breathtaking drone videos from scenic locations as well as videos from the world's top drone racing and FPV freestyle pilots.
+- [Pexels Drone Footage](https://www.pexels.com/search/videos/drone%20footage/)  
+  Search and download free drone videos.
+- [ArtGrid](https://artgrid.io/category/178/aerials)  
+  A collection of free drone footage and videos from different locations.
 
 ## **Other Mapping Resources**
 
