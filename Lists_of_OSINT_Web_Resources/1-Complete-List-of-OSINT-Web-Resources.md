@@ -298,8 +298,6 @@ Remember, CTRL+F is your friend here.
   * [**General Dictionaries**](#general-dictionaries)
   * [**General Cracking and Decoding**](#general-cracking-and-decoding)
 - [**<u>Miscellaneous</u>**](#miscellaneous)
-  * [**Videos**](#videos)
-  * [**Other**](#other)
 
 
 <u>**Search Engines**</u>
@@ -1620,6 +1618,16 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A very detailed map of South Korea.
 - [Online KML Viewer](https://kmlviewer.nsspot.net/)  
   Simply upload any KML or KMZ file and this tool will allow you to view it.
+- [Satellite.pro](https://satellite.pro/)  
+  Satellite and road map of the world, including different map providers, weather forecast, distance measuring and other information.
+- [EarthOnDemand](https://earthondemand.astraea.earth/)  
+  Search for available satellite imagery via location. Search, filter, then select the data sets you want and you will be presented with a list of available images.
+- [Sentinel-1 SAR Time Analysis Tool](https://share.streamlit.io/mjcruickshank/sarveillance/reorganisation/app/web.py)  
+  A Sentinel-1 SAR time series analysis OSINT tool from [Michael Cruickshank](https://twitter.com/MJ_Cruickshank). Includes an interactive map view for the selection of custom locations. Very handy.
+- [Plus Codes Grid Service](https://grid.plus.codes/)  
+  Plus codes are based on a multi-level grid, being able to see the grid can make the codes easier to discover and use. This service allows you to to add the plus codes grid to online maps and GIS applications.
+- [What3Words](https://what3words.com/)  
+  The world divided into 3 meter squares and each square is given a unique combination of three words.
 
 ## **Street View Maps**
 
@@ -1631,6 +1639,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Uses the Google Places Library Autocomplete service to quickly get the location you're looking for. It uses the street view service to display the street view panoramas and allows for easy bookmarking or sharing. It is fast and features clear images.
 - [RouteView](https://routeview.org/VirtualRide/)  
   See your route via Google Street view. Requires a Google Maps API key.
+- [EarthViewer360](https://earthviewer360.com/)  
+  Click on a point on the map to see a 360 degree video panorama of the selected area.
+- [ShowMyStreet](https://showmystreet.com/)  
+  A simple tool for exploring Google Street View.
 
 ## **Political Maps**
 
@@ -1664,6 +1676,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Provides information and an interactive map about the different types of electrical outlets used in different parts of the world.
 - [Global Military Base Map](http://u.osmfr.org/m/510207/)  
   An interactive map that provides information about different military bases and installations around the world. Uses OpenStreetMap data. Map created by [@GONZOs_int](https://twitter.com/GONZOs_int), go give him a follow!
+- [Live Border Crossing Times](https://live.sixfold.com/)  
+  An interactive map that shows live border crossing times and delays for many European countries.
 
 ## **Topographic and Geologic Maps**
 
@@ -1884,6 +1898,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Map the world's electricity, telecom, oil, and gas infrastructure. Uses OSM data.
 - [UK Power Network Map](https://ukpowernetworks.opendatasoft.com/map/+26ec7ef055f84650/)  
   Contains maps if the UK power grid, and also allows you to add many other layers.
+- [U.S. Energy, Environment and Policy Map](https://www.bakerinstitute.org/energy-environment-and-policy-in-the-us/)  
+  This interactive map shows the locations of critical energy facilities in the U.S.
   
 ## **Landmark Recognition**
 
@@ -1989,6 +2005,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A free online tool that lets you create a PDF map of a specific area of interest.
 - [OpenAddresses](https://openaddresses.io/)  
   A free, worldwide and open-source database of addresses.
+- [Google Maps Scraper](https://console.apify.com/actors/nwua9Gu5YrADL7ZDj)  
+  Enter a search term and scrape adresses, phone, websites and other information from Google Maps. The results can be exported in CSV, JSON and XLS. Requires registration.
+- [AntMaps](https://antmaps.org/)  
+  A map that shows the different species of ants across the globe. 
 
 # <u>**Imagery Intelligence [IMINT]**</u>
 
