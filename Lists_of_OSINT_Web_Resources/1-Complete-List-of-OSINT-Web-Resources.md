@@ -1948,11 +1948,11 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   
 ## **Drone Footage**
 - [TravelWithDrone](https://travelwithdrone.com/)  
-  A database of aireal drone footage and community of travel and quadcopter enthusiasts.
+  A database of aerial drone footage and community of travel and quadcopter enthusiasts.
 - [Dronestagr.am](https://www.dronestagr.am/)  
   A large photo sharing community dedicated to drone photography. The site that has been described as "Instagram for drones".
 - [Mixkit Drone Footage](https://mixkit.co/free-drone-footage/)  
-  Download free aireal drone footage from many different worldwide locations.
+  Download free aerial drone footage from many different worldwide locations.
 - [DroneZon](https://www.dronezon.com/category/best-drone-videos/)  
   Drone videos of terrific scenery and action from around the globe. These top videos really show how beautiful our planet Earth really is.
 - [AirVuz](https://www.airvuz.com/)  
