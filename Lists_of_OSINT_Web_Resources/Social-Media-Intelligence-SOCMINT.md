@@ -244,6 +244,8 @@
   A small archive of various banned subreddits.
 - [Subreddit User Overlaps](https://subredditstats.com/subreddit-user-overlaps)  
   Type a subreddit name to list its overlaps with other subreddits.
+- [Teddit](https://teddit.net/)  
+  An alternative, privacy respecting, Reddit front-end.
 
 ## <u>**SnapChat**</u>
 
