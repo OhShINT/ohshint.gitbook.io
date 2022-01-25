@@ -4048,6 +4048,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   View a players UUID and name change history. Also good for checking if a username exists.
 - [NameMC](https://namemc.com/)  
   Check the availability of Minecraft names, look up the name history of Minecraft accounts, view Minecraft skins in 3D, convert UUIDs, and much more.
+- [MCProfile](https://mcprofile.net/)  
+  Search for Minecraft users via username or UUID. Also allows you to search for textures and skins.
 - [LoLProfile](https://lolprofile.net/)  
   Search for a League of Legends player and view their statistics.
 - [Fortnite Tracker](https://fortnitetracker.com/)  
