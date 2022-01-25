@@ -876,6 +876,8 @@ Remember, CTRL+F is your friend here.
   Simulate using Google Search from a different location or device, or perform a search with custom search settings.
 - [ScrapersnBots](https://scrapersnbots.com/webtools/)  
   A large collection of online tools for OSINT. Search for users with a specific name on different sites or a single domain. Google image search, YouTube tags, URL extractor and more.
+- [BizNar](https://biznar.com/biznar/desktop/en/)  
+  A web search engine that returns high quality results by submitting your query to other search engines and collating, ranking and dropping duplicates in the results.
 
 ## **Similar Site Search**
 
@@ -928,6 +930,8 @@ A Google CSE that searches for scientific publications.
   Search for books by ISBN and view related information.
 - [OAPEN](https://library.oapen.org/)  
   A massive collection of open access books.
+- [Snowfl](https://snowfl.com/)  
+  Search BitTorrent indexes via keywords.
 
 ## **Video Search**
 
