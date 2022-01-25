@@ -3526,6 +3526,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A neatly sorted list that shows you the different laws and requirements to purchase a prepaid burner SIM card in different countries.
 - [NummerSearch](https://nummer.pts.se/NbrSearch)  
   Search for a Swedish phone number and confirm which phone operator the number belongs to.
+- [Phonerator](https://www.martinvigo.com/tools/phonerator/)  
+  Search engine that allows you to provide a few digits and generate a list of possible valid phone numbers for your OSINT needs.
 
 ## **White and Yellow Page Directories**
 
