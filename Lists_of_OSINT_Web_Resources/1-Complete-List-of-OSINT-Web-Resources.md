@@ -2053,6 +2053,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Uses Google to search for images of faces from a specific keyword.
 - [IconFinder](https://www.iconfinder.com/search)  
   Search for icons used for various apps and websites via keywords.
+- [PicSearch](https://www.picsearch.com/)  
+  Search for images online via keyword.
 
 ## **Reverse Image Search**
 
@@ -2114,6 +2116,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Upload an image of an animal and this tool will tell you what animal it is.
 - [DepositPhotos](https://depositphotos.com/search/by-images.html)  
   Reverse image search through their dataset, which contains over 200 million images.
+- [ILookLikeYou](https://www.ilooklikeyou.com/)  
+  Upload an image of a face and this site will provide you will similar faces.
+- [FaceSherlock](https://facesherlock.com/)  
+  Uses machine learning technology to get face descriptors and detect similar faces based on it. Also able to search for VK profiles via faces.
 
 ## **Image Generation**
 
@@ -2159,6 +2165,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Find and set scales from an image. This site also provides loads of other great tools for many different things.
 - [AddText](https://addtext.com/)  
   Basic online tool to add text to images. Great for making memes.
+- [Cleanup Pictures](https://cleanup.pictures/)  
+  A free online tool that allows you to remove people from images.
 
 ## **Image Metadata and Forensics**
 
@@ -2180,6 +2188,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A web application that detects printer machine identification codes (MICs). Also known as the infamous ["yellow dots"](http://seeingyellow.com/) or "tracking dots".
 - [Online Protractor](https://www.ginifab.com/feeds/angle_measurement/)  
   A simple tool to measure angles within an image.
+- [BetaFace API](https://www.betafaceapi.com/demo.html)  
+  A face detection and face recognition web service. It can scan uploaded images or image URLs, find faces and analyze them.
 
 <u>**Orbital Intelligence [ORBINT]**</u>
 ===========================================================================
