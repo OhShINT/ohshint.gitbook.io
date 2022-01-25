@@ -62,6 +62,8 @@
   An onion site that offers an easy to use PGP toolkit. Allows a user to create PGP keypairs, sign, verify, encrypt and decrypt.
 - [Njalla](http://njallalafimoej5i4eg7vlnqjvmb6zhdh27qxcatdn647jtwwwui3nad.onion/)  
   A privacy focused domain service that acts as a "middle man" between the domain name registration service and you, acting as a privacy shield.
+- [CafeDread](https://cafedread.com/)  
+  A read-only archive of the Dread forum. Read the latest posts and comments. Also supports reading via Atom feeds.
 
 ## **<u>Invisible Internet Project [I2P]</u>**
 
