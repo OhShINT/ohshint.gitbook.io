@@ -3,7 +3,7 @@
 ## **<u>General Image Search</u>**
 
 - [PastVu](https://pastvu.com/)  
-  View old photos from 1826 to 2000 that have been geo-located and plotted on a map.
+  View old photos from 1826 to 2000 that have been geolocated and plotted on a map.
 - [FaceSaerch](http://www.facesaerch.com/)  
   Uses Google to search for images of faces from a specific keyword.
 - [IconFinder](https://www.iconfinder.com/search)  
@@ -22,7 +22,7 @@
 - [Google Images](https://images.google.com)  
   Google reverse image search.
 - [KarmaDecay](https://karmadecay.com/)  
-  A reverse image search tool for Reddit. Currently still in beta.
+  A reverse image search tool for Reddit. Currently, still in beta.
 - [ImgOps](https://imgops.com/)  
   An online image toolkit. Allows you to preform reverse image searches on many different platforms, metadata extraction, image editing and conversions.
 - [Pl@ntNet](https://identify.plantnet.org/)  
@@ -72,7 +72,7 @@
 - [DepositPhotos](https://depositphotos.com/search/by-images.html)  
   Reverse image search through their dataset, which contains over 200 million images.
 - [ILookLikeYou](https://www.ilooklikeyou.com/)  
-  Upload an image of a face and this site will provide you will similar faces.
+  Upload an image of a face and this site will provide you with similar faces.
 - [FaceSherlock](https://facesherlock.com/)  
   Uses machine learning technology to get face descriptors and detect similar faces based on it. Also able to search for VK profiles via faces.
 
