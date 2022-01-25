@@ -4145,6 +4145,12 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   CORE currently contains 207,255,818 searchable open access articles and research papers collected from 10,286 data providers around the world, which you can search using keywords.
 - [Public Intelligence](https://publicintelligence.net/)  
   An international, collaborative research project aimed at aggregating the collective work of independent researchers around the globe who wish to defend the public’s right to access information.
+- [GIJC21 Resources](https://gijn.org/gijc21-resources/)  
+  A large list of investigative resources from the GIJN 2021 conference. There is some very useful content in here.
+- [Google Dataset Search](https://datasetsearch.research.google.com/)  
+  A search engine for all kinds of data sets provided by Google.
+- [MartinDale](https://www.martindale.com/)  
+  Search for attorneys and related articles.
 
 ## **Government Data Sets**
 
@@ -4168,6 +4174,10 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   The Information Commissioner's Office (ICO) upholds information rights in the public interest, promoting openness by public bodies and data privacy for individuals. ICO is an executive non-departmental public body, sponsored by the Department for Digital, Culture, Media and Sport.
 - [David McKie Open Data Portals](http://www.davidmckie.com/open-data-portals/)  
   This is a great collection of Canadian open data portals, both federal and provincial. This site also provides some other useful non-Canadian data sets.
+- [SpatialHub Scotland Datasets](https://data.spatialhub.scot/dataset)  
+  A collection of various datasets for Scotland.
+- [Netronline Public Records](https://publicrecords.netronline.com/)  
+  An online directory and portal to those Tax Assessors', Treasurers’ and Recorders' offices that have developed web sites for the retrieval of available public records for the U.S.
 
 ## **Leaked Data Sets**
 
