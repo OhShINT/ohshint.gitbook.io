@@ -31,6 +31,8 @@
   Helps you determine the local language by latitude and longitude.
 - [The Speech Accent Archive](https://accent.gmu.edu/searchsaa.php)  
   Helps determine where a person is from by identifying their accents.
+- [Speech-To-Text](https://speech-to-text-demo.ng.bluemix.net/)  
+  The IBM Watson Speech to Text service uses speech recognition capabilities to convert Arabic, English, Spanish, French, Brazilian Portuguese, Japanese, Korean, German, and Mandarin speech into text.
 
 ## **<u>General Dictionaries</u>**
 
