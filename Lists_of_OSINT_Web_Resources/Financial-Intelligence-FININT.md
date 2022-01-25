@@ -36,6 +36,16 @@
   Receive email notifications when a specific cryptocurrency rises or drops below a certain value.
 - [Crypto Currency Alerting](https://cryptocurrencyalerting.com/)  
   Another tool to receive alerts whenever a coin reaches a specific value.
+- [Zapper](https://zapper.fi/)  
+  Put in a wallet address and see all of the coins/tokens held, history, total estimated net worth, and any NFTs owned.
+- [DeBank](https://debank.com/)  
+  An all-in-one cryptocurrency wallet that allows users to track their full portfolio through various chains as well as can help users track DeFi applications, compare interest rates, manage assets, find DeFi projects, analyze risks, and more.
+- [Honeypot.is](https://honeypot.is/)  
+  Helps learn characteristics about tokens, among them the sell tax but also pausable or similar/cloned contracts.
+- [TokenSniffer](https://tokensniffer.com/)  
+  Provides detailed information about the contract of a token and a surface level analysis of the holders of that token.
+- [BSC Scan](https://bscscan.com/)  
+  The leading blockchain explorer for the Binance Smart Chain, built by the same team behind Etherscan. Besides tracking transactions, verifying smart contracts and other features, it is also the leading validator for BSC.
 
 ### **<u>Bitcoin [BTC] Specific</u>**
 
