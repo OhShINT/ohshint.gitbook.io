@@ -151,6 +151,8 @@
   An interactive map that provides information about different military bases and installations around the world. Uses OpenStreetMap data. Map created by [@GONZOs_int](https://twitter.com/GONZOs_int), go give him a follow!
 - [Live Border Crossing Times](https://live.sixfold.com/)  
   An interactive map that shows live border crossing times and delays for many European countries.
+- [Localingual](https://localingual.com/)  
+  An interactive map that shows what language prevails in a particular country.
 
 ## **<u>Topographic and Geologic Maps</u>**
 
