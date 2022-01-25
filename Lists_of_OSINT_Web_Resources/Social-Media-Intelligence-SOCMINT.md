@@ -37,6 +37,10 @@
   An interesting tool that helps you find emails and phone numbers. Requires a paid subscription.
 - [SocialNetworkHarvester](https://www.socialnetworkharvester.de/)  
   A great tool that allows you to gather, analyze and visualize data. Requires a paid subscription.
+- [Tagdef](https://tagdef.com/en/)  
+  The "Social Media Dictionary". Helps discover what hashtags mean, also lets you add your own definitions.
+- [Alternative Social Platform Search](https://www.osintcombine.com/alt-tech-social-search)  
+  A Google CSE from OSINT Combine that searches across alternative and "non-mainstream" social platforms and boards including Parler, Gab, Minds, BitChute, DLive.tv, Rumble, JustPaste.it, WrongThink.net & 8kun.
 
 ## <u>**Clubhouse**</u>
 
@@ -88,6 +92,8 @@
   A leaked internal document from Facebook that contains their list of dangerous individuals and groups. Worth saving. Archived copies available [here (Wayback)](https://web.archive.org/web/20211013174325/https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/) and [here (archive.today)](https://archive.ph/LQLhK). Original .pdf available [[PDF]here](https://s3.documentcloud.org/documents/21083819/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf). Archived copy available [here (Wayback)](https://web.archive.org/web/20211014081041/https://s3.documentcloud.org/documents/21083819/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf).
 - [Facebook Law Enforcement Guide](https://www.facebook.com/safety/groups/law/guidelines/)  
   Guidelines and resources for law enforcement officials seeking records from Facebook and/or Instagram.
+- [StalkFace](https://stalkface.com/en/)  
+  This tool allows you to analyze Facebook accounts via URL. This tool is not very affective and doesn't always work, but its still worth mentioning.
 
 ## <u>**Flickr**</u>
 
@@ -236,6 +242,8 @@
   A simple tool for monitoring subreddits.
 - [DeaditArchive](https://deaditarchive.netlify.app/)  
   A small archive of various banned subreddits.
+- [Subreddit User Overlaps](https://subredditstats.com/subreddit-user-overlaps)  
+  Type a subreddit name to list its overlaps with other subreddits.
 
 ## <u>**SnapChat**</u>
 
@@ -252,8 +260,10 @@
 
 ## <u>**Skype**</u>
 
-- [Skype Search Engine](https://www.skypli.com/)  
-  Search for Skype users by username, real name or location. Provides profile picture, name, Skype username, country, city, date of birth and live ID.
+- [Epieos Skype Lookup](https://tools.epieos.com/skype.php)  
+  Find Skype users via email address, phone number or username.
+- [Skypli](https://www.skypli.com/)  
+  Appears to be broken. Gives 500 errors upon searching as of 15/11/2021. Keeping this link here in case it starts working again.
 - [Email2Skype](https://www.vedbex.com/tools/email2skype)  
   A simple tool that retrieves a Skype account details such as profile picture, username, real name and location from an email address. Looks like a typical skid site, but it actually does work. This site also offers a bunch of other useful tools as well.
 - [Skype Avatar](https://avatar.skype.com/v1/avatars/username/public)  
