@@ -27,6 +27,8 @@
   Provides indicators on export performance, international demand, alternative markets and competitive markets, as well as a directory of importing and exporting companies in the form of tables, graphs and maps.
 - [TendersInfo](https://www.tendersinfo.com/)  
   Search tenders around the world via keywords. Requires registration. If you do not want to register to see the full data, then just copy the names of found tenders and search it on Google.
+- [RansomWiki](https://ransom.wiki/)  
+  Check if a company or any of its partner have appeared in any ransomware attacks.
 
 ## **<u>Patents and Trademarks</u>**
 
@@ -49,6 +51,8 @@
   Similar directory of worldwide company registries, they also offer many other great company research tools. Click [here](https://www-sg-ch.translate.goog/recht/handelsregister-notariate.html?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui) for a German to English translation.
 - [OpenOwnership](https://register.openownership.org/)  
   A company search tool that provides a wealth of data. Search by company name, beneficial owner. They also offer their data sets for download.
+- [Baumgartner Research](https://en.baumgartner-research.com/unternehmensregister)  
+  A large and organized list of business registries and chamber of commerce for most countries around the world.
 
 ### **<u>Country and Region Specific Registries</u>**
 
