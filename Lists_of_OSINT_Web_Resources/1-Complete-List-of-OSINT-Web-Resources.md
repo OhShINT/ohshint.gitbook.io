@@ -3333,6 +3333,10 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   An Iranian people search engine.
 - [BehindTheName](https://www.behindthename.com/)  
   Find different pronunciations of a name and their diminutives.
+- [How Many of Me](http://howmanyofme.com/search/)  
+  Search a first and last name and see how many people in the U.S. share the same name.
+- [Business Card Search](https://cse.google.com/cse?cx=bee58a1c31f451e4a)  
+  This Google CSE allows you to search through digital business card sites. Created by [@dutch_osintguy](https://twitter.com/dutch_osintguy).
   
 ## **Vital Records**
 - [Vital Record Search Tools](https://stevemorse.org/index.html)  
