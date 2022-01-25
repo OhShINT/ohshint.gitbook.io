@@ -2048,7 +2048,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 ## **General Image Search**
 
 - [PastVu](https://pastvu.com/)  
-  View old photos from 1826 to 2000 that have been geo-located and plotted on a map.
+  View old photos from 1826 to 2000 that have been geolocated and plotted on a map.
 - [FaceSaerch](http://www.facesaerch.com/)  
   Uses Google to search for images of faces from a specific keyword.
 - [IconFinder](https://www.iconfinder.com/search)  
@@ -2067,7 +2067,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [Google Images](https://images.google.com)  
   Google reverse image search.
 - [KarmaDecay](https://karmadecay.com/)  
-  A reverse image search tool for Reddit. Currently still in beta.
+  A reverse image search tool for Reddit. Currently, still in beta.
 - [ImgOps](https://imgops.com/)  
   An online image toolkit. Allows you to preform reverse image searches on many different platforms, metadata extraction, image editing and conversions.
 - [Pl@ntNet](https://identify.plantnet.org/)  
@@ -2075,7 +2075,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [Reverse Image Search](https://www.reverse-image-search.org/)  
   Simply upload an image and find matching images and similar images using Google, Bing and Yandex.
 - [Image-Search](https://www.image-search.org/)  
-  Allows you to find the most relevant pictures online. With this reverse  image search tool, you can search pictures by uploading directly or by  using a keyword or however you want.
+  Allows you to find the most relevant pictures online. With this reverse image search tool, you can search pictures by uploading directly or by  using a keyword or however you want.
 - [Berify](https://berify.com/)  
   Reverse image search to help you find stolen images and videos. Search over 800 million images along with image data from all of the major image search engines. Requires an account and a paid subscription to view full results.
 - [Pixsy](https://www.pixsy.com/)  
@@ -2117,7 +2117,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [DepositPhotos](https://depositphotos.com/search/by-images.html)  
   Reverse image search through their dataset, which contains over 200 million images.
 - [ILookLikeYou](https://www.ilooklikeyou.com/)  
-  Upload an image of a face and this site will provide you will similar faces.
+  Upload an image of a face and this site will provide you with similar faces.
 - [FaceSherlock](https://facesherlock.com/)  
   Uses machine learning technology to get face descriptors and detect similar faces based on it. Also able to search for VK profiles via faces.
 
