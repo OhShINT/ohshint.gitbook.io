@@ -31,3 +31,7 @@
   Search the Python Package Index (PyPI) for a username. Simply add the target username to the URL. Example: `https://pypi.org/user/<ENTER-USERNAME-HERE>`.
 - [Usersearch.io](https://www.usersearch.io/)  
   A great tool for finding information on a target. Search via email, username, real name, address, etc, and receive a wealth of results. Requires a paid subscription.
+- [Namevine](https://namevine.com/)  
+  Instantly find domain names and social media profiles with a given username.
+- [NameCheck](https://namecheck.bloggingehow.com/)  
+  Search via username on over 50 different social media and blogging sites.
