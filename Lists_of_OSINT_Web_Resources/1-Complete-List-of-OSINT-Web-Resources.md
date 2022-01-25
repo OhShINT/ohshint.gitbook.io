@@ -4786,6 +4786,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 
 - [Google Translate](https://translate.google.com)  
   Translate text, documents and websites from any language into any other language.
+- [Google Document Translation](https://translate.google.com/?op=docs)  
+  Allows you to translate document files with ease. Works with .doc, .docx, .odf, .pdf, .ppt, .pptx, .ps, .rtf, .txt, .xls, and .xlsx file types.
 - [DeepL Translator](https://www.deepl.com/en/translator)  
   Translate text and full document files instantly using AI.
 - [Yandex Translate](https://translate.yandex.com/)  
@@ -4804,6 +4806,12 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   A handy Cyrillic transliteration tool. This will come in handy when working with Russian, Belarusian, Ukrainian, Armenian names.
 - [Lingva](https://lingva.ml/)  
   Alternative front-end for Google Translate, serving as a Free and Open Source translator with over a hundred languages available.
+- [LexiLogos](https://www.lexilogos.com/keyboard/index.htm)  
+  Use this multilingual virtual keyboard if you need to type in a foreign language.
+- [WALS Languoid](https://wals.info/languoid)  
+  Helps you determine the local language by latitude and longitude.
+- [The Speech Accent Archive](https://accent.gmu.edu/searchsaa.php)  
+  Helps determine where a person is from by identifying their accents.
 
 ## **General Dictionaries**
 
@@ -4815,6 +4823,14 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   An encyclopedia of emojis.
 - [Smart-Words](https://www.smart-words.org/abbreviations/text.html)  
   A dictionary of abbreviations and acronyms commonly used in SMS and chat rooms. Mostly for the boomers.
+- [TranslatedLabs](https://translatedlabs.com/language-identifier)  
+  This language identifier calculates the similarity of a text with previously inserted reference texts and identifies the language.
+- [WhatLanguageIsThis](https://whatlanguageisthis.com/)  
+  Just copy and paste a text snippet that you want identified into the text box above and click "Go".
+- [Texas Glossary](http://frontiertexas.com/texas-glossary)  
+  A glossary of slang terms commonly used in Texas, USA.
+- [[IMAGE] Hobo Code Symbols](https://imgur.com/a/pniot6m)  
+  A few images that help translate and visualize ["Hobo Code"](https://nowiknow.com/the-hobo-code/). Archived copies available [here (Wayback)](https://web.archive.org/web/20220123072126/https://imgur.com/a/pniot6m) and [here (archive.today)](https://archive.ph/bUPVm). There also are QR code versions of these symbols, which are available [here](http://fffff.at/qr-stenciler-and-qr-hobo-codes/). This page has been archived [here (Wayback)](https://web.archive.org/web/20220123073445/http://fffff.at/qr-stenciler-and-qr-hobo-codes/) and [here (archive.today)](https://archive.ph/qM3Gk).
 
 ## **General Cracking and Decoding**
 
