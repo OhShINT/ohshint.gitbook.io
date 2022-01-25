@@ -4568,7 +4568,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   A list of current entry and exit passport stamps issued by each major airport in each country.
 - [VISA Index](https://visaindex.com/)  
   A portal for all information related to passport rankings and visa-free travel opportunities.
-- [Machine Readable Passport](https://en.wikipedia.org/wiki/Machine-readable_passport)  
+- [Wikipedia - Machine Readable Passports](https://en.wikipedia.org/wiki/Machine-readable_passport) ([WikiLess](https://wikiless.org/wiki/Machine-readable_passport))  
   A Wikipedia page with information regarding machine-readable travel documents (MRTDs).
 - [NIDC ID Database](https://nidc.dk/en/ID-databases)  
   Here you will find descriptions of and links to applicable ID databases, which include copies of ID, travel and breeder documents. Some databases are reserved for law enforcement, while others are publicly accessible.
@@ -4620,6 +4620,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 
 - [BC Security License Verification](https://justice.gov.bc.ca/security/utilities/)  
   A simple tool where you can confirm the validity of a security workers license and security business licenses for the province of British Columbia.
+- [BC Dentist License Lookup](https://www.cdsbc.org/home/registrant-lookup#/lookup/dentists)  
+  This registrant lookup includes all current registrants of the College of Dental Surgeons of BC, Canada.
 
 #### **Czech Republic**
 
