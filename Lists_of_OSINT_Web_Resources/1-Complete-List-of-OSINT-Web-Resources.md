@@ -1291,7 +1291,7 @@ A Google CSE that searches for scientific publications.
 - [GhostCodes](https://www.ghostcodes.com/)  
   Snapchat discovery platform that enables you to find new people to follow on Snapchat, and allows "influencers" to grow their following.
 - [[PDF] Snap Inc. Law Enforcement Guide](https://storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf)  
-  A very useful guide for law enforcement when dealing with SnapChat during an investigation. Archived copies can be found [here (Wayback)](https://web.archive.org/web/20210724093427/https://storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf) and [here (archive.today)](https://archive.ph/Pcf0U).
+  A very useful guide for law enforcement when dealing with SnapChat during an investigation. Archived copies can be found [here (Wayback)](https://web.archive.org/web/20210724093427/https://storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf) and [here (Library Genesis)](http://libgen.rs/book/index.php?md5=27E6DE921660B3D2C1AF533199A08137).
 
 ## **Skype**
 
