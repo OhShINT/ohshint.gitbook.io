@@ -3055,6 +3055,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Calculate the field of view, layout and design of a CCTV camera network.
 - [CamVista](http://www.camvista.com/)  
   A directory of open IP cameras. Appears to be outdated, but still worth mentioning.
+- [Deckchair](https://www.deckchair.com/)  
+  A directory of live camera feeds organized by location.
+- [Surveillance Under Surveillance](https://sunders.uber.space/)  
+  Shows you cameras and guards almost everywhere. You can see where they are located and, if the information is available, what type they are, the area they observe, or other interesting facts.
 
 ## **Attack Maps**
 
@@ -3125,6 +3129,23 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A collection of infographics that display the various known and currently active cyber operation groups per country. Archived [here (Wayback)](https://web.archive.org/web/20211109034140/https://imgur.com/a/VePzyqX) and [here (archive.today)](https://archive.ph/dDkTw).
 - [SOCRadar Daily APT Feed](https://labs.socradar.com/apt-feeds/)  
   Collects APT IOC feeds from several public and private sources and sensors. These feeds are free and refreshed daily. Requires you to provide an email address.
+  
+## **Malware and Malware Analysis**
+
+- [vx-underground](https://www.vx-underground.org/)  
+  The best source for malware samples available on the internet. They also have large archives of various whitepapers, zines and other interesting things.
+- [Malware Traffic Analysis](https://malware-traffic-analysis.net/)  
+  A source if pcap files and malware samples. Since the summer of 2013, this site has published over 2,000 blog entries about malicious network traffic. Almost every post on this site includes pcap files and/or malware samples.
+- [DarkFeed](https://darkfeed.io/)  
+  A live feed of malicious indicators of compromise (IOCs). Including domains, URLs, hashes, and IP addresses.
+- [Malpedia](https://malpedia.caad.fkie.fraunhofer.de/)  
+  The primary goal of Malpedia is to provide a resource for rapid identification and actionable context when investigating malware.
+- [Abuse.ch](https://abuse.ch/)  
+  A research project at the Bern University of Applied Sciences (BFH). Home of some great projects such as MalwareBazzar, botnet C&C trackers, SSL blacklists and more.
+- [URLHaus](https://urlhaus.abuse.ch/)  
+  A project from abuse.ch with the goal of sharing malicious URLs that are being used for malware distribution.
+- [FireHOL IP Lists](https://iplists.firehol.org/)  
+  This site analyses all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities.
 
 ## **Personal Connection Profiling**
 
@@ -3172,12 +3193,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A free database that lists ISPs for wireless, broadband, DSL, ADSL, cable, etc. Organized by country.
 - [ISP Today](https://isp.today/)  
   A worldwide database of internet service providers.
-- [Wikipedia - Lists of Internet Service Providers by Country](https://en.wikipedia.org/wiki/Category:Internet_service_providers_by_country) ([Wikiless](https://wikiless.org/wiki/Category:Internet_service_providers_by_country))  
+- [Wikipedia - Lists of Internet Service Providers by Country](https://en.wikipedia.org/wiki/Category:Internet_service_providers_by_country) ([WikiLess](https://wikiless.org/wiki/Category:Internet_service_providers_by_country))  
   Lists of ISPs organized by country.
-- [Abuse.ch](https://abuse.ch/)  
-  A research project at the Bern University of Applied Sciences (BFH). Home of some great projects such as MalwareBazzar, botnet C&C trackers, SSL blacklists and more.
-- [URLHaus](https://urlhaus.abuse.ch/)  
-  A project from abuse.ch with the goal of sharing malicious URLs that are being used for malware distribution.
 
 <u>**Signals Intelligence [SIGINT]**</u>
 ===========================================================================
