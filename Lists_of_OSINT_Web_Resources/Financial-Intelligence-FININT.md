@@ -24,8 +24,6 @@
   Contains information about Bitcoin (BTC), Bitcoin Cash (BCH) and Ethereum (ETH) including historical prices, most recently mined blocks, the mempool size of unconfirmed transactions, and data for the latest transactions.
 - [Blockchair](https://blockchair.com/)  
   Universal blockchain explorer and search engine BTC, ETH, XRP, XLM, BCH, LTC, DASH, BSV, DOGE, GRS and much more that allow you to find, sort and filter transactions and addresses.
-- [CryptoHound](https://www.c-hound.ai/)  
-  A tool for blockchain analysis and BTC or ETH address lookup. Track address activity, transaction history, address relations, and other metrics.
 - [BlockCypher](https://blockcypher.herokuapp.com/)  
   Blockchain explorer for Bitcoin, Ethereum, Litecoin, DogeCoin and Dash. Provides information about address, transactions, block hashes, block numbers and/or wallet names.
 - [Breadcrumbs](https://breadcrumbs.app/)  
