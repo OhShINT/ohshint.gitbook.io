@@ -417,8 +417,6 @@
 
 ## <u>**VKontakte**</u>
 
-- [Search4Faces](https://search4faces.com/)  
-  Search by image for VK, Odnoklassniki, TikTok and Clubhouse profiles.
 - [Photo-Map](http://photo-map.ru/)  
   Search for geo-tagged posts from vk.com.
 - [VK City4Me](http://vk.city4me.com/)  
