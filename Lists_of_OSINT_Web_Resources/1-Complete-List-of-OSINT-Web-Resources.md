@@ -4890,7 +4890,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   A privacy focused alternative to Wikipedia. Basically Wikipedia without all of the invasive tracking.
 - [VidGrid](https://vidgrid.tk.gg/)  
   Allows you to stream multiple live news feeds, YouTube channels and music stations at once on a single page. 
-- [VideoIndexer](https://www.videoindexer.ai/account/login) 
+- [VideoIndexer](https://www.videoindexer.ai/account/login)  
   Analyze and search videos for recognized faces, text and items. Requires registration, for best results, a paid subscription is required.
 - [Barcode Reader](https://online-barcode-reader.inliteresearch.com/default.aspx)  
   A free online tool that allows you to scan barcodes and QR codes.
