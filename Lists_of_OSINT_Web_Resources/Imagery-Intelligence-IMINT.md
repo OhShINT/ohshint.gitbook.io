@@ -21,6 +21,8 @@
   A reverse image search engine. It was the first image search engine on the web to use image identification technology rather than keywords, metadata or watermarks.
 - [Google Images](https://images.google.com)  
   Google reverse image search.
+- [Search4Faces](https://search4faces.com/)  
+  Search by image for VK, Odnoklassniki, TikTok, Clubhouse and Instagtam profiles.
 - [KarmaDecay](https://karmadecay.com/)  
   A reverse image search tool for Reddit. Currently, still in beta.
 - [ImgOps](https://imgops.com/)  
