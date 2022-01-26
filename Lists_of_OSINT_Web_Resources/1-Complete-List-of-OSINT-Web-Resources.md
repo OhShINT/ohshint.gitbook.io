@@ -169,6 +169,7 @@ Remember, CTRL+F is your friend here.
   * [**Public Buckets**](#public-buckets)
   * [**Exploits and Proof of Concept [PoC]**](#exploits-and-proof-of-concept-poc)
   * [**Advanced Persistent Threats [APTs]**](#advanced-persistent-threats-apts)
+  * [**Malware and Malware Analysis**](#malware-and-malware-analysis)
   * [**Personal Connection Profiling**](#personal-connection-profiling)
   * [**Browser Extension Resources**](browser-extension-resources)
   * [**Other Tools**](#other-tools)
