@@ -536,3 +536,115 @@ Here's a few useful sites.
 -  Your local library. 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+  
+  
+## **OSINT Protip 25**
+
+> Posted on *9/1/2022* at *6:46 PM*.  
+> URL: [https://twitter.com/ohshint_/status/1480370399229583362](https://twitter.com/ohshint_/status/1480370399229583362)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 25: 
+
+Business and corporation registries can reveal a wealth of info about a company. Most countries offer searchable databases. 
+
+- [https://en.baumgartner-research.com/unternehmensregister](https://en.baumgartner-research.com/unternehmensregister)
+- [https://register.openownership.org/](https://register.openownership.org/)
+- [https://opencorporates.com/](https://opencorporates.com/)
+- [https://ebra.be/worldwide-registers/](https://ebra.be/worldwide-registers/)
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#TRADINT](https://twitter.com/hashtag/TRADINT?src=hashtag_click) [#CORPINT](https://twitter.com/hashtag/CORPINT?src=hashtag_click)
+  
+  
+## **OSINT Protip 26**
+
+> Posted on *14/1/2022* at *6:21 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1482176073588559877](https://twitter.com/ohshint_/status/1482176073588559877)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 26: 
+
+This is a great technique for both reverse image searching and GEOINT things. Also, do yourself a favor and follow [@LorandBodo](https://twitter.com/LorandBodo). You will learn a lot from him! 
+
+"This is brilliant & extremely useful for [#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click). 
+
+Ever wanted to remove an object, person or any defects from a picture to have better reverse image results? 
+
+Then TRY this one: [https://cleanup.pictures](https://cleanup.pictures/) it's free!"
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#IMINT](https://twitter.com/hashtag/IMINT?src=hashtag_click) [#GEOINT](https://twitter.com/hashtag/GEOINT?src=hashtag_click)
+  
+  
+  
+## **OSINT Protip 27**
+
+> Posted on *14/1/2022* at *7:19 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1482190623759212544](https://twitter.com/ohshint_/status/1482190623759212544)
+
+[1/3]
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 27: 
+
+When working with onion sites, they may have been archived using clearnet proxies.  
+
+Adding .pet to an onion URL and searching it on [http://archive.today](https://archive.today) and/or Wayback sometimes can provide archived copies. 
+
+Example: - [https://archive.fo/GEzQ0](https://archive.fo/GEzQ0)
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+[2/3]
+
+Here are some other Tor2Web gateways to check the archives for.  
+Some of these gateways still work, and some do not.  
+Just add to the end of any onion URL: 
+
+- .sh 
+- .ly 
+- .ws 
+- .to 
+- .cab 
+- .city 
+- .direct 
+- .top 
+- .rip 
+- .plus 
+- .link 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click)
+
+[3/3]
+
+Or replace the .onion part of the URL with these: 
+
+- tor2web.org
+- tor2web.fi
+- tor2web.blutmagie.de
+- s1.tor-gateways.de
+- s2.tor-gateways.de
+- s3.tor-gateways.de
+- s4.tor-gateways.de
+- s5.tor-gateways.de
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Onion-Clearnet-Proxy-Archives.jpg"/>
+  
+  
+## **OSINT Protip 28**
+
+> Posted on *22/1/2022* at *10:26 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1485136905523982336](https://twitter.com/ohshint_/status/1485136905523982336)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 28: 
+
+Drone footage can give you better angles and viewpoints during [#GEOINT](https://twitter.com/hashtag/GEOINT?src=hashtag_click) investigations.
+
+ Here's some great resources. 
+
+- [https://travelwithdrone.com](https://travelwithdrone.com/) 
+- [https://mixkit.co/free-drone-footage/](https://mixkit.co/free-drone-footage/) 
+- [https://dronestagr.am](https://www.dronestagr.am/) 
+- [https://dronezon.com/category/best-drone-videos/](https://www.dronezon.com/category/best-drone-videos/) 
+- [https://airvuz.com](airvuz.com) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
