@@ -40,7 +40,7 @@
 - [H-Indexer](http://jncyepk6zbnosf4p.onion/onions.html)  
   Another onion site that offers a list of fresh onions. Beware, results are often uncensored, so you may encounter illegal material.
 - [DarkSearch](https://darksearch.io/)  
-  A search engine for TOR onion sites. Claims to index thousands of onions. Offers the ability to use [advanced search operators](https://darksearch.io/dorks), and they also provide a free API. Appears to be a bit outdated though.
+  ~~A search engine for TOR onion sites. Claims to index thousands of onions. Offers the ability to use [advanced search operators](https://darksearch.io/dorks), and they also provide a free API. Appears to be a bit outdated though.~~ Has removed all public access.
 - [Kilos](http://mlyusr6htlxsyc7t2f4z53wdxh3win7q3qpxcrbam6jf3dmua7tnzuyd.onion/)  
   Specific market & vendor sale of goods engine. Currently indexing over 876,601 forum posts, 106,558 listings, 6,313 vendors, and 1,443,739 reviews from 12 markets and 5 forums.
 - [IACA Darkweb Tools](https://iaca-darkweb-tools.com/)  
