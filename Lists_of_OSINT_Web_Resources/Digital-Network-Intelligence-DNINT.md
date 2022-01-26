@@ -374,5 +374,5 @@ Allows you to view a website in a different browser online. For example, a Mac u
   A free database that lists ISPs for wireless, broadband, DSL, ADSL, cable, etc. Organized by country.
 - [ISP Today](https://isp.today/)  
   A worldwide database of internet service providers.
-- [Wikipedia - Lists of Internet Service Providers by Country](https://en.wikipedia.org/wiki/Category:Internet_service_providers_by_country) ([Wikiless](https://wikiless.org/wiki/Category:Internet_service_providers_by_country))  
+- [Wikipedia - Lists of Internet Service Providers by Country](https://en.wikipedia.org/wiki/Category:Internet_service_providers_by_country) ([WikiLess](https://wikiless.org/wiki/Category:Internet_service_providers_by_country))  
   Lists of ISPs organized by country.
