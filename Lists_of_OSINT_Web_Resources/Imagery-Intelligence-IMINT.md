@@ -75,6 +75,10 @@
   Upload an image of a face and this site will provide you with similar faces.
 - [FaceSherlock](https://facesherlock.com/)  
   Uses machine learning technology to get face descriptors and detect similar faces based on it. Also able to search for VK profiles via faces.
+- [Numiis Coin Identifier](https://www.numiis.com/coin-checker/)  
+  Upload an image of a coin and this tool will help you identify it.
+- [Coins Catalog Identifier](https://coinscatalog.net/identify)  
+  Upload an image of the front and back of any coin and this tool will identify the coin, country of origin, mint year, denomination, metal composite and other details.
 
 ## **<u>Image Generation</u>**
 
