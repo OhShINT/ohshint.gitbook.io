@@ -23,7 +23,9 @@ Like this blog? Consider giving me money so I can buy stuff :)
 | Currency                | Public Address                                               |
 | ----------------------- | ------------------------------------------------------------ |
 | **Bitcoin** (**BTC**)   | `1LCitbB37f9CdDnAiZgQ6u7g7RGTVnfQ5V`                         |
+| **Litecoin (LTC)**      | `LdzT7EER8UmxTs8JaHBZDM6LkwiSVzN8Ek`                         |
 | **Dogecoin** (**DOGE**) | `DTHkHrYBQj9w6VWVxkzQcimkEbBhEcuBo6`                         |
+| **Ethereum (ETH)**      | `0xecec5c773836468fb31b0338aeaf46fd340e0b61`                 |
 | **Monero** (**XMR**)    | `44uVmqECQzx4dX1nMPJ3kJ3ep9sxgXiBrCSJZ3aAmsy9KYpjXoeq7ivPyQxW1BNnx9MiwuH3nZNPPBU76mndoNwaQSUMbFf` |
 
 PGP Fingerprint:   `3681 8C7A 5364 6047 4D68 EE9D 5191 FA71 A552 392F`
