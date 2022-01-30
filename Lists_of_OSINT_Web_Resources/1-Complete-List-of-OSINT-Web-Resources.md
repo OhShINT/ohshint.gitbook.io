@@ -4193,6 +4193,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A search engine for all kinds of data sets provided by Google.
 - [MartinDale](https://www.martindale.com/)  
   Search for attorneys and related articles.
+- [HuggingFace](https://huggingface.co/)  
+  Offers models based on transformers for PyTorch and TensorFlow 2.0. There are thousands of pre-trained models to perform tasks such as text classification, extraction, question answering, and more.
 
 ## **Government Data Sets**
 
@@ -4204,6 +4206,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Search through 221,373 documents reviewed and released to the public. 
 - [US National Archives](https://www.archives.gov/)  
   An independent agency of the United States government charged with the preservation and documentation of government and historical records. It is also tasked with increasing public access to those documents which make up the National Archive.
+- [U.S. Library of Congress](https://www.loc.gov/)  
+  The Library of Congress is the research library that officially serves the United States Congress and is the national library of the United States. It is the oldest federal cultural institution in the U.S.
 - [UK National Archives](https://nationalarchives.gov.uk/)  
   One of the worlds largest archives, containing over 11 million historical government and public records. From Domesday Book to modern government files. Includes paper records, digital records, websites, photographs, posters, maps, drawings and paintings.
 - [Canada Declassified](https://declassified.library.utoronto.ca/)  
@@ -4219,7 +4223,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [SpatialHub Scotland Datasets](https://data.spatialhub.scot/dataset)  
   A collection of various datasets for Scotland.
 - [Netronline Public Records](https://publicrecords.netronline.com/)  
-  An online directory and portal to those Tax Assessors', Treasurers’ and Recorders' offices that have developed web sites for the retrieval of available public records for the U.S.
+  An online directory and portal to those Tax Assessors', Treasurers’ and Recorders' offices that have developed websites for the retrieval of available public records for the U.S.
 
 ## **Leaked Data Sets**
 
