@@ -48,7 +48,7 @@
   Search through 221,373 documents reviewed and released to the public. 
 - [US National Archives](https://www.archives.gov/)  
   An independent agency of the United States government charged with the preservation and documentation of government and historical records. It is also tasked with increasing public access to those documents which make up the National Archive.
-- [U.S. Library of Congress](https://www.loc.gov/)  
+- [US Library of Congress](https://www.loc.gov/)  
   The Library of Congress is the research library that officially serves the United States Congress and is the national library of the United States. It is the oldest federal cultural institution in the U.S.
 - [UK National Archives](https://nationalarchives.gov.uk/)  
   One of the worlds largest archives, containing over 11 million historical government and public records. From Domesday Book to modern government files. Includes paper records, digital records, websites, photographs, posters, maps, drawings and paintings.
