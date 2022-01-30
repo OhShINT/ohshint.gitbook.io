@@ -62,7 +62,7 @@
 - [DMNS](https://dmns.app/)  
   Domains App makes it easy to see domains availability across extensions and notifies you about any WHOIS or DNS changes.
 - [DomainCodex](https://www.domaincodex.com/index.php)  
-  Research domain information and all associated data, including records, IP address, page metadata, location and much more. Has over 315 million indexed domains.
+  Research domain information and all associated data, including records, IP addresses, page metadata, location and much more. Has over 315 million indexed domains.
 
 ## **Website Analysis**
 
