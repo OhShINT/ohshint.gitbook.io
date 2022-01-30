@@ -246,6 +246,12 @@
   Type a subreddit name to list its overlaps with other subreddits.
 - [Teddit](https://teddit.net/)  
   An alternative, privacy respecting, Reddit front-end.
+- [libreddit](https://libredd.it/)  
+  Another alternative front-end for Reddit.
+- [SocialGrep](https://socialgrep.com/)  
+  Allows you to track and set alerts of posts of your preference. They also have historical data going back to 2010.
+- [Reddit Scraper](https://apify.com/trudax/reddit-scraper)  
+  Crawl posts, comments, subreddits and users without having to login.
 
 ## <u>**SnapChat**</u>
 
@@ -325,6 +331,8 @@
   Allows you to download TikTok videos without watermarks via username.
 - [ssstik](https://ssstik.io/en)  
   A simple online tool that allows you to download TikTok videos without the watermark via a URL.
+- [TikRank](https://tikrank.com/)  
+  A powerful TikTok saver that supports bulk saving of TikTok videos without watermark and viewing TikTok rankings.
 
 ## <u>**Tinder**</u>
 
