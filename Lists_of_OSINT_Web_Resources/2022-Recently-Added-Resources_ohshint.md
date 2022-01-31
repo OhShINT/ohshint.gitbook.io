@@ -29,6 +29,9 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Reddit**
 
+- [Reddit Scraper](https://apify.com/trudax/reddit-scraper) - *Added 30/1/2022.*
+- [SocialGrep](https://socialgrep.com/) - *Added 30/1/2022.*
+- [libreddit](https://libredd.it/) - *Added 30/1/2022.*
 - [Subreddit User Overlaps](https://subredditstats.com/subreddit-user-overlaps) - *Added 25/1/2022.*
 - [Teddit](https://teddit.net/) - *Added 25/1/2022.*
 
@@ -36,6 +39,10 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [Epieos Skype Lookup](https://tools.epieos.com/skype.php) - *Added 25/1/2022.*
 - [Skype Avatar](https://avatar.skype.com/v1/avatars/username/public) - *Added 25/1/2022.*
+
+### **TikTok**
+
+- [TikRank](https://tikrank.com/) - *Added 30/1/2022.*
 
 ## <u>**Mapping and Geo-Spatial Intelligence [GEOINT]**</u>
 
@@ -153,6 +160,10 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Digital Network Intelligence [DNINT]**</u>
 
+### **Domain Name Systems [DNS] Records**
+
+- [DomainCodex](https://www.domaincodex.com/index.php) - *Added 30/1/2022.*
+
 ### **Website Analysis**
 
 #### **Enumeration**
@@ -224,12 +235,14 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Data Sets**
 
+- [HuggingFace](https://huggingface.co/) - *Added 30/1/2022.*
 - [Google Dataset Search](https://datasetsearch.research.google.com/) - *Added 25/1/2022.*
 - [GIJC21 Resources](https://gijn.org/gijc21-resources/) - *Added 25/1/2022.*
 - [MartinDale](https://www.martindale.com/) - *Added 25/1/2022.*
 
 ### **Government Data Sets**
 
+- [US Library of Congress](https://www.loc.gov/) - *Added 30/1/2022.*
 - [Netronline Public Records](https://publicrecords.netronline.com/) - *Added 25/1/2022.*
 - [SpatialHub Scotland Datasets](https://data.spatialhub.scot/dataset) - *Added 25/1/2022.*
 
@@ -277,4 +290,5 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## **<u>Miscellaneous</u>**
 
+- [US High Schools](https://high-schools.com/) - *Added 30/1/2022.*
 - [VideoIndexer](https://www.videoindexer.ai/account/login) - *Added 2/1/2022.*
