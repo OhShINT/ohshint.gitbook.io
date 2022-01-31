@@ -4916,5 +4916,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   A catalogue of mobile phones.
 - [KnowYourMeme](https://knowyourmeme.com/)  
   A website dedicated to documenting Internet phenomena: Memes, viral videos, image macros, catchphrases, internet slang, web celebs and more.
+- [US High Schools](https://high-schools.com/)  
+  Find student demographics, student/teacher ratios, enrollment and other statistics on over 300,000 public and private high schools and 9,000 school districts in the United States.
 
 ![](Contact/Images/donvito.png)
