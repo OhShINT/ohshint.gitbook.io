@@ -648,3 +648,42 @@ Drone footage can give you better angles and viewpoints during [#GEOINT](https:/
 - [https://airvuz.com](airvuz.com) 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+  
+
+## OSINT Protip 29
+
+> Posted on *31/1/2022* at *1:11 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1488258578439831555](https://twitter.com/ohshint_/status/1488258578439831555)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 29:
+
+[1/3]
+
+Research papers can be an excellent source of information. Here are some great archives.
+
+- [https://libgen.li/](https://libgen.li/)
+- [https://sci-hub.se/](https://sci-hub.se/)
+- [https://scholar.google.com/](https://scholar.google.com/)
+- [https://arxiv.org/](https://arxiv.org/)
+- [https://www.researchgate.net/](https://www.researchgate.net/)
+- [https://www.crossref.org/](https://www.crossref.org/)
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+[2/3]
+
+Here are a few more sites worth checking out as well.
+
+- [https://hal.archives-ouvertes.fr/](https://hal.archives-ouvertes.fr/)
+- [https://academictorrents.com/](https://academictorrents.com/)
+- [https://www.sciencedirect.com/](https://www.sciencedirect.com/)
+- [https://link.springer.com/](https://link.springer.com/)
+- [https://www.worldcat.org/](https://www.worldcat.org/)
+- [https://univ.scholarvox.com/](https://univ.scholarvox.com/)
+- [https://www.theses.fr/](https://www.theses.fr/)
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+[3/3]
+
+And of course, [https://archive.org](https://archive.org/)
