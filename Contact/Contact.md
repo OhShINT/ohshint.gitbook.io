@@ -4,7 +4,7 @@
 
 ![donvito](<donvito.png>)
 
-​												If you know, you know. You know?
+> ​												_If you know, you know. You know?_
 
 If you would like to contact me to suggest new content, report any issues and/or mistakes, or just to troll me or send me phishing links and malware. 
 
