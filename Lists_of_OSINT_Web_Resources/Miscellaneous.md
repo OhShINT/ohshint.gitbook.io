@@ -31,3 +31,5 @@
   A website dedicated to documenting Internet phenomena: Memes, viral videos, image macros, catchphrases, internet slang, web celebs and more.
 - [US High Schools](https://high-schools.com/)  
   Find student demographics, student/teacher ratios, enrollment and other statistics on over 300,000 public and private high schools and 9,000 school districts in the United States.
+- [List of Canadian High Schools](https://studentscholarships.org/maps/highschool/high_school.php)  
+  A large list of all high schools in Canada, organized by province.
