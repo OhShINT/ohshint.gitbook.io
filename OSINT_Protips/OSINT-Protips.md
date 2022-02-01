@@ -13,18 +13,19 @@ For those who don't use and/or don't care about Twitter, you can view all of the
 
 [#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip:  
 
-You can easily download any Google document for offline use by simply editing its URL.  Example (Using [@bellingcat](https://twitter.com/bellingcat)'s Online Investigation Toolkit):  
+You can easily download any Google document for offline use by simply editing its URL.  
+Example (Using [@bellingcat](https://twitter.com/bellingcat)'s Online Investigation Toolkit):  
 [https://docs.google.com/spreadsheets/d/18rtqh8EG2q1xBo2cLNyhIDuK9jrPGwYr9DI2UncoqJQ/export?format=xlsx](https://t.co/TUGT965czi?amp=1) 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) 
 
-Just add "/export?format=<file type>" to the documents URL!  
+Just add `/export?format=<file type>` to the documents URL!  
 
-"/spreadsheets/d/<document ID>/export?format=<file type>"  
+`/spreadsheets/d/<document ID>/export?format=<file type>`  
 and/or  
-"/document/d/<document ID>/export?format=<file type>"  
+`/document/d/<document ID>/export?format=<file type>`  
 
-Export spreadsheets in pdf or xlsx format.  Export documents in pdf, docx, epub, txt, md, and more!
+Export spreadsheets in pdf or xlsx format. Export documents in pdf, docx, epub, txt, md, and more!
 
 
 
