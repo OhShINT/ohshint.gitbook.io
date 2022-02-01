@@ -35,3 +35,5 @@
   Instantly find domain names and social media profiles with a given username.
 - [NameCheck](https://namecheck.bloggingehow.com/)  
   Search via username on over 50 different social media and blogging sites.
+- [NAMINT](https://seintpl.github.io/NAMINT/)  
+  An awesome JavaScript tool to generate possible usernames and login search patterns with links. Created by [@SEINT_pl](https://.twitter.com/SEINT_pl)
