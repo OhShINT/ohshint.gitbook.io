@@ -11,11 +11,12 @@ If you would like to contact me to suggest new content, report any issues and/or
 Feel free to reach out to me via email or Twitter.
 
 > **Email:** `ohshint [at] protonmail.com`
-> 
-> **PGP Fingerprint:** `3681 8C7A 5364 6047 4D68 EE9D 5191 FA71 A552 392F`
-> 
+
+> **PGP Fingerprint:** `3681 8C7A 5364 6047 4D68 EE9D 5191 FA71 A552 392F`   
+> **PGP Raw:** [ohshint_0xA552392F_public.asc](https://raw.githubusercontent.com/OhShINT/ohshint.gitbook.io/main/Contact/ohshint_0xA552392F_public.asc)
+
 > **Twitter:** [@ohshint_](https://twitter.com/ohshint_)
-> 
+
 > **GitHub:** [OhShINT](https://github.com/ohshint) 
 
 Like this blog? Consider giving me money so I can buy stuff :)
@@ -28,7 +29,7 @@ Like this blog? Consider giving me money so I can buy stuff :)
 | **Ethereum (ETH)**      | `0xecec5c773836468fb31b0338aeaf46fd340e0b61`                 |
 | **Monero** (**XMR**)    | `44uVmqECQzx4dX1nMPJ3kJ3ep9sxgXiBrCSJZ3aAmsy9KYpjXoeq7ivPyQxW1BNnx9MiwuH3nZNPPBU76mndoNwaQSUMbFf` |
 
-PGP Fingerprint:   `3681 8C7A 5364 6047 4D68 EE9D 5191 FA71 A552 392F`
+> **Raw Public PGP Key**
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
