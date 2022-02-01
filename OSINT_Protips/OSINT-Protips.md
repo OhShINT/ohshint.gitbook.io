@@ -36,12 +36,12 @@ Export spreadsheets in pdf or xlsx format. Export documents in pdf, docx, epub, 
 
 [#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 2:
 
-You can view and download an #Instagram post in full resolution by simply adding "/media/?size=l" to the post URL.
+You can view and download an #Instagram post in full resolution by simply adding `/media/?size=l` to the post URL.
 
 Example: 
 [https://instagram.com/p/CMdB2v8liSf/media/?size=l](https://instagram.com/p/CMdB2v8liSf/media/?size=l)
 
-You can also use "?size=m", if you want a smaller resolution.
+You can also use `?size=m`, if you want a smaller resolution.
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
 
