@@ -62,7 +62,7 @@ There are archives of Chrome, Firefox and Edge browser extensions that allow you
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) 
 
-Here is another useful archive of #Firefox add-ons:
+Here is another useful archive of [#Firefox](https://twitter.com/hashtag/Firefox?src=hashtag_click) add-ons:
 
 - http://github.com/JustOff/ca-archive
 
