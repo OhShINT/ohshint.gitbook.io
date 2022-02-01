@@ -643,6 +643,8 @@
   A video sharing website that uses the LBRY blockchain network.
 - [BiliBili](https://www.bilibili.com/)  
   A Chinese video sharing website that is very similar to YouTube.
+- [GetYarn](https://getyarn.io/)  
+  Find video clips by searching via quotes.
   
 ## **Podcast Search**
 
