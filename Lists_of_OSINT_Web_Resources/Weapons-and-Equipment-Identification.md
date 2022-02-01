@@ -111,6 +111,8 @@
   Visual reference guide to current submarines in service as of 2015. Archived [here (Wayback)](https://web.archive.org/web/20211026023615/https://i.imgur.com/IA8pBxC.png) and [here (archive.today)](https://archive.ph/XGg9G).
 - [US Submarines](https://www.marinevesseltraffic.com/navy-ships/US%20Submarines%20Locations%20Tracker)  
   Live tracker for Submarines in the US Navy that are able to be tracked/located. 
+- [[IMAGE] Submarine Periscopes and Optronic Mast Identification](https://imgur.com/a/3DFpyuZ)  
+  A quick visual identification reference for submarine masts and scopes. Archived [here (Wayback)](https://web.archive.org/web/20220201011913/https://imgur.com/a/3DFpyuZ) and [here (archive.today)](https://archive.ph/3oSzt).
 
 ## <u>**Personnel Equipment**</u>
 
