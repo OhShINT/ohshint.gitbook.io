@@ -6,7 +6,7 @@
 >
 
 
-**OBLIGATORY DISCLAIMER:**
+## **OBLIGATORY DISCLAIMER:**
 
 ***Myself and any other potential contributors to this website are NOT in any way affiliated with, sponsored by, or endorsed by any of the companies that may be listed on this website. Myself and any other potential contributors of this web site are NOT responsible for the actions of any end users.*** 
 ***In other words, don't be malicious.***
@@ -94,7 +94,7 @@ Welcome aboard my ship friends, hope you decide to stay for a while and learn ab
 
 [@cyb_detective](https://twitter.com/cyb_detective), [@sinwindie](https://twitter.com/sinwindie), [@zewensec](https://twitter.com/zewensec), [Oryon](https://github.com/oryon-osint), [@palenath](https://twitter.com/palenath), [@WebBreacher](https://twitter.com/WebBreacher), [@ChaosD0c](https://twitter.com/ChaosD0c), [@epieos](https://twitter.com/epieos), [@AccessOSINT](https://twitter.com/AccessOSINT), [@Lorandbodo](https://twitter.com/Lorandbodo), [@dutch_osintguy](https://twitter.com/dutch_osintguy), [@jakecreps](https://twitter.com/jakecreps), [Shikata](https://twitter.com/_shikata_), [ser3n1ty](https://ser3n1ty.com), [Chimra](https://twitter.com/Blessed_Chimra), [Sporeo](https://twitter.com/SporeoTheOreo), [@d4vid_lucifer](https://twitter.com/d4vid_lucifer), [yyyy](https://teachyourselfinfosec.com), [@ryancollins_dev](https://twitter.com/ryancollins_dev), Gara, all the great people from [Bellingcat](https://www.bellingcat.com), [LaptopHackingCoffee](https://disboard.org/server/326839256758616068), [The OSINTion](https://www.theosintion.com), [TraceLabs](https://www.tracelabs.org), [OSINT Curious](https://osintcurio.us), [Abstract Security](https://abstract-security.lugons.org), [IntelTechniques](https://inteltechniques.com), [JHDiscord](https://www.johnhammond.org), [HackTheBox](https://hackthebox.eu), [sector035](https://sector035.nl), [Digital Forensics Discord](https://github.com/Digital-Forensics-Discord-Server), 0x4rk0 Discord, and all the others who did not wish to be named, thank you all! <3
 
-# **Contact**
+## **Contact**
 
 > **Email:** `ohshint [at] protonmail.com`
 
