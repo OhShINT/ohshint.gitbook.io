@@ -1131,7 +1131,7 @@ A Google CSE that searches for scientific publications.
 - [Search is Back](https://searchisback.com/)  
   Find people and events on Facebook. Searchable by name, location, relationship, gender, language, and more.
 - [Facebook Dangerous Individuals and Organizations List](https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/)  
-  A leaked internal document from Facebook that contains their list of dangerous individuals and groups. Worth saving. Archived copies available [here (Wayback)](https://web.archive.org/web/20211013174325/https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/) and [here (archive.today)](https://archive.ph/LQLhK). Original PDF available [[PDF]here](https://s3.documentcloud.org/documents/21083819/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf). Archived copy available [here (Wayback)](https://web.archive.org/web/20211014081041/https://s3.documentcloud.org/documents/21083819/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf).
+  A leaked internal document from Facebook that contains their list of dangerous individuals and groups. Worth saving. Archived copies available [here (Wayback)](https://web.archive.org/web/20211013174325/https://theintercept.com/document/2021/10/12/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot/) and [here (archive.today)](https://archive.ph/LQLhK). Original PDF available [[PDF] here](https://s3.documentcloud.org/documents/21083819/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf). Archived copy available [here (Wayback)](https://web.archive.org/web/20211014081041/https://s3.documentcloud.org/documents/21083819/facebook-dangerous-individuals-and-organizations-list-reproduced-snapshot.pdf).
 - [Facebook Law Enforcement Guide](https://www.facebook.com/safety/groups/law/guidelines/)  
   Guidelines and resources for law enforcement officials seeking records from Facebook and/or Instagram.
 - [StalkFace](https://stalkface.com/en/)  
@@ -1396,7 +1396,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Download a full list of followers for any Twitch account and export them to a .csv file.
 - [SullyGnome](https://sullygnome.com/)  
   Provides detailed statistics and analytics for a Twitch user.
-- [2021 Twich Leaked Data](https://sizeof.cat/post/twitch-leaks/)  
+- [2021 Twitch Leaked Data](https://sizeof.cat/post/twitch-leaks/)  
   In October 6th, 2021, Twitch got hacked and their data was dumped online. This article explains the contents of the breached data and provides a magnet URI to download the raw data. Page has been archived [here (archive.today)](https://archive.ph/IBNSS). Read the official statement from Twitch [here](https://blog.twitch.tv/en/2021/10/06/updates-on-the-twitch-security-incident/).
 - [Twitch Earnings Lookup](https://twitch.fckdmca.com/)  
   Data was taken from the hacked Twitch data that was leaked online on October 6th, 2021. Page archived [here (Wayback)](https://web.archive.org/web/20211007151749/https://twitch.fckdmca.com/) and [here (archive.today)](https://archive.ph/MKGsy).
