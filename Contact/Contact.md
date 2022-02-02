@@ -31,7 +31,7 @@ Like this blog? Consider giving me money so I can buy stuff :)
 | **Ethereum (ETH)**      | `0xecec5c773836468fb31b0338aeaf46fd340e0b61`                 |
 | **Monero** (**XMR**)    | `44uVmqECQzx4dX1nMPJ3kJ3ep9sxgXiBrCSJZ3aAmsy9KYpjXoeq7ivPyQxW1BNnx9MiwuH3nZNPPBU76mndoNwaQSUMbFf` |
 
-> **Raw Public PGP Key**
+> **Raw PGP Public Key**
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
