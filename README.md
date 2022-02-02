@@ -105,7 +105,7 @@ Welcome aboard my ship friends, hope you decide to stay for a while and learn ab
 
 > **GitHub:** [OhShINT](https://github.com/ohshint) 
 
-> **ULR:** [ohshint.gitbook.io](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
+> **URL:** [ohshint.gitbook.io](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
 
 Like this blog? Consider giving me money so I can buy stuff :)
 
