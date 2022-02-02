@@ -22,7 +22,7 @@ Figured it was time to actually document some of my work. This blog is mostly go
 
 Including anything related to open-source intelligence, operational security, anonymity, surveillance and counter-surveillance techniques, trade-craft, and probably a little bit of cyber-security related content. 
 
-A little backstory about the author (me). I am a licensed private investigator who has specialized in the art of intelligence collection, surveillance, and counter-surveillance operations. 
+A little backstory about the author (_that's me_). I am a licensed private investigator who has specialized in the art of intelligence collection, surveillance, and counter-surveillance operations. 
 
 Some of my other hobbies include cyber-security, internet culture, firearms technology, forensic document examination, and general spy-craft related things. There will be articles about all of these different subjects here soon, as I have planned to post a new article every week if time permits and can actually get away from my busy schedule.
 
