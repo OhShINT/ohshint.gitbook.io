@@ -36,7 +36,7 @@ Here are some topics that I will be covering *eventually*.
 - *Cyber-security related articles, techniques, CTF writeups and other random InfoSec related things.*
 - *Probably more stuff.*
 
-Anyways, thank you for reading my blog and I genuinely hope you enjoy the content! If not well, I can't really help you with that. 
+Anyways, thank you for reading my blog and I genuinely hope you enjoy the content! If not, well I can't really help you with that. 
 
 Welcome aboard my ship friends, hope you decide to stay for a while and learn about some cool stuff together.
 
