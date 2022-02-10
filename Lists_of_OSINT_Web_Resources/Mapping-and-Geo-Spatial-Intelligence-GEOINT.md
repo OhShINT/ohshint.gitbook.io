@@ -101,6 +101,14 @@
   Plus codes are based on a multi-level grid, being able to see the grid can make the codes easier to discover and use. This service allows you to to add the plus codes grid to online maps and GIS applications.
 - [What3Words](https://what3words.com/)  
   The world divided into 3 metre squares and each square is given a unique combination of three words.
+- [PolyMaps](http://polymaps.org/)  
+  Provides speedy display of multi-zoom datasets over maps, and supports a variety of visual presentations for tiled vector data, in addition to the usual cartography from OpenStreetMap, CloudMade, Bing, and other providers of image-based web maps.
+- [Address Verification Map](https://www.informatica.com/products/data-quality/data-as-a-service/address-verification/interactive-country-map.html)  
+  An interactive map that displays address format verification data for over 240 countries.
+- [Maps.co](https://maps.co/)  
+  Make and share maps. Import custom data fields for each location, then dynamically filter the data based on values in those custom fields. Requires registration.
+- [MapMyIndia](https://maps.mapmyindia.com/)  
+  India's leader in premium quality digital map data, APIs, GPS navigation, tracking, location apps and GIS solutions. Also offers a very useful 360° view mode.
 
 ## **<u>Street View Maps</u>**
 
@@ -153,6 +161,14 @@
   An interactive map that shows live border crossing times and delays for many European countries.
 - [Localingual](https://localingual.com/)  
   An interactive map that shows what language prevails in a particular country.
+- [North American Border Incident Map](https://border.globalincidentmap.com/)  
+  A live map of incidents happening at the Canadian, United States and Mexican borders.
+- [ACLED Dashboard](https://acleddata.com/dashboard/)  
+  A map that collects real-time data on the locations, dates, actors, fatalities, and types of all reported political violence and protest events across the globe.
+- [Disputed Territory Map](https://metrocosm.com/disputed-territories-map.html)  
+  An interactive map that shows every disputed terriory and border in the world.
+- [EU Sanctions Map](https://sanctionsmap.eu/#/main)  
+  A map that displays the details of current sanctions imposed on countries by the European Union.
 
 ## **<u>Topographic and Geologic Maps</u>**
 
@@ -216,6 +232,8 @@
   Wind forecasts, wind radar, wind force and weather.
 - [WindGuru](https://www.windguru.cz/)  
   Provides maps of wind and weather model forecasts.
+- [OpenSnowMap](https://www.opensnowmap.org/)  
+  A community-created and maintained ski map of the world, displaying more than 150,000km of skiing locations.
 
 ### **<u>Natural Disaster Maps</u>**
 
@@ -245,6 +263,8 @@
   Another map and information source for current and historic global volcanic activity.
 - [USGS Hawaii Lava Flows](https://www.usgs.gov/observatories/hawaiian-volcano-observatory/lava-flow)  
   Provides information and tracking of lava flows and high-risk areas on the Hawaiian Islands. Click [here](https://pubs.usgs.gov/mf/1992/2193/) for the latest lava flow hazard map. Archived copies of the .pdf document are available [here (Wayback)](https://web.archive.org/web/20211010025640/https://pubs.usgs.gov/mf/1992/2193/mf2193.pdf) and [here (archive.today)](https://archive.ph/h9gbJ).
+- [North American Forest Fire Map](https://fires.globalincidentmap.com/)  
+  An interactive map that displays on-going forest fires in North America.
 
 ## **<u>Ocean Maps</u>**
 
