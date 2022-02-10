@@ -3529,6 +3529,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Locate employee email addresses via domain name. Very handy.
 - [MailsHunt](https://www.mailshunt.com/)  
   Search a domain name and get a list of email addresses. Requires registration.
+- [Phonebook.cz](https://phonebook.cz/)  
+  A tool from IntelX that lists all domains, email addresses, or URLs for the given input domain. Wildcards such as `*.gov.uk` are allowed. Search over 34 billion records.
 
 ## **Data Breach Search**
 
