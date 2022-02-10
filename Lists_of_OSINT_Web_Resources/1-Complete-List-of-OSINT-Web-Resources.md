@@ -1677,6 +1677,14 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Plus codes are based on a multi-level grid, being able to see the grid can make the codes easier to discover and use. This service allows you to to add the plus codes grid to online maps and GIS applications.
 - [What3Words](https://what3words.com/)  
   The world divided into 3 meter squares and each square is given a unique combination of three words.
+- [PolyMaps](http://polymaps.org/)  
+  Provides speedy display of multi-zoom datasets over maps, and supports a variety of visual presentations for tiled vector data, in addition to the usual cartography from OpenStreetMap, CloudMade, Bing, and other providers of image-based web maps.
+- [Address Verification Map](https://www.informatica.com/products/data-quality/data-as-a-service/address-verification/interactive-country-map.html)  
+  An interactive map that displays address format verification data for over 240 countries.
+- [Maps.co](https://maps.co/)  
+  Make and share maps. Import custom data fields for each location, then dynamically filter the data based on values in those custom fields. Requires registration.
+- [MapMyIndia](https://maps.mapmyindia.com/)  
+  India's leader in premium quality digital map data, APIs, GPS navigation, tracking, location apps and GIS solutions. Also offers a very useful 360° view mode.
 
 ## **Street View Maps**
 
@@ -1729,6 +1737,14 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   An interactive map that shows live border crossing times and delays for many European countries.
 - [Localingual](https://localingual.com/)  
   An interactive map that shows what language prevails in a particular country.
+- [North American Border Incident Map](https://border.globalincidentmap.com/)  
+  A live map of incidents happening at the Canadian, United States and Mexican borders.
+- [ACLED Dashboard](https://acleddata.com/dashboard/)  
+  A map that collects real-time data on the locations, dates, actors, fatalities, and types of all reported political violence and protest events across the globe.
+- [Disputed Territory Map](https://metrocosm.com/disputed-territories-map.html)  
+  An interactive map that shows every disputed terriory and border in the world.
+- [EU Sanctions Map](https://sanctionsmap.eu/#/main)  
+  A map that displays the details of current sanctions imposed on countries by the European Union.
 
 ## **Topographic and Geologic Maps**
 
@@ -1792,6 +1808,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Wind forecasts, wind radar, wind force and weather.
 - [WindGuru](https://www.windguru.cz/)  
   Provides maps of wind and weather model forecasts.
+- [OpenSnowMap](https://www.opensnowmap.org/)  
+  A community-created and maintained ski map of the world, displaying more than 150,000km of skiing locations.
 
 ### **Natural Disaster Maps**
 
@@ -1821,6 +1839,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Another map and information source for current and historic global volcanic activity.
 - [USGS Hawaii Lava Flows](https://www.usgs.gov/observatories/hawaiian-volcano-observatory/lava-flow)  
   Provides information and tracking of lava flows and high-risk areas on the Hawaiian Islands. Click [here](https://pubs.usgs.gov/mf/1992/2193/) for the latest lava flow hazard map. Archived copies of the .pdf document are available [here (Wayback)](https://web.archive.org/web/20211010025640/https://pubs.usgs.gov/mf/1992/2193/mf2193.pdf) and [here (archive.today)](https://archive.ph/h9gbJ).
+- [North American Forest Fire Map](https://fires.globalincidentmap.com/)  
+  An interactive map that displays on-going forest fires in North America.
 
 ## **Ocean Maps**
 
@@ -2076,6 +2096,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Enter a search term and scrape adresses, phone, websites and other information from Google Maps. The results can be exported in CSV, JSON and XLS. Requires registration.
 - [AntMaps](https://antmaps.org/)  
   A map that shows the different species of ants across the globe. 
+- [Global Disease Outbreak Map](https://outbreaks.globalincidentmap.com/)  
+  A global live map of disease and virus outbreaks, cases and related deaths.
+- [AMBER Alert Map](https://amberalerts.globalincidentmap.com/home.php)  
+  A live map that displays current AMBER alerts in real-time.
 
 # <u>**Imagery Intelligence [IMINT]**</u>
 
@@ -4327,6 +4351,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   This is a global listing of criminal enterprises, cartels, smuggling rings, street and prison gangs, tongs, mafias, syndicates and cybercrime networks that are or have been involved in organized crime. Some data here is out-dated, but still valuable.
 - [Metro Vancouver Shooting Map 2021/2022](https://www.google.com/maps/d/u/0/viewer?mid=14ii0RD12wwH3n-hUHtRTjzwxc_YnSxOr)  
   A custom Google map of shootings and gang-related incidents for Vancouver, BC, Canada.
+- [Gang Activity Map](https://gangs.globalincidentmap.com/home.php)  
+  A map that displays gang activity, arrests and other gang-related events in the United States.
 
 ## **Human Trafficking and Migration**
 
@@ -4340,6 +4366,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   The MMC is a leading source for independent and high quality data, information, research and analysis on mixed migration.
 - [Migration Policy Data Hub](https://www.migrationpolicy.org/programs/migration-data-hub)  
   Showcases the most current national and state-level demographic, social, and economic facts about immigrants to the United States; as well as stock, flow, citizenship, net migration, and historical data for countries in Europe, North America, and beyond.
+- [Human Trafficking Incident Map](https://human.globalincidentmap.com/)  
+  A map of worldwide human trafficking incidents. Also includes a new feed.
 
 ## **Drugs and Drug Trade**
 
@@ -4361,6 +4389,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   A database with images of many different types of illicit drugs. Created and maintained by the United States DEA.
 - [[PDF] 2020 National Drug Threat Assessment](https://www.dea.gov/sites/default/files/2021-02/DIR-008-21%202020%20National%20Drug%20Threat%20Assessment_WEB.pdf)  
   Lots and lots of good information in here including some pretty interesting images. Has information about transnational traffickers in the Americas and Asia, trafficking methods, and illicit finance. Archived copies available [here (Wayback)](https://web.archive.org/web/20210918005345/https://www.dea.gov/sites/default/files/2021-02/DIR-008-21%202020%20National%20Drug%20Threat%20Assessment_WEB.pdf) and [here (Library Genesis)](https://libgen.rs/book/index.php?md5=99DEB4338B7B542BC4EC6CEE9F61515F).
+- [Global Drug Interdictions Map](https://drugs.globalincidentmap.com/)  
+  A continuously updated global map of drug interdictions.
 
 ## **Wildlife Crime**
 
@@ -4498,6 +4528,10 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   A global hunger monitoring system that tracks and aims to predict a hunger crisis in near real-time. Monitors over 90 different countries.
 - [Live Universal Awareness Map](https://liveuamap.com/)  
   An independent global news and information site dedicated to factual reporting of a variety of important topics including conflicts, human rights issues, protests, terrorism, weapons deployment, health matters, natural disasters, and weather related stories.
+- [ADL H.E.A.T Map](https://www.adl.org/education-and-resources/resource-knowledge-base/adl-heat-map)  
+  An interactive and customizable map detailing hate, extremist and antisemitic incidents by state and nationwide.
+- [HAZMAT Situation Map](https://hazmat.globalincidentmap.com/map.php)  
+  A map of current hazerdous material situations, incidents and deployments in North America.
 
 ## **Terrorism**
 
@@ -4505,6 +4539,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Provides information for over 200,000 terrorism incidents.
 - [Gun Violence Archive](https://www.gunviolencearchive.org/)  
   An online archive of gun violence incidents collected from over 7,500 law enforcement, media, government and commercial sources daily in an effort to provide near-real time data about the results of gun violence.
+- [Global Incident Map](https://www.globalincidentmap.com/)  
+  A global map and display of terrorism, attacks and other suspicious events. Requires a paid subscription.
 
 <u>**Weapons and Equipment Identification**</u>
 ===========================================================================
