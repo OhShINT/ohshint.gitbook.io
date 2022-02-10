@@ -20,6 +20,11 @@
   A global hunger monitoring system that tracks and aims to predict a hunger crisis in near real-time. Monitors over 90 different countries.
 - [Live Universal Awareness Map](https://liveuamap.com/)  
   An independent global news and information site dedicated to factual reporting of a variety of important topics including conflicts, human rights issues, protests, terrorism, weapons deployment, health matters, natural disasters, and weather related stories.
+- [ADL H.E.A.T Map](https://www.adl.org/education-and-resources/resource-knowledge-base/adl-heat-map)  
+  An interactive and customizable map detailing hate, extremist and antisemitic incidents by state and nationwide.
+- [HAZMAT Situation Map](https://hazmat.globalincidentmap.com/map.php)  
+  A map of current hazerdous material situations, incidents and deployments in North America.
+
 
 ## **<u>Terrorism</u>**
 
@@ -27,3 +32,5 @@
   Provides information for over 200,000 terrorism incidents.
 - [Gun Violence Archive](https://www.gunviolencearchive.org/)  
   An online archive of gun violence incidents collected from over 7,500 law enforcement, media, government and commercial sources daily in an effort to provide near-real time data about the results of gun violence.
+- [Global Incident Map](https://www.globalincidentmap.com/)  
+  A global map and display of terrorism, attacks and other suspicious events. Requires a paid subscription.
