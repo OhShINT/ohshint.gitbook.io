@@ -2311,6 +2311,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search tenders around the world via keywords. Requires registration. If you do not want to register to see the full data, then just copy the names of found tenders and search it on Google.
 - [RansomWiki](https://ransom.wiki/)  
   Check if a company or any of its partner have appeared in any ransomware attacks.
+- [PitchBook](https://pitchbook.com/)  
+  Get data on over 3.3 million companies, 1.6 million deals, 390,000 investors and 79,000 funds. Requires a paid subscription.
 
 ## **Patents and Trademarks**
 
