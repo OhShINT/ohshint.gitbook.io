@@ -14,7 +14,16 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Document and File Search**
 
+- [FilePhish](https://cartographia.github.io/FilePhish/) - *Added 9/2/2022.*
 - [Snowfl](https://snowfl.com/) - *Added 25/1/2022.*
+
+### **Job Search**
+
+- [OSINT Jobs](https://www.osint-jobs.com/) - *Added 9/2/2022.*
+
+## **Newspaper and News Search**
+
+- [BuzzSumo Content Search](https://app.buzzsumo.com/content/web) - *Added 9/2/2022.*
 
 ## <u>**Social Media Intelligence [SOCMINT]**</u>
 
@@ -43,6 +52,21 @@ All dates are listed in *DD/MM/YYYY* format.
 ### **TikTok**
 
 - [TikRank](https://tikrank.com/) - *Added 30/1/2022.*
+
+### **Twtich**
+
+- [Twitch Username API](https://api.ivr.fi/twitch/resolve/USERNAME-HERE) - *Added 9/2/2022.*
+- [Twitch Community Overlap](https://stats.roki.sh/) - *Added 9/2/2022.*
+- [Chatter Viewer](https://t.3v.fi/chatters/?ch=USERNAME-HERE) - *Added 9/2/2022.*
+- [Twitch Logs](https://logs.ivr.fi/) - *Added 9/2/2022.*
+- [Pogu.live](https://pogu.live/) - *Added 9/2/2022.*
+- [ModLookup](https://modlookup.3v.fi/) - *Added 9/2/2022.*
+- [TwitchDatabase](https://www.twitchdatabase.com/following) - *Added 9/2/2022.*
+- [TwitchStats](https://twitchstats.net/) - *Added 9/2/2022.*
+
+### **Twitter**
+
+- [BirdHunt](https://birdhunt.co/) - *Added 9/2/2022.*
 
 ## <u>**Mapping and Geo-Spatial Intelligence [GEOINT]**</u>
 
@@ -116,6 +140,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Business Search**
 
+- [PitchBook](https://pitchbook.com/) - *Added 9/2/2022.*
 - [RansomWiki](https://ransom.wiki/) - *Added 25/1/2022.*
 
 ### **Business Registries**
@@ -218,6 +243,12 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [Phonerator](https://www.martinvigo.com/tools/phonerator/)  *Added 25/1/2022.*
 
+## <u>**Email Addresses**</u>
+
+### **General Email Tools**
+
+- [Phonebook.cz](https://phonebook.cz/) - *Added 9/2/2022.*
+
 ## **<u>Usernames</u>**
 
 - [Namevine](https://namevine.com/) - *Added 25/1/2022.*
@@ -251,6 +282,12 @@ All dates are listed in *DD/MM/YYYY* format.
 ### **Criminal Enterprises, Gangs and Syndicates**
 
 - [Metro Vancouver Shooting Map 2021/2022](https://www.google.com/maps/d/u/0/viewer?mid=14ii0RD12wwH3n-hUHtRTjzwxc_YnSxOr) - *Added 2/1/2022.*
+
+## <u>**Weapons and Equipment Identification**</u>
+
+### **Firearms and Ammunition**
+
+- [Cartrology](http://www.cartrology.com/) - *Added 9/2/2022.*
 
 ## <u>**Government Information**</u>
 
