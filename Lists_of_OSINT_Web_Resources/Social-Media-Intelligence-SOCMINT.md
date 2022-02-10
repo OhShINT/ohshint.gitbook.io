@@ -350,8 +350,8 @@
 
 - [TwitchTracker](https://twitchtracker.com/)  
   Get a detailed analysis of a Twitch streamer.
-- [Twitch Tools](https://twitch-tools.rootonline.de/followerlist_viewer.php)  
-  Download a full list of followers for any Twitch account and export them to a .csv file.
+- [Twitch Username API](https://api.ivr.fi/twitch/resolve/USERNAME-HERE)  
+  Get user information via the Twitch API. Simply add a username to the end of the URL, like so: `https://api.ivr.fi/twitch/resolve/username-here`.
 - [SullyGnome](https://sullygnome.com/)  
   Provides detailed statistics and analytics for a Twitch user.
 - [2021 Twitch Leaked Data](https://sizeof.cat/post/twitch-leaks/)  
@@ -360,6 +360,20 @@
   Data was taken from the hacked Twitch data that was leaked online on October 6th, 2021. Page archived [here (Wayback)](https://web.archive.org/web/20211007151749/https://twitch.fckdmca.com/) and [here (archive.today)](https://archive.ph/MKGsy).
 - [TwitchTools](https://twitch-tools.rootonline.de/channel_previews.php)  
   Search streams and filter results by title, game, language, number of viewers. Also provides other useful tools for Twitch.
+- [Twitch Community Overlap](https://stats.roki.sh/)  
+  Shows the viewer and audience overlap stats between different channels on Twitch. You can find who's community overlaps the most with your favorite streamer. You can also check which channels chat hoppers are going to.
+- [Chatter Viewer](https://t.3v.fi/chatters/?ch=USERNAME-HERE)  
+  A tool to view chatter of a specific user. Enter a username at the end of the URL. Example: `https://t.3v.fi/chatters/?ch=username-here`.
+- [Twitch Logs](https://logs.ivr.fi/)  
+  Enter a username and the name of a channel to see all of a user's messages in that channel. Results can be exported as a TXT file.
+- [Pogu.live](https://pogu.live/)  
+  Allows you to watch sub only or deleted video-on-demand (VODs) for free. It works because when a streamer deletes a video, it is not deleted from Twitch servers immediately.
+- [ModLookup](https://modlookup.3v.fi/)  
+  Returns all channels recently live in the last 3 months the user has a sword in out of the pool of millions of channels the tool tracks on a daily basis.
+- [TwitchDatabase](https://www.twitchdatabase.com/following)  
+  See what channels a user is following.
+- [TwitchStats](https://twitchstats.net/)  
+  You can find detailed stats about your favorite streamer, channel, game and teams. There are many different stats including newest twitch team, channel subscriber count, new and best clips and multiple ranking for all the games and streamers.
 
 ## <u>**Twitter**</u>
 
@@ -417,6 +431,8 @@
   Find the potential sleeping schedule of a Twitter user. Requires you to log in to a Twitter account.
 - [FollowerWonk](https://followerwonk.com/)  
   Search Twitter bios, compare users, and analyze location and tweet activity of followers.
+- [BirdHunt](https://birdhunt.co/)  
+  A great query building tool that allows you to select a location and radius and get a list of recent tweets from that location.
 
 ## <u>**Untappd**</u>
 
