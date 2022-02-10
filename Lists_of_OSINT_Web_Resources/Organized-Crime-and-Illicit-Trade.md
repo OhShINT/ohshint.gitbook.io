@@ -54,6 +54,8 @@
   This is a global listing of criminal enterprises, cartels, smuggling rings, street and prison gangs, tongs, mafias, syndicates and cybercrime networks that are or have been involved in organized crime. Some data here is out-dated, but still valuable.
 - [Metro Vancouver Shooting Map 2021/2022](https://www.google.com/maps/d/u/0/viewer?mid=14ii0RD12wwH3n-hUHtRTjzwxc_YnSxOr)  
   A custom Google map of shootings and gang-related incidents for Vancouver, BC, Canada.
+- [Gang Activity Map](https://gangs.globalincidentmap.com/home.php)  
+  A map that displays gang activity, arrests and other gang-related events in the United States.
 
 ## <u>**Human Trafficking and Migration**</u>
 
@@ -67,6 +69,8 @@
   The MMC is a leading source for independent and high quality data, information, research and analysis on mixed migration.
 - [Migration Policy Data Hub](https://www.migrationpolicy.org/programs/migration-data-hub)  
   Showcases the most current national and state-level demographic, social, and economic facts about immigrants to the United States; as well as stock, flow, citizenship, net migration, and historical data for countries in Europe, North America, and beyond.
+- [Human Trafficking Incident Map](https://human.globalincidentmap.com/)  
+  A map of worldwide human trafficking incidents. Also includes a new feed.
 
 ## **<u>Drugs and Drug Trade</u>**
 
@@ -88,6 +92,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   A database with images of many different types of illicit drugs. Created and maintained by the United States DEA.
 - [[PDF] 2020 National Drug Threat Assessment](https://www.dea.gov/sites/default/files/2021-02/DIR-008-21%202020%20National%20Drug%20Threat%20Assessment_WEB.pdf)  
   Lots and lots of good information in here including some pretty interesting images. Has information about transnational traffickers in the Americas and Asia, trafficking methods, and illicit finance. Archived copies available [here (Wayback)](https://web.archive.org/web/20210918005345/https://www.dea.gov/sites/default/files/2021-02/DIR-008-21%202020%20National%20Drug%20Threat%20Assessment_WEB.pdf) and [here (Library Genesis)](https://libgen.rs/book/index.php?md5=99DEB4338B7B542BC4EC6CEE9F61515F).
+- [Global Drug Interdictions Map](https://drugs.globalincidentmap.com/)  
+  A continuously updated global map of drug interdictions.
 
 ## **<u>Wildlife Crime</u>**
 
