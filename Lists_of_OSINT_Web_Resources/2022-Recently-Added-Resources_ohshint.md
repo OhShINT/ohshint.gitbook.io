@@ -72,6 +72,10 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [MapMyIndia](https://maps.mapmyindia.com/) - *Added 9/2/2022.*
+- [Maps.co](https://maps.co/) - *Added 9/2/2022.*
+- [Address Verification Map](https://www.informatica.com/products/data-quality/data-as-a-service/address-verification/interactive-country-map.html) - *Added 9/2/2022.*
+- [PolyMaps](http://polymaps.org/) - *Added 9/2/2022.*
 - [What3Words](https://what3words.com/) - *Added 25/1/2022.*
 - [Plus Codes Grid Service](https://grid.plus.codes/) - *Added 25/1/2022.*
 - [Sentinel-1 SAR Time Analysis Tool](https://share.streamlit.io/mjcruickshank/sarveillance/reorganisation/app/web.py) - *Added 25/1/2022.*
@@ -86,8 +90,20 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Political Maps**
 
+- [EU Sanctions Map](https://sanctionsmap.eu/#/main) - *Added 9/2/2022.*
+- [Disputed Territory Map](https://metrocosm.com/disputed-territories-map.html) - *Added 9/2/2022.*
+- [ACLED Dashboard](https://acleddata.com/dashboard/) - *Added 9/2/2022.*
+- [North American Border Incident Map](https://border.globalincidentmap.com/) - *Added 9/2/2022.*
 - [Live Border Crossing Times](https://live.sixfold.com/) - *Added 25/1/2022.*
 - [Localingual](https://localingual.com/) - *Added 25/1/2022.*
+
+### **Weather Maps**
+
+- [OpenSnowMap](https://www.opensnowmap.org/) - *Added 9/2/2022.*
+
+#### **Natural Disaster Maps**
+
+- [North American Forest Fire Map](https://fires.globalincidentmap.com/) - *Added 9/2/2022.*
 
 ### **Industry Maps**
 
@@ -105,6 +121,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Mapping Resources**
 
+- [AMBER Alert Map](https://amberalerts.globalincidentmap.com/home.php) - *Added 9/2/2022.*
+- [Global Disease Outbreak Map](https://outbreaks.globalincidentmap.com/) - *Added 9/2/2022.*
 - [Google Maps Scraper](https://console.apify.com/actors/nwua9Gu5YrADL7ZDj) - *Added 25/1/2022.*
 - [AntMaps](https://antmaps.org/) - *Added 25/1/2022.*
 
@@ -281,7 +299,27 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Criminal Enterprises, Gangs and Syndicates**
 
+- [Gang Activity Map](https://gangs.globalincidentmap.com/home.php) - *Added 9/2/2022.*
 - [Metro Vancouver Shooting Map 2021/2022](https://www.google.com/maps/d/u/0/viewer?mid=14ii0RD12wwH3n-hUHtRTjzwxc_YnSxOr) - *Added 2/1/2022.*
+
+### **Human Trafficking and Migration**
+
+- [Human Trafficking Incident Map](https://human.globalincidentmap.com/) - *Added 9/2/2022.*
+
+### **Drugs and Drug Trade**
+
+- [Global Drug Interdictions Map](https://drugs.globalincidentmap.com/) - *Added 9/2/2022.*
+
+## <u>**War, Crisis and Conflicts**</u>
+
+### **General Crisis and Conflicts**
+
+- [ADL H.E.A.T Map](https://www.adl.org/education-and-resources/resource-knowledge-base/adl-heat-map) - *Added 9/2/2022.*
+- [HAZMAT Situation Map](https://hazmat.globalincidentmap.com/map.php) - *Added 9/2/2022.*
+
+### **Terrorism**
+
+- [Global Incident Map](https://www.globalincidentmap.com/) - *Added 9/2/2022.*
 
 ## <u>**Weapons and Equipment Identification**</u>
 
