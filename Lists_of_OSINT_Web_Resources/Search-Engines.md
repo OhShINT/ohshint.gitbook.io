@@ -729,6 +729,8 @@
   A simple bookmarklet for reading premium articles for free.
 - [Wikipedia - List of Newspaper Archives](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives) ([Wikiless](https://wikiless.org/wiki/Wikipedia:List_of_online_newspaper_archives))  
   Wikipedia's list of worldwide newspaper archives.
+- [BuzzSumo Content Search](https://app.buzzsumo.com/content/web)  
+  Enter a domain and find out its three most popular publications on social networks. Includes a time filter.
 
 ## <u>**Paste Sites**</u>
 
