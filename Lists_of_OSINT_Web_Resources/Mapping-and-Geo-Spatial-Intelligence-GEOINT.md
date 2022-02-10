@@ -166,7 +166,7 @@
 - [ACLED Dashboard](https://acleddata.com/dashboard/)  
   A map that collects real-time data on the locations, dates, actors, fatalities, and types of all reported political violence and protest events across the globe.
 - [Disputed Territory Map](https://metrocosm.com/disputed-territories-map.html)  
-  An interactive map that shows every disputed terriory and border in the world.
+  An interactive map that shows every disputed territory and border in the world.
 - [EU Sanctions Map](https://sanctionsmap.eu/#/main)  
   A map that displays the details of current sanctions imposed on countries by the European Union.
 
