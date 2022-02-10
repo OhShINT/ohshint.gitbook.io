@@ -23,7 +23,7 @@
 - [ADL H.E.A.T Map](https://www.adl.org/education-and-resources/resource-knowledge-base/adl-heat-map)  
   An interactive and customizable map detailing hate, extremist and antisemitic incidents by state and nationwide.
 - [HAZMAT Situation Map](https://hazmat.globalincidentmap.com/map.php)  
-  A map of current hazerdous material situations, incidents and deployments in North America.
+  A map of current hazardous material situations, incidents and deployments in North America.
 
 
 ## **<u>Terrorism</u>**
