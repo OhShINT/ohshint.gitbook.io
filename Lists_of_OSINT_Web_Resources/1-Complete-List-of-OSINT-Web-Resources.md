@@ -934,6 +934,8 @@ A Google CSE that searches for scientific publications.
   A massive collection of open access books.
 - [Snowfl](https://snowfl.com/)  
   Search BitTorrent indexes via keywords.
+- [FilePhish](https://cartographia.github.io/FilePhish/)  
+  A simple OSINT Google query builder for fast and easy document and file discovery. Made with by <3 by [@aleksanderrr_](https://twitter.com/aleksanderrr_).
 
 ## **Video Search**
 
@@ -981,6 +983,8 @@ A Google CSE that searches for scientific publications.
   Launched in 2004, Indeed is a worldwide employment website for job listings.
 - [Glassdoor](https://www.glassdoor.com/)  
   A website where current and former employees can anonymously review companies. Also allows users to anonymously submit and view salaries as well as search and apply for jobs on its platform.
+- [OSINT Jobs](https://www.osint-jobs.com/)  
+  A constantly updated list of OSINT related jobs in many locations around the world.
 
 ## **Archive Search**
 
