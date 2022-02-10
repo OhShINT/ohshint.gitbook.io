@@ -520,3 +520,7 @@
   Enter a search term and scrape adresses, phone, websites and other information from Google Maps. The results can be exported in CSV, JSON and XLS. Requires registration.
 - [AntMaps](https://antmaps.org/)  
   A map that shows the different species of ants across the globe.
+- [Global Disease Outbreak Map](https://outbreaks.globalincidentmap.com/)  
+  A global live map of disease and virus outbreaks, cases and related deaths.
+- [AMBER Alert Map](https://amberalerts.globalincidentmap.com/home.php)  
+  A live map that displays current AMBER alerts in real-time.
