@@ -935,7 +935,7 @@ A Google CSE that searches for scientific publications.
 - [Snowfl](https://snowfl.com/)  
   Search BitTorrent indexes via keywords.
 - [FilePhish](https://cartographia.github.io/FilePhish/)  
-  A simple OSINT Google query builder for fast and easy document and file discovery. Made with by <3 by [@aleksanderrr_](https://twitter.com/aleksanderrr_).
+  A simple OSINT Google query builder for fast and easy document and file discovery. Made with <3 by [@aleksanderrr_](https://twitter.com/aleksanderrr_).
 
 ## **Video Search**
 
