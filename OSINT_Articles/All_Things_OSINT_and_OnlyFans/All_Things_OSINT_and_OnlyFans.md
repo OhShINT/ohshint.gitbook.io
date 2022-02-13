@@ -52,7 +52,7 @@ Do not add a bio, location or anything else as there is not really any need for 
 
 > **NOTE:**
 > 
-> **DO NOT** use your real name or any usernames that are even remotely related to you!* 
+> ***DO NOT** use your real name or any usernames that are even remotely related to you!* 
 > *Content creators as well as other users are able to see any information you enter on your profile.* 
 > *Including username, display name, profile picture, header image, bio, location, and so on.* 
 > *So just don't bother.*
@@ -90,7 +90,8 @@ Now enter the card details and link the pre-paid card to your OnlyFans account. 
 OnlyFans actually does not provide a search function on their site for whatever reason, so you will need to get creative when searching for accounts. If you already know the username, then your work here is done. If not, then you can use Google dorks and/or third-party search sites to search via username, display name, location or keywords. 
 Here are some examples to search Google for OnlyFans accounts via location or keywords.
 
-```site:onlyfans.com "New York"
+```
+site:onlyfans.com "New York"
 site:onlyfans.com "New York"
 site:onlyfans.com "Timbuktu"
 site:onlyfans.com "OSINT"
