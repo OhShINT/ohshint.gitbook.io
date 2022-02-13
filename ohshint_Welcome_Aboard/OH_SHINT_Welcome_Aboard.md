@@ -36,7 +36,7 @@ Anyways, thank you for reading my blog and I genuinely hope you enjoy the conten
 Welcome aboard my ship friends, hope you decide to stay for a while and learn about some cool stuff together.
 
 ```
-				       				__
+				       __
                                        ||._
                                        ||'."-._.-""--.-"-.__.-'/
                                        || \       .-.         (
