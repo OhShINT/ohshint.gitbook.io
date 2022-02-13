@@ -18,11 +18,11 @@ Including anything related to open-source intelligence, operational security, an
 
 A little backstory about the author (me). I am a licensed private investigator who has specialized in the art of intelligence collection, surveillance, and counter-surveillance operations. 
 
-Some of my other hobbies include cyber-security, internet culture, firearms technology, forensic document examination, and general spy-craft related things. There will be articles about all of these different subjects here soon, as I have planned to post a new article every week if time permits and can actually get away from my busy schedule.
+Some of my other hobbies include cyber-security, internet culture, firearms technology, forensic document examination, and general spy-craft related things. There will be articles about all of these different subjects here soon, as ~I have planned to post a new article every week if time permits and can actually get away from my busy schedule~. Well, this was a lie..
 
 Here are some topics that I will be covering *eventually*.
 
-- *Everything and related to OSINT investigations, intelligence discovery and intelligence collection. Including lists of resources and tools, write-ups of my OSINT research, guides and different techniques on how to conduct OSINT investigations on a vast amount of different platforms and subjects.*
+- *Everything and anything related to OSINT investigations, intelligence discovery and intelligence collection. Including lists of resources and tools, write-ups of my OSINT research, guides and different techniques on how to conduct OSINT investigations on a vast amount of different platforms and subjects.*
 - *OPSEC and privacy research, guides, and other anonymity things.*
 - *Trade-craft techniques and other things related to general spy-craft.*
 - *Surveillance tactics and techniques, covert photography and evidence collection.*
