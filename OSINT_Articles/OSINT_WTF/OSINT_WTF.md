@@ -22,7 +22,7 @@ Open-source intelligence as described by its [Wikipedia article](https://en.wiki
 
 Basically, this is the practice of collecting publicly available, open-source information. Further reading material can be found at the bottom of this article.
 
-> Open-source? WTF does that mean?? Isn't that a warez thing?
+> *Open-source? WTF does that mean?? Isn't that a warez thing?*
 
 Well, "open-source" in the context of OSINT means locating and collecting information from any publicly available source. Such as published works, publicly available archives, the internet, your local city hall, books, videos, movies, forums, social media, leaked data, hacked data, pictures, newspapers, reports and so on. Not to be confused with FOSS warez (That means **F**ree and **O**pen **S**ource **S**oftware, by the way).
 
@@ -33,13 +33,13 @@ These OSINT operations, which are conducted by governments, private sector agenc
 
 Gratz! You have already technically conducted an extremely basic OSINT investigation. Your trophy is in the mail!
 
-> So, you're just a "professional Googler"?
+> *So, you're just a "professional Googler"?*
 
 Technically *no*, but also *yes*.
 
 Open-source information gathering gets way more complex than just simply looking things up on Google. Although using search engines is usually a good place to start your initial investigation.
 
-> Yeah right. I searched someone on Google and found loads of info on the first page.. Get good skid.
+> *Yeah right. I searched someone on Google and found loads of info on the first page.. Get good skid.*
 
 Great, your target has a large online presence, therefor makes your job much easier. OSINT in general is a massive subject that is constantly evolving and new techniques are always being explored and new tricks being discovered. This is a huge subject, and here's why.
 
@@ -68,7 +68,7 @@ Here is a list and brief descriptions of the common acronyms that you will likel
 | **PERSINT** | **Pers**onality **Int**elligence                            |
 | **RUMINT**  | **Rum**or **Int**elligence                                  |
 | **OPSEC**   | **Op**eration **Sec**urity                                  |
-| **TSCM**    | **T**echnical **S**urveillance **C**ounter-**M**easures         |
+| **TSCM**    | **T**echnical **S**urveillance **C**ounter-**M**easures     |
 | **CI**      | **C**ounter-**I**ntelligence/**C**onfidential **I**nformant |
 
 That is most of them. Read some more here.
