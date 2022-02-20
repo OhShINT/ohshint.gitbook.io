@@ -525,7 +525,7 @@
     - [Arranca](https://www.arranca.com/principal.php)  
       A small portal page of links to top news sites and portals based in Venezuela.
 
-## <u>**Specialty Search**</u>
+## **Specialty Search**
 
 - [Wolfram|Alpha](https://www.wolframalpha.com/)  
   An online service that answers factual queries directly by computing the answer from externally sourced "curated data", rather than providing a list of documents or web pages that might contain the answer.
@@ -546,7 +546,7 @@
 - [There Is A Bot For That](https://thereisabotforthat.com/bots/search)  
   A search engine that has over 5,000 bots for over 15 different platforms.
 
-## <u>**Meta Search**</u>
+## **Meta Search**
 
 - [Fagan Finder](https://www.faganfinder.com/)  
   One of the best metasearch tools there is. Allows you to search through search engines, social media, encyclopedias, libraries, news, government, documents and much more.
@@ -577,7 +577,7 @@
 - [BizNar](https://biznar.com/biznar/desktop/en/)  
   A web search engine that returns high quality results by submitting your query to other search engines and collating, ranking and dropping duplicates in the results.
 
-## <u>**Similar Site Search**</u>
+## **Similar Site Search**
 
 - [SimilarSites](https://www.similarsites.com/)  
   Enter a website URL and view websites that are similar.
@@ -590,7 +590,7 @@
 - [SimilarWeb](https://www.similarweb.com/)  
    A great tool for finding similar and/or competitor websites. Search via website URL.
 
-## <u>**Document and File Search**</u>
+## **Document and File Search**
 
 - [Library Genesis](https://libgen.rs/)  
   This is the largest free library in human history. Giving the world free access to over 84 million scholarly journals, over 6.6 million academic and general-interest books, over 2.2 million comics, and over 381 thousand magazines. Commonly referred to as "Libgen" for short. Libgen has zero regard for copyright.
@@ -633,7 +633,7 @@
 - [FilePhish](https://cartographia.github.io/FilePhish/)  
   A simple OSINT Google query builder for fast and easy document and file discovery. Made with <3 by [@aleksanderrr_](https://twitter.com/aleksanderrr_).
 
-## <u>**Video Search**</u>
+## **Video Search**
 
 - [YouTube](https://www.youtube.com/)  
   The worlds largest video sharing site. You already know what this is.
@@ -653,7 +653,7 @@
 - [ListenNotes](https://listennotes.com/)  
   Podcast search engine where you can search over 118 million episodes, create your own podcast playlist and cut interesting pieces.
 
-## <u>**Code Search**</u>
+## **Code Search**
 
 - [grep.app](https://grep.app/)  
   Search for strings across half a million git repos.
@@ -664,12 +664,12 @@
 - [Source Code Search Engine](https://publicwww.com/)  
   Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.
 
-## <u>**Blog, Forum and Image Board Search**</u>
+## **Blog, Forum and Image Board Search**
 
 - [Blog Search Engine](http://www.blogsearchengine.org/)  
   A great tool for searching blogs online. Search for a blog, submit your own blogs, or subscribe to an RSS feed on the blog topic.
 
-## <u>**Job Search**</u>
+## **Job Search**
 
 - [Monster](https://www.monster.com/)  
   A global employment website where you can search through millions of job listings.
@@ -682,7 +682,7 @@
 - [OSINT Jobs](https://www.osint-jobs.com/)  
   A constantly updated list of OSINT related jobs in many locations around the world.
 
-## <u>**Archive Search**</u>
+## **Archive Search**
 
 - [Internet Archive](https://archive.org/)  
   Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
@@ -710,8 +710,29 @@
   A service that lets users see how websites looked in the past.
 - [Quick Cache and Archive Search](https://cipher387.github.io/quickcacheandarchivesearch/)  
   An awesome tool created by [@cyb_detective](https://twitter.com/cyb_detective) that lets you search for older versions of websites via search engines and various web archive services.
+  
+## **Software Search**
 
-## <u>**Newspaper and News Search**</u>
+- [Internet Archive Vintage Software Collection](https://archive.org/details/vintagesoftware)  
+  The Vintage Software collection gathers various efforts by groups to classify, preserve, and provide historical software. These older programs, many of them running on defunct and rare hardware, are provided for purposes of study, education, and historical reference. 
+- [OldVersion](http://www.oldversion.com/)  
+  A large archive that provides free software downloads for old versions of programs, drivers and games.
+- [WinWorldPC](https://winworldpc.com/home)  
+  A free online museum and archive dedicated to the preservation and sharing of vintage, abandoned, and pre-release software. Offers information, media and downloads for a wide variety of computers and operating systems.
+- [RetroArchive](http://www.retroarchive.org/)  
+  This site was created as a logical extension to the original Commercial CP/M Software Archive. The focus has been expanded to encompass all types of "classic" computer systems and their software, not just CP/M.
+- [The Higher Intellect Software Archive](https://preterhuman.net/software/)  
+  A collection of applications, games, utilities and operating systems for older computer systems. The files available here are part of a larger collection accessible using [Hotline/KDX](https://preterhuman.net/gethotlinekdx.php) [Wayback](https://web.archive.org/web/20220127202630/https://preterhuman.net/gethotlinekdx.php), [archive.today](https://archive.ph/7ovqc) and connecting to `hl.preterhuman.net`. Focuses mostly on software from the 1980s/1990s for Macintosh and Windows/DOS platforms.
+- [Macintosh Repository](https://www.macintoshrepository.org/)  
+  An archive and sanctuary for old software from the classic MacOS era.
+- [DOS Games Archive](https://www.dosgamesarchive.com/)  
+  Currently has 1,135 DOS games in the archive that can be downloaded for free. These games are shareware, freeware, playable demos and full versions which are released as freeware or into the public domain.
+- [Atari Archives](https://www.atariarchives.org/)  
+  Offers books, information, and software for Atari and other classic computers available for download. Everything here is available with permission of the copyright holders.
+- [CP/M Software Archive](http://cpmarchives.classiccmp.org/)  
+  A humongous collection of the great CP/M repositories past and present.
+
+## **Newspaper and News Search**
 
 - [NewspaperMap](https://newspapermap.com/)  
   An interactive map of the world that shows you the different newspaper publishers for a specific area, simply zoom into an area of interest.
