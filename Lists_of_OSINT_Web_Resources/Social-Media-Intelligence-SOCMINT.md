@@ -73,6 +73,8 @@
   A "snowflake" is essentially a unique ID for a resource which contains a timestamp. You can copy the snowflake from a message, user, channel, etc by right clicking on them in Discord. This will let you check the age of a Discord account or server.
 - [Discord History Tracker](https://dht.chylex.com/)  
   Lets you save chat history in your servers, groups, and private conversations, and view it offline. Be careful, as this tool technically goes against Discord's ToS, so its possible that you could get your account banned!
+- [Serverse](https://extraction.team/serverse.html)  
+  Easily search for Discord servers by keyword using a simple wrapper for Yandex and Google. Made by [@jakecreps](https://twitter.com/jakecreps) and [@aleksanderrr_](https://twitter.com/aleksanderrr_).
 
 ## <u>**Facebook**</u>
 
@@ -112,6 +114,8 @@
   Unofficial GitHub star ranking for users, organizations and repositories.
 - [GitHubCompare](https://githubcompare.com/)  
   A tool that allows you to compare two GitHub repositories.
+- [GitHub Profile Summary](https://profile-summary-for-github.com/search)  
+  Get details and statistics of any GitHub profile.
 
 ## **<u>Gravatar</u>**
 
@@ -154,6 +158,8 @@
   A tool that shows you how to extract an Instagram users information in JSON format.
 - [iGram Downloader](https://igram.io/)  
   A simple online tool that allows you to download images, videos and IGTV posts via URL.
+- [InstaHunt](https://instahunt.co/)  
+  Displays Instagram posts in any chosen geographic location.
 
 ## **<u>Kik Messenger</u>**
 
