@@ -160,7 +160,7 @@ Remember, CTRL+F is your friend here.
   * [**Website Analysis**](#website-analysis)
     + [**Enumeration**](#enumeration)
     + [**Web Page Monitoring**](#web-page-monitoring)
-  * [**URL Redirects and Backlinks**](#url-redirects-and-backlinks)
+  * [**Uniform Resource Locators [URL] Redirects and Backlinks**](#uniform-resource-locators-url-redirects-and-backlinks)
   * [**Wireless Fidelity [WiFi]**](#wireless-fidelity-wifi)
   * [**Media Access Control [MAC]**](#media-access-control-mac)
   * [**User Agents**](#user-agents)
@@ -1027,7 +1027,7 @@ A Google CSE that searches for scientific publications.
 - [RetroArchive](http://www.retroarchive.org/)  
   This site was created as a logical extension to the original Commercial CP/M Software Archive. The focus has been expanded to encompass all types of "classic" computer systems and their software, not just CP/M.
 - [The Higher Intellect Software Archive](https://preterhuman.net/software/)  
-  A collection of applications, games, utilities and operating systems for older computer systems. The files available here are part of a larger collection accessible using [Hotline/KDX](https://preterhuman.net/gethotlinekdx.php) [Wayback](https://web.archive.org/web/20220127202630/https://preterhuman.net/gethotlinekdx.php), [archive.today](https://archive.ph/7ovqc) and connecting to `hl.preterhuman.net`. Focuses mostly on software from the 1980s/1990s for Macintosh and Windows/DOS platforms.
+  A collection of applications, games, utilities and operating systems for older computer systems. The files available here are part of a larger collection accessible using [Hotline/KDX](https://preterhuman.net/gethotlinekdx.php) ([Wayback](https://web.archive.org/web/20220127202630/https://preterhuman.net/gethotlinekdx.php)), ([archive.today](https://archive.ph/7ovqc)) and connecting to `hl.preterhuman.net`. Focuses mostly on software from the 1980s/1990s for Macintosh and Windows/DOS platforms.
 - [Macintosh Repository](https://www.macintoshrepository.org/)  
   An archive and sanctuary for old software from the classic MacOS era.
 - [DOS Games Archive](https://www.dosgamesarchive.com/)  
@@ -3019,7 +3019,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [Carbon Dating The Web](https://carbondate.cs.odu.edu/)  
   Predict the birthday of any web page.
 
-## **URL Redirects and Backlinks**
+## **Uniform Resource Locators [URL] Redirects and Backlinks**
 
 - [RedirectDetective](https://redirectdetective.com/)  
   A free URL redirection checker that allows you to see the complete path a redirected URL goes through.
