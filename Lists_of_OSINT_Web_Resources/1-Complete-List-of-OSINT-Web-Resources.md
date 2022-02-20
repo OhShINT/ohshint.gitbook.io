@@ -40,6 +40,7 @@ Remember, CTRL+F is your friend here.
   * [**Blog, Forum and Image Board Search**](#blog-forum-and-image-board-search)
   * [**Job Search**](#job-search)
   * [**Archive Search**](#archive-search)
+  * [**Software Search**](#software-search)
   * [**Newspaper and News Search**](#newspaper-and-news-search)
   * [**Paste Sites**](#paste-sites)
 - [<u>**Social Media Intelligence [SOCMINT]**</u>](#social-media-intelligence-socmint)
@@ -1014,6 +1015,27 @@ A Google CSE that searches for scientific publications.
   A service that lets users see how websites looked in the past.
 - [Quick Cache and Archive Search](https://cipher387.github.io/quickcacheandarchivesearch/)  
   An awesome tool created by [@cyb_detective](https://twitter.com/cyb_detective) that lets you search for older versions of websites via search engines and various web archive services.
+  
+## **Software Search**
+
+- [Internet Archive Vintage Software Collection](https://archive.org/details/vintagesoftware)  
+  The Vintage Software collection gathers various efforts by groups to classify, preserve, and provide historical software. These older programs, many of them running on defunct and rare hardware, are provided for purposes of study, education, and historical reference. 
+- [OldVersion](http://www.oldversion.com/)  
+  A large archive that provides free software downloads for old versions of programs, drivers and games.
+- [WinWorldPC](https://winworldpc.com/home)  
+  A free online museum and archive dedicated to the preservation and sharing of vintage, abandoned, and pre-release software. Offers information, media and downloads for a wide variety of computers and operating systems.
+- [RetroArchive](http://www.retroarchive.org/)  
+  This site was created as a logical extension to the original Commercial CP/M Software Archive. The focus has been expanded to encompass all types of "classic" computer systems and their software, not just CP/M.
+- [The Higher Intellect Software Archive](https://preterhuman.net/software/)  
+  A collection of applications, games, utilities and operating systems for older computer systems. The files available here are part of a larger collection accessible using [Hotline/KDX](https://preterhuman.net/gethotlinekdx.php) [Wayback](https://web.archive.org/web/20220127202630/https://preterhuman.net/gethotlinekdx.php), [archive.today](https://archive.ph/7ovqc) and connecting to `hl.preterhuman.net`. Focuses mostly on software from the 1980s/1990s for Macintosh and Windows/DOS platforms.
+- [Macintosh Repository](https://www.macintoshrepository.org/)  
+  An archive and sanctuary for old software from the classic MacOS era.
+- [DOS Games Archive](https://www.dosgamesarchive.com/)  
+  Currently has 1,135 DOS games in the archive that can be downloaded for free. These games are shareware, freeware, playable demos and full versions which are released as freeware or into the public domain.
+- [Atari Archives](https://www.atariarchives.org/)  
+  Offers books, information, and software for Atari and other classic computers available for download. Everything here is available with permission of the copyright holders.
+- [CP/M Software Archive](http://cpmarchives.classiccmp.org/)  
+  A humongous collection of the great CP/M repositories past and present.
 
 ## **Newspaper and News Search**
 
