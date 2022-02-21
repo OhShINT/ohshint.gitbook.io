@@ -335,6 +335,10 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A project from abuse.ch with the goal of sharing malicious URLs that are being used for malware distribution.
 - [FireHOL IP Lists](https://iplists.firehol.org/)  
   This site analyses all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities.
+- [Ransom-DB](https://www.ransom-db.com/)  
+  Provides ransomware tracking in real-time, tracking ransomware groups and their victims.
+- [RansomWatch](https://ransomwatch.telemetry.ltd/)  
+  A constantly updated database that tracks ransomware operators.
 
 ## **Personal Connection Profiling**
 
