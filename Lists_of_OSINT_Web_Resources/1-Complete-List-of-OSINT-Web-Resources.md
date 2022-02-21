@@ -304,7 +304,7 @@ Remember, CTRL+F is your friend here.
 - [**<u>Miscellaneous</u>**](#miscellaneous)
 
 
-<u>**Search Engines**</u>
+# <u>**Search Engines**</u>
 ===========================================================================
 
 ## **General Search**
@@ -1069,7 +1069,7 @@ A Google CSE that searches for scientific publications.
 - [Doxbin](https://doxbin.org/)  
   A document sharing and publishing website which invites users to contribute personally identifiable information (PII), or a "dox" of any person of interest. It previously operated on the darknet as a TOR hidden service.
 
-<u>**Social Media Intelligence [SOCMINT]**</u>
+# <u>**Social Media Intelligence [SOCMINT]**</u>
 ===========================================================================
 
 ## **General Social Media Tools**
@@ -1602,7 +1602,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [Qresearch](https://qresear.ch/)  
   A searchable archive of "QAnon" related posts from 8kun/8chan.
 
-<u>**Mapping and Geospatial Intelligence [GEOINT]**</u>
+# <u>**Mapping and Geospatial Intelligence [GEOINT]**</u>
 ===========================================================================
 
 ## **General Mapping Tools**
@@ -2140,6 +2140,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A collection of weird and interesting things found om Google Maps.
 
 # <u>**Imagery Intelligence [IMINT]**</u>
+===========================================================================
 
 ## **General Image Search**
 
@@ -2293,7 +2294,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [BetaFace API](https://www.betafaceapi.com/demo.html)  
   A face detection and face recognition web service. It can scan uploaded images or image URLs, find faces and analyze them.
 
-<u>**Orbital Intelligence [ORBINT]**</u>
+# <u>**Orbital Intelligence [ORBINT]**</u>
 ===========================================================================
 
 ## **General Orbital Intelligence**
@@ -2348,7 +2349,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [Aurora Service](https://auroraforecast.space/)  
   An online tool and map that monitors visible auroras, geomagnetic and solar radiation activity.
 
-<u>**Business Research and Trade Intelligence [TRADINT]**</u>
+# <u>**Business Research and Trade Intelligence [TRADINT]**</u>
 ===========================================================================
 
 ## **General Business Search**
@@ -2438,7 +2439,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [52WMB](https://en.52wmb.com/)  
   International trade data service platform that provides customs data, a buyer and supplier directory, B/L, industry reports, and more. Requires registration.
 
-<u>**Financial Intelligence [FININT]**</u>
+# <u>**Financial Intelligence [FININT]**</u>
 ===========================================================================
 
 ## **General FININT**
@@ -2561,7 +2562,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [World Currency Codes and Symbols](https://www.currencyremitapp.com/world-currency-symbols/)  
   A list of currencies, currency codes and symbols that are used by each country in the world.
 
-<u>**Vehicle and Transportation Intelligence [VATINT]**</u>
+# <u>**Vehicle and Transportation Intelligence [VATINT]**</u>
 ===========================================================================
 
 ## **Road Vehicles**
@@ -2919,7 +2920,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [BusGO](https://bus.go.kr/searchResult6.jsp)  
   View routes and timetables for all public transportation systems operating in Seoul, South Korea.
 
-<u>**Digital Network Intelligence [DNINT]**</u>
+# <u>**Digital Network Intelligence [DNINT]**</u>
 ===========================================================================
 
 ## **WHOIS**
@@ -3300,7 +3301,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [Wikipedia - Lists of Internet Service Providers by Country](https://en.wikipedia.org/wiki/Category:Internet_service_providers_by_country) ([WikiLess](https://wikiless.org/wiki/Category:Internet_service_providers_by_country))  
   Lists of ISPs organized by country.
 
-<u>**Signals Intelligence [SIGINT]**</u>
+# <u>**Signals Intelligence [SIGINT]**</u>
 ===========================================================================
 
 ## **Radio Frequencies**
@@ -3359,7 +3360,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [Canadian Amateur Radio Operator Search](https://apc-cap.ic.gc.ca/pls/apc_anon/query_amat_cs$.startup)  
   A database where you can search Canadians who are licensed amateur radio operators. Search by callsign, last name, city, province or postal code.
 
-<u>**Deep Webs and Darknets**</u>
+# <u>**Deep Webs and Darknets**</u>
 ===========================================================================
 
 ## **General Darknet Search**
@@ -3471,7 +3472,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [NZBFriends](https://nzbfriends.com/)  
   A search engine for Usenet.
 
-<u>**People Investigations**</u>
+# <u>**People Investigations**</u>
 ===========================================================================
 
 ## **General People Search**
@@ -3578,7 +3579,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [The Inmate Search](https://theinmatesearch.net/)  
   Yet another U.S. inmate search tool.
 
-<u>**Email Addresses**</u>
+# <u>**Email Addresses**</u>
 ===========================================================================
 
 ## **General Email Tools**
@@ -3664,7 +3665,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [Keybase](https://keybase.io/)  
   Search for Keybase users and PGP keys.
 
-<u>**Phone Numbers**</u>
+# <u>**Phone Numbers**</u>
 ===========================================================================
 
 ## **General Phone Number Tools**
@@ -4123,7 +4124,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - **Venezuela**
 
 
-<u>**Usernames**</u>
+# <u>**Usernames**</u>
+===========================================================================
 
 ## **General Username Tools**
 
@@ -4162,7 +4164,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [NAMINT](https://seintpl.github.io/NAMINT/)  
   An awesome JavaScript tool to generate possible usernames and login search patterns with links. Created by [@SEINT_pl](https://.twitter.com/SEINT_pl)
 
-<u>**Gaming**</u>
+# <u>**Gaming**</u>
+===========================================================================
 
 ## **Gaming Forums**
 
@@ -4225,7 +4228,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Search for a player by their username and view their Fortnite statistics.
 
 
-<u>**Real Estate**</u>
+# <u>**Real Estate**</u>
+===========================================================================
 
 ## **General Real Estate**
 
@@ -4248,7 +4252,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 
 ## **Property Records**
 
-<u>**Data Sets**</u>
+# <u>**Data Sets**</u>
+===========================================================================
 
 ## **General Data Sets**
 
@@ -4330,6 +4335,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A journalist 501(c)(3) non-profit devoted to enabling the free transmission of data in the public interest. Aims to avoid political, corporate or personal leanings, to act as a beacon of available information.
 
 # <u>**Organized Crime and Illicit Trade**</u>
+===========================================================================
 
 ## **General Organized Crime**
 
@@ -4472,7 +4478,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Provides information and threat intelligence on the global black market. The information about the black market has been collected from government agencies, academic studies, media reports, and reported data from other private sources.
 
 
-<u>**Stolen Property**</u>
+# <u>**Stolen Property**</u>
+===========================================================================
 
 ## **Antiquities and Art**
 
@@ -4540,6 +4547,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Find out whether numbered object is lost. A full identification number of an object is required. Indicate the whole number or a part of it searching for lost bicycles.
 
 # <u>**War, Crisis and Conflicts**</u>
+===========================================================================
 
 ## **General Crisis and Conflicts**
 
@@ -4580,6 +4588,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   A global map and display of terrorism, attacks and other suspicious events. Requires a paid subscription.
 
 # <u>**Weapons and Equipment Identification**</u>
+===========================================================================
 
 ## **Firearms and Ammunition**
 
@@ -4743,6 +4752,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   This visualization includes over 1 million individual import and export data points from annual custom reports and maps the transfer of small arms, light weapons and other munitions.
 
 # <u>**Government Information**</u>
+===========================================================================
 
 ## **General Information**
 
@@ -4922,7 +4932,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 - [Invalid Document Check](https://nd.dmsu.gov.ua/english.php)  
   Search for invalid personal documents issues by the government of Ukraine. Including passports, national ID cards, refugee status cards, residency permits and more.
 
-<u>**Dictionaries, Translation and Decoding**</u>
+# <u>**Dictionaries, Translation and Decoding**</u>
 ===========================================================================
 
 ## **General Translation**
@@ -4994,7 +5004,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 - [EpochConverter](https://www.epochconverter.com/)  
   A free online tool that converts Unix timestamps into human-readable format.
 
-**<u>Miscellaneous</u>** 
+# **<u>Miscellaneous</u>** 
 ===========================================================================
 
 - [OH SHINT! Blog](https://ohshint.gitbook.io/)  
