@@ -1,7 +1,7 @@
 **Mapping and Geo-Spatial Intelligence [GEOINT]**
 ===========================================================================
 
-## <u>**General Mapping Tools**</u>
+## **General Mapping Tools**
 
 - [Google Maps](https://www.google.com/maps)  
   A web mapping platform and consumer application offered by Google. It offers satellite imagery, aerial photography, street maps, 360° interactive panoramic views of streets, real-time traffic conditions, and route planning for traveling by foot, car, air and public transportation.
@@ -109,8 +109,12 @@
   Make and share maps. Import custom data fields for each location, then dynamically filter the data based on values in those custom fields. Requires registration.
 - [MapMyIndia](https://maps.mapmyindia.com/)  
   India's leader in premium quality digital map data, APIs, GPS navigation, tracking, location apps and GIS solutions. Also offers a very useful 360° view mode.
+- [OSMZ](http://osmz.ru/imagery)  
+  OpenStreetMap and satellite imagery from MapBox, Maxar, Bing, and Esri. Links to Google Street View, Mapillary and Yandex panoramas for any given location.
+- [SpyMeSat](https://www.spymesat.com/web/#/Home)  
+  Gives you on-demand access to search, preview, and purchase the most recent, high-resolution commercial satellite imagery.
 
-## **<u>Street View Maps</u>**
+## **Street View Maps**
 
 - [KartaView](https://kartaview.org/landing)  
   Is a project to collect crowdsourced street-level photographs for improving OpenStreetMap.
@@ -124,8 +128,10 @@
   Click on a point on the map to see a 360 degree video panorama of the selected area.
 - [ShowMyStreet](https://showmystreet.com/)  
   A simple tool for exploring Google Street View.
+- [Street View Fun](https://www.streetviewfun.com/)  
+  A collection of interesting and funny things found on Google Street View.
 
-## <u>**Political Maps**</u>
+## **Political Maps**
 
 - [IR Map](https://www.ir-map.com/)  
   IR Map provides a clear and comprehensive picture of international relations between countries.
@@ -170,7 +176,7 @@
 - [EU Sanctions Map](https://sanctionsmap.eu/#/main)  
   A map that displays the details of current sanctions imposed on countries by the European Union.
 
-## **<u>Topographic and Geologic Maps</u>**
+## **Topographic and Geologic Maps**
 
 - [USGA TopoView](https://ngmdb.usgs.gov/topoview/viewer/)  
   Enter a location in the search bar and see all topographic maps for that location. USA based.
@@ -183,7 +189,7 @@
 - [OpenTopography](https://portal.opentopography.org/datasets)  
   An interactive map that helps users find and download any available topographic data for a specific area.
   
-## **<u>Historical Maps</u>**
+## **Historical Maps**
 
 - [OldMapsOnline](https://www.oldmapsonline.org/)  
   Offers old and historic maps from all over the world.
@@ -192,9 +198,9 @@
 - [Disease Map](http://disease-map.net/)  
   An interactive map of human diseases, both historical and current.
 
-## **<u>Weather Maps</u>**
+## **Weather Maps**
 
-### **<u>General Weather Maps</u>**
+### **General Weather Maps**
 
 - [Zoom Earth](https://zoom.earth/)  
   View live satellite images, rain radar, and animated wind speed maps. Track the latest hurricanes, weather and wildfires in real-time.
@@ -235,7 +241,7 @@
 - [OpenSnowMap](https://www.opensnowmap.org/)  
   A community-created and maintained ski map of the world, displaying more than 150,000km of skiing locations.
 
-### **<u>Natural Disaster Maps</u>**
+### **Natural Disaster Maps**
 
 - [FireSmoke](https://firesmoke.ca/)  
   Contains information about wildland fire weather and smoke. From here you can access smoke forecasts, fire weather forecasts, fire information and track the movement of smoke.
@@ -266,9 +272,9 @@
 - [North American Forest Fire Map](https://fires.globalincidentmap.com/)  
   An interactive map that displays on-going forest fires in North America.
 
-## **<u>Ocean Maps</u>**
+## **Ocean Maps**
 
-### **<u>General Ocean Maps</u>**
+### **General Ocean Maps**
 
 - [NCEC Bathymetric Maps](https://www.ngdc.noaa.gov/mgg/bathymetry/maps/nos_intro.html)  
   NCEI is the official distribution point for NOS bathymetric maps, bathymetric/fishing maps, regional maps, geophysical maps, and preliminary maps.
@@ -283,7 +289,7 @@
 - [OpenCPN](https://opencpn.org/)  
   This software allows you to download and organize ocean and navigation charts.
 
-### **<u>Shipwreck Maps</u>**
+### **Shipwreck Maps**
 
 - [ShipwreckWorld](https://www.shipwreckworld.com/maps/)  
   An interactive map of shipwrecks from around the world.
@@ -294,7 +300,7 @@
 - [Wrecks and Obstructions](https://nauticalcharts.noaa.gov/data/wrecks-and-obstructions.html)  
   A database and map of shipwrecks and obstructions on the sea floor.
 
-## <u>**Tree Maps**</u>
+## **Tree Maps**
 
 - [GlobalForestWatch](https://www.globalforestwatch.org/map/)  
   Explore the state of forests worldwide by analyzing tree cover change on GFW's interactive global forest map using satellite data.
@@ -311,9 +317,9 @@
 - [Toronto Street Trees](https://open.toronto.ca/dataset/street-tree-data/)  
   A dataset of street trees in Toronto, ON Canada.
 
-## <u>**Network Maps**</u>
+## **Network Maps**
 
-### <u>**Internet Maps**</u>
+### **Internet Maps**
 
 - [HE Backbone Network Map](https://he.net/3d-map/)  
   A 3D WebGL map of Hurricane Electric's backbone network, global submarine cables and global data-centers.
@@ -346,7 +352,7 @@
 - [Halcyon 2021 Map of the Internet](https://www.halcyonmaps.com/map-of-the-internet-2021)  
   Inspired by design of historical maps, this project aims to concisely, but still comprehensively visualize the current state of the World Wide Web.
 
-### **<u>Cell Tower Maps</u>**
+### **Cell Tower Maps**
 
 - [OpenCellID](https://opencellid.org/)  
   The world's largest open database of cell towers.
@@ -357,7 +363,7 @@
 - [Canadian Cellular Tower Map](https://www.ertyu.org/steven_nikkel/cancellsites.html)  
   Presents the locations of tower sites for each licensed Canadian wireless provider. Each site is indicated by a color coded icon.
 
-### **<u>Cellular Coverage Maps</u>**
+### **Cellular Coverage Maps**
 
 - [CellMapper](https://www.cellmapper.net/map)  
   A crowd-sourced cellular tower and coverage mapping service for the USA. Maps actual coverage of cellular networks based on real life conditions and the coverage and signal strength of the network in areas that have been mapped.
@@ -374,14 +380,14 @@
 - [GSMA Network Coverage Maps](https://www.gsma.com/coverage/)  
   Continuously updated GSMA network coverage maps. Simply select the country you are visiting and the operators in that country will be listed.
 
-### **<u>Satellite Phone Coverage Maps</u>**
+### **Satellite Phone Coverage Maps**
 
 - [SatPhoneCoverageMaps](https://www.satphonestore.com/coveragemaps)  
   Coverage maps for various satellite phone providers such as Iridium, Inmarsat, GlobalStar, Thuraya and more.
 - [Canadian Satellite Phone Coverage](https://www.canadasatellite.ca/Canada-Satellite-Coverage-Maps-s/2571.htm)  
   Coverage maps for satellite phone providers for Canada.
 
-## <u>**Industry Maps**</u>
+## **Industry Maps**
 
 - [MinDat](https://www.mindat.org/countrylist.php)  
   Maps, information and images regarding mineral mines in various different countries.
@@ -396,7 +402,7 @@
 - [U.S. Energy, Environment and Policy Map](https://www.bakerinstitute.org/energy-environment-and-policy-in-the-us/)  
   This interactive map shows the locations of critical energy facilities in the U.S.
   
-## <u>**Landmark Recognition**</u>
+## **Landmark Recognition**
 
 - [HeyWhatsThat](https://heywhatsthat.com/)  
   A large collection of panoramic images from many different mountain summits all over the world.
@@ -417,7 +423,7 @@
 - [CCD School Map](https://nces.ed.gov/ccd/schoolmap/)  
   An interactive map of schools, colleges and universities in the U.S.
   
-## <u>**Outdoor Activity Maps**</u>
+## **Outdoor Activity Maps**
 
 - [Strava Heatmap](https://www.strava.com/heatmap)  
   A heat map from athletes all over the world. Shows places that are popular spots for physical activity. Data collected from Strava, map updated monthly.
@@ -440,7 +446,8 @@
 - [OpenCycleMap](https://www.opencyclemap.org/)  
   A global cycling map for general overview and trip planning.
   
-## <u>**Drone Footage**</u>
+## **Drone Footage**
+  
 - [TravelWithDrone](https://travelwithdrone.com/)  
   A database of aerial drone footage and community of travel and quadcopter enthusiasts.
 - [Dronestagr.am](https://www.dronestagr.am/)  
@@ -455,8 +462,10 @@
   Search and download free drone videos.
 - [ArtGrid](https://artgrid.io/category/178/aerials)  
   A collection of free drone footage and videos from different locations.
+- [Map of Drone Laws](https://foxnomad.com/2017/07/25/map-shows-drone-laws-every-country-world-updated-regularly/)  
+  An interactive map that displays laws for drones per country.
 
-## <u>**Other Mapping Resources**</u>
+## **Other Mapping Resources**
 
 - [World Map of OSINT Tools](https://cipher387.github.io/osintmap/)  
   An awesome collection of OSINT tools plotted and sorted on a map. Created by [@cyb_detective](https://twitter.com/cyb_detective), be sure to give him a follow!
@@ -524,3 +533,5 @@
   A global live map of disease and virus outbreaks, cases and related deaths.
 - [AMBER Alert Map](https://amberalerts.globalincidentmap.com/home.php)  
   A live map that displays current AMBER alerts in real-time.
+- [Weird Google Earth](https://www.weirdgoogleearth.com/)  
+  A collection of weird and interesting things found om Google Maps.
