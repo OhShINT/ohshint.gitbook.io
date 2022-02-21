@@ -18,6 +18,8 @@
   Enter an IP address and date to find out whether that address was used as a Tor relay.
 - [TorWHOIS](https://torwhois.com/)  
   Look up an .onion address and see basic information such as date last seen, open ports, running software and banners. You can also query specific onions from the command line: `whois -h torwhois.com facebookcorewwwi.onion`
+- [Ahmia Link Graph](https://ahmia.fi/stats/link_graph/)  
+  Enter a name of any .onion domain zone and see what other sites in the zone it's associated with.
 
 ### **<u>TOR Search Engines and Directories</u>**
 
