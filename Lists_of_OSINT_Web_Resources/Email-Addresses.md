@@ -1,7 +1,7 @@
 **Email Addresses**
 ===========================================================================
 
-## **<u>General Email Tools</u>**
+## **General Email Tools**
 
 - [Epieos Email Tool](https://tools.epieos.com/email.php)  
   Enter an email address and see which sites the email address has been used. This is a web frontend of the [holehe](https://github.com/megadose/holehe) tool.
@@ -21,8 +21,10 @@
   Search a domain name and get a list of email addresses. Requires registration.
 - [Phonebook.cz](https://phonebook.cz/)  
   A tool from IntelX that lists all domains, email addresses, or URLs for the given input domain. Wildcards such as `*.gov.uk` are allowed. Search over 34 billion records.
+- [Have I Been Sold?](https://haveibeensold.app/)  
+  A service that checks for email address that are included in marketing and spamming databases.
 
-## <u>**Data Breach Search**</u>
+## **Data Breach Search**
 
 - [HaveIBeenPwned](https://haveibeenpwned.com/)  
   Lets you search for an email address or phone number. Will tell you what breaches include what you have searched.
@@ -71,7 +73,7 @@
 - [CheckLeaked](https://checkleaked.cc/)  
   Discover leaks, know the passwords and information that hackers already have about you. Requires a paid subscription.
 
-## <u>**Pretty Good Privacy [PGP]**</u>
+## **Pretty Good Privacy [PGP]**
 
 - [MIT PGP Public Key Server](https://pgp.mit.edu/)  
   A searchable database of public PGP keys from MIT.
