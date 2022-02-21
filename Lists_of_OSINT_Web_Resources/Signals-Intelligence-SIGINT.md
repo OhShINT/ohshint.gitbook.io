@@ -1,7 +1,7 @@
 **Signals Intelligence [SIGINT]**
 ===========================================================================
 
-## **<u>Radio Frequencies</u>**
+## **Radio Frequencies**
 
 - [Signal Identification Wiki](https://www.sigidwiki.com/wiki/Signal_Identification_Guide)  
   Identify radio signals through example sounds and waterfall images. Most signals are received and recorded using a software defined radio.
@@ -47,8 +47,10 @@
   A list of currently available link stations for amateur radio operators.
 - [FindU](https://www.findu.com/)  
   The primary source of data is an amateur radio system called APRS, some weather data comes from an internet based system called the Citizen Weather Observer Program. Data is constantly being updated.
+- [EAM Watch](https://eam.watch/)  
+  A community log of Emergency Action Messages broadcasted through the High Frequency Global Communication System.
 
-## <u>**HAM Radio**</u>
+## **HAM Radio**
 
 - [QRZ Callsign Database](https://www.qrz.com/lookup/)  
   Search for licensed HAM radio operators by callsign, real name, address, country and more.
