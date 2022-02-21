@@ -4124,7 +4124,6 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 
 
 <u>**Usernames**</u>
-===========================================================================
 
 ## **General Username Tools**
 
@@ -4164,7 +4163,6 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   An awesome JavaScript tool to generate possible usernames and login search patterns with links. Created by [@SEINT_pl](https://.twitter.com/SEINT_pl)
 
 <u>**Gaming**</u>
-===========================================================================
 
 ## **Gaming Forums**
 
@@ -4228,7 +4226,6 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 
 
 <u>**Real Estate**</u>
-===========================================================================
 
 ## **General Real Estate**
 
@@ -4252,7 +4249,6 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 ## **Property Records**
 
 <u>**Data Sets**</u>
-===========================================================================
 
 ## **General Data Sets**
 
@@ -4477,7 +4473,6 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 
 
 <u>**Stolen Property**</u>
-===========================================================================
 
 ## **Antiquities and Art**
 
@@ -4570,6 +4565,10 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   An interactive and customizable map detailing hate, extremist and antisemitic incidents by state and nationwide.
 - [HAZMAT Situation Map](https://hazmat.globalincidentmap.com/map.php)  
   A map of current hazardous material situations, incidents and deployments in North America.
+- [Russian Military Map](https://www.gfsis.org/maps/russian-military-forces)  
+  An interactive map of Russian military forces that is regularly updated.
+- [MapHub Russian and Ukraine Conflict Monitor](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)  
+  A crowdsourced effort to map, document and verify information in order to provide reliable information for policymakers and journalists of the on-the-ground and online situation in and around Ukraine.
 
 ## **Terrorism**
 
@@ -4580,8 +4579,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 - [Global Incident Map](https://www.globalincidentmap.com/)  
   A global map and display of terrorism, attacks and other suspicious events. Requires a paid subscription.
 
-<u>**Weapons and Equipment Identification**</u>
-===========================================================================
+# <u>**Weapons and Equipment Identification**</u>
 
 ## **Firearms and Ammunition**
 
