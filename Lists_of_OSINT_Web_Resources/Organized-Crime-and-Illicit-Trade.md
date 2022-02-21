@@ -1,6 +1,6 @@
 # **Organized Crime and Illicit Trade**
 
-## **<u>General Organized Crime</u>**
+## **General Organized Crime**
 
 - [InsightCrime](https://insightcrime.org/countries/)  
   Criminal history, latest news and investigations organized by country. Provides news and information about the drug trade, armed groups, criminal actors, and other investigative reports.
@@ -19,7 +19,7 @@
 - [Mugshots](https://mugshots.com/)  
   Search for mugshots of convicted American criminals.
 
-## **<u>Most Wanted Fugitives</u>**
+## **Most Wanted Fugitives**
 
 - [INTERPOL Red Notices](https://www.interpol.int/en/How-we-work/Notices/View-Red-Notices)  
   Basically INTERPOL's list of the most wanted fugitives. This is one hell of a list to be on.
@@ -40,7 +40,7 @@
 - [Europe's Most Wanted Fugitives](https://eumostwanted.eu/)  
   A list of the most wanted criminals in Europe. List is maintained by EUROPOL.
 
-## <u>**Criminal Enterprises, Gangs and Syndicates**</u>
+## **Criminal Enterprises, Gangs and Syndicates**
 
 - [GangstersInc](https://gangstersinc.org/)  
   One of the best places for the latest news and in-depth reporting on the Mafia and other organized crime groups from around the world.
@@ -57,7 +57,7 @@
 - [Gang Activity Map](https://gangs.globalincidentmap.com/home.php)  
   A map that displays gang activity, arrests and other gang-related events in the United States.
 
-## <u>**Human Trafficking and Migration**</u>
+## **Human Trafficking and Migration**
 
 - [Global Modern Slavery Directory](https://www.globalmodernslavery.org/)  
   Designed to be a useful tool for all stakeholders in the global anti-human trafficking field including providers, potential victims, survivors, community members, researchers, students, and others looking to identify or connect with resources.
@@ -72,7 +72,7 @@
 - [Human Trafficking Incident Map](https://human.globalincidentmap.com/)  
   A map of worldwide human trafficking incidents. Also includes a new feed.
 
-## **<u>Drugs and Drug Trade</u>**
+## **Drugs and Drug Trade**
 
 - [RxList Pill Identification Tool](https://www.rxlist.com/pill-identification-tool/article.htm)  
 Search for and identify any unknown pills and/or capsules. Search by brand, imprints, color and shape.
@@ -95,7 +95,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 - [Global Drug Interdictions Map](https://drugs.globalincidentmap.com/)  
   A continuously updated global map of drug interdictions.
 
-## **<u>Wildlife Crime</u>**
+## **Wildlife Crime**
 
 - [GIJN Illegal Wildlife Trafficking Guide](https://gijn.org/illegal-wildlife-trafficking-table-of-contents-and-introduction/)  
   A guide from GIJN on how to conduct investigations regarding the illicit wildlife trade.
@@ -120,7 +120,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 - [[PDF] UNODC Wildlife and Forest Crime Analytic Toolkit](https://cites.org/sites/default/files/common/resources/pub/ICCWC_Toolkit_v2_english.pdf)  
   A very well put together document that gives a comprehensive overview for understanding the main issues related to environmental offences and for analysing preventive and criminal justice responses to wildlife and forest offences in a given country. Archived copies available [here (Wayback)](https://web.archive.org/web/20210927063331/https://cites.org/sites/default/files/common/resources/pub/ICCWC_Toolkit_v2_english.pdf) and [here (Library Genesis)](https://libgen.rs/book/index.php?md5=ADBA125A24A701D05960BD71CA5F59BB).
 
-## <u>**Fraud and Scams**</u>
+## **Fraud and Scams**
 
 - [Fake-Scam](https://www.fake-scam.info/)  
   A German website with information, reports and guides on how to identify and avoid scams. Click [here](https://www-fake--scam-info.translate.goog/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-GB&_x_tr_pto=nui) for a German to English translation.
@@ -132,8 +132,14 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   A worldwide database of phone numbers that have been proven to be used by internet scammers. Tells you where in the world it is from, along with any other additional details that are available.
 - [ScamDigger](https://scamdigger.com/)  
   A list of people who have been reported as scammers. Searchable via email, IP, real name and username. Data is crowd-sourced, so there is potential of false positives.
+- [Male-Scammers](https://www.male-scammers.com/)  
+  A crowd-sourced database of romance scammers.
+- [Scammers.ru](https://scammers.ru/)  
+  A searchable database of Russian scammers and online dating agencies.
+- [ScamsOnline](https://scamsonline.org/)  
+  Photos of real relationship and romance scammers, as well as other images commonly used by these scammers.
 
-## **<u>Other Illicit Trade</u>**
+## **Other Illicit Trade**
 - [ICOM Red Lists](https://icom.museum/en/resources/red-lists/)  
   This illustrated database compiles all the categories of at-risk cultural goods  in the ICOM Red Lists. For more information on the Red Lists, please visit their [dedicated page](https://icom.museum/en/our-actions/heritage-protection/red-lists/).
 - [Havocscope](https://havocscope.com/)  
