@@ -102,6 +102,8 @@
   A free online service to finding icons on websites. Just enter in a target URL.
 - [SOCRadar Deep Web Report](https://labs.socradar.com/deep-web-report/)  
   Search a domain and get a simple report of the companies exposure. Requires a paid subscription to view full reports.
+- [Well-Known.dev](https://well-known.dev/)  
+  Search well-known resources, phrases, and terms served by ad sites across the web.
   
 ### **Web Page Monitoring**
 
@@ -114,7 +116,7 @@
 - [Carbon Dating The Web](https://carbondate.cs.odu.edu/)  
   Predict the birthday of any web page.
 
-## **URL Redirects and Backlinks**
+## **Uniform Resource Locators [URL] Redirects and Backlinks**
 
 - [RedirectDetective](https://redirectdetective.com/)  
   A free URL redirection checker that allows you to see the complete path a redirected URL goes through.
@@ -134,6 +136,8 @@
   Scan URLs for any malicious activity.
 - [OpenLinkProfiler](https://openlinkprofiler.org)  
   A free link research tool that enables you to check the backlinks of any website. Enter a domain name in the search box and click the 'Get backlink data' button to get an immediate link analysis.
+- [Short Link Verification Cheatsheet](https://seintpl.github.io/osint/short-links-verification-cheatsheet)  
+  A list of techniques to verify links from many URL shortening services. Created by [@SIENT_pl](https://twitter.com/SEINT_pl). Archived [here (Wayback)](https://web.archive.org/web/20220213024000/https://seintpl.github.io/osint/short-links-verification-cheatsheet) and [here (archive.today)](https://archive.ph/Z4lWo).
 
 ## **Wireless Fidelity [WiFi]**
 
@@ -159,6 +163,8 @@
   The UK's biggest Wi-Fi hotspot network. Over 5 million available hotspots nation wide.
 - [OpenWiFiSpots](http://openwifispots.com/)  
   Search for free open wireless networks worldwide.
+- [Airport WiFi](https://umap.openstreetmap.fr/en/map/wireless-passwords-from-airports-and-lounges-aroun_107272#9/)  
+  Provides WiFi passwords from airports and lounges around the world.
 
 ## **Media Access Control [MAC]**
 
