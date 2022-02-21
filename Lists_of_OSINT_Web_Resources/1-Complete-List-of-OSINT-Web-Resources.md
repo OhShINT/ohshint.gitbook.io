@@ -75,7 +75,7 @@ Remember, CTRL+F is your friend here.
   * [**YouTube**](#youtube)
   * [**WhatsApp**](#whatsapp)
   * [**4chan and 8chan**](#4chan-and-8chan)
-- [<u>**Mapping and Geo-Spatial Intelligence [GEOINT]**</u>](#mapping-and-geo-spatial-intelligence-geoint)
+- [<u>**Mapping and Geospatial Intelligence [GEOINT]**</u>](#mapping-and-geospatial-intelligence-geoint)
   * [**General Mapping Tools**](#general-mapping-tools)
   * [**Street View Maps**](#street-view-maps)
   * [**Political Maps**](#political-maps)
@@ -1602,7 +1602,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [Qresearch](https://qresear.ch/)  
   A searchable archive of "QAnon" related posts from 8kun/8chan.
 
-<u>**Mapping and Geo-Spatial Intelligence [GEOINT]**</u>
+<u>**Mapping and Geospatial Intelligence [GEOINT]**</u>
 ===========================================================================
 
 ## **General Mapping Tools**
@@ -1713,6 +1713,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Make and share maps. Import custom data fields for each location, then dynamically filter the data based on values in those custom fields. Requires registration.
 - [MapMyIndia](https://maps.mapmyindia.com/)  
   India's leader in premium quality digital map data, APIs, GPS navigation, tracking, location apps and GIS solutions. Also offers a very useful 360° view mode.
+- [OSMZ](http://osmz.ru/imagery)  
+  OpenStreetMap and satellite imagery from MapBox, Maxar, Bing, and Esri. Links to Google Street View, Mapillary and Yandex panoramas for any given location.
+- [SpyMeSat](https://www.spymesat.com/web/#/Home)  
+  Gives you on-demand access to search, preview, and purchase the most recent, high-resolution commercial satellite imagery.
 
 ## **Street View Maps**
 
@@ -1728,6 +1732,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Click on a point on the map to see a 360 degree video panorama of the selected area.
 - [ShowMyStreet](https://showmystreet.com/)  
   A simple tool for exploring Google Street View.
+- [Street View Fun](https://www.streetviewfun.com/)  
+  A collection of interesting and funny things found on Google Street View.
 
 ## **Political Maps**
 
@@ -2059,6 +2065,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search and download free drone videos.
 - [ArtGrid](https://artgrid.io/category/178/aerials)  
   A collection of free drone footage and videos from different locations.
+- [Map of Drone Laws](https://foxnomad.com/2017/07/25/map-shows-drone-laws-every-country-world-updated-regularly/)  
+  An interactive map that displays laws for drones per country.
 
 ## **Other Mapping Resources**
 
@@ -2128,6 +2136,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A global live map of disease and virus outbreaks, cases and related deaths.
 - [AMBER Alert Map](https://amberalerts.globalincidentmap.com/home.php)  
   A live map that displays current AMBER alerts in real-time.
+- [Weird Google Earth](https://www.weirdgoogleearth.com/)  
+  A collection of weird and interesting things found om Google Maps.
 
 # <u>**Imagery Intelligence [IMINT]**</u>
 
