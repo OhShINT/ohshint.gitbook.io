@@ -1,7 +1,7 @@
 **Weapons and Equipment Identification**
 ===========================================================================
 
-## <u>**Firearms and Ammunition**</u>
+## **Firearms and Ammunition**
 
 - [Armalytics](https://www.armalytics.ca/)  
   Here is a database of almost every firearm ever made.
@@ -23,7 +23,7 @@
 - [Cartrology](http://www.cartrology.com/)  
   This cartridge collection consists of military rifle, heavy machine gun, and small to medium caliber cannon ammunition. The primary focus is on ammunition up to 35mm caliber made during WWII or later, although some specimens do fall outside of these general guidelines.
 
-## **<u>Ordnance</u>**
+## **Ordnance**
 
 - [BulletPicker](https://bulletpicker.com/_ord.html)  
   A great resource that lists information regarding ordnance, explosives, rockets, mines and other related items. Organized by type and country of origin. They also offer an offline version, which is really nice.
@@ -40,16 +40,16 @@
 - [JMU CISR Munitions Reference Guide](https://www.jmu.edu/cisr/_pages/research/munitions.shtml)  
   A list large list of landmines that includes lots of details. Does not contain images of mines.
 
-## <u>**Equipment**</u>
+## **Equipment**
 
-### **<u>General</u>**
+### **General**
 
 - [ODIN Worldwide Equipment Guide](https://odin.tradoc.army.mil/WEG)  
   The authoritative digital resource for the Worldwide Equipment Guide (WEG), Decisive Action Training Environment (DATE) and accompanying force structures. Has information about almost every piece of modern military equipment. Aircraft, vehicles, missiles, communications, small arms, naval watercraft, radar systems and much more.
 - [MilitaryFactory](https://www.militaryfactory.com/)  
   Reference covering global aerospace/aviation news, the infantry warfighter, defense vehicles, and naval/maritime offerings both past and present
 
-### <u>**Motor Vehicles**</u>
+### **Motor Vehicles**
 
 - [[PDF] Worldwide Equipment Identification Cards - North Korea/DPRK](https://fas.org/irp/doddir/army/id-dprk.pdf)  
   Visual equipment identification guide for DPRK. Archived copies available [here (Wayback)](https://web.archive.org/web/20211020005557/https://irp.fas.org/doddir/army/id-dprk.pdf) and [here (Library Genesis)](https://libgen.is/book/index.php?md5=C64836C3B4E9AC5E0FB58FA0315FBA1C).
@@ -74,7 +74,7 @@
 - [Army-Guide](http://www.army-guide.com/eng/)  
   Information about the main battle tanks, armored vehicles and armament of land forces and also the information concerning other army subjects.
 
-### <u>**Aircraft**</u> 
+### **Aircraft**
 
 - [[PDF] US Army Visual Aircraft Recognition](https://fas.org/irp/doddir/army/fm3-01-80.pdf)  
   US military guide in 2006 that was meant to identify aircraft, complete with pictures and descriptions of aircraft features. Archived copied available [here (Wayback)](https://web.archive.org/web/20211019230826/https://irp.fas.org/doddir/army/fm3-01-80.pdf) and [here (Library Genesis)](https://libgen.rs/book/index.php?md5=656F193B8047D4D45926570BC959239A).
@@ -87,7 +87,7 @@
 - [All the World's Rotorcraft](https://www.aviastar.org/helicopters.html)  
   Not very user friendly guide to rotorcraft. Not very up-to-date, however it is very useful for older rotorcraft.
 
-### <u>**Drones**</u>
+### **Drones**
 
 - [UAV List](https://fas.org/man/dod-101/sys/ac/row/uav-list.htm)  
   List of UAV systems that are publicly known with specifications such as missions, weight, speed, etc.
@@ -98,7 +98,7 @@
 - [Wikipedia - List of Unmanned Aerial Vehicles](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles) ([WikiLess](https://wikiless.org/wiki/List_of_unmanned_aerial_vehicles))  
   Wikipedia's list of UAVs that sorts UAVs by country.  
 
-### **<u>Boats</u>**
+### **Boats**
 
 - [Naval Recognition Guide](https://maritime.org/doc/id/fm30-50-naval/index.htm)  
   Useful reference to different naval ships across the world.
@@ -107,23 +107,23 @@
 - [NavyRecognition](https://www.navyrecognition.com/)  
   A neatly organized directory of naval and naval equipment used by various militaries from all over the world.
 
-### **<u>Submarines</u>**
+### **Submarines**
 
 - [[IMAGE] Submarines of the World](https://i.insider.com/554907daecad0494243bf245?width=1300&format=jpeg)  
   Visual reference guide to current submarines in service as of 2015. Archived [here (Wayback)](https://web.archive.org/web/20211026023615/https://i.imgur.com/IA8pBxC.png) and [here (archive.today)](https://archive.ph/XGg9G).
 - [US Submarines](https://www.marinevesseltraffic.com/navy-ships/US%20Submarines%20Locations%20Tracker)  
   Live tracker for Submarines in the US Navy that are able to be tracked/located. 
-- [[IMAGE] Submarine Periscopes and Optronic Mast Identification](https://imgur.com/a/8xOfbwd)  
-  A quick visual identification reference for submarine masts and scopes. Archived [here (Wayback)](https://web.archive.org/web/20220210014125/https://imgur.com/a/8xOfbwd) and [here (archive.today)](https://archive.ph/BGyIt).
+- [[IMAGE] Submarine Periscopes and Optronic Mast Identification](https://imgur.com/a/MchbA0i)  
+  A quick visual identification reference for submarine masts and scopes. Created by [@EmbersOfStirn](https://twitter.com/EmbersOfStirn). Archived [here (Wayback)](https://web.archive.org/web/20220213015630/https://imgur.com/a/MchbA0i) and [here (archive.today)](https://archive.ph/8L8Vb).
 
-## <u>**Personnel Equipment**</u>
+## **Personnel Equipment**
 
-### **<u>General</u>**
+### **General**
 
 - [Military Equipment Wiki](https://military.wikia.org/wiki/Main_Page)  
   A free MediaWiki page that lists various equipment used by militaries from around the world.
 
-### <u>**Gas Masks**</u>
+### **Gas Masks**
 
 - [GasMaskKing](https://gasmaskking.com/collection)  
   This is an excellent source of information about many different kinds of gas masks. Includes images, images of stamps, identifiers and more.
@@ -134,7 +134,7 @@
 - [Don Or Die](https://www.donordie.com/page3)  
   Contains a wealth of excellent information, detailed photos, descriptions and more. Neatly organized by country of origin.
 
-## <u>**Personnel Identification**</u>
+## **Personnel Identification**
 
 - [Camopedia](https://camopedia.org/index.php?title=Main_Page)  
   A comprehensive, accurate, and academically-supported database referencing all of the major military and paramilitary camouflage patterns that have been in use around the world since the beginning of the 20th century. 
@@ -145,7 +145,7 @@
 - [AllBadges](https://allbadges.net/en)  
   The worlds largest database of military badges and medals.
 
-## **<u>International Arms Trade</u>**
+## **International Arms Trade**
 
 - [DSCA Major International Arms Sales](https://www.dsca.mil/press-media/major-arms-sales)  
   A catalog of international weapon sales and arms deals.
