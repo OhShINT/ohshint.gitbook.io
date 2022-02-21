@@ -1,4 +1,4 @@
-**Mapping and Geo-Spatial Intelligence [GEOINT]**
+**Mapping and Geospatial Intelligence [GEOINT]**
 ===========================================================================
 
 ## **General Mapping Tools**
