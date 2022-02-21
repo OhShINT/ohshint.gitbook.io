@@ -2841,6 +2841,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A collection of train images that is plotted on an interactive map.
 - [US FRA Trespasser Casualty Map](https://fragis.fra.dot.gov/Trespassers/)  
   View information about specific incidents and deaths that happened on US railways dating back to 2011.
+- [Collection of Railroad Maps](http://www-personal.umich.edu/~yopopov/rrt/railroadmaps/)  
+  A collection of railroad maps for Russia and various European countries.
+- [Ferrocarta](https://ferrocarta.net/)  
+  Large collection of railroad maps for Brazil, Canada, France and the United States.
 
 ### **Railway Video**
 
@@ -3024,6 +3028,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A free online service to finding icons on websites. Just enter in a target URL.
 - [SOCRadar Deep Web Report](https://labs.socradar.com/deep-web-report/)  
   Search a domain and get a simple report of the companies exposure. Requires a paid subscription to view full reports.
+- [Well-Known.dev](https://well-known.dev/)  
+  Search well-known resources, phrases, and terms served by ad sites across the web.
   
 ### **Web Page Monitoring**
 
@@ -3056,6 +3062,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Scan URLs for any malicious activity.
 - [OpenLinkProfiler](https://openlinkprofiler.org)  
   A free link research tool that enables you to check the backlinks of any website. Enter a domain name in the search box and click the 'Get backlink data' button to get an immediate link analysis.
+- [Short Link Verification Cheatsheet](https://seintpl.github.io/osint/short-links-verification-cheatsheet)  
+  A list of techniques to verify links from many URL shortening services. Created by [@SIENT_pl](https://twitter.com/SEINT_pl). Archived [here (Wayback)](https://web.archive.org/web/20220213024000/https://seintpl.github.io/osint/short-links-verification-cheatsheet) and [here (archive.today)](https://archive.ph/Z4lWo).
 
 ## **Wireless Fidelity [WiFi]**
 
@@ -3081,6 +3089,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   The UK's biggest Wi-Fi hotspot network. Over 5 million available hotspots nation wide.
 - [OpenWiFiSpots](http://openwifispots.com/)  
   Search for free open wireless networks worldwide.
+- [Airport WiFi](https://umap.openstreetmap.fr/en/map/wireless-passwords-from-airports-and-lounges-aroun_107272#9/)  
+  Provides WiFi passwords from airports and lounges around the world.
 
 ## **Media Access Control [MAC]**
 
@@ -3251,6 +3261,10 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A project from abuse.ch with the goal of sharing malicious URLs that are being used for malware distribution.
 - [FireHOL IP Lists](https://iplists.firehol.org/)  
   This site analyses all available security IP Feeds, mainly related to on-line attacks, on-line service abuse, malwares, botnets, command and control servers and other cybercrime activities.
+- [Ransom-DB](https://www.ransom-db.com/)  
+  Provides ransomware tracking in real-time, tracking ransomware groups and their victims.
+- [RansomWatch](https://ransomwatch.telemetry.ltd/)  
+  A constantly updated database that tracks ransomware operators.
 
 ## **Personal Connection Profiling**
 
@@ -3350,6 +3364,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A list of currently available link stations for amateur radio operators.
 - [FindU](https://www.findu.com/)  
   The primary source of data is an amateur radio system called APRS, some weather data comes from an internet based system called the Citizen Weather Observer Program. Data is constantly being updated.
+- [EAM Watch](https://eam.watch/)  
+  A community log of Emergency Action Messages broadcasted through the High Frequency Global Communication System.
 
 ## **HAM Radio**
 
@@ -3515,6 +3531,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Includes detailed information on over 35,000 trans-atlantic slave trading voyages that occurred between 1520 and 1866 as well as estimates of the overall size and direction of the trade.
 - [Ellis Island Passenger Search](https://heritage.statueofliberty.org/)  
   A searchable archive of over 65 million records of passengers arriving to the Port of New York, USA from 1820 to 1957.
+- [VoterRecords](https://voterrecords.com/)  
+  Free political research tool to study more than 92 million U.S. voter records.
 
 ## **Genealogy** 
 
@@ -3604,6 +3622,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Search a domain name and get a list of email addresses. Requires registration.
 - [Phonebook.cz](https://phonebook.cz/)  
   A tool from IntelX that lists all domains, email addresses, or URLs for the given input domain. Wildcards such as `*.gov.uk` are allowed. Search over 34 billion records.
+- [Have I Been Sold?](https://haveibeensold.app/)  
+  A service that checks for email address that are included in marketing and spamming databases.
 
 ## **Data Breach Search**
 
@@ -4471,6 +4491,12 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   A worldwide database of phone numbers that have been proven to be used by internet scammers. Tells you where in the world it is from, along with any other additional details that are available.
 - [ScamDigger](https://scamdigger.com/)  
   A list of people who have been reported as scammers. Searchable via email, IP, real name and username. Data is crowd-sourced, so there is potential of false positives.
+- [Male-Scammers](https://www.male-scammers.com/)  
+  A crowd-sourced database of romance scammers.
+- [Scammers.ru](https://scammers.ru/)  
+  A searchable database of Russian scammers and online dating agencies.
+- [ScamsOnline](https://scamsonline.org/)  
+  Photos of real relationship and romance scammers, as well as other images commonly used by these scammers.
 
 ## **Other Illicit Trade**
 
@@ -4704,8 +4730,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Visual reference guide to current submarines in service as of 2015. Archived [here (Wayback)](https://web.archive.org/web/20211026023615/https://i.imgur.com/IA8pBxC.png) and [here (archive.today)](https://archive.ph/XGg9G).
 - [US Submarines](https://www.marinevesseltraffic.com/navy-ships/US%20Submarines%20Locations%20Tracker)  
   Live tracker for Submarines in the US Navy that are able to be tracked/located. 
-- [[IMAGE] Submarine Periscopes and Optronic Mast Identification](https://imgur.com/a/8xOfbwd)  
-  A quick visual identification reference for submarine masts and scopes. Archived [here (Wayback)](https://web.archive.org/web/20220210014125/https://imgur.com/a/8xOfbwd) and [here (archive.today)](https://archive.ph/BGyIt).
+- [[IMAGE] Submarine Periscopes and Optronic Mast Identification](https://imgur.com/a/MchbA0i)  
+  A quick visual identification reference for submarine masts and scopes. Created by [@EmbersOfStirn](https://twitter.com/EmbersOfStirn). Archived [here (Wayback)](https://web.archive.org/web/20220213015630/https://imgur.com/a/MchbA0i) and [here (archive.today)](https://archive.ph/8L8Vb).
 
 ## **Personnel Equipment**
 
@@ -5041,5 +5067,11 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Find student demographics, student/teacher ratios, enrollment and other statistics on over 300,000 public and private high schools and 9,000 school districts in the United States.
 - [List of Canadian High Schools](https://studentscholarships.org/maps/highschool/high_school.php)  
   A large list of all high schools in Canada, organized by province.
+- [WorthPoint](https://www.worthpoint.com/)  
+  Great resource for information on antiques, firearms, jewelry, fine art or other collectibles. Find prices, sold items, auctions, collectibles identification, history of items and more.
+- [Forebears](https://forebears.io/)  
+  Find information about a last name, country or place.
+- [PrePostSEO](https://www.prepostseo.com/)  
+  Over 95 different SEO tools.
 
 ![](Contact/Images/donvito.png)
