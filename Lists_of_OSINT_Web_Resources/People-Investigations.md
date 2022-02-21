@@ -1,7 +1,7 @@
 **People Investigations**
 ===========================================================================
 
-## <u>**General People Search**</u>
+## **General People Search**
 
 - [Melissa Lookups](https://www.melissa.com/v2/lookups/)  
   Arguably one of the best search tools for people out there. Provides a massive amount of tools and resources to search people by name, address, phone number and so on. They also provide loads of other useful tools and resources including maps, federal data, property records and more.
@@ -40,8 +40,10 @@
   Includes detailed information on over 35,000 trans-atlantic slave trading voyages that occurred between 1520 and 1866 as well as estimates of the overall size and direction of the trade.
 - [Ellis Island Passenger Search](https://heritage.statueofliberty.org/)  
   A searchable archive of over 65 million records of passengers arriving to the Port of New York, USA from 1820 to 1957.
+- [VoterRecords](https://voterrecords.com/)  
+  Free political research tool to study more than 92 million U.S. voter records.
 
-## <u>**Genealogy**</u> 
+## **Genealogy**
 
 - [Ancestry](https://www.ancestry.com/)  
   The world's largest collection of online family history records and genealogy records. Requires a paid subscription.
@@ -56,7 +58,7 @@
 - [CubaGenWeb](https://www.cubagenweb.org/)  
   An on-line bi-lingual depository of resources and data dedicated to Cuban Genealogy. It is intended to facilitate the search for Cuban roots by providing as much information as possible to get you started in your research and help fill in some of the missing blanks.
 
-## <u>**Court Records**</u>
+## **Court Records**
 
 - [JudyRecords](https://www.judyrecords.com/)  
   Search over 580 million United States court cases.
@@ -77,14 +79,14 @@
 - [New Zealand Court Records](https://www.courtsofnz.govt.nz/judgments/)  
   Judgements of public interest issued by the Supreme Court, Court of Appeal and the High Court of New Zealand.
 
-## <u>**Criminal Records**</u>
+## **Criminal Records**
 
 - [USA Arrests](https://arrests.org/)  
   Search for a U.S. citizen by first and last name and see that individuals recent arrests. 
 - [BC CSO](https://justice.gov.bc.ca/cso/index.do)  
   Search by name for criminal history records for residents of British Columbia, Canada.
 
-## **<u>Sex Offenders</u>**
+## **Sex Offenders**
 
 - [FamilyWatchdog](https://www.familywatchdog.us/Default.asp)  
   A free service to search for registered sex offenders in the United States.
@@ -93,7 +95,7 @@
  - [IBB Claims UK](https://www.ibbclaims.co.uk/site/services/child-abuse-and-trafficking/convicted-offenders/)  
    A list of convicted sex offenders in the UK. As the UK sex offender registry is not available to the public, the names listed are pulled from various news articles and sources.
 
-## **<u>Inmate Records</u>**
+## **Inmate Records**
 
 - [The Inmate Locator](https://theinmatelocator.com/)  
   Search for U.S. offenders, inmates and prisoners by name and state. Also provides other useful information.
