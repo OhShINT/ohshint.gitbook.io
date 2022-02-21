@@ -33,3 +33,9 @@
   Find student demographics, student/teacher ratios, enrollment and other statistics on over 300,000 public and private high schools and 9,000 school districts in the United States.
 - [List of Canadian High Schools](https://studentscholarships.org/maps/highschool/high_school.php)  
   A large list of all high schools in Canada, organized by province.
+- [WorthPoint](https://www.worthpoint.com/)  
+  Great resource for information on antiques, firearms, jewelry, fine art or other collectibles. Find prices, sold items, auctions, collectibles identification, history of items and more.
+- [Forebears](https://forebears.io/)  
+  Find information about a last name, country or place.
+- [PrePostSEO](https://www.prepostseo.com/)  
+  Over 95 different SEO tools.
