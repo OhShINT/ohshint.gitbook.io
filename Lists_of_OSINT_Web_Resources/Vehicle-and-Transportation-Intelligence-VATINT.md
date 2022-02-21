@@ -1,9 +1,9 @@
 **Vehicle and Transportation Intelligence [VATINT]**
 ===========================================================================
 
-## <u>**Road Vehicles**</u>
+## **Road Vehicles**
 
-### **<u>Vehicle Recognition</u>**
+### **Vehicle Recognition**
 
 - [CarNetAI](https://carnet.ai/)  
   An amazing tool that allows you to simply upload an image of a vehicle, and its AI will identify the make, model and year of that vehicle. Claims to have a 97% accuracy.
@@ -12,7 +12,7 @@
 - [Vehicle Recognition](https://carmodel.toolpie.com/)  
   This car recognition system can accurately identify vehicle information based on an uploaded image of a car. Including brand, model, year and color.
 
-### **<u>Vehicle Identification Numbers [VIN]</u>**
+### **Vehicle Identification Numbers [VIN]**
 
 - [VINDecoderz](https://www.vindecoderz.com/)  
   A universal VIN decoder.
@@ -23,7 +23,7 @@
 - [FaxVIN](https://www.faxvin.com/)  
   Search via VIN number and get vehicle information, specifications, title information and more. For best results, a paid subscription is required.
 
-### <u>**License Plates**</u>
+### **License Plates**
 
 - [World License Plates](http://www.worldlicenseplates.com/)  
   A catalog of license plates from around the world. Organized by country, province and state. Includes a wealth of information regarding license plates.
@@ -56,9 +56,9 @@
 - [AutoCheck License Plate Search](https://www.autocheck.com/vehiclehistory/search-by-license-plate)  
   A U.S. license plate search tool.
 
-## <u>**Marine**</u>
+## **Marine**
 
-### **<u>Vessel Tracking</u>**
+### **Vessel Tracking**
 
 - [MarineTraffic](https://www.marinetraffic.com)  
   Discover information and vessel positions for vessels around the world.
@@ -87,7 +87,7 @@
 - [Fleet Tracker News](https://news.usni.org/category/fleet-tracker)  
   This is a great site that shows you positions of U.S. Navy carriers around the world.
 
-### **<u>Vessel and Crew Information</u>**
+### **Vessel and Crew Information**
 
 - [Maritime-Connector](http://maritime-connector.com/)  
   This site allows you to facilitate a connection between ship crew and shipping jobs. Very useful.
@@ -120,7 +120,7 @@
 - [[PDF] Anatomy of a Ship](https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/archive/education/pdfs/shipparts.pdf)  
   A document that details the different parts of a vessel. Archived copies can be found [here (Wayback)](https://web.archive.org/web/20210903061140/https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/archive/education/pdfs/shipparts.pdf) and [here (archive.today)](https://archive.ph/AZksT).
 
-### **<u>Container Tracking and Information</u>**
+### **Container Tracking and Information**
 
 - [Track-Trace](https://www.track-trace.com/container)  
   A free service that allows you track shipping containers for 143 different companies.
@@ -155,9 +155,9 @@
 - [CMA CGM VoyageFinder](https://www.cma-cgm.com/ebusiness/schedules/voyage)  
   A tracking system that allows you to track any CMA CGM container by entering the Bill of Lading or Tracking Number (or Booking Reference Number). This "track-and-trace" system provides details about searched containers location.
 
-## <u>**Aircraft**</u>
+## **Aircraft**
 
-### **<u>Aircraft Tracking</u>**
+### **Aircraft Tracking**
 
 - [FlightRadar24](https://www.flightradar24.com/)  
   A global flight tracking service that provides you with real-time information about thousands of aircraft around the world.
@@ -180,7 +180,7 @@
 - [DictatorAlert](https://dictatoralert.org/)  
   A project that tracks the aircrafts of authoritarian regimes all over the world.
 
-### **<u>Aircraft Information</u>**
+### **Aircraft Information**
 
 - [PlaneSpotters](https://www.planespotters.net/)  
   Civil aviation database with 1 million photos and information on ~45000 aircraft.
@@ -209,7 +209,7 @@
 - [Parts of an Airplane](https://www.grc.nasa.gov/www/k-12/airplane/airplane.html)  
   A visual reference detailing the different parts of an aircraft.
 
-### **<u>Airport Information</u>**
+### **Airport Information**
 
 - [OurAirports](https://ourairports.com/world.html)  
   A map and database of airport information from around the world. Provides plenty of useful information and links, they also provide free downloadable datasets in various file formats that is updated daily.
@@ -234,7 +234,7 @@
 - [List of German Airfields](https://ulforum.de/flugplatzliste)  
   Great airfield database for Germany. Includes smaller training, private and military airfields. Click [here](https://www-ulforum-de.translate.goog/flugplatzliste?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US) for a German to English translation.
 
-### **<u>Other Information</u>**
+### **Other Information**
 
 - [FAA Airmen Registry](https://amsrvs.registry.faa.gov/airmeninquiry/main.aspx)  
   A searchable database of the U.S. Department of Transportation and the Federal Aviation Administration for airmen and pilots.
@@ -247,9 +247,9 @@
 - [NOTAM Map](http://notammap.net/Notam.aspx)  
   A free tool that allows you to search for NOTAMs.
 
-## **<u>Railways</u>**
+## **Railways**
 
-### **<u>Railway Maps and Tracking</u>**
+### **Railway Maps and Tracking**
 
 - [OpenRailwayMap](https://www.openrailwaymap.org/)  
   An OpenStreetMap based project for creating a map of the world's railway infrastructure.
@@ -277,8 +277,12 @@
   A collection of train images that is plotted on an interactive map.
 - [US FRA Trespasser Casualty Map](https://fragis.fra.dot.gov/Trespassers/)  
   View information about specific incidents and deaths that happened on US railways dating back to 2011.
+- [Collection of Railroad Maps](http://www-personal.umich.edu/~yopopov/rrt/railroadmaps/)  
+  A collection of railroad maps for Russia and various European countries.
+- [Ferrocarta](https://ferrocarta.net/)  
+  Large collection of railroad maps for Brazil, Canada, France and the United States.
 
-### **<u>Railway Video</u>**
+### **Railway Video**
 
 - [RailWebcams](https://railwebcams.net/)  
   Live video feeds of railway, metro and tram from around the world.
@@ -287,7 +291,7 @@
 - [RailServe](https://www.railserve.com/RailCams/)  
   Contains over 400 live video feeds of worldwide railways.
 
-### **<u>Other Information</u>**
+### **Other Information**
 
 - [European Train Station Floorplans](https://www.nsinternational.com/en/stations/station-maps-floor-plan)  
   A database of floorplans for train stations across Europe.
@@ -300,9 +304,9 @@
 - [Length of Railway Networks](https://www.citypopulation.de/en/world/bymap/railways/)  
   Provides the total length of railway networks from many different countries of the world.
 
-## **<u>Public Transit</u>**
+## **Public Transit**
 
-### **<u>General Public Transit</u>**
+### **General Public Transit**
 
 - [Travic](https://mobility.portal.geops.io/)  
   Transit routes and timetables for trains and busses operating in North America, South America, Europe, Asia and Oceania. 
@@ -313,7 +317,7 @@
 - [TransitLand](https://www.transit.land/)  
   An open data platform that collects [General Transit Feed Specification (GTFS)](https://en.wikipedia.org/wiki/General_Transit_Feed_Specification) ([WikiLess](https://wikiless.org/wiki/General_Transit_Feed_Specification)), GTFS Realtime, and other open data feeds from over 2,500 transit providers in over 55 countries. Also offers a free API.
 
-### **<u>Europe</u>**
+### **Europe**
 
 - [Live London Bus Map](https://traintimes.org.uk/map/london-buses)  
   View and track busses operating in London, UK in real-time.
@@ -336,7 +340,7 @@
 - [Tromsreise](https://tromsreise.no/)  
   View routes and timetables for all public transportation systems operating in Tromse, Norway.
 
-### **<u>North America</u>**
+### **North America**
 
 - [LADOT Transit Map](https://www.ladotbus.com/map)  
   View bus routes and timetables for Los Angeles, California USA.
@@ -349,7 +353,7 @@
 - [GrandRiverTransit](https://www.grt.ca/en/schedules-maps/desktop-realtime-map.aspx)  
   A map that shows the real-time position of GRT buses and ION trains in the Waterloo region, Canada.
 
-### **<u>Other Areas</u>**
+### **Other Areas**
 
 - [AnyTrip AU](https://anytrip.com.au/)  
   View and track public transit operating in Australia and New Zealand in real-time.
