@@ -1,6 +1,6 @@
 # **War, Crisis and Conflicts**
 
-## **<u>General Crisis and Conflicts</u>**
+## **General Crisis and Conflicts**
 
 - [CrisisWatch](https://www.crisisgroup.org/crisiswatch)  
   A global conflict tracker designed to help track developments in over 70 ongoing conflicts and crises.
@@ -24,9 +24,13 @@
   An interactive and customizable map detailing hate, extremist and antisemitic incidents by state and nationwide.
 - [HAZMAT Situation Map](https://hazmat.globalincidentmap.com/map.php)  
   A map of current hazardous material situations, incidents and deployments in North America.
+- [Russian Military Map](https://www.gfsis.org/maps/russian-military-forces)  
+  An interactive map of Russian military forces that is regularly updated.
+- [MapHub Russian and Ukraine Conflict Monitor](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)  
+  A crowdsourced effort to map, document and verify information in order to provide reliable information for policymakers and journalists of the on-the-ground and online situation in and around Ukraine.
 
 
-## **<u>Terrorism</u>**
+## **Terrorism**
 
 - [Global Terrorism Database](https://www.start.umd.edu/gtd/)  
   Provides information for over 200,000 terrorism incidents.
