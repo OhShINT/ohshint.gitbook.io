@@ -8,12 +8,20 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Search Engines**</u>
 
+### **General Search**
+
+- [Ecosia](https://www.ecosia.org/) - *Added 24/2/2022.*
+
 ### **Meta Search**
 
 - [BizNar](https://biznar.com/biznar/desktop/en/) - *Added 25/1/2022.*
 
 ### **Document and File Search**
 
+- [1337x](https://1337x.to/) - *Added 24/2/2022.*
+- [TorLock](https://www.torlock.com/) - *Added 24/2/2022.*
+- [TorrentSeeker](https://torrentseeker.com/) - *Added 24/2/2022.*
+- [ThePirateBay](https://thepiratebay.org/) - *Added 24/2/2022.*
 - [FilePhish](https://cartographia.github.io/FilePhish/) - *Added 9/2/2022.*
 - [Snowfl](https://snowfl.com/) - *Added 25/1/2022.*
 
@@ -126,6 +134,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Weather Maps**
 
+- [Real-Time Air Quality Index](https://aqicn.org/map/world) - *Added 24/2/2022.*
 - [OpenSnowMap](https://www.opensnowmap.org/) - *Added 9/2/2022.*
 
 #### **Natural Disaster Maps**
@@ -225,6 +234,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [AutoCheck License Plate Search](https://www.autocheck.com/vehiclehistory/search-by-license-plate) - *Added 2/1/2022.*
 
 ### **Aircraft**
+
+#### **Aircraft information**
+
+- [The Air Archive](https://theairchive.net/) - *Added 24/2/2022.*
 
 #### **Other Information**
 
