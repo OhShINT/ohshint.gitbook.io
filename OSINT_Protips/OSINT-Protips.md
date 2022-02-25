@@ -688,3 +688,27 @@ Here are a few more sites worth checking out as well.
 [3/3]
 
 And of course, [https://archive.org](https://archive.org/)
+
+
+## **OSINT Protip 30**
+
+> Posted on *10/2/2022* at *7:35 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1491979170997424129](https://twitter.com/ohshint_/status/1491979170997424129)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 30: 
+
+[1/2]
+
+WiFi BSSIDs can be very useful during an investigation. Can provide addresses, or even track a targets movements. 
+
+- [https://wigle.net](https://wigle.net/) 
+- [https://openwifi.su](https://openwifi.su/) 
+- [https://mylnikov.org/archives/1170](https://www.mylnikov.org/archives/1170) 
+- [https://radiocells.org](https://radiocells.org/) 
+- [https://github.com/GONZOsint/geowifi](https://github.com/GONZOsint/geowifi)
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+[2/2]
+
+Thanks to [@GONZOs_int](https://twitter.com/GONZOs_int) for creating such a useful tool! Be sure to follow him for more awesome stuff.
