@@ -240,6 +240,8 @@
   Provides maps of wind and weather model forecasts.
 - [OpenSnowMap](https://www.opensnowmap.org/)  
   A community-created and maintained ski map of the world, displaying more than 150,000km of skiing locations.
+- [Real-Time Air Quality Index](https://aqicn.org/map/world)  
+  Displays information about the air quality by location in near real-time.
 
 ### **Natural Disaster Maps**
 
