@@ -1841,6 +1841,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Provides maps of wind and weather model forecasts.
 - [OpenSnowMap](https://www.opensnowmap.org/)  
   A community-created and maintained ski map of the world, displaying more than 150,000km of skiing locations.
+- [Real-Time Air Quality Index](https://aqicn.org/map/world)  
+  Displays information about the air quality by location in near real-time.
 
 ### **Natural Disaster Maps**
 
@@ -2764,6 +2766,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Provides live air traffic control (ATC) broadcasts from air traffic control towers and radar facilities around the world.
 - [Parts of an Airplane](https://www.grc.nasa.gov/www/k-12/airplane/airplane.html)  
   A visual reference detailing the different parts of an aircraft.
+- [The Air Archive](https://theairchive.net/)  
+  An archive that covers the history of commercial aviation.
 
 ### **Airport Information**
 
