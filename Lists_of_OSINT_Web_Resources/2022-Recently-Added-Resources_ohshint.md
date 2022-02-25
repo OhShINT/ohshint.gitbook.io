@@ -21,7 +21,19 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [OSINT Jobs](https://www.osint-jobs.com/) - *Added 9/2/2022.*
 
-## **Newspaper and News Search**
+### **Software Search**
+
+- [Internet Archive Vintage Software Collection](https://archive.org/details/vintagesoftware) - *Added 21/2/2022.*
+- [OldVersion](http://www.oldversion.com/) - *Added 21/2/2022.*
+- [WinWorldPC](https://winworldpc.com/home) - *Added 21/2/2022.*
+- [RetroArchive](http://www.retroarchive.org/) - *Added 21/2/2022.*
+- [The Higher Intellect Software Archive](https://preterhuman.net/software/) - *Added 21/2/2022.*
+- [Macintosh Repository](https://www.macintoshrepository.org/) - *Added 21/2/2022.*
+- [DOS Games Archive](https://www.dosgamesarchive.com/) - *Added 21/2/2022.*
+- [Atari Archives](https://www.atariarchives.org/) - *Added 21/2/2022.*
+- [CP/M Software Archive](http://cpmarchives.classiccmp.org/) - *Added 21/2/2022.*
+
+### **Newspaper and News Search**
 
 - [BuzzSumo Content Search](https://app.buzzsumo.com/content/web) - *Added 9/2/2022.*
 
@@ -32,9 +44,21 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Tagdef](https://tagdef.com/en/) - *Added 25/1/2022.*
 - [Alternative Social Platform Search](https://www.osintcombine.com/alt-tech-social-search) - *Added 25/1/2022.*
 
+### **Discord**
+
+- [Serverse](https://extraction.team/serverse.html) - *Added 21/2/2022.*
+
 ### **Facebook**
 
 - [StalkFace](https://stalkface.com/en/) - *Added 25/1/2022.*
+
+### **GitHub**
+
+- [GitHub Profile Summary](https://profile-summary-for-github.com/search) - *Added 21/2/2022.*
+
+### **Instagram**
+
+- [InstaHunt](https://instahunt.co/) - *Added 21/2/2022.*
 
 ### **Reddit**
 
@@ -72,6 +96,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [SpyMeSat](https://www.spymesat.com/web/#/Home) - *Added 21/2/2022.*
+- [OSMZ](http://osmz.ru/imagery) - *Added 21/2/2022.*
 - [MapMyIndia](https://maps.mapmyindia.com/) - *Added 9/2/2022.*
 - [Maps.co](https://maps.co/) - *Added 9/2/2022.*
 - [Address Verification Map](https://www.informatica.com/products/data-quality/data-as-a-service/address-verification/interactive-country-map.html) - *Added 9/2/2022.*
@@ -85,6 +111,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Street View Maps**
 
+- [Street View Fun](https://www.streetviewfun.com/) - *Added 21/2/2022.*
 - [EarthViewer360](https://earthviewer360.com/) - *Added 25/1/2022.*
 - [ShowMyStreet](https://showmystreet.com/) - *Added 25/1/2022.*
 
@@ -111,6 +138,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Drone Footage** - *Added 25/1/2022.*
 
+- [Map of Drone Laws](https://foxnomad.com/2017/07/25/map-shows-drone-laws-every-country-world-updated-regularly/) - *Added 21/2/2022.*
 - [TravelWithDrone](https://travelwithdrone.com/) - *Added 25/1/2022.*
 - [Dronestagr.am](https://www.dronestagr.am/) - *Added 25/1/2022.*
 - [Mixkit Drone Footage](https://mixkit.co/free-drone-footage/) - *Added 25/1/2022.*
@@ -121,6 +149,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Mapping Resources**
 
+- [Weird Google Earth](https://www.weirdgoogleearth.com/) - *Added 21/2/2022.*
 - [AMBER Alert Map](https://amberalerts.globalincidentmap.com/home.php) - *Added 9/2/2022.*
 - [Global Disease Outbreak Map](https://outbreaks.globalincidentmap.com/) - *Added 9/2/2022.*
 - [Google Maps Scraper](https://console.apify.com/actors/nwua9Gu5YrADL7ZDj) - *Added 25/1/2022.*
@@ -201,6 +230,13 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [NOTAM Map](http://notammap.net/Notam.aspx) - *Added 2/1/2022.*
 
+### **Railways**
+
+#### **Railway Maps and Tracking**
+
+- [Collection of Railroad Maps](http://www-personal.umich.edu/~yopopov/rrt/railroadmaps/) - *Added 21/2/2022.*
+- [Ferrocarta](https://ferrocarta.net/) - *Added 21/2/2022.*
+
 ## <u>**Digital Network Intelligence [DNINT]**</u>
 
 ### **Domain Name Systems [DNS] Records**
@@ -211,7 +247,16 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Enumeration**
 
+- [Well-Known.dev](https://well-known.dev/) - *Added 21/2/2022.*
 - [SOCRadar Deep Web Report](https://labs.socradar.com/deep-web-report/) - *Added 2/1/2022.*
+
+### **Uniform Resource Locators [URL] Redirects and Backlinks**
+
+- [Short Link Verification Cheatsheet](https://seintpl.github.io/osint/short-links-verification-cheatsheet) - *Added 21/2/2022.*
+
+#### **Wireless Fidelity [WiFi]**
+
+- [Airport WiFi](https://umap.openstreetmap.fr/en/map/wireless-passwords-from-airports-and-lounges-aroun_107272#9/) - *Added 21/2/2022.*
 
 ### **Internet of Things [IoT] Search**
 
@@ -220,8 +265,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Deckchair](https://www.deckchair.com/) - *Added 25/1/2022.*
 - [Surveillance Under Surveillance](https://sunders.uber.space/) - *Added 25/1/2022.*
 
-### **Malware and Malware Analysis** - *Added 25/1/2022.*
+### **Malware and Malware Analysis**
 
+- [RansomWatch](https://ransomwatch.telemetry.ltd/) - *Added 21/2/2022.*
+- [Ransom-DB](https://www.ransom-db.com/) - *Added 21/2/2022.*
 - [vx-underground](https://www.vx-underground.org/) - *Added 25/1/2022.*
 - [Malware Traffic Analysis](https://malware-traffic-analysis.net/) - *Added 25/1/2022.*
 - [DarkFeed](https://darkfeed.io/) - *Added 25/1/2022.*
@@ -236,9 +283,19 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Abuse.ch](https://abuse.ch/) - *Added 2/1/2022.*
 - [URLHaus](https://urlhaus.abuse.ch/) - *Added 2/1/2022.*
 
+## **<u>Signals Intelligence [SIGINT]</u>**
+
+### **Radio Frequencies**
+
+- [EAM Watch](https://eam.watch/) - *Added 21/2/2022.*
+
 ## <u>**Deep Webs and Darknets**</u>
 
 ### **The Onion Router [TOR]**
+
+#### **TOR Networking Tools**
+
+- [Ahmia Link Graph](https://ahmia.fi/stats/link_graph/) - *Added 21/2/2022.*
 
 #### **TOR Search Engines and Directories**
 
@@ -255,6 +312,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [How Many of Me](http://howmanyofme.com/search/) - *Added 25/1/2022.*
 - [Business Card Search](https://cse.google.com/cse?cx=bee58a1c31f451e4a) - *Added 25/1/2022.*
 
+### **Vital Records**
+
+- [VoterRecords](https://voterrecords.com/) - *Added 21/2/2022.*
+
 ## <u>**Phone Numbers**</u>
 
 ### **General Phone Number Tools**
@@ -265,6 +326,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Email Tools**
 
+- [Have I Been Sold?](https://haveibeensold.app/) - *Added 21/2/2022.*
 - [Phonebook.cz](https://phonebook.cz/) - *Added 9/2/2022.*
 
 ## **<u>Usernames</u>**
@@ -310,10 +372,18 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [Global Drug Interdictions Map](https://drugs.globalincidentmap.com/) - *Added 9/2/2022.*
 
+### **Fraud and Scams**
+
+- [Male-Scammers](https://www.male-scammers.com/) - *Added 21/2/2022.*
+- [Scammers.ru](https://scammers.ru/) - *Added 21/2/2022.*
+- [ScamsOnline](https://scamsonline.org/) - *Added 21/2/2022.*
+
 ## <u>**War, Crisis and Conflicts**</u>
 
 ### **General Crisis and Conflicts**
 
+- [Russian Military Map](https://www.gfsis.org/maps/russian-military-forces) - *Added 21/2/2022.*
+- [MapHub Russian and Ukraine Conflict Monitor](https://maphub.net/Cen4infoRes/russian-ukraine-monitor) - *Added 21/2/2022.*
 - [ADL H.E.A.T Map](https://www.adl.org/education-and-resources/resource-knowledge-base/adl-heat-map) - *Added 9/2/2022.*
 - [HAZMAT Situation Map](https://hazmat.globalincidentmap.com/map.php) - *Added 9/2/2022.*
 
@@ -365,5 +435,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## **<u>Miscellaneous</u>**
 
+- [Forebears](https://forebears.io/) - *Added 21/2/2022.*
+- [WorthPoint](https://www.worthpoint.com/) - *Added 21/2/2022.*
+- [PrePostSEO](https://www.prepostseo.com/) - *Added 21/2/2022.*
 - [US High Schools](https://high-schools.com/) - *Added 30/1/2022.*
 - [VideoIndexer](https://www.videoindexer.ai/account/login) - *Added 2/1/2022.*
