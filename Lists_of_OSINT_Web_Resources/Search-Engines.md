@@ -32,6 +32,8 @@
   A search engine that respects your privacy and ensure neutrality and impartiality. Based in Paris, France.
 - [Brave Search](https://search.brave.com/)  
   A search engine that is currently still in beta offered by Brave.
+- [Ecosia](https://www.ecosia.org/)  
+  A generic search engine that uses the ad revenue from your searches to plant trees where they are needed the most.
 
 ## <u>**Country Specific Search Engines and Directories**</u>
 
@@ -632,6 +634,14 @@
   Search BitTorrent indexes via keywords.
 - [FilePhish](https://cartographia.github.io/FilePhish/)  
   A simple OSINT Google query builder for fast and easy document and file discovery. Made with <3 by [@aleksanderrr_](https://twitter.com/aleksanderrr_).
+- [ThePirateBay](https://thepiratebay.org/)  
+  The most well-known torrent site in the world. Beware of malware.
+- [TorrentSeeker](https://torrentseeker.com/)  
+  Torrent search engine for torrent proxy sites and trackers. Claims to search over 100 different torrent sites.
+- [TorLock](https://www.torlock.com/)  
+  A torrent site that only offers verified torrents.
+- [1337x](https://1337x.to/)  
+  Provides a directory of torrent files and magnet links used for peer-to-peer file sharing.
 
 ## **Video Search**
 
