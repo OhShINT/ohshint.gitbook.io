@@ -13,14 +13,10 @@ These lists are currently still a work in progress! It was going to take ages to
 Remember, CTRL+F is your friend here.
 
 > **Email:** `ohshint [at] protonmail.com` 
-
 > **PGP Fingerprint:** `3681 8C7A 5364 6047 4D68 EE9D 5191 FA71 A552 392F`   
 > **PGP Raw:** [ohshint_0xA552392F_public.asc](https://raw.githubusercontent.com/OhShINT/ohshint.gitbook.io/main/Contact/ohshint_0xA552392F_public.asc) 
-
 > **Twitter:** [@ohshint_](https://twitter.com/ohshint_) 
-
 > **GitHub:** [OhShINT](https://github.com/ohshint) 
-
 > **URL:** [ohshint.gitbook.io](https://ohshint.gitbook.io/oh-shint-its-a-blog/) 
 
 
