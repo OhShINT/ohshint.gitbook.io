@@ -542,6 +542,8 @@ Remember, CTRL+F is your friend here.
       Sri Lanka information including latest news, music, recipes, photos, classifieds, chat, greeting cards, forums and more.
     - [RainbowPages](https://rainbowpages.lk/)  
       Sri Lanka’s only telephone directory.
+    - [SpotJobs](https://www.spotjobs.lk/)  
+      Job search engine for Sri Lanka.
     - [XpressJobs](https://xpress.jobs/)  
       Job search engine for Sri Lanka.
     - [Wooroll](http://www.wooroll.com/)  
