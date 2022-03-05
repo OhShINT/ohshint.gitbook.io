@@ -113,6 +113,8 @@
   OpenStreetMap and satellite imagery from MapBox, Maxar, Bing, and Esri. Links to Google Street View, Mapillary and Yandex panoramas for any given location.
 - [SpyMeSat](https://www.spymesat.com/web/#/Home)  
   Gives you on-demand access to search, preview, and purchase the most recent, high-resolution commercial satellite imagery.
+- [FarEarth Observer](http://observer.farearth.com/observer/)  
+  Allows you to watch data from different orbiting satellites in the record. The data is available in 15-30 minutes after recording.
 
 ## **Street View Maps**
 
@@ -403,6 +405,8 @@
   Contains maps if the UK power grid, and also allows you to add many other layers.
 - [U.S. Energy, Environment and Policy Map](https://www.bakerinstitute.org/energy-environment-and-policy-in-the-us/)  
   This interactive map shows the locations of critical energy facilities in the U.S.
+- [PowerOutage](https://poweroutage.com/)  
+  A project to track, record, and aggregate power outages across the world.
   
 ## **Landmark Recognition**
 
