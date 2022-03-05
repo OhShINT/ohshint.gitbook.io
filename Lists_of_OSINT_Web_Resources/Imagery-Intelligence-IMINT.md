@@ -151,3 +151,5 @@
   A simple tool to measure angles within an image.
 - [BetaFace API](https://www.betafaceapi.com/demo.html)  
   A face detection and face recognition web service. It can scan uploaded images or image URLs, find faces and analyze them.
+- [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/)  
+  Simple online tool to automate the downloading of entire Imgur albums.
