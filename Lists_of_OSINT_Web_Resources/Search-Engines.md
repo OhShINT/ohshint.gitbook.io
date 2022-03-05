@@ -245,6 +245,8 @@
       Job search engine for Sri Lanka.
     - [Wooroll](http://www.wooroll.com/)  
       Search updated job listings from over 30,000 organizations and companies in Sri Lanka.
+    - [SpotJobs](https://www.spotjobs.lk/)  
+      Another great job search engine for Sri Lanka.
   - **<u>Turkey</u>**
     - [Artado Search](https://www.artadosearch.com/)  
       A Turkish search engine that aims to provide you with ad-free and safe information.
