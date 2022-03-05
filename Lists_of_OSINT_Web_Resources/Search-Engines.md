@@ -34,6 +34,8 @@
   A search engine that is currently still in beta offered by Brave.
 - [Ecosia](https://www.ecosia.org/)  
   A generic search engine that uses the ad revenue from your searches to plant trees where they are needed the most.
+- [DorkSearch](https://dorksearch.com/)  
+  A tool that gives you a list of prebuilt templates for Google Dorks for different use cases.
 
 ## <u>**Country Specific Search Engines and Directories**</u>
 
