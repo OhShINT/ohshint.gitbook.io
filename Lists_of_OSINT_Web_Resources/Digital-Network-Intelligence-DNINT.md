@@ -104,6 +104,8 @@
   Search a domain and get a simple report of the companies exposure. Requires a paid subscription to view full reports.
 - [Well-Known.dev](https://well-known.dev/)  
   Search well-known resources, phrases, and terms served by ad sites across the web.
+- [AdsByDomain](https://adsbydomain.fouanalytics.com/)  
+  Scan a domain and visualize that domains ads.
   
 ### **Web Page Monitoring**
 
