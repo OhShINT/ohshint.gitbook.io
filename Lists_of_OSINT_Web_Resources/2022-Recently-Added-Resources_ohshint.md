@@ -10,7 +10,14 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Search**
 
+- [DorkSearch](https://dorksearch.com/) - *Added 4/3/2022.*
 - [Ecosia](https://www.ecosia.org/) - *Added 24/2/2022.*
+
+### Country Specific Search Engines and Directories
+
+#### Sri Lanka
+
+- [SpotJobs](https://www.spotjobs.lk/) - *Added 4/3/2022.*
 
 ### **Meta Search**
 
@@ -104,6 +111,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [FarEarth Observer](http://observer.farearth.com/observer/)  - *Added 4/3/2022.*
 - [SpyMeSat](https://www.spymesat.com/web/#/Home) - *Added 21/2/2022.*
 - [OSMZ](http://osmz.ru/imagery) - *Added 21/2/2022.*
 - [MapMyIndia](https://maps.mapmyindia.com/) - *Added 9/2/2022.*
@@ -158,6 +166,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Mapping Resources**
 
+- [PowerOutage](https://poweroutage.com/) - *Added 4/3/2022.*
 - [Weird Google Earth](https://www.weirdgoogleearth.com/) - *Added 21/2/2022.*
 - [AMBER Alert Map](https://amberalerts.globalincidentmap.com/home.php) - *Added 9/2/2022.*
 - [Global Disease Outbreak Map](https://outbreaks.globalincidentmap.com/) - *Added 9/2/2022.*
@@ -184,6 +193,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Image Metadata and Forensics**
 
+- [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/)  - *Added 4/3/2022.*
 - [BetaFace API](https://www.betafaceapi.com/demo.html) - *Added 25/1/2022.*
 
 ## <u>**Orbital Intelligence**</u>
@@ -260,6 +270,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Enumeration**
 
+- [AdsByDomain](https://adsbydomain.fouanalytics.com/) - *Added 4/3/2022.*
 - [Well-Known.dev](https://well-known.dev/) - *Added 21/2/2022.*
 - [SOCRadar Deep Web Report](https://labs.socradar.com/deep-web-report/) - *Added 2/1/2022.*
 
