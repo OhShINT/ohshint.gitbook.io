@@ -336,6 +336,8 @@ Remember, CTRL+F is your friend here.
   A search engine that is currently still in beta offered by Brave.
 - [Ecosia](https://www.ecosia.org/)  
   A generic search engine that uses the ad revenue from your searches to plant trees where they are needed the most.
+- [DorkSearch](https://dorksearch.com/)  
+  A tool that gives you a list of prebuilt templates for Google Dorks for different use cases.
 
 ## **Country Specific Search Engines and Directories**
 
@@ -1722,6 +1724,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   OpenStreetMap and satellite imagery from MapBox, Maxar, Bing, and Esri. Links to Google Street View, Mapillary and Yandex panoramas for any given location.
 - [SpyMeSat](https://www.spymesat.com/web/#/Home)  
   Gives you on-demand access to search, preview, and purchase the most recent, high-resolution commercial satellite imagery.
+- [FarEarth Observer](http://observer.farearth.com/observer/)  
+  Allows you to watch data from different orbiting satellites in the record. The data is available in 15-30 minutes after recording.
 
 ## **Street View Maps**
 
@@ -2012,6 +2016,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Contains maps if the UK power grid, and also allows you to add many other layers.
 - [U.S. Energy, Environment and Policy Map](https://www.bakerinstitute.org/energy-environment-and-policy-in-the-us/)  
   This interactive map shows the locations of critical energy facilities in the U.S.
+- [PowerOutage](https://poweroutage.com/)  
+  A project to track, record, and aggregate power outages across the world.
   
 ## **Landmark Recognition**
 
@@ -2276,6 +2282,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Basic online tool to add text to images. Great for making memes.
 - [Cleanup Pictures](https://cleanup.pictures/)  
   A free online tool that allows you to remove people from images.
+- [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/)  
+  Simple online tool to automate the downloading of entire Imgur albums.
 
 ## **Image Metadata and Forensics**
 
@@ -3033,6 +3041,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search a domain and get a simple report of the companies exposure. Requires a paid subscription to view full reports.
 - [Well-Known.dev](https://well-known.dev/)  
   Search well-known resources, phrases, and terms served by ad sites across the web.
+- [AdsByDomain](https://adsbydomain.fouanalytics.com/)  
+  Scan a domain and visualize that domains ads.
   
 ### **Web Page Monitoring**
 
