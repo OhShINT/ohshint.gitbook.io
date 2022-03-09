@@ -313,6 +313,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Radio Frequencies**
 
+- [Number-Stations](https://www.numbers-stations.com/) - *Added 8/3/2022.*
 - [EAM Watch](https://eam.watch/) - *Added 21/2/2022.*
 
 ## <u>**Deep Webs and Darknets**</u>
@@ -422,6 +423,10 @@ All dates are listed in *DD/MM/YYYY* format.
 ### **Firearms and Ammunition**
 
 - [Cartrology](http://www.cartrology.com/) - *Added 9/2/2022.*
+
+### **Ordnance**
+
+- [Nuclear Weapon Archive](https://nuclearweaponarchive.org/) - *Added 8/3/2022.*
 
 ### **Equipment**
 
