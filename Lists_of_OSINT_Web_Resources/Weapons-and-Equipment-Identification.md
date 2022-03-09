@@ -47,7 +47,9 @@
 - [ODIN Worldwide Equipment Guide](https://odin.tradoc.army.mil/WEG)  
   The authoritative digital resource for the Worldwide Equipment Guide (WEG), Decisive Action Training Environment (DATE) and accompanying force structures. Has information about almost every piece of modern military equipment. Aircraft, vehicles, missiles, communications, small arms, naval watercraft, radar systems and much more.
 - [MilitaryFactory](https://www.militaryfactory.com/)  
-  Reference covering global aerospace/aviation news, the infantry warfighter, defense vehicles, and naval/maritime offerings both past and present
+  Reference covering global aerospace/aviation news, the infantry warfighter, defense vehicles, and naval/maritime offerings both past and present.
+- [[PDF] Janes Ukraine Conflict Equipment Profile](https://www.janes.com/docs/default-source/ukraine-conflict/equipment-profile_report_280222.pdf)  
+  This is an 81 page report from [Janes](https://www.janes.com/), published February 28th, 2022 that catalogs the various weapon systems and military equipment that is currently being used by Russian and Ukrainian forces. Archived copies available [here (Wayback)](http://web.archive.org/web/20220301145205/https://www.janes.com/docs/default-source/ukraine-conflict/equipment-profile_report_280222.pdf) and [here (Library Genesis)](https://libgen.rs/book/index.php?md5=38B285F34F40E14A8AC9112EBDE738BF).
 
 ### **Motor Vehicles**
 
