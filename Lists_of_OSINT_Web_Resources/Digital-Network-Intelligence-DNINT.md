@@ -250,6 +250,8 @@
   A directory of live camera feeds organized by location.
 - [Surveillance Under Surveillance](https://sunders.uber.space/)  
   Shows you cameras and guards almost everywhere. You can see where they are located and, if the information is available, what type they are, the area they observe, or other interesting facts.
+- [Ukraine Live Cams](https://nagix.github.io/ukraine-livecams/#5.5/47.774/31.685/0/45)  
+  A large collection of live and real-time webcams in Ukraine plotted on 3D map.
 
 ## **Attack Maps**
 
