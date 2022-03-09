@@ -39,6 +39,8 @@
   Wikipedia's list of landmines used worldwide.
 - [JMU CISR Munitions Reference Guide](https://www.jmu.edu/cisr/_pages/research/munitions.shtml)  
   A list large list of landmines that includes lots of details. Does not contain images of mines.
+- [Nuclear Weapon Archive](https://nuclearweaponarchive.org/)  
+  An archive and guide to nuclear weapons, facilities and testing sites.
 
 ## **Equipment**
 
