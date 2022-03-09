@@ -182,6 +182,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Reverse Image Search**
 
+- [RepostSleuth](https://repostsleuth.com/) - *Added 8/4/2022.*
 - [ILookLikeYou](https://www.ilooklikeyou.com/) - *Added 25/1/2022.*
 - [FaceSherlock](https://facesherlock.com/) - *Added 25/1/2022.*
 - [Numiis Coin Identifier](https://www.numiis.com/coin-checker/) - *Added 25/1/2022.*
@@ -286,6 +287,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **CCTV and Webcams**
 
+- [Ukraine Live Cams](https://nagix.github.io/ukraine-livecams/#5.5/47.774/31.685/0/45) - *Added 8/4/2022.*
 - [Deckchair](https://www.deckchair.com/) - *Added 25/1/2022.*
 - [Surveillance Under Surveillance](https://sunders.uber.space/) - *Added 25/1/2022.*
 
@@ -420,6 +422,12 @@ All dates are listed in *DD/MM/YYYY* format.
 ### **Firearms and Ammunition**
 
 - [Cartrology](http://www.cartrology.com/) - *Added 9/2/2022.*
+
+### **Equipment**
+
+#### **General**
+
+- [[PDF] Janes Ukraine Conflict Equipment Profile](https://www.janes.com/docs/default-source/ukraine-conflict/equipment-profile_report_280222.pdf) - *Added 8/4/2022.*
 
 ## <u>**Government Information**</u>
 
