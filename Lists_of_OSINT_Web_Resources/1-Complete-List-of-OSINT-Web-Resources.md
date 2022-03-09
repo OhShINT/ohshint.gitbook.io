@@ -3382,6 +3382,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   The primary source of data is an amateur radio system called APRS, some weather data comes from an internet based system called the Citizen Weather Observer Program. Data is constantly being updated.
 - [EAM Watch](https://eam.watch/)  
   A community log of Emergency Action Messages broadcasted through the High Frequency Global Communication System.
+- [Number-Stations](https://www.numbers-stations.com/)  
+  The Numbers Stations Research and Information Center is an international group of numbers stations, military stations, and shortwave radio observers.
 
 ## **HAM Radio**
 
@@ -4660,6 +4662,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Wikipedia's list of landmines used worldwide.
 - [JMU CISR Munitions Reference Guide](https://www.jmu.edu/cisr/_pages/research/munitions.shtml)  
   A list large list of landmines that includes lots of details. Does not contain images of mines.
+- [Nuclear Weapon Archive](https://nuclearweaponarchive.org/)  
+  An archive and guide to nuclear weapons, facilities and testing sites.
 
 ## **Equipment**
 
