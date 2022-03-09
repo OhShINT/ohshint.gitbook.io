@@ -25,6 +25,8 @@
   Search by image for VK, Odnoklassniki, TikTok, Clubhouse and Instagram profiles.
 - [KarmaDecay](https://karmadecay.com/)  
   A reverse image search tool for Reddit. Currently, still in beta.
+- [RepostSleuth](https://repostsleuth.com/)  
+  Another reverse image search tool for Reddit.
 - [ImgOps](https://imgops.com/)  
   An online image toolkit. Allows you to preform reverse image searches on many different platforms, metadata extraction, image editing and conversions.
 - [Pl@ntNet](https://identify.plantnet.org/)  
