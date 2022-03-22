@@ -244,6 +244,8 @@
   A community-created and maintained ski map of the world, displaying more than 150,000km of skiing locations.
 - [Real-Time Air Quality Index](https://aqicn.org/map/world)  
   Displays information about the air quality by location in near real-time.
+- [EURDEP Gamma Dose Map](http://eea.government.bg/eea/main-site/bg/output/daily/bulletin-en.html)  
+  Shows measurements of environmental radioactivity in the form of gamma dose rate for the last 24 hours. These measurements originate from some 5500 stations in 39 countries. Anything above 500 nSv/h is dangerous for humans.
 
 ### **Natural Disaster Maps**
 
