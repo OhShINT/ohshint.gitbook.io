@@ -31,6 +31,8 @@
   Check if a company or any of its partner have appeared in any ransomware attacks.
 - [PitchBook](https://pitchbook.com/)  
   Get data on over 3.3 million companies, 1.6 million deals, 390,000 investors and 79,000 funds. Requires a paid subscription.
+- [CrunchBase](https://www.crunchbase.com/)  
+  Find business information about private and public companies. Information includes investments and funding information, founding members, leadership positions, mergers, acquisitions, news, and industry trends.
 
 ## **<u>Patents and Trademarks</u>**
 
