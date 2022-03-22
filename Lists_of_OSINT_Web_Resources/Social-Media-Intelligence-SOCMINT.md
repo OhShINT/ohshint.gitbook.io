@@ -199,7 +199,9 @@
 - [Hubite](https://hubite.com/onlyfans-search/)  
   OnlyFans profile search, includes a price filter.
 - [SimilarFans](https://similarfans.com/)  
-  Search for OnlyFans accounts by catagory, location or popularity. Also offers reviews and ratings.
+  Search for OnlyFans accounts by category, location or popularity. Also offers reviews and ratings.
+- [Onlyfans Law Enforcement Guide](https://onlyfans.com/legalguide/)  
+  A guide for law enforcement on what to do when dealing with OnlyFans investigations.
 
 ## <u>**Parler**</u>
 
