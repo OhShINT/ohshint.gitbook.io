@@ -198,6 +198,8 @@
   Allows you to search by a username, country, and a few different US states.
 - [Hubite](https://hubite.com/onlyfans-search/)  
   OnlyFans profile search, includes a price filter.
+- [SimilarFans](https://similarfans.com/)  
+  Search for OnlyFans accounts by catagory, location or popularity. Also offers reviews and ratings.
 
 ## <u>**Parler**</u>
 
