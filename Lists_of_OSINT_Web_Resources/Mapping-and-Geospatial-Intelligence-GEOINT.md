@@ -132,6 +132,8 @@
   A simple tool for exploring Google Street View.
 - [Street View Fun](https://www.streetviewfun.com/)  
   A collection of interesting and funny things found on Google Street View.
+- [Infrared Street View](https://isv.intofuture.org/maps)  
+  A crowdsourced thermal equivalent of Google's Street View. Instead of showing the streets in visible light, this shows them in thermal infrared light.
 
 ## **Political Maps**
 
@@ -543,3 +545,5 @@
   A live map that displays current AMBER alerts in real-time.
 - [Weird Google Earth](https://www.weirdgoogleearth.com/)  
   A collection of weird and interesting things found om Google Maps.
+- [CIA World Fact Book](https://www.cia.gov/the-world-factbook/)  
+  Provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities.
