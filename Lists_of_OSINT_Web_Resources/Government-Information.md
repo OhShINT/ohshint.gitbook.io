@@ -10,6 +10,8 @@
   Another database of worldwide embassies.
 - [World Press Freedom Index 2021](https://rsf.org/en/ranking)  
   Index of how much freedom the press actually has per country.
+- [SanctionsExplorer](https://sanctionsexplorer.org)  
+  A non-profit dedicated to providing data-driven, evidence-based research on global conflict and transnational security issues.
 
 ## **<u>Identification, Licenses and Personal Documents</u>**
 
