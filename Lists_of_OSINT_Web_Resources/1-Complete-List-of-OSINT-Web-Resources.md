@@ -1277,6 +1277,8 @@ A Google CSE that searches for scientific publications.
   Allows you to search by a username, country, and a few different US states.
 - [Hubite](https://hubite.com/onlyfans-search/)  
   OnlyFans profile search, includes a price filter.
+- [SimilarFans](https://similarfans.com/)  
+  Search for OnlyFans accounts by catagory, location or popularity. Also offers reviews and ratings.
 
 ## **Parler**
 
@@ -1743,6 +1745,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A simple tool for exploring Google Street View.
 - [Street View Fun](https://www.streetviewfun.com/)  
   A collection of interesting and funny things found on Google Street View.
+- [Infrared Street View](https://isv.intofuture.org/maps)  
+  A crowdsourced thermal equivalent of Google's Street View. Instead of showing the streets in visible light, this shows them in thermal infrared light.
 
 ## **Political Maps**
 
@@ -2153,6 +2157,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A live map that displays current AMBER alerts in real-time.
 - [Weird Google Earth](https://www.weirdgoogleearth.com/)  
   A collection of weird and interesting things found om Google Maps.
+- [CIA World Fact Book](https://www.cia.gov/the-world-factbook/)  
+  Provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities.
 
 # <u>**Imagery Intelligence [IMINT]**</u>
 
@@ -2398,6 +2404,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Check if a company or any of its partner have appeared in any ransomware attacks.
 - [PitchBook](https://pitchbook.com/)  
   Get data on over 3.3 million companies, 1.6 million deals, 390,000 investors and 79,000 funds. Requires a paid subscription.
+- [CrunchBase](https://www.crunchbase.com/)  
+  Find business information about private and public companies. Information includes investments and funding information, founding members, leadership positions, mergers, acquisitions, news, and industry trends.
 
 ## **Patents and Trademarks**
 
@@ -3698,6 +3706,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   An .onion site that lets you search through leaked databases. Requires an account.
 - [CheckLeaked](https://checkleaked.cc/)  
   Discover leaks, know the passwords and information that hackers already have about you. Requires a paid subscription.
+- [Breached.co](https://breached.co/index.php)  
+  A RaidForums alternative ran by the prolific pompompurin.
 
 ## **Pretty Good Privacy [PGP]**
 
@@ -4811,6 +4821,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Another database of worldwide embassies.
 - [World Press Freedom Index 2021](https://rsf.org/en/ranking)  
   Index of how much freedom the press actually has per country.
+- [SanctionsExplorer](https://sanctionsexplorer.org)  
+  A non-profit dedicated to providing data-driven, evidence-based research on global conflict and transnational security issues.
 
 ## **Identification, Licenses and Personal Documents**
 
