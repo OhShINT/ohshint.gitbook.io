@@ -1855,6 +1855,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A community-created and maintained ski map of the world, displaying more than 150,000km of skiing locations.
 - [Real-Time Air Quality Index](https://aqicn.org/map/world)  
   Displays information about the air quality by location in near real-time.
+- [EURDEP Gamma Dose Map](http://eea.government.bg/eea/main-site/bg/output/daily/bulletin-en.html)  
+  Shows measurements of environmental radioactivity in the form of gamma dose rate for the last 24 hours. These measurements originate from some 5500 stations in 39 countries. Anything above 500 nSv/h is dangerous for humans.
 
 ### **Natural Disaster Maps**
 
@@ -2662,6 +2664,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   This site lists all the piracy and armed robbery incidents reported to the IMB Piracy Reporting Centre since 2011.
 - [Fleet Tracker News](https://news.usni.org/category/fleet-tracker)  
   This is a great site that shows you positions of U.S. Navy carriers around the world.
+- [Military Ship Tracker](https://www.marinevesseltraffic.com/2013/02/military-ship-track.html)  
+  An interactive map that shows the location and direction of warships in real time.
 
 ### **Vessel and Crew Information**
 
@@ -2755,6 +2759,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A live flight tracking map that includes many military aircraft.
 - [DictatorAlert](https://dictatoralert.org/)  
   A project that tracks the aircrafts of authoritarian regimes all over the world.
+- [Military Aircraft Tracker](https://ads-b.nl/)  
+  Tracking information such as route and other technical details about military aircraft flying over a specific territory.
 
 ### **Aircraft Information**
 
@@ -2824,6 +2830,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A searchable database of historical aircraft accidents from all over the world.
 - [NOTAM Map](http://notammap.net/Notam.aspx)  
   A free tool that allows you to search for NOTAMs.
+- [Safe Airspace](https://safeairspace.net/)  
+  Conflict zone and risk warnings for aircraft pilots.
 
 ## **Railways**
 
@@ -3384,6 +3392,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A community log of Emergency Action Messages broadcasted through the High Frequency Global Communication System.
 - [Number-Stations](https://www.numbers-stations.com/)  
   The Numbers Stations Research and Information Center is an international group of numbers stations, military stations, and shortwave radio observers.
+- [Bellingcat Radar Interference Tracker](https://ollielballinger.users.earthengine.app/view/bellingcat-radar-interference-tracker)  
+  Shows interference from ground based radar systems as red and blue streaks. Most of these are military radars. Click on the map to generate a historical graph of Radio Frequency Interference (RFI). Read the documentation for this open-source project [here](https://github.com/bellingcat/sar-interference-tracker).
 
 ## **HAM Radio**
 
