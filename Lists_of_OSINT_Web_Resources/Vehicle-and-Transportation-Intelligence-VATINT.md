@@ -86,6 +86,8 @@
   This site lists all the piracy and armed robbery incidents reported to the IMB Piracy Reporting Centre since 2011.
 - [Fleet Tracker News](https://news.usni.org/category/fleet-tracker)  
   This is a great site that shows you positions of U.S. Navy carriers around the world.
+- [Military Ship Tracker](https://www.marinevesseltraffic.com/2013/02/military-ship-track.html)  
+  An interactive map that shows the location and direction of warships in real time.
 
 ### **Vessel and Crew Information**
 
@@ -179,6 +181,8 @@
   A live flight tracking map that includes many military aircraft.
 - [DictatorAlert](https://dictatoralert.org/)  
   A project that tracks the aircrafts of authoritarian regimes all over the world.
+- [Military Aircraft Tracker](https://ads-b.nl/)  
+  Tracking information such as route and other technical details about military aircraft flying over a specific territory.
 
 ### **Aircraft Information**
 
@@ -248,6 +252,8 @@
   A searchable database of historical aircraft accidents from all over the world.
 - [NOTAM Map](http://notammap.net/Notam.aspx)  
   A free tool that allows you to search for NOTAMs.
+- [Safe Airspace](https://safeairspace.net/)  
+  Conflict zone and risk warnings for aircraft pilots.
 
 ## **Railways**
 
