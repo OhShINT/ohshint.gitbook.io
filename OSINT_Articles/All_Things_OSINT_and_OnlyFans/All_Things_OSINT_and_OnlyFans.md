@@ -80,7 +80,7 @@ The method that I find works well is utilizing the Vanilla pre-paid MasterCard g
 
 Now you need to register the prepaid card in order to use it for online purchases. Connect to a VPN first, then go to the URL listed on the back of the card. Should be this URL or something similar; [https://vanillaprepaid.com](https://vanillaprepaid.com/). 
 
-Login with the card information, then click ***"Assign Postal Code"\***. For this you will need a valid postal/ZIP code. **DO NOT** use your own, instead head over to the [Fake Name Generator](https://fakenamegenerator.com/) website, select a city near your location and use the information provided to register the card. Make sure you use a location in the same state/province and country. This is very important, if you do not. Then the pre-paid card will likely not work! 
+Login with the card information, then click ***"Assign Postal Code"***. For this you will need a valid postal/ZIP code. **DO NOT** use your own, instead head over to the [Fake Name Generator](https://fakenamegenerator.com/) website, select a city near your location and use the information provided to register the card. Make sure you use a location in the same state/province and country. This is very important, if you do not. Then the pre-paid card will likely not work! 
 Also, be sure to save this information somewhere safe as you will need it later.
 
 Now enter the card details and link the pre-paid card to your OnlyFans account. Be sure to enter the same information used when you activated the card, to avoid any issues. Once the card is linked, you should be able to subscribe to both free and paid OF accounts.
@@ -116,6 +116,8 @@ Here are a few more sites worth mentioning;
   - Allows you to search by a username, country, and a few different US states.
 - [Hubite](https://hubite.com/onlyfans-search/) 
   - OnlyFans profile search, includes a price filter.
+- [SimilarFans](https://similarfans.com/)  
+  - Search for OnlyFans accounts by category, location or popularity. Also offers reviews and ratings.
 
 Another simple trick is to search social media link sharing sites like [Linktr.ee](https://linktr.ee) and [AllMyLinks](https://allmylinks.com), as content creator's often use these types of sites to keep all their social media accounts in one place. However, you cannot search these sites directly as they don't include a search function. This is where Google dorking comes in handy once again. Here are a few simple dorks you can use to help locate these types of accounts. Get creative with your Google dorks!
 
