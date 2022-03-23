@@ -75,6 +75,10 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [InstaHunt](https://instahunt.co/) - *Added 21/2/2022.*
 
+### **OnlyFans**
+
+- [SimilarFans](https://similarfans.com/) - *Added 22/03/2022.*
+
 ### **Reddit**
 
 - [Reddit Scraper](https://apify.com/trudax/reddit-scraper) - *Added 30/1/2022.*
@@ -127,6 +131,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Street View Maps**
 
+- [Infrared Street View](https://isv.intofuture.org/maps) - *Added 22/03/2022.*
 - [Street View Fun](https://www.streetviewfun.com/) - *Added 21/2/2022.*
 - [EarthViewer360](https://earthviewer360.com/) - *Added 25/1/2022.*
 - [ShowMyStreet](https://showmystreet.com/) - *Added 25/1/2022.*
@@ -142,6 +147,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Weather Maps**
 
+- [EURDEP Gamma Dose Map](http://eea.government.bg/eea/main-site/bg/output/daily/bulletin-en.html) - *Added 22/03/2022.*
 - [Real-Time Air Quality Index](https://aqicn.org/map/world) - *Added 24/2/2022.*
 - [OpenSnowMap](https://www.opensnowmap.org/) - *Added 9/2/2022.*
 
@@ -153,7 +159,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [U.S. Energy, Environment and Policy Map](https://www.bakerinstitute.org/energy-environment-and-policy-in-the-us/) - *Added 25/1/2022.*
 
-### **Drone Footage** - *Added 25/1/2022.*
+### **Drone Footage** 
 
 - [Map of Drone Laws](https://foxnomad.com/2017/07/25/map-shows-drone-laws-every-country-world-updated-regularly/) - *Added 21/2/2022.*
 - [TravelWithDrone](https://travelwithdrone.com/) - *Added 25/1/2022.*
@@ -166,6 +172,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Mapping Resources**
 
+- [CIA World Fact Book](https://www.cia.gov/the-world-factbook/) - *Added 22/03/2022.*
 - [PowerOutage](https://poweroutage.com/) - *Added 4/3/2022.*
 - [Weird Google Earth](https://www.weirdgoogleearth.com/) - *Added 21/2/2022.*
 - [AMBER Alert Map](https://amberalerts.globalincidentmap.com/home.php) - *Added 9/2/2022.*
@@ -207,6 +214,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Business Search**
 
+- [CrunchBase](https://www.crunchbase.com/) - *Added 22/03/2022.*
 - [PitchBook](https://pitchbook.com/) - *Added 9/2/2022.*
 - [RansomWiki](https://ransom.wiki/) - *Added 25/1/2022.*
 
@@ -238,6 +246,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **License Plates**
 
+- [Ke Placa](https://www.keplaca.com/) - *Added 22/03/2022.*
 - [VehicleHistory](https://www.vehiclehistory.com/license-plate-search) - *Added 2/1/2022.*
 - [FaxVIN Plate Lookup](https://www.faxvin.com/license-plate-lookup) - *Added 2/1/2022.*
 - [SearchQuarry](https://www.searchquarry.com/free-license-plate-number-lookup/) - *Added 2/1/2022.*
@@ -246,13 +255,24 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Aircraft**
 
+#### **Aircraft Tracking**
+
+- [Military Aircraft Tracker](https://ads-b.nl/) - *Added 22/03/2022.*
+
 #### **Aircraft information**
 
 - [The Air Archive](https://theairchive.net/) - *Added 24/2/2022.*
 
 #### **Other Information**
 
+- [Safe Airspace](https://safeairspace.net/) - *Added 22/03/2022.*
 - [NOTAM Map](http://notammap.net/Notam.aspx) - *Added 2/1/2022.*
+
+### **Marine**
+
+#### **Vessel Tracking**
+
+- [Military Ship Tracker](https://www.marinevesseltraffic.com/2013/02/military-ship-track.html) - *Added 22/03/2022.*
 
 ### **Railways**
 
@@ -356,6 +376,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Have I Been Sold?](https://haveibeensold.app/) - *Added 21/2/2022.*
 - [Phonebook.cz](https://phonebook.cz/) - *Added 9/2/2022.*
 
+### **Data Breach Search**
+
+- [Breached.co](https://breached.co/index.php) - *Added 22/03/2022.*
+
 ## **<u>Usernames</u>**
 
 - [Namevine](https://namevine.com/) - *Added 25/1/2022.*
@@ -435,6 +459,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [[PDF] Janes Ukraine Conflict Equipment Profile](https://www.janes.com/docs/default-source/ukraine-conflict/equipment-profile_report_280222.pdf) - *Added 8/4/2022.*
 
 ## <u>**Government Information**</u>
+
+### **General Information**
+
+- [SanctionsExplorer](https://sanctionsexplorer.org) - *Added 22/03/2022.*
 
 ### **Identification, Licenses and Personal Documents**
 
