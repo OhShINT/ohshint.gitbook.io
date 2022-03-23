@@ -1626,8 +1626,6 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A collaborative project to create a free editable geographic database of the world. The geodata underlying the maps is considered the primary output of the project.
 - [Soar Earth](https://soar.earth/)  
   Allows you to explore and download satellite, aerial and drone imagery of the Earth.
-- [Wayback World Imagery](https://livingatlas.arcgis.com/wayback/)  
-  A digital archive of the world imagery base map, enabling users to access different versions of world imagery captured over the years.
 - [LocalFocus GIS Toolkit](https://www.localfocus.nl/geokit/)  
   A great collection of mapping tools for investigative researchers and journalists.
 - [F4 Map](https://demo.f4map.com/)  
@@ -1816,6 +1814,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Offers loads of historical maps from all over Europe. Requires registration and payment.
 - [Disease Map](http://disease-map.net/)  
   An interactive map of human diseases, both historical and current.
+- [Wayback World Imagery](https://livingatlas.arcgis.com/wayback/)  
+  A digital archive of the world imagery base map, enabling users to access different versions of world imagery captured over the years.
 
 ## **Weather Maps**
 
