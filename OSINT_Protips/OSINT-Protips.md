@@ -729,3 +729,6 @@ Locating geotagged posts is very useful when researching on-going events, protes
 - [https://map.snapchat.com](https://map.snapchat.com/) 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#GEOINT](https://twitter.com/hashtag/GEOINT?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/SnapMap-in-Ukraine.jpg"/>
