@@ -712,3 +712,20 @@ WiFi BSSIDs can be very useful during an investigation. Can provide addresses, o
 [2/2]
 
 Thanks to [@GONZOs_int](https://twitter.com/GONZOs_int) for creating such a useful tool! Be sure to follow him for more awesome stuff.
+
+
+## **OSINT Protip 31**
+
+> Posted on *18/03/2022* at *6:48 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1504998178201825280](https://twitter.com/ohshint_/status/1504998178201825280)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 31:
+
+Locating geotagged posts is very useful when researching on-going events, protests and emergencies. Here are some great tools for this: 
+
+- [https://birdhunt.co](https://birdhunt.co/)
+- [https://instahunt.co](https://instahunt.co/)
+- [http://photo-map.ru](http://photo-map.ru/)
+- [https://map.snapchat.com](https://map.snapchat.com/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#GEOINT](https://twitter.com/hashtag/GEOINT?src=hashtag_click)
