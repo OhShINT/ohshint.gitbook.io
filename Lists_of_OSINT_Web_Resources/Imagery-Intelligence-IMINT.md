@@ -111,6 +111,8 @@
   A handy tool that allows you to easily stitch together multiple photos into one.
 - [Colorize Photo](https://colorize.toolpie.com/)  
   Upload a black and white image and this tool will colorize it for you.
+- [ImageUpscaler](https://imageupscaler.com/)  
+  An online service that upscales images and photos by 4 times. It uses artificial intelligence, which makes images bigger without making it blurry, saving its quality at the same time.
 
 ## **<u>Image Editing and Manipulation</u>**
 
