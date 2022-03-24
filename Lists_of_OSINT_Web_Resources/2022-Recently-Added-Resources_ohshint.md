@@ -195,6 +195,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Numiis Coin Identifier](https://www.numiis.com/coin-checker/) - *Added 25/1/2022.*
 - [Coins Catalog Identifier](https://coinscatalog.net/identify) - *Added 25/1/2022.*
 
+### **Image Enhancement**
+
+- [ImageUpscaler](https://imageupscaler.com/) - *Added 23/3/2022.*
+
 ### **Image Editing and Manipulation**
 
 - [Cleanup Pictures](https://cleanup.pictures/) - *Added 25/1/2022.*
