@@ -33,6 +33,8 @@
   Get data on over 3.3 million companies, 1.6 million deals, 390,000 investors and 79,000 funds. Requires a paid subscription.
 - [CrunchBase](https://www.crunchbase.com/)  
   Find business information about private and public companies. Information includes investments and funding information, founding members, leadership positions, mergers, acquisitions, news, and industry trends.
+- [ProPublica Non-Profit Explorer](https://projects.propublica.org/nonprofits/)  
+  Explorer for exploring tax exempt organizations.
 
 ## **<u>Patents and Trademarks</u>**
 
@@ -75,6 +77,12 @@
   Free public information about companies located in France.
 - [Infoveriti](https://www.infoveriti.pl/)  
   The largest supplier of business information in Poland. It has an updated database of companies, associations and debtors. Full access requires a paid subscription.
+- [Norway Company Search](https://www.proff.no/)  
+  Provides detailed financial information on all companies, both private and public, that are located in Norway.
+- [Sweden Company Search](https://www.proff.se/)  
+  Provides detailed financial information on all companies, both private and public, that are located in Sweden.
+- [Denmark Company Search](https://www.proff.dk/)  
+  Provides detailed financial information on all companies, both private and public, that are located in Denmark.
 
 ### <u>**North America**</u>
 
