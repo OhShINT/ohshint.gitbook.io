@@ -106,6 +106,8 @@
   Search well-known resources, phrases, and terms served by ad sites across the web.
 - [AdsByDomain](https://adsbydomain.fouanalytics.com/)  
   Scan a domain and visualize that domains ads.
+- [StylifyMe](https://stylifyme.com)  
+  A great tool for analyzing the style characteristics of a particular website.
   
 ### **Web Page Monitoring**
 
@@ -117,6 +119,9 @@
   Enter a URL that you would like to monitor, then enter an email address and this will send you emails everytime that page changes.
 - [Carbon Dating The Web](https://carbondate.cs.odu.edu/)  
   Predict the birthday of any web page.
+- [GemiusAudience](https://rating.gemius.com/)  
+  Provides knowledge and information for online publishers, investors, media agencies and advertisers to make the right decisions.
+For example you can find, in the listed countries, how many some visitors or users a website has.
 
 ## **Uniform Resource Locators [URL] Redirects and Backlinks**
 
