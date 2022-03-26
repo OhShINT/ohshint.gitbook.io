@@ -982,6 +982,10 @@ A Google CSE that searches for scientific publications.
 
 - [Blog Search Engine](http://www.blogsearchengine.org/)  
   A great tool for searching blogs online. Search for a blog, submit your own blogs, or subscribe to an RSS feed on the blog topic.
+- [WordPress Blog Search](https://cse.google.com/cse?cx=017261104271573007538:ffk_jpt64gy#gsc.tab=0)  
+  A Google CSE that searches for WordPress blogs and images via keyword.
+- [OSINT Blog Search](https://cse.google.com/cse?cx=006290531980334157382:qcaf4enph7i#gsc.tab=0)  
+  An interesting Google CSE where you can find OSINT related blogs, articles, documents and tools via keyword.
 
 ## **Job Search**
 
@@ -1154,6 +1158,12 @@ A Google CSE that searches for scientific publications.
   Lets you save chat history in your servers, groups, and private conversations, and view it offline. Be careful, as this tool technically goes against Discord's ToS, so its possible that you could get your account banned!
 - [Serverse](https://extraction.team/serverse.html)  
   Easily search for Discord servers by keyword using a simple wrapper for Yandex and Google. Made by [@jakecreps](https://twitter.com/jakecreps) and [@aleksanderrr_](https://twitter.com/aleksanderrr_).
+- [DiscordCenter](https://discord.center/)  
+  Another Discord server search tool.
+- [Discord ID Creation Date](https://hugo.moe/discord/discord-id-creation-date.html)  
+  Enter a users ID and view the exact time and date when the account was created.
+- [Discord Badge Guide](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101)  
+  A quick reference that explains the various different profile badges you may see on Discord.
 
 ## **Facebook**
 
@@ -1163,7 +1173,7 @@ A Google CSE that searches for scientific publications.
   An .onion site that allows you to search through the full 2019 Facebook data breach. Click [here](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/) for a clearnet proxy.
 - [WhoPostedWhat?](https://whopostedwhat.com/)  
   Allows you to search keywords by specific dates, date ranges and location.
-- [Sowdust Facebook Search](https://sowdust.github.io/fb-search/)  
+- [SOWsearch](https://www.sowsearch.info/)  
   This page tries to be a simple interface to show how the current Facebook search function works. Still experimental.
 - [Facebook Matrix](https://plessas.net/facebookmatrix)  
   A collection of techniques and formulas for searching Facebook.
@@ -1175,6 +1185,8 @@ A Google CSE that searches for scientific publications.
   Guidelines and resources for law enforcement officials seeking records from Facebook and/or Instagram.
 - [StalkFace](https://stalkface.com/en/)  
   This tool allows you to analyze Facebook accounts via URL. This tool is not very affective and doesn't always work, but its still worth mentioning.
+- [Facebook Image Search](https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0)  
+  A Google CSE where you can search for images posted on Facebook via keywords.
 
 ## **Flickr**
 
@@ -1259,6 +1271,8 @@ A Google CSE that searches for scientific publications.
   Get a birds-eye view of an organizations team structure and location. Requires a paid subscription.
 - [LinkedIn Prospect Boolean Search](https://linkedprospect.com/linkedin-boolean-search-tool/)  
   Designed to help easily build search strings to generate targeted lists of LinkedIn users.
+- [LinkedIn User Search](https://cse.google.com/cse?cx=daaf18e804f81bed0)  
+  A Google CSE for sesrching LinkedIn profiles via keywords.
 
 ## **Mastodon**
 
@@ -1284,8 +1298,10 @@ A Google CSE that searches for scientific publications.
 
 ## **Parler**
 
-- [Parler Archive](https://parler.adatascienti.st/)  
-  A searchable dataset of the Parler social network.
+- ~~[Parler Archive](https://parler.adatascienti.st/)  
+  A searchable dataset of the Parler social network.~~ Currently down, keeping this here in case it goes live again.
+- [Parler Database](https://ddosecrets.com/wiki/Parler)  
+  Download the entire Parler database provided by DDoSecrets.
 
 ## **Patreon**
 
@@ -1354,6 +1370,8 @@ A Google CSE that searches for scientific publications.
   Snapchat discovery platform that enables you to find new people to follow on Snapchat, and allows "influencers" to grow their following.
 - [[PDF] Snap Inc. Law Enforcement Guide](https://storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf)  
   A very useful guide for law enforcement when dealing with SnapChat during an investigation. Archived copies can be found [here (Wayback)](https://web.archive.org/web/20210724093427/https://storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf) and [here (Library Genesis)](http://libgen.rs/book/index.php?md5=27E6DE921660B3D2C1AF533199A08137).
+- [SoVIP Influencer Search](https://sovip.io/)  
+  Search for SnapChat users by username or location. Very limited results, and some results may be NSFW.
 
 ## **Skype**
 
@@ -1422,6 +1440,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A simple online tool that allows you to download TikTok videos without the watermark via a URL.
 - [TikRank](https://tikrank.com/)  
   A powerful TikTok saver that supports bulk saving of TikTok videos without watermark and viewing TikTok rankings.
+- [VidNice TikTok Search](https://vidnice.com/search/)  
+  Search for TikTok users and hashtags.
+- [TikTok Google CSE](https://cse.google.com/cse?cx=011444696387487602669:aqf7d9w73om#gsc.tab=0)  
+  Search for posts, hashtags and users with this handy Google CSE.
 
 ## **Tinder**
 
@@ -1535,6 +1557,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search for geo-tagged posts from vk.com.
 - [VK City4Me](http://vk.city4me.com/)  
   A great tool for tracking a VK users time spent online.
+- [VK Search Engine](https://cse.google.com/cse?cx=f5e7cd4c6e33954ec)  
+  A Google CSE for searching VK profiles.
 
 ## **VSCO**
 
@@ -1985,6 +2009,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   View information on US cell towers. They also provide a cellular coverage map.
 - [Canadian Cellular Tower Map](https://www.ertyu.org/steven_nikkel/cancellsites.html)  
   Presents the locations of tower sites for each licensed Canadian wireless provider. Each site is indicated by a color coded icon.
+- [Cell2GPS](http://www.cell2gps.com/)  
+  Track down a GSM/WCDMA/TD-LTE/FDD-LTE cell phone online using LAC (Location Area Code) and Cell ID. Or CDMA/CDMA2000 using SID, NID and BID, and display its location on maps.
 
 ### **Cellular Coverage Maps**
 
@@ -2410,6 +2436,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Get data on over 3.3 million companies, 1.6 million deals, 390,000 investors and 79,000 funds. Requires a paid subscription.
 - [CrunchBase](https://www.crunchbase.com/)  
   Find business information about private and public companies. Information includes investments and funding information, founding members, leadership positions, mergers, acquisitions, news, and industry trends.
+- [ProPublica Non-Profit Explorer](https://projects.propublica.org/nonprofits/)  
+  Explorer for exploring tax exempt organizations.
 
 ## **Patents and Trademarks**
 
@@ -2451,6 +2479,12 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Free public information about companies located in France.
 - [Infoveriti](https://www.infoveriti.pl/)  
   The largest supplier of business information in Poland. It has an updated database of companies, associations and debtors. Full access requires a paid subscription.
+- [Norway Company Search](https://www.proff.no/)  
+  Provides detailed financial information on all companies, both private and public, that are located in Norway.
+- [Sweden Company Search](https://www.proff.se/)  
+  Provides detailed financial information on all companies, both private and public, that are located in Sweden.
+- [Denmark Company Search](https://www.proff.dk/)  
+  Provides detailed financial information on all companies, both private and public, that are located in Denmark.
 
 #### **North America**
 
@@ -3065,6 +3099,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search well-known resources, phrases, and terms served by ad sites across the web.
 - [AdsByDomain](https://adsbydomain.fouanalytics.com/)  
   Scan a domain and visualize that domains ads.
+- [StylifyMe](https://stylifyme.com)  
+  A great tool for analyzing the style characteristics of a particular website.
   
 ### **Web Page Monitoring**
 
@@ -3076,6 +3112,9 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Enter a URL that you would like to monitor, then enter an email address and this will send you emails everytime that page changes.
 - [Carbon Dating The Web](https://carbondate.cs.odu.edu/)  
   Predict the birthday of any web page.
+- [GemiusAudience](https://rating.gemius.com/)  
+  Provides knowledge and information for online publishers, investors, media agencies and advertisers to make the right decisions.
+For example you can find, in the listed countries, how many some visitors or users a website has.
 
 ## **Uniform Resource Locators [URL] Redirects and Backlinks**
 
@@ -4347,6 +4386,10 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Search for attorneys and related articles.
 - [HuggingFace](https://huggingface.co/)  
   Offers models based on transformers for PyTorch and TensorFlow 2.0. There are thousands of pre-trained models to perform tasks such as text classification, extraction, question answering, and more.
+- [Information Operations Archive](https://www.io-archive.org/)  
+  An archive of publicly available and attributed data from known online information operations. The archive currently consists of over 10 million messages from Russian and Iranian state-sponsored influence operations on Twitter and Reddit, and will be updated on an ongoing basis.
+- [Bloopbase Searchable Data Dumps](https://bloopbase.keybase.pub/)  
+  A collection of searchable data dumps. Includes law enforcement, government, extermist, conventional, commercial, Slack user and exploit databases.
 
 ## **Government Data Sets**
 
@@ -5108,5 +5151,9 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Find information about a last name, country or place.
 - [PrePostSEO](https://www.prepostseo.com/)  
   Over 95 different SEO tools.
+- [QR Date](https://qrdate.org/)  
+  A trusted timestamp that you can physically include in photos, videos and live streams using QR codes and audible data signals.
+- [HistoryPin](https://historypin.org)  
+  A place for people to share photos and stories, telling the histories of their local communities. Search by place or explore history collections.
 
 ![](Contact/Images/donvito.png)
