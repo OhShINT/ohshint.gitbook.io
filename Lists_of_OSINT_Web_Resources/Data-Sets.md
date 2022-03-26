@@ -37,6 +37,10 @@
   Search for attorneys and related articles.
 - [HuggingFace](https://huggingface.co/)  
   Offers models based on transformers for PyTorch and TensorFlow 2.0. There are thousands of pre-trained models to perform tasks such as text classification, extraction, question answering, and more.
+- [Information Operations Archive](https://www.io-archive.org/)  
+  An archive of publicly available and attributed data from known online information operations. The archive currently consists of over 10 million messages from Russian and Iranian state-sponsored influence operations on Twitter and Reddit, and will be updated on an ongoing basis.
+- [Bloopbase Searchable Data Dumps](https://bloopbase.keybase.pub/)  
+  A collection of searchable data dumps. Includes law enforcement, government, extermist, conventional, commercial, Slack user and exploit databases.
 
 ## **<u>Government Data Sets</u>**
 
