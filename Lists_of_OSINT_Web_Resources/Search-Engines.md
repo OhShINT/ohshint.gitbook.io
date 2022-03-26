@@ -682,6 +682,10 @@
 
 - [Blog Search Engine](http://www.blogsearchengine.org/)  
   A great tool for searching blogs online. Search for a blog, submit your own blogs, or subscribe to an RSS feed on the blog topic.
+- [WordPress Blog Search](https://cse.google.com/cse?cx=017261104271573007538:ffk_jpt64gy#gsc.tab=0)  
+  A Google CSE that searches for WordPress blogs and images via keyword.
+- [OSINT Blog Search](https://cse.google.com/cse?cx=006290531980334157382:qcaf4enph7i#gsc.tab=0)  
+  An interesting Google CSE where you can find OSINT related blogs, articles, documents and tools via keyword.
 
 ## **Job Search**
 
