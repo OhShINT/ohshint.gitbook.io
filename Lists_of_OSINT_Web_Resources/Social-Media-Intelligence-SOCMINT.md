@@ -75,6 +75,12 @@
   Lets you save chat history in your servers, groups, and private conversations, and view it offline. Be careful, as this tool technically goes against Discord's ToS, so its possible that you could get your account banned!
 - [Serverse](https://extraction.team/serverse.html)  
   Easily search for Discord servers by keyword using a simple wrapper for Yandex and Google. Made by [@jakecreps](https://twitter.com/jakecreps) and [@aleksanderrr_](https://twitter.com/aleksanderrr_).
+- [DiscordCenter](https://discord.center/)  
+  Another Discord server search tool.
+- [Discord ID Creation Date](https://hugo.moe/discord/discord-id-creation-date.html)  
+  Enter a users ID and view the exact time and date when the account was created.
+- [Discord Badge Guide](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101)  
+  A quick reference that explains the various different profile badges you may see on Discord.
 
 ## <u>**Facebook**</u>
 
@@ -84,7 +90,7 @@
   An .onion site that allows you to search through the full 2019 Facebook data breach. Click [here](http://4wbwa6vcpvcr3vvf4qkhppgy56urmjcj2vagu2iqgp3z656xcmfdbiqd.onion.pet/) for a clearnet proxy.
 - [WhoPostedWhat?](https://whopostedwhat.com/)  
   Allows you to search keywords by specific dates, date ranges and location.
-- [Sowdust Facebook Search](https://sowdust.github.io/fb-search/)  
+- [SOWsearch](https://www.sowsearch.info/)  
   This page tries to be a simple interface to show how the current Facebook search function works. Still experimental.
 - [Facebook Matrix](https://plessas.net/facebookmatrix)  
   A collection of techniques and formulas for searching Facebook.
@@ -96,6 +102,8 @@
   Guidelines and resources for law enforcement officials seeking records from Facebook and/or Instagram.
 - [StalkFace](https://stalkface.com/en/)  
   This tool allows you to analyze Facebook accounts via URL. This tool is not very affective and doesn't always work, but its still worth mentioning.
+- [Facebook Image Search](https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0)  
+  A Google CSE where you can search for images posted on Facebook via keywords.
 
 ## <u>**Flickr**</u>
 
@@ -180,6 +188,8 @@
   Get a birds-eye view of an organizations team structure and location. Requires a paid subscription. 
 - [LinkedIn Prospect Boolean Search](https://linkedprospect.com/linkedin-boolean-search-tool/)  
   Designed to help easily build search strings to generate targeted lists of LinkedIn users.
+- [LinkedIn User Search](https://cse.google.com/cse?cx=daaf18e804f81bed0)  
+  A Google CSE for sesrching LinkedIn profiles via keywords.
 
 ## **<u>Mastodon</u>**
 
@@ -205,8 +215,10 @@
 
 ## <u>**Parler**</u>
 
-- [Parler Archive](https://parler.adatascienti.st/)  
-  A searchable dataset of the Parler social network.
+- ~~[Parler Archive](https://parler.adatascienti.st/)  
+  A searchable dataset of the Parler social network.~~ Currently down, keeping this here in case it goes live again.
+- [Parler Database](https://ddosecrets.com/wiki/Parler)  
+  Download the entire Parler database provided by DDoSecrets.
 
 ## **<u>Patreon</u>**
 
@@ -275,6 +287,8 @@
   Snapchat discovery platform that enables you to find new people to follow on Snapchat, and allows "influencers" to grow their following.
 - [[PDF] Snap Inc. Law Enforcement Guide](https://storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf)  
   A very useful guide for law enforcement when dealing with SnapChat during an investigation. Archived copies can be found [here (Wayback)](https://web.archive.org/web/20210724093427/https://storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf) and [here (Library Genesis)](http://libgen.rs/book/index.php?md5=27E6DE921660B3D2C1AF533199A08137).
+- [SoVIP Influencer Search](https://sovip.io/)  
+  Search for SnapChat users by username or location. Very limited results, and some results may be NSFW.
 
 ## <u>**Skype**</u>
 
@@ -343,6 +357,10 @@
   A simple online tool that allows you to download TikTok videos without the watermark via a URL.
 - [TikRank](https://tikrank.com/)  
   A powerful TikTok saver that supports bulk saving of TikTok videos without watermark and viewing TikTok rankings.
+- [VidNice TikTok Search](https://vidnice.com/search/)  
+  Search for TikTok users and hashtags.
+- [TikTok Google CSE](https://cse.google.com/cse?cx=011444696387487602669:aqf7d9w73om#gsc.tab=0)  
+  Search for posts, hashtags and users with this handy Google CSE.
 
 ## <u>**Tinder**</u>
 
@@ -455,6 +473,8 @@
   Search for geo-tagged posts from vk.com.
 - [VK City4Me](http://vk.city4me.com/)  
   A great tool for tracking a VK users time spent online.
+- [VK Search Engine](https://cse.google.com/cse?cx=f5e7cd4c6e33954ec)  
+  A Google CSE for searching VK profiles.
 
 ## <u>**VSCO**</u>
 
