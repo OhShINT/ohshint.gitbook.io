@@ -189,7 +189,7 @@
 - [LinkedIn Prospect Boolean Search](https://linkedprospect.com/linkedin-boolean-search-tool/)  
   Designed to help easily build search strings to generate targeted lists of LinkedIn users.
 - [LinkedIn User Search](https://cse.google.com/cse?cx=daaf18e804f81bed0)  
-  A Google CSE for sesrching LinkedIn profiles via keywords.
+  A Google CSE for searching LinkedIn profiles via keywords.
 
 ## **<u>Mastodon</u>**
 
