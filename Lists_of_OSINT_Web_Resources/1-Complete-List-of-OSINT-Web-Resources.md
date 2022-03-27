@@ -1544,6 +1544,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search Twitter bios, compare users, and analyze location and tweet activity of followers.
 - [BirdHunt](https://birdhunt.co/)  
   A great query building tool that allows you to select a location and radius and get a list of recent tweets from that location.
+- [Vicinitas Twitter Exporter](https://www.vicinitas.io/free-tools/download-twitter-followers)  
+  A free tool that allows you to export followers, tweets and keywords to an XLSX file.
+- [Twitter Image Search](https://cse.google.com/cse?cx=006290531980334157382:_ltcjq0robu#gsc.tab=0)  
+  This Google CSE allows you to search for images posted on Twitter via keywords.
 
 
 ## **Untappd**
