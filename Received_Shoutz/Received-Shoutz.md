@@ -7,6 +7,10 @@
 ***Myself and any other potential contributors to this list are NOT in any way sponsored by, or have received any form of endorsement from any of the individuals, companies, organizations or websites that may be listed here.  
 Myself and any other potential contributors of this list are NOT responsible for the actions of any end users.***
 
+![img](Images/donvito-well-rave-till-dawn.jpg)
+
+​								*Yes, we certainly will.*
+
 
 
 This is a collection of articles, interviews, resource lists and other media where this blog has been mentioned in and/or involves yours truly ([@ohshint_](https://twitter.com/ohshint_)).  
