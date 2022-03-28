@@ -32,6 +32,11 @@ All dates are listed in *DD/MM/YYYY* format.
 - [FilePhish](https://cartographia.github.io/FilePhish/) - *Added 9/2/2022.*
 - [Snowfl](https://snowfl.com/) - *Added 25/1/2022.*
 
+### **Blog, Forum and Image Board Search**
+
+- [WordPress Blog Search](https://cse.google.com/cse?cx=017261104271573007538:ffk_jpt64gy#gsc.tab=0) - *Added 26/3/2022.*
+- [OSINT Blog Search](https://cse.google.com/cse?cx=006290531980334157382:qcaf4enph7i#gsc.tab=0) - *Added 26/3/2022.*
+
 ### **Job Search**
 
 - [OSINT Jobs](https://www.osint-jobs.com/) - *Added 9/2/2022.*
@@ -61,10 +66,14 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Discord**
 
+- [Discord Badge Guide](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101) - *Added 26/3/2022.*
+- [Discord ID Creation Date](https://hugo.moe/discord/discord-id-creation-date.html) - *Added 26/3/2022.*
+- [DiscordCenter](https://discord.center/) - *Added 26/3/2022.*
 - [Serverse](https://extraction.team/serverse.html) - *Added 21/2/2022.*
 
 ### **Facebook**
 
+- [Facebook Image Search](https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0) - *Added 26/3/2022.*
 - [StalkFace](https://stalkface.com/en/) - *Added 25/1/2022.*
 
 ### **GitHub**
@@ -75,9 +84,17 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [InstaHunt](https://instahunt.co/) - *Added 21/2/2022.*
 
+### **LinkedIn**
+
+- [LinkedIn User Search](https://cse.google.com/cse?cx=daaf18e804f81bed0) - *Added 26/3/2022.*
+
 ### **OnlyFans**
 
 - [SimilarFans](https://similarfans.com/) - *Added 22/03/2022.*
+
+### **Parler**
+
+- [Parler Database](https://ddosecrets.com/wiki/Parler) - *Added 26/3/2022.*
 
 ### **Reddit**
 
@@ -87,6 +104,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Subreddit User Overlaps](https://subredditstats.com/subreddit-user-overlaps) - *Added 25/1/2022.*
 - [Teddit](https://teddit.net/) - *Added 25/1/2022.*
 
+### **SnapChat**
+
+- [SoVIP Influencer Search](https://sovip.io/) - *Added 26/3/2022.*
+
 ### **Skype**
 
 - [Epieos Skype Lookup](https://tools.epieos.com/skype.php) - *Added 25/1/2022.*
@@ -94,6 +115,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **TikTok**
 
+- [TikTok Google CSE](https://cse.google.com/cse?cx=011444696387487602669:aqf7d9w73om#gsc.tab=0) - *Added 26/3/2022.*
+- [VidNice TikTok Search](https://vidnice.com/search/) - *Added 26/3/2022.*
 - [TikRank](https://tikrank.com/) - *Added 30/1/2022.*
 
 ### **Twtich**
@@ -109,7 +132,13 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Twitter**
 
+- [Twitter Image Search](https://cse.google.com/cse?cx=006290531980334157382:_ltcjq0robu#gsc.tab=0) - *Added 26/3/2022.*
+- [Vicinitas Twitter Exporter](https://www.vicinitas.io/free-tools/download-twitter-followers) - *Added 26/3/2022.*
 - [BirdHunt](https://birdhunt.co/) - *Added 9/2/2022.*
+
+### **Vkontakte**
+
+- [VK Search Engine](https://cse.google.com/cse?cx=f5e7cd4c6e33954ec) - *Added 26/3/2022.*
 
 ## <u>**Mapping and Geo-Spatial Intelligence [GEOINT]**</u>
 
@@ -154,6 +183,12 @@ All dates are listed in *DD/MM/YYYY* format.
 #### **Natural Disaster Maps**
 
 - [North American Forest Fire Map](https://fires.globalincidentmap.com/) - *Added 9/2/2022.*
+
+### **Network Maps**
+
+#### **Cell Tower Maps**
+
+- [Cell2GPS](http://www.cell2gps.com/) - *Added 26/3/2022.*
 
 ### **Industry Maps**
 
@@ -218,6 +253,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Business Search**
 
+- [ProPublica Non-Profit Explorer](https://projects.propublica.org/nonprofits/) - *Added 26/3/2022.*
 - [CrunchBase](https://www.crunchbase.com/) - *Added 22/03/2022.*
 - [PitchBook](https://pitchbook.com/) - *Added 9/2/2022.*
 - [RansomWiki](https://ransom.wiki/) - *Added 25/1/2022.*
@@ -227,6 +263,14 @@ All dates are listed in *DD/MM/YYYY* format.
 #### **Worldwide Registries**
 
 - [Baumgartner Research](https://en.baumgartner-research.com/unternehmensregister) - *Added 25/1/2022.*
+
+### **Country and Region Specific Registries**
+
+#### **Europe**
+
+- [Norway Company Search](https://www.proff.no/) - *Added 26/3/2022.*
+- [Sweden Company Search](https://www.proff.se/) - *Added 26/3/2022.*
+- [Denmark Company Search](https://www.proff.dk/) - *Added 26/3/2022.*
 
 ## **<u>Financial Intelligence [FININT]</u>**
 
@@ -295,9 +339,14 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Enumeration**
 
+- [StylifyMe](https://stylifyme.com) - *Added 26/3/2022.*
 - [AdsByDomain](https://adsbydomain.fouanalytics.com/) - *Added 4/3/2022.*
 - [Well-Known.dev](https://well-known.dev/) - *Added 21/2/2022.*
 - [SOCRadar Deep Web Report](https://labs.socradar.com/deep-web-report/) - *Added 2/1/2022.*
+
+#### **Web Page Monitoring**
+
+- [GemiusAudience](https://rating.gemius.com/) - *Added 26/3/2022.*
 
 ### **Uniform Resource Locators [URL] Redirects and Backlinks**
 
@@ -401,6 +450,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Data Sets**
 
+- [Information Operations Archive](https://www.io-archive.org/) - *Added 26/3/2022.*
+- [Bloopbase Searchable Data Dumps](https://bloopbase.keybase.pub/) - *Added 26/3/2022.*
 - [HuggingFace](https://huggingface.co/) - *Added 30/1/2022.*
 - [Google Dataset Search](https://datasetsearch.research.google.com/) - *Added 25/1/2022.*
 - [GIJC21 Resources](https://gijn.org/gijc21-resources/) - *Added 25/1/2022.*
@@ -504,6 +555,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## **<u>Miscellaneous</u>**
 
+- [HistoryPin](https://historypin.org) - *Added 26/3/2022.*
+- [QR Date](https://qrdate.org/) - *Added 26/3/2022.*
 - [Forebears](https://forebears.io/) - *Added 21/2/2022.*
 - [WorthPoint](https://www.worthpoint.com/) - *Added 21/2/2022.*
 - [PrePostSEO](https://www.prepostseo.com/) - *Added 21/2/2022.*
