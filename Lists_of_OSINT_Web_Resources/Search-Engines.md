@@ -36,6 +36,8 @@
   A generic search engine that uses the ad revenue from your searches to plant trees where they are needed the most.
 - [DorkSearch](https://dorksearch.com/)  
   A tool that gives you a list of prebuilt templates for Google Dorks for different use cases.
+- [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html)  
+  Super useful resource for building search operators and searching DuckDuckGo.
 
 ## <u>**Country Specific Search Engines and Directories**</u>
 
