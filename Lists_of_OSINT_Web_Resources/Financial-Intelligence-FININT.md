@@ -44,6 +44,8 @@
   Provides detailed information about the contract of a token and a surface level analysis of the holders of that token.
 - [BSC Scan](https://bscscan.com/)  
   The leading blockchain explorer for the Binance Smart Chain, built by the same team behind Etherscan. Besides tracking transactions, verifying smart contracts and other features, it is also the leading validator for BSC.
+- [Whale Alert](https://whale-alert.io/)  
+  The most advanced blockchain tracker and analytics system reporting large and interesting transactions as they happen.
 
 ### **<u>Bitcoin [BTC] Specific</u>**
 
