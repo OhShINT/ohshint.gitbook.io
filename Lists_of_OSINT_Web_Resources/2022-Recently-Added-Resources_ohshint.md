@@ -10,6 +10,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Search**
 
+- [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - *Added 30/3/2022.*
 - [DorkSearch](https://dorksearch.com/) - *Added 4/3/2022.*
 - [Ecosia](https://www.ecosia.org/) - *Added 24/2/2022.*
 
@@ -278,6 +279,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **General Analysis**
 
+- [Whale Alert](https://whale-alert.io/) - *Added 30/3/2022.*
 - [Zapper](https://zapper.fi/) - *Added 25/1/2022.*
 - [DeBank](https://debank.com/) - *Added 25/1/2022.*
 - [Honeypot.is](https://honeypot.is/) - *Added 25/1/2022.*
@@ -505,6 +507,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Ordnance**
 
+- [CAT-UXO](https://cat-uxo.com/) - *Added 30/3/2022.*
 - [Nuclear Weapon Archive](https://nuclearweaponarchive.org/) - *Added 8/3/2022.*
 
 ### **Equipment**
