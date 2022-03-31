@@ -4723,6 +4723,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   A great resource that lists information regarding ordnance, explosives, rockets, mines and other related items. Organized by type and country of origin. They also offer an offline version, which is really nice.
 - [Ordnance Info](https://ordnance.info/)  
   A database that displays type, country of origin, manufacturer, dimensions, images and other information about both lethal and non-lethal grenades.
+- [CAT-UXO](https://cat-uxo.com/)  
+  An Explosive Ordnance Disposal (EOD) community that collates information and awareness on explosives currently distributed throughout the world.
 - [Missiles of the World](https://missilethreat.csis.org/missile/)  
   Information on strike capabilities from around the globe. Includes ballistic missiles, cruise missiles, rockets, artillery, and mortars (RAM), and even maneuvering hypersonic boost glide delivery systems. Organized by country, this represents a growing collection of information on global missile systems, with illustrations and up-to-date information on their capabilities and history.
 - [RiotID](https://riotid.com/)  
