@@ -51,7 +51,7 @@ Here is a list and brief descriptions of the common acronyms that you will likel
 | ----------- | ----------------------------------------------------------- |
 | **OSINT**   | **O**pen-**S**ource **Int**elligence                        |
 | **SOCMINT** | **Soc**ial **M**edia **Int**elligence                       |
-| **GEOINT**  | **Geo**-Spatial **Int**elligence                            |
+| **GEOINT**  | **Geo**spatial **Int**elligence                            |
 | **IMINT**   | **Im**agery **Int**elligence                                |
 | **ORBINT**  | **Orb**ital **Int**elligence                                |
 | **VATINT**  | **V**ehicle **a**nd **T**ransportation **Int**elligence     |
