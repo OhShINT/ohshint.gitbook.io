@@ -316,6 +316,12 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A vulnerability database documenting and explaining security vulnerabilities, threats, and exploits since 1970.
 - [CVE Trends](https://cvetrends.com/)  
   Crowdsourced CVE intelligence and trends.
+- [0day.today](https://0day.today/)  
+  A database and marketplace for both public and 0day exploits.
+- [RouterPwn](http://www.routerpwn.com/)  
+  An outdated database of router exploits.
+- [Vulners](https://vulners.com/)  
+  Claims to be the largest correlated database of vulnerabilities and exploits.
   
 ## **Advanced Persistent Threats [APTs]**
 
