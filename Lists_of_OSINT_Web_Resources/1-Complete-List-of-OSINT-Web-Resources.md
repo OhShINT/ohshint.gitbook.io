@@ -1314,7 +1314,7 @@ A Google CSE that searches for scientific publications.
 
 - [PinGroupie](https://pingroupie.com/)  
   A massive Group Pinterest board directory with over 29,000 group boards listed. Also has an advanced search function.
-- [Pinterest Site Map](https://www.pinterest.ca/html_sitemap/pinners_a.html)  
+- [Pinterest Site Map](https://www.pinterest.com/html_sitemap/pinners_a.html)  
   A site map of Pinterest users, collections and topics.
 
 ## **Reddit**
@@ -1333,8 +1333,6 @@ A Google CSE that searches for scientific publications.
   A comprehensive search engine and real-time analytics tracker for Reddit.
 - [Map of Reddit](https://anvaka.github.io/map-of-reddit)  
   A very organized interactive map of subreddits.
-- [Searcheddit](http://searcheddit.com/)  
-  Search through Reddit via specific keywords.
 - [YASIV Reddit Visualization](http://yasiv.com/reddit)  
   Search for a subreddit and view an interactive chart of related subreddits.
 - [RedditMetis](https://redditmetis.com/)  
