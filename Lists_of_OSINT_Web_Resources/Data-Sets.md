@@ -41,6 +41,8 @@
   An archive of publicly available and attributed data from known online information operations. The archive currently consists of over 10 million messages from Russian and Iranian state-sponsored influence operations on Twitter and Reddit, and will be updated on an ongoing basis.
 - [Bloopbase Searchable Data Dumps](https://bloopbase.keybase.pub/)  
   A collection of searchable data dumps. Includes law enforcement, government, extremist, conventional, commercial, Slack user and exploit databases.
+- [AI Incident Database](https://incidentdatabase.ai/?lang=en)  
+  A collection of AI deployment harms or near harms across all disciplines, geographies, and use cases.
 
 ## **<u>Government Data Sets</u>**
 
