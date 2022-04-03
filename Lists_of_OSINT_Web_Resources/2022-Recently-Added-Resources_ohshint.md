@@ -133,6 +133,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Twitter**
 
+- [twtData](https://www.twtdata.com/) - *Added 3/4/2022.*
+- [Botometer](https://botometer.osome.iu.edu/) - *Added 3/4/2022.*
 - [Twitter Image Search](https://cse.google.com/cse?cx=006290531980334157382:_ltcjq0robu#gsc.tab=0) - *Added 26/3/2022.*
 - [Vicinitas Twitter Exporter](https://www.vicinitas.io/free-tools/download-twitter-followers) - *Added 26/3/2022.*
 - [BirdHunt](https://birdhunt.co/) - *Added 9/2/2022.*
@@ -366,6 +368,12 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Deckchair](https://www.deckchair.com/) - *Added 25/1/2022.*
 - [Surveillance Under Surveillance](https://sunders.uber.space/) - *Added 25/1/2022.*
 
+### **Exploits and Proof of Concept [PoC]**
+
+- [0day.today](https://0day.today/) - *Added 3/4/2022.*
+- [RouterPwn](http://www.routerpwn.com/) - *Added 3/4/2022.*
+- [Vulners](https://vulners.com/) - *Added 3/4/2022.*
+
 ### **Malware and Malware Analysis**
 
 - [RansomWatch](https://ransomwatch.telemetry.ltd/) - *Added 21/2/2022.*
@@ -452,6 +460,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Data Sets**
 
+- [AI Incident Database](https://incidentdatabase.ai/?lang=en) - *Added 3/4/2022.*
 - [Information Operations Archive](https://www.io-archive.org/) - *Added 26/3/2022.*
 - [Bloopbase Searchable Data Dumps](https://bloopbase.keybase.pub/) - *Added 26/3/2022.*
 - [HuggingFace](https://huggingface.co/) - *Added 30/1/2022.*
@@ -461,6 +470,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Government Data Sets**
 
+- [BlackBookOnline](https://www.blackbookonline.info/index.html) - *Added 3/4/2022.*
 - [US Library of Congress](https://www.loc.gov/) - *Added 30/1/2022.*
 - [Netronline Public Records](https://publicrecords.netronline.com/) - *Added 25/1/2022.*
 - [SpatialHub Scotland Datasets](https://data.spatialhub.scot/dataset) - *Added 25/1/2022.*
