@@ -463,6 +463,10 @@
   A free tool that allows you to export followers, tweets and keywords to an XLSX file.
 - [Twitter Image Search](https://cse.google.com/cse?cx=006290531980334157382:_ltcjq0robu#gsc.tab=0)  
   This Google CSE allows you to search for images posted on Twitter via keywords.
+- [Botometer](https://botometer.osome.iu.edu/) 
+  Botometer (formerly BotOrNot) checks the activity of a Twitter account and gives it a score. Higher scores mean more bot-like activity. Requires Twitter authentication.
+- [twtData](https://www.twtdata.com/)  
+  Extract a list of Twitter followers and/or followings for any account. 
 
 ## <u>**Untappd**</u>
 
