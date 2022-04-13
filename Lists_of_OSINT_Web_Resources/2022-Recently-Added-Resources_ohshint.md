@@ -133,6 +133,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Twitter**
 
+- [Allegedly](https://makeadverbsgreatagain.org/allegedly/) - *Added 13/4/2022.*
 - [twtData](https://www.twtdata.com/) - *Added 3/4/2022.*
 - [Botometer](https://botometer.osome.iu.edu/) - *Added 3/4/2022.*
 - [Twitter Image Search](https://cse.google.com/cse?cx=006290531980334157382:_ltcjq0robu#gsc.tab=0) - *Added 26/3/2022.*
@@ -177,6 +178,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Live Border Crossing Times](https://live.sixfold.com/) - *Added 25/1/2022.*
 - [Localingual](https://localingual.com/) - *Added 25/1/2022.*
 
+### **Historical Maps**
+
+- [HistoricEngland](https://historicengland.org.uk/images-books/archive/collections/aerial-photos/) *Added 13/4/2022.*
+
 ### **Weather Maps**
 
 - [EURDEP Gamma Dose Map](http://eea.government.bg/eea/main-site/bg/output/daily/bulletin-en.html) - *Added 22/03/2022.*
@@ -195,6 +200,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Industry Maps**
 
+- [GlobalEnergyMonitor](https://globalenergymonitor.org/projects/global-fossil-infrastructure-tracker/tracker-map/) - *Added 13/4/2022.*
+- [Aenert Map of Heavy Oil Fields](https://aenert.com/technologies/fossil-fuel/unconventional-oil/interactive-map-of-heavy-oil-fields/) - *Added 13/4/2022.*
 - [U.S. Energy, Environment and Policy Map](https://www.bakerinstitute.org/energy-environment-and-policy-in-the-us/) - *Added 25/1/2022.*
 
 ### **Drone Footage** 
@@ -256,6 +263,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Business Search**
 
+- [Librebor](https://librebor.me/) *Added 13/4/2022.*
 - [ProPublica Non-Profit Explorer](https://projects.propublica.org/nonprofits/) - *Added 26/3/2022.*
 - [CrunchBase](https://www.crunchbase.com/) - *Added 22/03/2022.*
 - [PitchBook](https://pitchbook.com/) - *Added 9/2/2022.*
@@ -298,6 +306,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **License Plates**
 
+- [PlaqueFree](http://plaque.free.fr/ph_e.html) - *Added 13/4/2022.*
 - [Ke Placa](https://www.keplaca.com/) - *Added 22/03/2022.*
 - [VehicleHistory](https://www.vehiclehistory.com/license-plate-search) - *Added 2/1/2022.*
 - [FaxVIN Plate Lookup](https://www.faxvin.com/license-plate-lookup) - *Added 2/1/2022.*
