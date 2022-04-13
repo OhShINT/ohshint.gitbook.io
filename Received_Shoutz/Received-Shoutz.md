@@ -46,7 +46,6 @@ Thank you all! <3
 ## **Newsletters**
 
 - [The OSINT Newsletter by @jakecreps - Issue #1](http://osintnewsletter.com/issues/the-osint-newsletter-issue-1-839997).
-
   - ([Wayback](https://web.archive.org/web/20220221105918/http://osintnewsletter.com/issues/the-osint-newsletter-issue-1-839997)), ([archive.today](https://archive.ph/RE8Rg)).
 
   
@@ -54,27 +53,21 @@ Thank you all! <3
 ## **Articles**
 
 - [Sector035 Week in OSINT #2021-43 - sector035.nl](https://sector035.nl/articles/2021-43).
-
   - ([Wayback](https://web.archive.org/web/20211108092538/https://sector035.nl/articles/2021-43)), ([archive.today](https://archive.ph/85Msq)).
 
 - [Sector035 Week in OSINT #2021-46 - sector035.nl](https://sector035.nl/articles/2021-46).
-
   - ([Wayback](https://web.archive.org/web/20211129113257/https://sector035.nl/articles/2021-46)), ([archive.today](https://archive.ph/CzDIB)).
 
 - [Sector035 Week in OSINT #2021-48 - sector035.nl](https://sector035.nl/articles/2021-48).
-
   - ([Wayback](https://web.archive.org/web/20211213070442/https://sector035.nl/articles/2021-48)), ([archive.today](https://archive.ph/hkF0w)).
 
 - [Week in OSINT 2022-13 - sector035.nl](https://sector035.nl/articles/2022-13). 
-
   - ([Wayback](https://web.archive.org/web/20220404060107/https://sector035.nl/articles/2022-13)), ([archive.today](https://archive.ph/clV6h)).
 
 - [Week In OSINT 2022-14 - sector035.nl](https://sector035.nl/articles/2022-14). 
-
   - ([Wayback](http://web.archive.org/web/20220411093354/https://sector035.nl/articles/2022-14)), ([archive.today](https://archive.ph/2EsEo)).
 
 - [It's A Match! Dating Apps and SOCMINT - intel-inquirer.medium.com](https://intel-inquirer.medium.com/its-a-match-dating-apps-and-socmint-2c05c44e9590).
-
   - ([Wayback](https://web.archive.org/web/20220408000410/https://intel-inquirer.medium.com/its-a-match-dating-apps-and-socmint-2c05c44e9590)), ([archive.today](https://archive.ph/HzyM2)).
 
   
@@ -82,59 +75,45 @@ Thank you all! <3
 ## **Resource Lists**
 
 - [OSINT Sites & Research Software - uk-osint.net](https://uk-osint.net/osintsoftware.html).
-
   - ([Wayback](https://web.archive.org/web/20220211071534/https://uk-osint.net/osintsoftware.html)), ([archive.today](https://archive.ph/rTtkr)).
 
 - [The Ultimate OSINT Collection - start.me](https://start.me/p/DPYPMz/the-ultimate-osint-collection).  
-
   - ([Wayback](https://web.archive.org/web/20220326041030/https://start.me/p/DPYPMz/the-ultimate-osint-collection)), ([archive.today](https://archive.ph/M3OYb)).
 
 - [chharles Resources - chharles.com](https://chharles.com/resources/).
-
   - ([Wayback](https://web.archive.org/web/20220211065555/https://chharles.com/resources/)), ([archive.today](https://archive.ph/gRgoD)).
 
 - [s0cm0nkey.gitbook.io](https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/cyber-intelligence/osint).
-
   - ([Wayback](https://web.archive.org/web/20220324052228/https://s0cm0nkey.gitbook.io/s0cm0nkeys-security-reference-guide/cyber-intelligence/osint)), ([archive.today](https://archive.ph/rKZwO)).
 
 - [The ULT OSINT Ls - therecap.org](https://therecap.org/the-ultimate-osint/).
-
   - ([Wayback](https://web.archive.org/web/20220113033811/https://therecap.org/the-ultimate-osint/)), ([archive.today](https://archive.ph/Oah24)).
 
 - [OSINT Tools and Resources - thelukeac.tech](https://thelukeac.tech/?page_id=97).
-
   - ([Wayback](https://web.archive.org/web/20220221104526/https://thelukeac.tech/?page_id=97)), ([archive.today](https://archive.ph/WHW5k)).
 
 - [OSU Security Club Resources List - osusec.org](https://www.osusec.org/resources/).
-
   - ([Wayback](https://web.archive.org/web/20220211072055/https://www.osusec.org/resources/)), ([archive.today](https://archive.ph/Us8a7)).
 
 - [Jornadas OSINT - start.me](https://start.me/p/BnBb5v/jornadas-osint).
-
   - ([Wayback](https://web.archive.org/web/20211215030931/https://start.me/p/BnBb5v/jornadas-osint)), ([archive.today](https://archive.ph/TfDon)).
 
 - [cipher387 OSINT-Github-Profiles - github.com](https://github.com/cipher387/OSINT-Github-profiles).
-
   - ([Wayback](https://web.archive.org/web/20220324120449/https://github.com/cipher387/OSINT-Github-profiles)), ([archive.today](https://archive.ph/Zo7ug)).
 
 - [danieldurnea FBI-tools - github.com](https://github.com/danieldurnea/FBI-tools).  
-
   - ([Wayback](https://web.archive.org/web/20220322042036/https://github.com/danieldurnea/FBI-tools)),  ([archive.today](https://archive.ph/NopHd)).
 
 - [F3dai OSINT-Resources - github.com](https://github.com/F3dai/OSINT-Resources).  
-
   - ([Wayback](https://web.archive.org/web/20220328050302/https://github.com/F3dai/OSINT-Resources)), ([archive.today](https://archive.ph/OBzkU)).
 
 - [aaikinn OSINT - github.com](https://github.com/aaiknn/OSINT).  
-
   - ([Wayback](https://web.archive.org/web/20220326034341/https://github.com/aaiknn/OSINT)), ([archive.today](https://archive.ph/JpGcG)).
 
 - [Cyber Sector 7 OSINT Tools - start.me](https://start.me/p/eke9a5/cyber-sector-7-osint-tools).
-
   - ([Wayback](https://web.archive.org/web/20220327001639/https://start.me/p/eke9a5/cyber-sector-7-osint-tools)), ([archive.today](https://archive.ph/2wg7n)).
 
 - [Inteligência com Fontes Abertas (OSINT) Para Jornalistas - belisards.github.io](https://belisards.github.io/osint/). 
-
   - ([Wayback](https://web.archive.org/web/20220408020749/https://belisards.github.io/osint/)), ([archive.today](https://archive.ph/Cqvvi)), ([English Translation](https://belisards-github-io.translate.goog/osint/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)).
 
   
@@ -142,7 +121,6 @@ Thank you all! <3
 ## **Documents**
 
 - [[PDF] L'OSINT/ROSO en Pratique - adbs.fr](https://www.adbs.fr/sites/default/files/documents/conference_adbs_-serge_courrier_-_osint_en_pratique_2021_0.pdf).
-
   - ([Wayback](https://web.archive.org/web/20220324055345/https://www.adbs.fr/sites/default/files/documents/conference_adbs_-serge_courrier_-_osint_en_pratique_2021_0.pdf)), ([archive.today](https://archive.ph/Xjz9v)).
 
   
@@ -150,23 +128,18 @@ Thank you all! <3
 ## **Other**
 
 - [OH SHINT OSINT Handbook - raidforums.com](https://raidforums.com/Thread-OH-SHINT-OSINT-Handbook) (*lmao*).
-
   - ([Wayback](https://web.archive.org/web/20220221105142/https://raidforums.com/Thread-OH-SHINT-OSINT-Handbook)), ([archive.today](https://archive.ph/MHU8B)).
 
 - [Are Darknet Hackers Real and Reliable? - reddit.com/r/hacking](https://www.reddit.com/r/hacking/comments/sr30fs/are_darknet_hackers_real_and_reliable/). (*what..?*). 
-
   - ([Wayback](https://web.archive.org/web/20220326032841/https://www.reddit.com/r/hacking/comments/sr30fs/are_darknet_hackers_real_and_reliable/)), ([archive.today](https://archive.ph/Dde4I)).
 
 - [How Do I Run A Background Check!? - reddit.com/r/raleigh](https://www.reddit.com/r/raleigh/comments/ttf3n0/how_do_i_run_a_background_check/).
-
   - ([Wayback](https://web.archive.org/web/20220403191837/https://www.reddit.com/r/raleigh/comments/ttf3n0/how_do_i_run_a_background_check/)), ([archive.today](https://archive.ph/QDCQd)).
 
 - [Weekly #OSINT | #Terrorism | #Extremism Tweets - lorandbodo.com](https://lorandbodo.com/weekly-tweets/osint-terrorism-extremism/20).  
-
   - ([Wayback](https://web.archive.org/web/20220326033838/https://lorandbodo.com/weekly-tweets/osint-terrorism-extremism/20)), ([archive.today](https://archive.ph/UR4KM)).
 
 - [OSINT / Cyberstalking General - lainchan.org/sec/](https://www.lainchan.org/sec/res/12162.html).  
-
   - ([Wayback](https://web.archive.org/web/20220404022733/https://www.lainchan.org/sec/res/12162.html)), ([archive.today](https://archive.ph/VlbbL)).
 
   
