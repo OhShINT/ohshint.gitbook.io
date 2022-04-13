@@ -1552,6 +1552,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Botometer (formerly BotOrNot) checks the activity of a Twitter account and gives it a score. Higher scores mean more bot-like activity. Requires Twitter authentication.
 - [twtData](https://www.twtdata.com/)  
   Extract a list of Twitter followers and/or followings for any account. 
+- [Allegedly](https://makeadverbsgreatagain.org/allegedly/)  
+  Allows you to check information about Twitter profiles such as times of posting, devices and apps used to sign-in and repetition of tweets. All without the need to login.
 
 
 ## **Untappd**
@@ -1848,6 +1850,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   An interactive map of human diseases, both historical and current.
 - [Wayback World Imagery](https://livingatlas.arcgis.com/wayback/)  
   A digital archive of the world imagery base map, enabling users to access different versions of world imagery captured over the years.
+- [HistoricEngland](https://historicengland.org.uk/images-books/archive/collections/aerial-photos/)  
+  Contains a wealth of historical imagery. From photos taken by the RAF in the 1940's, to modern day hi-res images from many landmarks in the UK.
 
 ## **Weather Maps**
 
@@ -2060,6 +2064,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   This interactive map shows the locations of critical energy facilities in the U.S.
 - [PowerOutage](https://poweroutage.com/)  
   A project to track, record, and aggregate power outages across the world.
+- [Aenert Map of Heavy Oil Fields](https://aenert.com/technologies/fossil-fuel/unconventional-oil/interactive-map-of-heavy-oil-fields/)  
+  A map of over 1,500 different oil fields located all over the world.
+- [GlobalEnergyMonitor](https://globalenergymonitor.org/projects/global-fossil-infrastructure-tracker/tracker-map/)  
+  A collection of interactive maps and datasets regarding the energy sector. Fossil fuels, coal mines and more.
   
 ## **Landmark Recognition**
 
@@ -2446,6 +2454,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Find business information about private and public companies. Information includes investments and funding information, founding members, leadership positions, mergers, acquisitions, news, and industry trends.
 - [ProPublica Non-Profit Explorer](https://projects.propublica.org/nonprofits/)  
   Explorer for exploring tax exempt organizations.
+- [Librebor](https://librebor.me/)  
+  Allows you to retrieve specific company details from the Spanish Register, information such as adquisitions, incorporations, NIF validation and more.
 
 ## **Patents and Trademarks**
 
@@ -2689,6 +2699,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search for a U.S. license plate and receive details about the vehicle.
 - [AutoCheck License Plate Search](https://www.autocheck.com/vehiclehistory/search-by-license-plate)  
   A U.S. license plate search tool.
+- [PlaqueFree](http://plaque.free.fr/ph_e.html)  
+  A database of over 100,000 different license plates from all over the world.
 
 ## **Marine**
 
