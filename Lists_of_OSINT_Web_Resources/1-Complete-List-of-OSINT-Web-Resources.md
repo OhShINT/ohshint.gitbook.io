@@ -2455,7 +2455,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [ProPublica Non-Profit Explorer](https://projects.propublica.org/nonprofits/)  
   Explorer for exploring tax exempt organizations.
 - [Librebor](https://librebor.me/)  
-  Allows you to retrieve specific company details from the Spanish Register, information such as adquisitions, incorporations, NIF validation and more.
+  Allows you to retrieve specific company details from the Spanish Register, information such as aquisitions, incorporations, NIF validation and more.
 
 ## **Patents and Trademarks**
 
