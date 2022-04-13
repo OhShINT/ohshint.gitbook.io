@@ -201,6 +201,8 @@
   Offers loads of historical maps from all over Europe. Requires registration and payment.
 - [Disease Map](http://disease-map.net/)  
   An interactive map of human diseases, both historical and current.
+- [HistoricEngland](https://historicengland.org.uk/images-books/archive/collections/aerial-photos/)  
+  Contains a wealth of historical imagery. From photos taken by the RAF in the 1940's, to modern day hi-res images from many landmarks in the UK.
 
 ## **Weather Maps**
 
@@ -413,6 +415,10 @@
   This interactive map shows the locations of critical energy facilities in the U.S.
 - [PowerOutage](https://poweroutage.com/)  
   A project to track, record, and aggregate power outages across the world.
+- [Aenert Map of Heavy Oil Fields](https://aenert.com/technologies/fossil-fuel/unconventional-oil/interactive-map-of-heavy-oil-fields/)  
+  A map of over 1,500 different oil fields located all over the world.
+- [GlobalEnergyMonitor](https://globalenergymonitor.org/projects/global-fossil-infrastructure-tracker/tracker-map/)  
+  A collection of interactive maps and datasets regarding the energy sector. Fossil fuels, coal mines and more.
   
 ## **Landmark Recognition**
 
