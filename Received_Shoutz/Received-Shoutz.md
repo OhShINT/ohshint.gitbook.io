@@ -65,6 +65,18 @@ Thank you all! <3
 
   - ([Wayback](https://web.archive.org/web/20211213070442/https://sector035.nl/articles/2021-48)), ([archive.today](https://archive.ph/hkF0w)).
 
+- [Week in OSINT 2022-13 - sector035.nl](https://sector035.nl/articles/2022-13). 
+
+  - ([Wayback](https://web.archive.org/web/20220404060107/https://sector035.nl/articles/2022-13)), ([archive.today](https://archive.ph/clV6h)).
+
+- [Week In OSINT 2022-14 - sector035.nl](https://sector035.nl/articles/2022-14). 
+
+  - ([Wayback](http://web.archive.org/web/20220411093354/https://sector035.nl/articles/2022-14)), ([archive.today](https://archive.ph/2EsEo)).
+
+- [It's A Match! Dating Apps and SOCMINT - intel-inquirer.medium.com](https://intel-inquirer.medium.com/its-a-match-dating-apps-and-socmint-2c05c44e9590).
+
+  - ([Wayback](https://web.archive.org/web/20220408000410/https://intel-inquirer.medium.com/its-a-match-dating-apps-and-socmint-2c05c44e9590)), ([archive.today](https://archive.ph/HzyM2)).
+
   
 
 ## **Resource Lists**
@@ -121,6 +133,10 @@ Thank you all! <3
 
   - ([Wayback](https://web.archive.org/web/20220327001639/https://start.me/p/eke9a5/cyber-sector-7-osint-tools)), ([archive.today](https://archive.ph/2wg7n)).
 
+- [Inteligência com Fontes Abertas (OSINT) Para Jornalistas - belisards.github.io](https://belisards.github.io/osint/). 
+
+  - ([Wayback](https://web.archive.org/web/20220408020749/https://belisards.github.io/osint/)), ([archive.today](https://archive.ph/Cqvvi)), ([English Translation](https://belisards-github-io.translate.goog/osint/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)).
+
   
 
 ## **Documents**
@@ -148,6 +164,10 @@ Thank you all! <3
 - [Weekly #OSINT | #Terrorism | #Extremism Tweets - lorandbodo.com](https://lorandbodo.com/weekly-tweets/osint-terrorism-extremism/20).  
 
   - ([Wayback](https://web.archive.org/web/20220326033838/https://lorandbodo.com/weekly-tweets/osint-terrorism-extremism/20)), ([archive.today](https://archive.ph/UR4KM)).
+
+- [OSINT / Cyberstalking General - lainchan.org/sec/](https://www.lainchan.org/sec/res/12162.html).  
+
+  - ([Wayback](https://web.archive.org/web/20220404022733/https://www.lainchan.org/sec/res/12162.html)), ([archive.today](https://archive.ph/VlbbL)).
 
   
 
