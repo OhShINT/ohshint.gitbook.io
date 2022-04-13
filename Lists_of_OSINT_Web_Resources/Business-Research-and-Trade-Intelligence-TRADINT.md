@@ -35,6 +35,8 @@
   Find business information about private and public companies. Information includes investments and funding information, founding members, leadership positions, mergers, acquisitions, news, and industry trends.
 - [ProPublica Non-Profit Explorer](https://projects.propublica.org/nonprofits/)  
   Explorer for exploring tax exempt organizations.
+- [Librebor](https://librebor.me/)  
+  Allows you to retrieve specific company details from the Spanish Register, information such as adquisitions, incorporations, NIF validation and more.
 
 ## **<u>Patents and Trademarks</u>**
 
