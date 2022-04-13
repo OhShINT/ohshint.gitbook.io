@@ -55,6 +55,8 @@
   Search for a U.S. license plate and receive details about the vehicle.
 - [AutoCheck License Plate Search](https://www.autocheck.com/vehiclehistory/search-by-license-plate)  
   A U.S. license plate search tool.
+- [PlaqueFree](http://plaque.free.fr/ph_e.html)  
+  A database of over 100,000 different license plates from all over the world.
 
 ## **Marine**
 
