@@ -467,6 +467,8 @@
   Botometer (formerly BotOrNot) checks the activity of a Twitter account and gives it a score. Higher scores mean more bot-like activity. Requires Twitter authentication.
 - [twtData](https://www.twtdata.com/)  
   Extract a list of Twitter followers and/or followings for any account. 
+- [Allegedly](https://makeadverbsgreatagain.org/allegedly/)  
+  Allows you to check information about Twitter profiles such as times of posting, devices and apps used to sign-in and repetition of tweets. All without the need to login.
 
 ## <u>**Untappd**</u>
 
