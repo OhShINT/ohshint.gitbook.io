@@ -732,3 +732,59 @@ Locating geotagged posts is very useful when researching on-going events, protes
 
 Attached image:
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/SnapMap-in-Ukraine.jpg"/>
+
+
+
+## **OSINT Protip 32**
+
+> Posted on *5/4/2022* at *5:56 PM*.  
+> URL: [https://twitter.com/ohshint_/status/1511508193251237891](https://twitter.com/ohshint_/status/1511508193251237891)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 32: 
+
+[#Reddit](https://twitter.com/hashtag/Reddit?src=hashtag_click) can be an invaluable resource for any investigation. From deleted content, profiling a subject, or locating the source of content. Here are some tools. 
+
+- [https://camas.github.io/reddit-search/](https://camas.github.io/reddit-search/) 
+- [https://redditmetis.com](https://redditmetis.com/)
+-  [https://repostsleuth.com](https://repostsleuth.com/)
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Here are some other useful tools when working with Reddit. 
+
+- [https://redective.com](https://www.redective.com/) 
+- [https://apify.com/trudax/reddit-scraper](https://apify.com/trudax/reddit-scraper) 
+- [https://karmadecay.com](http://karmadecay.com/) 
+- [https://anvaka.github.io/map-of-reddit/](https://anvaka.github.io/map-of-reddit/)
+-  [https://redditsearch.io](https://redditsearch.io/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#SOCMINT](https://twitter.com/hashtag/SOCMINT?src=hashtag_click)
+
+
+
+## **OSINT Protip 33**
+
+> Posted on *7/4/2022* at *5:42 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1512229453857886214](https://twitter.com/ohshint_/status/1512229453857886214)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 33: 
+
+Passports and other identification documents are important in daily life and in any investigation. Being able to identify them and verify legitimacy is essential. 
+
+- [https://edisontd.nl](https://www.edisontd.nl/) 
+- [https://www.wikiwand.com/en/Passport_stamp](https://www.wikiwand.com/en/Passport_stamp)
+- [http://vehicle-documents.it](http://www.vehicle-documents.it/)
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Some other great resources for identification documents and licenses. 
+
+- [https://passportindex.org](https://www.passportindex.org/) 
+- [https://nidc.dk/en/ID-databases](https://nidc.dk/en/ID-databases)
+-  [https://justice.gov.bc.ca/security/utilities/](https://justice.gov.bc.ca/security/utilities/)
+- [https://polisen.se/en/services-and-permits/passport-and-national-id-card/check-validity-online-for-passports-and-national-id-cards/](https://polisen.se/en/services-and-permits/passport-and-national-id-card/check-validity-online-for-passports-and-national-id-cards/)
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attatched image:
+<img src=" "</>
