@@ -101,6 +101,9 @@ Thank you all! <3
 - [cipher387 OSINT-Github-Profiles - github.com](https://github.com/cipher387/OSINT-Github-profiles).
   - ([Wayback](https://web.archive.org/web/20220324120449/https://github.com/cipher387/OSINT-Github-profiles)), ([archive.today](https://archive.ph/Zo7ug)).
 
+- [OSINT Github Profiles - reconshell.com](https://reconshell.com/osint-github-profiles/). (*re-post of the above list*).
+  - ([Wayback](https://web.archive.org/web/20220415024054/https://reconshell.com/osint-github-profiles/)), ([archive.today](https://archive.ph/FSM7q)).
+
 - [danieldurnea FBI-tools - github.com](https://github.com/danieldurnea/FBI-tools).  
   - ([Wayback](https://web.archive.org/web/20220322042036/https://github.com/danieldurnea/FBI-tools)),  ([archive.today](https://archive.ph/NopHd)).
 
