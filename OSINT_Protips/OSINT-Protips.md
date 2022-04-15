@@ -786,5 +786,5 @@ Some other great resources for identification documents and licenses.
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
 
-Attatched image:
-<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Passport-Stamps-Example.jpg"</>
+Attatched image:  
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Passport-Stamps-Example.jpg"/>
