@@ -17,7 +17,7 @@
 
 ### **<u>Passports and Travel Documents</u>**
 
-- [Edison Travel Documents](http://www.edisontd.net/)  
+- [Edison Travel Documents](https://www.edisontd.nl/)  
   EdisonTD is a database containing information about travel and travel-related documents from almost every country on the globe.
 - [Passport Index](https://www.passportindex.org/)  
   An interactive platform that curates, sorts and ranks the world's passports. Explore passport designs, colors and VISA scores.
