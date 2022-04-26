@@ -22,6 +22,8 @@
   Guide on how to lookup and decode a VIN number.
 - [FaxVIN](https://www.faxvin.com/)  
   Search via VIN number and get vehicle information, specifications, title information and more. For best results, a paid subscription is required.
+- [IntelX VIN Search](https://intelx.io/tools?tab=vin)  
+  A great VIN search engine offered by IntelX.
 
 ### **License Plates**
 
