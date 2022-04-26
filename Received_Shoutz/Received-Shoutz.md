@@ -70,6 +70,9 @@ Thank you all! <3
 - [It's A Match! Dating Apps and SOCMINT - intel-inquirer.medium.com](https://intel-inquirer.medium.com/its-a-match-dating-apps-and-socmint-2c05c44e9590).
   - ([Wayback](https://web.archive.org/web/20220408000410/https://intel-inquirer.medium.com/its-a-match-dating-apps-and-socmint-2c05c44e9590)), ([archive.today](https://archive.ph/HzyM2)).
 
+- [Hall of Fame - Our OSINTERS Are Talented - osintfr.com](https://osintfr.com/en/our-osinters-are-talented/).
+  - ([Wayback](https://web.archive.org/web/20220425035638/https://osintfr.com/en/our-osinters-are-talented/)), ([archive.today](https://archive.ph/nKfRW)).
+
   
 
 ## **Resource Lists**
