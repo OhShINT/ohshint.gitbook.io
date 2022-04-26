@@ -27,6 +27,10 @@ Similar to the above, this is a big list of dialing codes for each different cou
   Search for a Swedish phone number and confirm which phone operator the number belongs to.
 - [Phonerator](https://www.martinvigo.com/tools/phonerator/)  
   Search engine that allows you to provide a few digits and generate a list of possible valid phone numbers for your OSINT needs.
+- [ZLookup](https://www.zlookup.com/)  
+  A reverse phone number lookup tool. Also is able to detect VoIP numbers.
+- [IntelX Phone Number Search](https://intelx.io/tools?tab=telephone)  
+  A great phone number meta search engine offered by IntelX.
 
 ## **<u>White/Yellow Page Directories</u>**
 
