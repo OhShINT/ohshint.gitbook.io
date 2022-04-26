@@ -63,6 +63,8 @@
   Tracking bitcoin addresses used by ransomware, blackmailers, fraudsters, etc.
 - [LearnMeABitcoin](https://learnmeabitcoin.com/tools/path/)  
   Locate transactions between two Bitcoin addresses.
+- [IntelX Bitcoin Search](https://intelx.io/tools?tab=bitcoin)  
+  A great search engine for the Bitcoin blockchain offered by IntelX.
 
 ### **<u>Ethereum [ETH] Specific</u>**
 
