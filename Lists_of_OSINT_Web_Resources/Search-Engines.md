@@ -648,6 +648,10 @@
   A torrent site that only offers verified torrents.
 - [1337x](https://1337x.to/)  
   Provides a directory of torrent files and magnet links used for peer-to-peer file sharing.
+- [IntelX File Search](https://intelx.io/tools?tab=file)  
+  A great file and document search engine offered by IntelX.
+- [deDigger](https://www.dedigger.com/)  
+  Searches through Google Drives via keywords.
 
 ## **Video Search**
 
@@ -688,6 +692,8 @@
   A Google CSE that searches for WordPress blogs and images via keyword.
 - [OSINT Blog Search](https://cse.google.com/cse?cx=006290531980334157382:qcaf4enph7i#gsc.tab=0)  
   An interesting Google CSE where you can find OSINT related blogs, articles, documents and tools via keyword.
+- [BoardReader](https://boardreader.com/)  
+  Indexes forums and makes them searchable via keywords. Provides results from specific websites like Reddit, Voat, 4chan, 8chan, and more.
 
 ## **Job Search**
 
