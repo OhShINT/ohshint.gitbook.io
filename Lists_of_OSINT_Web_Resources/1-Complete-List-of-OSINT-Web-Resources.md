@@ -948,6 +948,10 @@ A Google CSE that searches for scientific publications.
   A torrent site that only offers verified torrents.
 - [1337x](https://1337x.to/)  
   Provides a directory of torrent files and magnet links used for peer-to-peer file sharing.
+- [IntelX File Search](https://intelx.io/tools?tab=file)  
+  A great file and document search engine offered by IntelX.
+- [deDigger](https://www.dedigger.com/)  
+  Searches through Google Drives via keywords.
 
 ## **Video Search**
 
@@ -988,6 +992,8 @@ A Google CSE that searches for scientific publications.
   A Google CSE that searches for WordPress blogs and images via keyword.
 - [OSINT Blog Search](https://cse.google.com/cse?cx=006290531980334157382:qcaf4enph7i#gsc.tab=0)  
   An interesting Google CSE where you can find OSINT related blogs, articles, documents and tools via keyword.
+- [BoardReader](https://boardreader.com/)  
+  Indexes forums and makes them searchable via keywords. Provides results from specific websites like Reddit, Voat, 4chan, 8chan, and more.
 
 ## **Job Search**
 
@@ -1189,6 +1195,8 @@ A Google CSE that searches for scientific publications.
   This tool allows you to analyze Facebook accounts via URL. This tool is not very affective and doesn't always work, but its still worth mentioning.
 - [Facebook Image Search](https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0)  
   A Google CSE where you can search for images posted on Facebook via keywords.
+- [IntelX Facebook Search](https://intelx.io/tools?tab=facebook)  
+  A great Facebook search engine offered by IntelX.
 
 ## **Flickr**
 
@@ -1275,6 +1283,10 @@ A Google CSE that searches for scientific publications.
   Designed to help easily build search strings to generate targeted lists of LinkedIn users.
 - [LinkedIn User Search](https://cse.google.com/cse?cx=daaf18e804f81bed0)  
   A Google CSE for searching LinkedIn profiles via keywords.
+- [Lisearcher](https://www.lisearcher.com/)  
+  Easily find public LinkedIn profiles for candidates or B2B prospects in Google by searching using job title and keywords with boolean search.
+- [IntelX LinkedIn Search](https://intelx.io/tools?tab=linkedin)  
+  A great LinkedIn search engine offered by IntelX.
 
 ## **Mastodon**
 
@@ -1357,6 +1369,8 @@ A Google CSE that searches for scientific publications.
   Allows you to track and set alerts of posts of your preference. They also have historical data going back to 2010.
 - [Reddit Scraper](https://apify.com/trudax/reddit-scraper)  
   Crawl posts, comments, subreddits and users without having to login.
+- [Redditle](https://redditle.com/)  
+  A Reddit-only Google search tool. Essentially the same as adding site:reddit.com to a Google search.
 
 ## **SnapChat**
 
@@ -1554,6 +1568,12 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Extract a list of Twitter followers and/or followings for any account. 
 - [Allegedly](https://makeadverbsgreatagain.org/allegedly/)  
   Allows you to check information about Twitter profiles such as times of posting, devices and apps used to sign-in and repetition of tweets. All without the need to login.
+- [SocialBearing](https://socialbearing.com/)  
+  Provides insights and analytics for a Twitter user, hashtag, tweets and more.
+- [TweeView](https://tweeview.ml/)  
+  A tool to visualize Twitter conversations in a tree-style way.
+- [IntelX Twitter Search](https://intelx.io/tools?tab=twitter)  
+  A great Twitter search engine offered by IntelX.
 
 
 ## **Untappd**
@@ -1587,7 +1607,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search, sort and analyze YouTube comments.
 - [Unlisted Video Search](https://unlistedvideos.com/)  
   A website for submitting, searching for, and watching unlisted YouTube videos.
-- [YouTube Metadata Viewer](https://citizenevidence.amnestyusa.org/)  
+- [Amnesty International Youtube DataViewer](https://citizenevidence.amnestyusa.org/)  
   Enter a video URL and view that videos metadata.
 - [Channel Search](https://tools.digitalmethods.net/netvizz/youtube/mod_channels_search.php)  
   Tool for searching YouTube channels by keyword and creation date. The result is a table with the channel ID, name, description, date of creation, as well as the number of subscribers, views, and uploaded videos.
@@ -1607,6 +1627,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A free tool and bookmarklet that gathers an easy to read "too long, didn't read" (TLDR) transcript of any YouTube video.
 - [SaveSubs](https://savesubs.com/)  
   Allows you to convert, edit and download subtitles from YouTube, Facebook, DailyMotion and more for free.
+- [IntelX YouTube Search](https://intelx.io/tools?tab=youtube)  
+  A great YouTube search engine offered by IntelX.
 
 ## **WhatsApp**
 
@@ -1762,6 +1784,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Gives you on-demand access to search, preview, and purchase the most recent, high-resolution commercial satellite imagery.
 - [FarEarth Observer](http://observer.farearth.com/observer/)  
   Allows you to watch data from different orbiting satellites in the record. The data is available in 15-30 minutes after recording.
+- [HoodMaps](https://hoodmaps.com/)  
+  A crowd-sourced mapping tool that shows you all kinds of unique information of an area. "If Google Maps and Urban Dictionary had a love child".
+- [Spectator.earth](https://spectator.earth/)  
+  Features a range of tools for satellite imagery. It has easy access to freely available imagery by Sentinel and Landsat, and they even provide API access for easily monitoring an area.
 
 ## **Street View Maps**
 
@@ -2289,6 +2315,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Upload an image of a coin and this tool will help you identify it.
 - [Coins Catalog Identifier](https://coinscatalog.net/identify)  
   Upload an image of the front and back of any coin and this tool will identify the coin, country of origin, mint year, denomination, metal composite and other details.
+- [IntelX Image Search](https://intelx.io/tools?tab=image)  
+  A great image search tool offered by IntelX. This tool allows you to perform a reverse search and analysis of an image. You must supply the URL of the uploaded image.
+- [RootAbout](https://rootabout.com/)  
+  Upload an image and search it on the Internet Archive, OpenLibrary, Google and TinEye.
 
 ## **Image Generation**
 
@@ -2340,6 +2370,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A free online tool that allows you to remove people from images.
 - [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/)  
   Simple online tool to automate the downloading of entire Imgur albums.
+- [Photoscissors](https://photoscissors.com/)  
+  An online tool to remove backgrounds from images.
 
 ## **Image Metadata and Forensics**
 
@@ -2503,6 +2535,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Provides detailed financial information on all companies, both private and public, that are located in Sweden.
 - [Denmark Company Search](https://www.proff.dk/)  
   Provides detailed financial information on all companies, both private and public, that are located in Denmark.
+- [Armanian Electronic Register](https://www.e-register.am/ru/search)  
+  Search for information about Armanian organizations.
 
 #### **North America**
 
@@ -2583,6 +2617,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Tracking bitcoin addresses used by ransomware, blackmailers, fraudsters, etc.
 - [LearnMeABitcoin](https://learnmeabitcoin.com/tools/path/)  
   Locate transactions between two Bitcoin addresses.
+- [IntelX Bitcoin Search](https://intelx.io/tools?tab=bitcoin)  
+  A great search engine for the Bitcoin blockchain offered by IntelX.
 
 ### **Ethereum [ETH] Specific**
 
@@ -2666,6 +2702,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Guide on how to lookup and decode a VIN number.
 - [FaxVIN](https://www.faxvin.com/)  
   Search via VIN number and get vehicle information, specifications, title information and more. For best results, a paid subscription is required.
+- [IntelX VIN Search](https://intelx.io/tools?tab=vin)  
+  A great VIN search engine offered by IntelX.
 
 ### **License Plates**
 
@@ -3059,6 +3097,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A user-maintained database of networks. Provides a wealth of interconnection data.
 - [Robtex](https://www.robtex.com/)  
   Gathers public information about IP numbers, domain names, host names, autonomous systems, routes, etc. It then indexes the data in a big database and provides free access to the data.
+- [IntelX IP Address Search](https://intelx.io/tools?tab=ip)  
+  A great IP address search tool offered by IntelX.
 
 ## **Domain Name System [DNS] Records**
 
@@ -3078,6 +3118,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Domains App makes it easy to see domains availability across extensions and notifies you about any WHOIS or DNS changes.
 - [DomainCodex](https://www.domaincodex.com/index.php)  
   Research domain information and all associated data, including records, IP addresses, page metadata, location and much more. Has over 315 million indexed domains.
+- [IntelX Domain Search](https://intelx.io/tools?tab=domain)  
+  A great domain search engine offered by IntelX.
 
 ## **Website Analysis**
 
@@ -3418,6 +3460,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A worldwide database of internet service providers.
 - [Wikipedia - Lists of Internet Service Providers by Country](https://en.wikipedia.org/wiki/Category:Internet_service_providers_by_country) ([WikiLess](https://wikiless.org/wiki/Category:Internet_service_providers_by_country))  
   Lists of ISPs organized by country.
+- [API Guesser](https://api-guesser.netlify.app)  
+  Enter the API key or token to find out which service it can be used by.
 
 # <u>**Signals Intelligence [SIGINT]**</u>
 
@@ -3473,6 +3517,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   The Numbers Stations Research and Information Center is an international group of numbers stations, military stations, and shortwave radio observers.
 - [Bellingcat Radar Interference Tracker](https://ollielballinger.users.earthengine.app/view/bellingcat-radar-interference-tracker)  
   Shows interference from ground based radar systems as red and blue streaks. Most of these are military radars. Click on the map to generate a historical graph of Radio Frequency Interference (RFI). Read the documentation for this open-source project [here](https://github.com/bellingcat/sar-interference-tracker).
+- [Shortwave Radio Receiver Map](http://rx.linkfanel.net)  
+  Online map of shortwave radio receivers available for listening in your browser at the moment.
 
 ## **HAM Radio**
 
@@ -3622,6 +3668,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Search a first and last name and see how many people in the U.S. share the same name.
 - [Business Card Search](https://cse.google.com/cse?cx=bee58a1c31f451e4a)  
   This Google CSE allows you to search through digital business card sites. Created by [@dutch_osintguy](https://twitter.com/dutch_osintguy).
+- [IntelX Person Search](https://intelx.io/tools?tab=person)  
+  A great people meta search engine offered by IntelX.
   
 ## **Vital Records**
 - [Vital Record Search Tools](https://stevemorse.org/index.html)  
@@ -3728,6 +3776,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A tool from IntelX that lists all domains, email addresses, or URLs for the given input domain. Wildcards such as `*.gov.uk` are allowed. Search over 34 billion records.
 - [Have I Been Sold?](https://haveibeensold.app/)  
   A service that checks for email address that are included in marketing and spamming databases.
+- [IntelX Email Search](https://intelx.io/tools?tab=email)  
+  A great email search engine offered by IntelX.
 
 ## **Data Breach Search**
 
@@ -3779,6 +3829,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Discover leaks, know the passwords and information that hackers already have about you. Requires a paid subscription.
 - [Breached.co](https://breached.co/index.php)  
   A RaidForums alternative ran by the prolific pompompurin.
+- [BreachChecker](https://breachchecker.com/)  
+  Enter an email address and see what data breaches it has been included in. Does not provide any leaked data, only a list of breaches similar to HIBP.
 
 ## **Pretty Good Privacy [PGP]**
 
@@ -3819,6 +3871,10 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Search for a Swedish phone number and confirm which phone operator the number belongs to.
 - [Phonerator](https://www.martinvigo.com/tools/phonerator/)  
   Search engine that allows you to provide a few digits and generate a list of possible valid phone numbers for your OSINT needs.
+- [ZLookup](https://www.zlookup.com/)  
+  A reverse phone number lookup tool. Also is able to detect VoIP numbers.
+- [IntelX Phone Number Search](https://intelx.io/tools?tab=telephone)  
+  A great phone number meta search engine offered by IntelX.
 
 ## **White and Yellow Page Directories**
 
@@ -4288,7 +4344,9 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 - [NameCheck](https://namecheck.bloggingehow.com/)  
   Search via username on over 50 different social media and blogging sites.
 - [NAMINT](https://seintpl.github.io/NAMINT/)  
-  An awesome JavaScript tool to generate possible usernames and login search patterns with links. Created by [@SEINT_pl](https://.twitter.com/SEINT_pl)
+  An awesome JavaScript tool to generate possible usernames and login search patterns with links. Created by [@SEINT_pl](https://.twitter.com/SEINT_pl).
+- [IntelX Username Search](https://intelx.io/tools?tab=username)  
+  A great username search engine offered by IntelX.
 
 # <u>**Gaming**</u>
 
@@ -4371,6 +4429,16 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Great resource and toolkit for finding real estate information and records. Requires a paid subscription.
 - [Virtual Tours CSE](https://cse.google.com/cse?cx=b5bba571be1788aaa)  
   A Google CSE that searches major real estate sites that offer virtual tours of buildings and homes. Very useful.
+- [Foreclosure](https://www.foreclosure.com/)  
+  Delivers the best real estate deals first, well before they hit the mass market. Provides details about properties and homes. Requires a paid subscription.
+- [Zoopla](https://www.zoopla.co.uk/)  
+  Contains millions of properties for you to browse, also has advanced search filters.
+- [Trulia](https://www.trulia.com/)  
+  A property search engine that provides collected real estate information from various sources completely free of charge. You can see the current asking price, addresses, square footage and more.
+- [BlackBookOnline](https://www.blackbookonline.info/USA-Property.aspx)  
+  A directory of all U.S. county tax assessor databases.
+- [Public Accountability Project](https://publicaccountability.org/)  
+  Allows you to conduct one search in one place, and most importantly it also gives you the ability to search a name.
 
 ## **Historical Data**
 
