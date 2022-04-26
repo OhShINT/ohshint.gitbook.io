@@ -83,6 +83,10 @@
   Upload an image of a coin and this tool will help you identify it.
 - [Coins Catalog Identifier](https://coinscatalog.net/identify)  
   Upload an image of the front and back of any coin and this tool will identify the coin, country of origin, mint year, denomination, metal composite and other details.
+- [IntelX Image Search](https://intelx.io/tools?tab=image)  
+  A great image search tool offered by IntelX. This tool allows you to perform a reverse search and analysis of an image. You must supply the URL of the uploaded image.
+- [RootAbout](https://rootabout.com/)  
+  Upload an image and search it on the Internet Archive, OpenLibrary, Google and TinEye.
 
 ## **<u>Image Generation</u>**
 
@@ -132,6 +136,8 @@
   Basic online tool to add text to images. Great for making memes.
 - [Cleanup Pictures](https://cleanup.pictures/)  
   A free online tool that allows you to remove people from images.
+- [Photoscissors](https://photoscissors.com/)  
+  An online tool to remove backgrounds from images.
 
 ## **<u>Image Metadata and Forensics</u>**
 
