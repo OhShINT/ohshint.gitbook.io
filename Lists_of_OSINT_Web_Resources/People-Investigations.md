@@ -25,6 +25,8 @@
   Search a first and last name and see how many people in the U.S. share the same name.
 - [Business Card Search](https://cse.google.com/cse?cx=bee58a1c31f451e4a)  
   This Google CSE allows you to search through digital business card sites. Created by [@dutch_osintguy](https://twitter.com/dutch_osintguy).
+- [IntelX Person Search](https://intelx.io/tools?tab=person)  
+  A great people meta search engine offered by IntelX.
   
 ## **Vital Records**
 
