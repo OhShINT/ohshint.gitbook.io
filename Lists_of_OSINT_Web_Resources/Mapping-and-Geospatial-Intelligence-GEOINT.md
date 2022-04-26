@@ -115,6 +115,10 @@
   Gives you on-demand access to search, preview, and purchase the most recent, high-resolution commercial satellite imagery.
 - [FarEarth Observer](http://observer.farearth.com/observer/)  
   Allows you to watch data from different orbiting satellites in the record. The data is available in 15-30 minutes after recording.
+- [HoodMaps](https://hoodmaps.com/)  
+  A crowd-sourced mapping tool that shows you all kinds of unique information of an area. "If Google Maps and Urban Dictionary had a love child".
+- [Spectator.earth](https://spectator.earth/)  
+  Features a range of tools for satellite imagery. It has easy access to freely available imagery by Sentinel and Landsat, and they even provide API access for easily monitoring an area.
 
 ## **Street View Maps**
 
