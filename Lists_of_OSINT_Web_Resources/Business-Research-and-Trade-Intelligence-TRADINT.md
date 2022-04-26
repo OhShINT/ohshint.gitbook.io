@@ -85,6 +85,8 @@
   Provides detailed financial information on all companies, both private and public, that are located in Sweden.
 - [Denmark Company Search](https://www.proff.dk/)  
   Provides detailed financial information on all companies, both private and public, that are located in Denmark.
+- [Armanian Electronic Register](https://www.e-register.am/ru/search)  
+  Search for information about Armanian organizations.
 
 ### <u>**North America**</u>
 
