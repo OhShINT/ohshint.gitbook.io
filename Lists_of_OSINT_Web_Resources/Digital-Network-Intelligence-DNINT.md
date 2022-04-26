@@ -44,6 +44,8 @@
   A user-maintained database of networks. Provides a wealth of interconnection data.
 - [Robtex](https://www.robtex.com/)  
   Gathers public information about IP numbers, domain names, host names, autonomous systems, routes, etc. It then indexes the data in a big database and provides free access to the data.
+- [IntelX IP Address Search](https://intelx.io/tools?tab=ip)  
+  A great IP address search tool offered by IntelX.
 
 ## **Domain Name System [DNS] Records**
 
@@ -63,6 +65,8 @@
   Domains App makes it easy to see domains availability across extensions and notifies you about any WHOIS or DNS changes.
 - [DomainCodex](https://www.domaincodex.com/index.php)  
   Research domain information and all associated data, including records, IP addresses, page metadata, location and much more. Has over 315 million indexed domains.
+- [IntelX Domain Search](https://intelx.io/tools?tab=domain)  
+  A great domain search engine offered by IntelX.
 
 ## **Website Analysis**
 
@@ -403,3 +407,5 @@ Allows you to view a website in a different browser online. For example, a Mac u
   A worldwide database of internet service providers.
 - [Wikipedia - Lists of Internet Service Providers by Country](https://en.wikipedia.org/wiki/Category:Internet_service_providers_by_country) ([WikiLess](https://wikiless.org/wiki/Category:Internet_service_providers_by_country))  
   Lists of ISPs organized by country.
+- [API Guesser](https://api-guesser.netlify.app)  
+  Enter the API key or token to find out which service it can be used by.
