@@ -23,6 +23,8 @@
   A tool from IntelX that lists all domains, email addresses, or URLs for the given input domain. Wildcards such as `*.gov.uk` are allowed. Search over 34 billion records.
 - [Have I Been Sold?](https://haveibeensold.app/)  
   A service that checks for email address that are included in marketing and spamming databases.
+- [IntelX Email Search](https://intelx.io/tools?tab=email)  
+  A great email search engine offered by IntelX.
 
 ## **Data Breach Search**
 
@@ -74,6 +76,8 @@
   Discover leaks, know the passwords and information that hackers already have about you. Requires a paid subscription.
 - [Breached.co](https://breached.co/index.php)  
   A RaidForums alternative ran by the prolific pompompurin.
+- [BreachChecker](https://breachchecker.com/)  
+  Enter an email address and see what data breaches it has been included in. Does not provide any leaked data, only a list of breaches similar to HIBP.
 
 ## **Pretty Good Privacy [PGP]**
 
