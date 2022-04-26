@@ -104,6 +104,8 @@
   This tool allows you to analyze Facebook accounts via URL. This tool is not very affective and doesn't always work, but its still worth mentioning.
 - [Facebook Image Search](https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0)  
   A Google CSE where you can search for images posted on Facebook via keywords.
+- [IntelX Facebook Search](https://intelx.io/tools?tab=facebook)  
+  A great Facebook search engine offered by IntelX.
 
 ## <u>**Flickr**</u>
 
@@ -190,6 +192,10 @@
   Designed to help easily build search strings to generate targeted lists of LinkedIn users.
 - [LinkedIn User Search](https://cse.google.com/cse?cx=daaf18e804f81bed0)  
   A Google CSE for searching LinkedIn profiles via keywords.
+- [Lisearcher](https://www.lisearcher.com/)  
+  Easily find public LinkedIn profiles for candidates or B2B prospects in Google by searching using job title and keywords with boolean search.
+- [IntelX LinkedIn Search](https://intelx.io/tools?tab=linkedin)  
+  A great LinkedIn search engine offered by IntelX.
 
 ## **<u>Mastodon</u>**
 
@@ -272,6 +278,8 @@
   Allows you to track and set alerts of posts of your preference. They also have historical data going back to 2010.
 - [Reddit Scraper](https://apify.com/trudax/reddit-scraper)  
   Crawl posts, comments, subreddits and users without having to login.
+- [Redditle](https://redditle.com/)  
+  A Reddit-only Google search tool. Essentially the same as adding site:reddit.com to a Google search.
 
 ## <u>**SnapChat**</u>
 
@@ -469,6 +477,12 @@
   Extract a list of Twitter followers and/or followings for any account. 
 - [Allegedly](https://makeadverbsgreatagain.org/allegedly/)  
   Allows you to check information about Twitter profiles such as times of posting, devices and apps used to sign-in and repetition of tweets. All without the need to login.
+- [SocialBearing](https://socialbearing.com/)  
+  Provides insights and analytics for a Twitter user, hashtag, tweets and more.
+- [TweeView](https://tweeview.ml/)  
+  A tool to visualize Twitter conversations in a tree-style way.
+- [IntelX Twitter Search](https://intelx.io/tools?tab=twitter)  
+  A great Twitter search engine offered by IntelX.
 
 ## <u>**Untappd**</u>
 
@@ -501,7 +515,7 @@
   Search, sort and analyze YouTube comments.
 - [Unlisted Video Search](https://unlistedvideos.com/)  
   A website for submitting, searching for, and watching unlisted YouTube videos.
-- [YouTube Metadata Viewer](https://citizenevidence.amnestyusa.org/)  
+- [Amnesty International Youtube DataViewer](https://citizenevidence.amnestyusa.org/) 
   Enter a video URL and view that videos metadata.
 - [Channel Search](https://tools.digitalmethods.net/netvizz/youtube/mod_channels_search.php)  
   Tool for searching YouTube channels by keyword and creation date. The result is a table with the channel ID, name, description, date of creation, as well as the number of subscribers, views, and uploaded videos.
@@ -521,6 +535,8 @@
   A free tool and bookmarklet that gathers an easy to read "too long, didn't read" (TLDR) transcript of any YouTube video.
 - [SaveSubs](https://savesubs.com/)  
   Allows you to convert, edit and download subtitles from YouTube, Facebook, DailyMotion and more for free.
+- [IntelX YouTube Search](https://intelx.io/tools?tab=youtube)  
+  A great YouTube search engine offered by IntelX. This is an improved fork of the above tool.
 
 ## **<u>WhatsApp</u>**
 
