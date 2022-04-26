@@ -26,6 +26,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Document and File Search**
 
+- [deDigger](https://www.dedigger.com/) - *Added 25/4/2022.*
+- [IntelX File Search](https://intelx.io/tools?tab=file) - *Added 25/4/2022.*
 - [1337x](https://1337x.to/) - *Added 24/2/2022.*
 - [TorLock](https://www.torlock.com/) - *Added 24/2/2022.*
 - [TorrentSeeker](https://torrentseeker.com/) - *Added 24/2/2022.*
@@ -35,6 +37,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Blog, Forum and Image Board Search**
 
+- [BoardReader](https://boardreader.com/) - *Added 25/4/2022.*
 - [WordPress Blog Search](https://cse.google.com/cse?cx=017261104271573007538:ffk_jpt64gy#gsc.tab=0) - *Added 26/3/2022.*
 - [OSINT Blog Search](https://cse.google.com/cse?cx=006290531980334157382:qcaf4enph7i#gsc.tab=0) - *Added 26/3/2022.*
 
@@ -74,6 +77,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Facebook**
 
+- [IntelX Facebook Search](https://intelx.io/tools?tab=facebook) *Added 25/4/2022.*
 - [Facebook Image Search](https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0) - *Added 26/3/2022.*
 - [StalkFace](https://stalkface.com/en/) - *Added 25/1/2022.*
 
@@ -87,6 +91,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **LinkedIn**
 
+- [IntelX LinkedIn Search](https://intelx.io/tools?tab=linkedin) *Added 25/4/2022.*
+- [Lisearcher](https://www.lisearcher.com/) *Added 25/4/2022.*
 - [LinkedIn User Search](https://cse.google.com/cse?cx=daaf18e804f81bed0) - *Added 26/3/2022.*
 
 ### **OnlyFans**
@@ -99,6 +105,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Reddit**
 
+- [Redditle](https://redditle.com/) - *Added 25/4/2022.*
 - [Reddit Scraper](https://apify.com/trudax/reddit-scraper) - *Added 30/1/2022.*
 - [SocialGrep](https://socialgrep.com/) - *Added 30/1/2022.*
 - [libreddit](https://libredd.it/) - *Added 30/1/2022.*
@@ -133,6 +140,9 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Twitter**
 
+- [IntelX Twitter Search](https://intelx.io/tools?tab=twitter) - *Added 25/4/2022.*
+- [TweeView](https://tweeview.ml/) - *Added 25/4/2022.*
+- [SocialBearing](https://socialbearing.com/) - *Added 25/4/2022.* 
 - [Allegedly](https://makeadverbsgreatagain.org/allegedly/) - *Added 13/4/2022.*
 - [twtData](https://www.twtdata.com/) - *Added 3/4/2022.*
 - [Botometer](https://botometer.osome.iu.edu/) - *Added 3/4/2022.*
@@ -144,10 +154,16 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [VK Search Engine](https://cse.google.com/cse?cx=f5e7cd4c6e33954ec) - *Added 26/3/2022.*
 
+### **YouTube**
+
+- [IntelX YouTube Search](https://intelx.io/tools?tab=youtube) - *Added 25/4/2022.*
+
 ## <u>**Mapping and Geo-Spatial Intelligence [GEOINT]**</u>
 
 ### **General Mapping Tools**
 
+- [HoodMaps](https://hoodmaps.com/) - *Added 25/4/2022.*
+- [Spectator.earth](https://spectator.earth/) - *Added 25/4/2022.*
 - [FarEarth Observer](http://observer.farearth.com/observer/)  - *Added 4/3/2022.*
 - [SpyMeSat](https://www.spymesat.com/web/#/Home) - *Added 21/2/2022.*
 - [OSMZ](http://osmz.ru/imagery) - *Added 21/2/2022.*
@@ -234,6 +250,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Reverse Image Search**
 
+- [IntelX Image Search](https://intelx.io/tools?tab=image) - *Added 25/4/2022.*
+- [RootAbout](https://rootabout.com/) - *Added 25/4/2022.*
 - [RepostSleuth](https://repostsleuth.com/) - *Added 8/4/2022.*
 - [ILookLikeYou](https://www.ilooklikeyou.com/) - *Added 25/1/2022.*
 - [FaceSherlock](https://facesherlock.com/) - *Added 25/1/2022.*
@@ -246,6 +264,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Image Editing and Manipulation**
 
+- [Photoscissors](https://photoscissors.com/) - *Added 25/4/2022.*
 - [Cleanup Pictures](https://cleanup.pictures/) - *Added 25/1/2022.*
 
 ### **Image Metadata and Forensics**
@@ -279,6 +298,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Europe**
 
+- [Armanian Electronic Register](https://www.e-register.am/ru/search) - *Added 25/4/2022.*
 - [Norway Company Search](https://www.proff.no/) - *Added 26/3/2022.*
 - [Sweden Company Search](https://www.proff.se/) - *Added 26/3/2022.*
 - [Denmark Company Search](https://www.proff.dk/) - *Added 26/3/2022.*
@@ -296,12 +316,17 @@ All dates are listed in *DD/MM/YYYY* format.
 - [TokenSniffer](https://tokensniffer.com/) - *Added 25/1/2022.*
 - [BSC Scan](https://bscscan.com/) - *Added 25/1/2022.*
 
+#### **Bitcoin [BTC] Specific**
+
+- [IntelX Bitcoin Search](https://intelx.io/tools?tab=bitcoin) - *Added 25/4/2022.*
+
 ## **<u>Vehicle and Transportation Intelligence [VATINT]</u>**
 
 ### **Road Vehicles**
 
 #### **Vehicle Identification Numbers [VIN]**
 
+- [IntelX VIN Search](https://intelx.io/tools?tab=vin) *Added 25/4/2022.*
 - [FaxVIN](https://www.faxvin.com/) - *Added 2/1/2022.*
 
 #### **License Plates**
@@ -344,8 +369,13 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Digital Network Intelligence [DNINT]**</u>
 
+### **Internet Protocol Addresses [IP]**
+
+- [IntelX IP Address Search](https://intelx.io/tools?tab=ip) - *Added 25/4/2022.*
+
 ### **Domain Name Systems [DNS] Records**
 
+- [IntelX Domain Search](https://intelx.io/tools?tab=domain) - *Added 25/4/2022.*
 - [DomainCodex](https://www.domaincodex.com/index.php) - *Added 30/1/2022.*
 
 ### **Website Analysis**
@@ -397,6 +427,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Tools**
 
+- [API Guesser](https://api-guesser.netlify.app) - *Added 25/4/2022.*
 - [OpenSezMe](https://open-sez.me/) - *Added 2/1/2022.*
 - [Abuse.ch](https://abuse.ch/) - *Added 2/1/2022.*
 - [URLHaus](https://urlhaus.abuse.ch/) - *Added 2/1/2022.*
@@ -405,6 +436,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Radio Frequencies**
 
+- [Shortwave Radio Receiver Map](http://rx.linkfanel.net) - *Added 25/4/2022.*
 - [Number-Stations](https://www.numbers-stations.com/) - *Added 8/3/2022.*
 - [EAM Watch](https://eam.watch/) - *Added 21/2/2022.*
 
@@ -428,6 +460,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General People Search**
 
+- [IntelX Person Search](https://intelx.io/tools?tab=person) - *Added 25/4/2022.*
 - [How Many of Me](http://howmanyofme.com/search/) - *Added 25/1/2022.*
 - [Business Card Search](https://cse.google.com/cse?cx=bee58a1c31f451e4a) - *Added 25/1/2022.*
 
@@ -439,21 +472,26 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Phone Number Tools**
 
-- [Phonerator](https://www.martinvigo.com/tools/phonerator/)  *Added 25/1/2022.*
+- [ZLookup](https://www.zlookup.com/) - *Added 25/4/2022.*
+- [IntelX Phone Number Search](https://intelx.io/tools?tab=telephone) - *Added 25/4/2022.*
+- [Phonerator](https://www.martinvigo.com/tools/phonerator/) - *Added 25/1/2022.*
 
 ## <u>**Email Addresses**</u>
 
 ### **General Email Tools**
 
+- [IntelX Email Search](https://intelx.io/tools?tab=email) - *Added 25/4/2022.*
 - [Have I Been Sold?](https://haveibeensold.app/) - *Added 21/2/2022.*
 - [Phonebook.cz](https://phonebook.cz/) - *Added 9/2/2022.*
 
 ### **Data Breach Search**
 
+- [BreachChecker](https://breachchecker.com/) - *Added 25/4/2022.*
 - [Breached.co](https://breached.co/index.php) - *Added 22/03/2022.*
 
 ## **<u>Usernames</u>**
 
+- [IntelX Username Search](https://intelx.io/tools?tab=username) - *Added 25/4/2022.*
 - [Namevine](https://namevine.com/) - *Added 25/1/2022.*
 - [NameCheck](https://namecheck.bloggingehow.com/) - *Added 25/1/2022.*
 
@@ -463,6 +501,11 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Real Estate**</u>
 
+- [Foreclosure](https://www.foreclosure.com/) - *Added 25/4/2022.*
+- [Zoopla](https://www.zoopla.co.uk/) - *Added 25/4/2022.*
+- [Trulia](https://www.trulia.com/) - *Added 25/4/2022.*
+- [BlackBookOnline](https://www.blackbookonline.info/USA-Property.aspx) - *Added 25/4/2022.*
+- [Public Accountability Project](https://publicaccountability.org/) - *Added 25/4/2022.*
 - [Virtual Tours CSE](https://cse.google.com/cse?cx=b5bba571be1788aaa) - *Added 25/1/2022.*
 
 ## <u>**Data Sets**</u>
