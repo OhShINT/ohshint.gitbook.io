@@ -36,4 +36,6 @@
 - [NameCheck](https://namecheck.bloggingehow.com/)  
   Search via username on over 50 different social media and blogging sites.
 - [NAMINT](https://seintpl.github.io/NAMINT/)  
-  An awesome JavaScript tool to generate possible usernames and login search patterns with links. Created by [@SEINT_pl](https://.twitter.com/SEINT_pl)
+  An awesome JavaScript tool to generate possible usernames and login search patterns with links. Created by [@SEINT_pl](https://.twitter.com/SEINT_pl).
+- [IntelX Username Search](https://intelx.io/tools?tab=username)  
+  A great username search engine offered by IntelX.
