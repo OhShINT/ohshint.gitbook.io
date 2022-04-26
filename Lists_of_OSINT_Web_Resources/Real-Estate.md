@@ -18,6 +18,16 @@
   Great resource and toolkit for finding real estate information and records. Requires a paid subscription.
 - [Virtual Tours CSE](https://cse.google.com/cse?cx=b5bba571be1788aaa)  
   A Google CSE that searches major real estate sites that offer virtual tours of buildings and homes. Very useful.   
+- [Foreclosure](https://www.foreclosure.com/)  
+  Delivers the best real estate deals first, well before they hit the mass market. Provides details about properties and homes. Requires a paid subscription.
+- [Zoopla](https://www.zoopla.co.uk/)  
+  Contains millions of properties for you to browse, also has advanced search filters.
+- [Trulia](https://www.trulia.com/)  
+  A property search engine that provides collected real estate information from various sources completely free of charge. You can see the current asking price, addresses, square footage and more.
+- [BlackBookOnline](https://www.blackbookonline.info/USA-Property.aspx)  
+  A directory of all U.S. county tax assessor databases.
+- [Public Accountability Project](https://publicaccountability.org/)  
+  Allows you to conduct one search in one place, and most importantly it also gives you the ability to search a name.
 
 ## <u>**Historical Data**</u>
 
