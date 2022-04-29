@@ -781,10 +781,28 @@ Some other great resources for identification documents and licenses.
 
 - [https://passportindex.org](https://www.passportindex.org/) 
 - [https://nidc.dk/en/ID-databases](https://nidc.dk/en/ID-databases)
--  [https://justice.gov.bc.ca/security/utilities/](https://justice.gov.bc.ca/security/utilities/)
+- [https://justice.gov.bc.ca/security/utilities/](https://justice.gov.bc.ca/security/utilities/)
 - [https://polisen.se/en/services-and-permits/passport-and-national-id-card/check-validity-online-for-passports-and-national-id-cards/](https://polisen.se/en/services-and-permits/passport-and-national-id-card/check-validity-online-for-passports-and-national-id-cards/)
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
 
 Attatched image:  
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Passport-Stamps-Example.jpg"/>
+
+
+
+## **OSINT Protip 34**
+
+> Posted on *26/4/2022* at *6:48PM.*  
+> URL: [https://twitter.com/ohshint_/status/1519131392306651139](https://twitter.com/ohshint_/status/1519131392306651139)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 34: 
+
+People tend to re-use the same usernames across multiple platforms. Use this to your advantage to find new pivot points. 
+
+- [https://whatsmyname.app](https://whatsmyname.app/) 
+- [https://usersearch.org/index.php](https://usersearch.org/index.php) 
+- [https://idcrawl.com](https://www.idcrawl.com/) 
+- [https://seintpl.github.io/NAMINT/](https://seintpl.github.io/NAMINT/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
