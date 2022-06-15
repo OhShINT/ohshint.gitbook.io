@@ -4888,7 +4888,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 - [Army-Guide](http://www.army-guide.com/eng/)  
   Information about the main battle tanks, armored vehicles and armament of land forces and also the information concerning other army subjects.
 - [Tanks Encylopedia](https://tanks-encyclopedia.com/)  
-  A vast encylopedia and data base of various military tanks and vehicles.
+  A vast encyclopedia and data base of various military tanks and vehicles.
 
 ### **Aircraft** 
 
