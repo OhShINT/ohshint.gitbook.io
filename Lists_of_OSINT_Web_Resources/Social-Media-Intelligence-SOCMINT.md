@@ -106,6 +106,8 @@
   A Google CSE where you can search for images posted on Facebook via keywords.
 - [IntelX Facebook Search](https://intelx.io/tools?tab=facebook)  
   A great Facebook search engine offered by IntelX.
+- [Facebook Search CSE](https://cse.google.com/cse?cx=95ae46262a5f2958e)  
+  A Google CSE for Facebook. Made by [OSINT Me](https://www.osintme.com/).
 
 ## <u>**Flickr**</u>
 
@@ -126,6 +128,8 @@
   A tool that allows you to compare two GitHub repositories.
 - [GitHub Profile Summary](https://profile-summary-for-github.com/search)  
   Get details and statistics of any GitHub profile.
+- [SEART Github Search](https://seart-ghs.si.usi.ch)  
+  Search engine for GitHub with a dozen different filters. 
 
 ## **<u>Gravatar</u>**
 
