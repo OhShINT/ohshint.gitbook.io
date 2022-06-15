@@ -563,6 +563,8 @@ Remember, CTRL+F is your friend here.
       Construction business directory for Turkey.
     - [TurkeyCentral](https://www.turkeycentral.com/)  
       Browse thousands of links to city guides, tour operators, and hotels in Turkey, as well as business travel and cultural info.
+    - [Rastgelelik](https://www.rastgelelik.com)  
+      A Turkish search engine, currently still in beta.
   - **United Arab Emirates**
     - [IndexUAE](http://www.indexuae.com/)  
       A search engine and directory for the United Arab Emirates.
@@ -1197,6 +1199,8 @@ A Google CSE that searches for scientific publications.
   A Google CSE where you can search for images posted on Facebook via keywords.
 - [IntelX Facebook Search](https://intelx.io/tools?tab=facebook)  
   A great Facebook search engine offered by IntelX.
+- [Facebook Search CSE](https://cse.google.com/cse?cx=95ae46262a5f2958e)  
+  A Google CSE for Facebook. Made by [OSINT Me](https://www.osintme.com/).
 
 ## **Flickr**
 
@@ -1217,6 +1221,8 @@ A Google CSE that searches for scientific publications.
   A tool that allows you to compare two GitHub repositories.
 - [GitHub Profile Summary](https://profile-summary-for-github.com/search)  
   Get details and statistics of any GitHub profile.
+- [SEART Github Search](https://seart-ghs.si.usi.ch)  
+  Search engine for GitHub with a dozen different filters.
 
 ## **Gravatar**
 
@@ -1878,6 +1884,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A digital archive of the world imagery base map, enabling users to access different versions of world imagery captured over the years.
 - [HistoricEngland](https://historicengland.org.uk/images-books/archive/collections/aerial-photos/)  
   Contains a wealth of historical imagery. From photos taken by the RAF in the 1940's, to modern day hi-res images from many landmarks in the UK.
+- [HistoricAerials](https://www.historicaerials.com/viewer)  
+  Has historical aerial images for the U.S. dating back to the 1930's. Also provides topographical maps.
 
 ## **Weather Maps**
 
@@ -2229,6 +2237,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A collection of weird and interesting things found om Google Maps.
 - [CIA World Fact Book](https://www.cia.gov/the-world-factbook/)  
   Provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities.
+- [Global Biodiversity Information Facility Map](https://www.gbif.org/occurrence/map)  
+  Enter the name of an animal, insect or plant and this map will show you where they have been spotted.
 
 # <u>**Imagery Intelligence [IMINT]**</u>
 
@@ -3099,6 +3109,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Gathers public information about IP numbers, domain names, host names, autonomous systems, routes, etc. It then indexes the data in a big database and provides free access to the data.
 - [IntelX IP Address Search](https://intelx.io/tools?tab=ip)  
   A great IP address search tool offered by IntelX.
+- [CriminalIP](https://www.criminalip.io/)  
+  Search for information about IP addresses, domains, malicious links, phishing sites and more.
 
 ## **Domain Name System [DNS] Records**
 
@@ -3519,6 +3531,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Shows interference from ground based radar systems as red and blue streaks. Most of these are military radars. Click on the map to generate a historical graph of Radio Frequency Interference (RFI). Read the documentation for this open-source project [here](https://github.com/bellingcat/sar-interference-tracker).
 - [Shortwave Radio Receiver Map](http://rx.linkfanel.net)  
   Online map of shortwave radio receivers available for listening in your browser at the moment.
+- [Priyom](https://priyom.org/)  
+  Contains both current and historical information about number stations, allowing the recording, listening and analysis.
 
 ## **HAM Radio**
 
@@ -4488,6 +4502,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A collection of searchable data dumps. Includes law enforcement, government, extremist, conventional, commercial, Slack user and exploit databases.
 - [AI Incident Database](https://incidentdatabase.ai/?lang=en)  
   A collection of AI deployment harms or near harms across all disciplines, geographies, and use cases.
+- [Grants4Teachers](https://grants4teachers.com/)  
+  Teacher grant search database.
 
 ## **Government Data Sets**
 
@@ -4833,6 +4849,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   A list large list of landmines that includes lots of details. Does not contain images of mines.
 - [Nuclear Weapon Archive](https://nuclearweaponarchive.org/)  
   An archive and guide to nuclear weapons, facilities and testing sites.
+- [[PDF] GICHD Ukraine Explosive Ordnance Guide](https://www.gichd.org/en/resources/publications/detail/publication/explosive-ordnance-guide-for-ukraine/)  
+  The guide will help with the identification and disposal of mines and other explosive devices in Ukraine. Archived [here (Wayback)](https://web.archive.org/web/20220513020616/https://www.gichd.org/fileadmin/GICHD-resources/rec-documents/GICHD_Ukraine_EO_Guide_2022_1_01.pdf) and [here (Library Genesis)](https://libgen.is/book/index.php?md5=5C40641DC85AB9A4872AF63363C86D7F).
 
 ## **Equipment**
 
@@ -4869,6 +4887,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Visual reference guide with descriptions on armored vehicles.
 - [Army-Guide](http://www.army-guide.com/eng/)  
   Information about the main battle tanks, armored vehicles and armament of land forces and also the information concerning other army subjects.
+- [Tanks Encylopedia](https://tanks-encyclopedia.com/)  
+  A vast encylopedia and data base of various military tanks and vehicles.
 
 ### **Aircraft** 
 
