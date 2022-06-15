@@ -20,6 +20,10 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [SpotJobs](https://www.spotjobs.lk/) - *Added 4/3/2022.*
 
+#### **Turkey**
+
+- [Rastgelelik](https://www.rastgelelik.com) - *Added 15/6/2022.*
+
 ### **Meta Search**
 
 - [BizNar](https://biznar.com/biznar/desktop/en/) - *Added 25/1/2022.*
@@ -77,12 +81,14 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Facebook**
 
+- [Facebook Search CSE](https://cse.google.com/cse?cx=95ae46262a5f2958e) - *Added 15/6/2022.*
 - [IntelX Facebook Search](https://intelx.io/tools?tab=facebook) *Added 25/4/2022.*
 - [Facebook Image Search](https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0) - *Added 26/3/2022.*
 - [StalkFace](https://stalkface.com/en/) - *Added 25/1/2022.*
 
 ### **GitHub**
 
+- [SEART Github Search](https://seart-ghs.si.usi.ch) - *Added 15/6/2022.*
 - [GitHub Profile Summary](https://profile-summary-for-github.com/search) - *Added 21/2/2022.*
 
 ### **Instagram**
@@ -196,6 +202,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Historical Maps**
 
+- [HistoricAerials](https://www.historicaerials.com/viewer) - *Added 15/6/2022.*
 - [HistoricEngland](https://historicengland.org.uk/images-books/archive/collections/aerial-photos/) *Added 13/4/2022.*
 
 ### **Weather Maps**
@@ -233,6 +240,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Mapping Resources**
 
+- [Global Biodiversity Information Facility Map](https://www.gbif.org/occurrence/map) - *Added 15/6/2022.*
 - [CIA World Fact Book](https://www.cia.gov/the-world-factbook/) - *Added 22/03/2022.*
 - [PowerOutage](https://poweroutage.com/) - *Added 4/3/2022.*
 - [Weird Google Earth](https://www.weirdgoogleearth.com/) - *Added 21/2/2022.*
@@ -371,6 +379,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Internet Protocol Addresses [IP]**
 
+- [CriminalIP](https://www.criminalip.io/) - *Added 15/6/2022.*
 - [IntelX IP Address Search](https://intelx.io/tools?tab=ip) - *Added 25/4/2022.*
 
 ### **Domain Name Systems [DNS] Records**
@@ -436,6 +445,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Radio Frequencies**
 
+- [Priyom](https://priyom.org/) - *Added 15/6/2022.*
 - [Shortwave Radio Receiver Map](http://rx.linkfanel.net) - *Added 25/4/2022.*
 - [Number-Stations](https://www.numbers-stations.com/) - *Added 8/3/2022.*
 - [EAM Watch](https://eam.watch/) - *Added 21/2/2022.*
@@ -512,6 +522,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Data Sets**
 
+- [Grants4Teachers](https://grants4teachers.com/) - *Added 15/6/2022.*
 - [AI Incident Database](https://incidentdatabase.ai/?lang=en) - *Added 3/4/2022.*
 - [Information Operations Archive](https://www.io-archive.org/) - *Added 26/3/2022.*
 - [Bloopbase Searchable Data Dumps](https://bloopbase.keybase.pub/) - *Added 26/3/2022.*
@@ -569,6 +580,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Ordnance**
 
+- [[PDF] GICHD Ukraine Explosive Ordnance Guide](https://www.gichd.org/en/resources/publications/detail/publication/explosive-ordnance-guide-for-ukraine/) - *Added 15/6/2022.*
 - [CAT-UXO](https://cat-uxo.com/) - *Added 30/3/2022.*
 - [Nuclear Weapon Archive](https://nuclearweaponarchive.org/) - *Added 8/3/2022.*
 
@@ -577,6 +589,10 @@ All dates are listed in *DD/MM/YYYY* format.
 #### **General**
 
 - [[PDF] Janes Ukraine Conflict Equipment Profile](https://www.janes.com/docs/default-source/ukraine-conflict/equipment-profile_report_280222.pdf) - *Added 8/4/2022.*
+
+#### **Motor Vehicles**
+
+- [Tanks Encylopedia](https://tanks-encyclopedia.com/) - *Added 15/6/2022.*
 
 ## <u>**Government Information**</u>
 
