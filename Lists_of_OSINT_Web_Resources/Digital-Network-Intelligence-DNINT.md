@@ -46,6 +46,8 @@
   Gathers public information about IP numbers, domain names, host names, autonomous systems, routes, etc. It then indexes the data in a big database and provides free access to the data.
 - [IntelX IP Address Search](https://intelx.io/tools?tab=ip)  
   A great IP address search tool offered by IntelX.
+- [CriminalIP](https://www.criminalip.io/)  
+  Search for information about IP addresses, domains, malicious links, phishing sites and more.
 
 ## **Domain Name System [DNS] Records**
 
