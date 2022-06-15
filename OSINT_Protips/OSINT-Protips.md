@@ -806,3 +806,52 @@ People tend to re-use the same usernames across multiple platforms. Use this to 
 - [https://seintpl.github.io/NAMINT/](https://seintpl.github.io/NAMINT/) 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+
+
+## **OSINT Protip 35**
+
+> Posted on *13/5/2022* at *7:56 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1525308993291231235](https://twitter.com/ohshint_/status/1525308993291231235)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 35: 
+
+Searching for specific strings across paste and code repo sites can sometimes reveal a wealth of interesting data. Here are some useful tools. 
+
+- [pastebin.ga/](https://pastebin.ga/) 
+- [psbdmp.ws/](https://psbdump.ws/) 
+- [redhuntlabs.com/online-ide-search/](https://redhuntlabs.com/online-ide-search/) 
+- [grep.app/](https://grep.app/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+
+
+## **OSINT Protip 36**
+
+> Posted on *2/6/2022* at *7:20 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1532547813535457280](https://twitter.com/ohshint_/status/1532547813535457280)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 36: 
+
+[#Breach](https://twitter.com/hashtag/Breach?src=hashtag_click) data can reveal a ton of useful information and new leads. Here are a few great (mainly paid) services. 
+
+- [https://breachdirectory.org](https://breachdirectory.org/)
+-  [https://dehashed.com](https://dehashed.com/)
+- [https://leakpeek.com](https://leakpeek.com/)
+- [https://intelx.io](https://intelx.io/)
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Disclaimer: 
+
+As breach data is technically open-source. The malicious use of it can have heavy legal implications. 
+
+Using this data for credential-stuffing, phishing, blackmail or any other malicious purpose is against the law. 
+
+In other words, don't be shitty. 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:  
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Breach-Data-Search-Results-Example.PNG"/>
