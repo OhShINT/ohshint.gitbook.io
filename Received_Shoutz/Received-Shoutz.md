@@ -122,6 +122,9 @@ Thank you all! <3
 - [Inteligência com Fontes Abertas (OSINT) Para Jornalistas - belisards.github.io](https://belisards.github.io/osint/). 
   - ([Wayback](https://web.archive.org/web/20220408020749/https://belisards.github.io/osint/)), ([archive.today](https://archive.ph/Cqvvi)), ([English Translation](https://belisards-github-io.translate.goog/osint/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)).
 
+- [OSINT Resources I - classroom.anir0y.in](https://classroom.anir0y.in/post/osint_resources-i/). 
+  - ([Wayback](https://web.archive.org/web/20220529223357/https://classroom.anir0y.in/post/osint_resources-i/)), ([archive.today](https://archive.ph/yxhJq)).
+
   
 
 ## **Documents**
@@ -135,6 +138,9 @@ Thank you all! <3
 
 - [OH SHINT OSINT Handbook - raidforums.com](https://raidforums.com/Thread-OH-SHINT-OSINT-Handbook) (*lmao*).
   - ([Wayback](https://web.archive.org/web/20220221105142/https://raidforums.com/Thread-OH-SHINT-OSINT-Handbook)), ([archive.today](https://archive.ph/MHU8B)).
+
+- [OhShINT - A Guide to Open Source Intelligence - breached.co](https://breached.co/Thread-OhShINT-A-guide-to-open-source-intelligence).  
+  - ([Wayback](https://web.archive.org/web/20220515043825/https://breached.co/Thread-OhShINT-A-guide-to-open-source-intelligence)), ([archive.today](https://archive.ph/tkI3R)).
 
 - [Are Darknet Hackers Real and Reliable? - reddit.com/r/hacking](https://www.reddit.com/r/hacking/comments/sr30fs/are_darknet_hackers_real_and_reliable/). (*what..?*). 
   - ([Wayback](https://web.archive.org/web/20220326032841/https://www.reddit.com/r/hacking/comments/sr30fs/are_darknet_hackers_real_and_reliable/)), ([archive.today](https://archive.ph/Dde4I)).
