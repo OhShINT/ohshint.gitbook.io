@@ -43,6 +43,8 @@
   A collection of searchable data dumps. Includes law enforcement, government, extremist, conventional, commercial, Slack user and exploit databases.
 - [AI Incident Database](https://incidentdatabase.ai/?lang=en)  
   A collection of AI deployment harms or near harms across all disciplines, geographies, and use cases.
+- [Grants4Teachers](https://grants4teachers.com/)  
+  Teacher grant search database.
 
 ## **<u>Government Data Sets</u>**
 
