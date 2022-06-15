@@ -207,6 +207,8 @@
   An interactive map of human diseases, both historical and current.
 - [HistoricEngland](https://historicengland.org.uk/images-books/archive/collections/aerial-photos/)  
   Contains a wealth of historical imagery. From photos taken by the RAF in the 1940's, to modern day hi-res images from many landmarks in the UK.
+- [HistoricAerials](https://www.historicaerials.com/viewer)  
+  Has historical aerial images for the U.S. dating back to the 1930's. Also provides topographical maps.
 
 ## **Weather Maps**
 
@@ -559,3 +561,5 @@
   A collection of weird and interesting things found om Google Maps.
 - [CIA World Fact Book](https://www.cia.gov/the-world-factbook/)  
   Provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities.
+- [Global Biodiversity Information Facility Map](https://www.gbif.org/occurrence/map)  
+  Enter the name of an animal, insect or plant and this map will show you where they have been spotted.
