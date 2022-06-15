@@ -43,6 +43,8 @@
   A list large list of landmines that includes lots of details. Does not contain images of mines.
 - [Nuclear Weapon Archive](https://nuclearweaponarchive.org/)  
   An archive and guide to nuclear weapons, facilities and testing sites.
+- [[PDF] GICHD Ukraine Explosive Ordnance Guide](https://www.gichd.org/en/resources/publications/detail/publication/explosive-ordnance-guide-for-ukraine/)  
+  The guide will help with the identification and disposal of mines and other explosive devices in Ukraine. Archived [here (Wayback)](https://web.archive.org/web/20220513020616/https://www.gichd.org/fileadmin/GICHD-resources/rec-documents/GICHD_Ukraine_EO_Guide_2022_1_01.pdf) and [here (Library Genesis)](https://libgen.is/book/index.php?md5=5C40641DC85AB9A4872AF63363C86D7F).
 
 ## **Equipment**
 
@@ -79,6 +81,8 @@
   Visual reference guide with descriptions on armored vehicles.
 - [Army-Guide](http://www.army-guide.com/eng/)  
   Information about the main battle tanks, armored vehicles and armament of land forces and also the information concerning other army subjects.
+- [Tanks Encylopedia](https://tanks-encyclopedia.com/)  
+  A vast encylopedia and data base of various military tanks and vehicles.
 
 ### **Aircraft**
 
