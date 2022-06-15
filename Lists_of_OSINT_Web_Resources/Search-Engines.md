@@ -262,6 +262,8 @@
       Construction business directory for Turkey.
     - [TurkeyCentral](https://www.turkeycentral.com/)  
       Browse thousands of links to city guides, tour operators, and hotels in Turkey, as well as business travel and cultural info.
+    - [Rastgelelik](https://www.rastgelelik.com)  
+      A Turkish search engine, currently still in beta.
   - <u>**United Arab Emirates**</u>
     - [IndexUAE](http://www.indexuae.com/)  
       A search engine and directory for the United Arab Emirates.
