@@ -67,7 +67,7 @@ Thank you all! <3
 - [Sector035 Week In OSINT #2022-14 - sector035.nl](https://sector035.nl/articles/2022-14). 
   - ([Wayback](http://web.archive.org/web/20220411093354/https://sector035.nl/articles/2022-14)), ([archive.today](https://archive.ph/2EsEo)).
 
-- [Week in OSINT @2022-24 - sector035.nl](https://sector035.nl/articles/2022-24).  
+- [Sector035 Week in OSINT #2022-24 - sector035.nl](https://sector035.nl/articles/2022-24).  
   - ([Wayback](http://web.archive.org/web/20220620210032/https://sector035.nl/articles/2022-24)), ([archive.today](https://archive.ph/vMA83)).
 
 - [It's A Match! Dating Apps and SOCMINT - intel-inquirer.medium.com](https://intel-inquirer.medium.com/its-a-match-dating-apps-and-socmint-2c05c44e9590).
