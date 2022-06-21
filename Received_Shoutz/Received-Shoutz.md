@@ -67,11 +67,17 @@ Thank you all! <3
 - [Sector035 Week In OSINT #2022-14 - sector035.nl](https://sector035.nl/articles/2022-14). 
   - ([Wayback](http://web.archive.org/web/20220411093354/https://sector035.nl/articles/2022-14)), ([archive.today](https://archive.ph/2EsEo)).
 
+- [Week in OSINT @2022-24 - sector035.nl](https://sector035.nl/articles/2022-24).  
+  - ([Wayback](http://web.archive.org/web/20220620210032/https://sector035.nl/articles/2022-24)), ([archive.today](https://archive.ph/vMA83)).
+
 - [It's A Match! Dating Apps and SOCMINT - intel-inquirer.medium.com](https://intel-inquirer.medium.com/its-a-match-dating-apps-and-socmint-2c05c44e9590).
   - ([Wayback](https://web.archive.org/web/20220408000410/https://intel-inquirer.medium.com/its-a-match-dating-apps-and-socmint-2c05c44e9590)), ([archive.today](https://archive.ph/HzyM2)).
 
 - [Hall of Fame - Our OSINTERS Are Talented - osintfr.com](https://osintfr.com/en/our-osinters-are-talented/).
   - ([Wayback](https://web.archive.org/web/20220425035638/https://osintfr.com/en/our-osinters-are-talented/)), ([archive.today](https://archive.ph/nKfRW)).
+
+- [OSINT for Procurement and Supply Chain: No Hype, Just Promise - cottrillresearch.com](https://cottrillresearch.com/osint-for-procurement-and-supply-chain-no-hype-just-promise/).  
+  - ([Wayback](https://web.archive.org/web/20220619075707/https://cottrillresearch.com/osint-for-procurement-and-supply-chain-no-hype-just-promise/)), ([archive.today](https://archive.ph/QA69I)).
 
   
 
@@ -124,6 +130,9 @@ Thank you all! <3
 
 - [OSINT Resources I - classroom.anir0y.in](https://classroom.anir0y.in/post/osint_resources-i/). 
   - ([Wayback](https://web.archive.org/web/20220529223357/https://classroom.anir0y.in/post/osint_resources-i/)), ([archive.today](https://archive.ph/yxhJq)).
+
+- [Bruno Mortier OSINT Resources - start.me](https://start.me/p/ZME8nR/osint).  
+  - ([Wayback](https://web.archive.org/web/20220619074623/https://start.me/p/ZME8nR/osint)), ([archive.today](https://archive.ph/ZH6EH)).
 
   
 
