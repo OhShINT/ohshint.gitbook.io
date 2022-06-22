@@ -163,3 +163,5 @@
   A face detection and face recognition web service. It can scan uploaded images or image URLs, find faces and analyze them.
 - [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/)  
   Simple online tool to automate the downloading of entire Imgur albums.
+- [Extract.pics](https://extract.pics/)  
+  A simple online tool that allows your to download images from a webpage.
