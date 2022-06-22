@@ -2407,6 +2407,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A simple tool to measure angles within an image.
 - [BetaFace API](https://www.betafaceapi.com/demo.html)  
   A face detection and face recognition web service. It can scan uploaded images or image URLs, find faces and analyze them.
+- [Extract.pics](https://extract.pics/)  
+  A simple online tool that allows your to download images from a webpage.
 
 # <u>**Orbital Intelligence [ORBINT]**</u>
 
