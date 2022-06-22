@@ -38,6 +38,8 @@
   A stolen caravan and motorhome database for the UK.
 - [CPIC Stolen Vehicle Database](https://www.cpic-cipc.ca/sve-rve-eng.htm)  
   Search for vehicles that have been reported stolen in Canada. Search by VIN number.
+- [FullCarChecks](https://fullcarchecks.co.uk/)  
+  A great site to verify if a vehicle has been reported stolen or has been written off. Requires a paid subscription for best results.
 
 ## <u>**Property**</u>
 
