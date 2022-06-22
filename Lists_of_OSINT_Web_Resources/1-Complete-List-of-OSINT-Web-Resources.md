@@ -1337,8 +1337,10 @@ A Google CSE that searches for scientific publications.
 
 ## **Reddit**
 
-- [Camas Reddit Archive Search](https://camas.github.io/reddit-search/)  
-  One of the best Reddit archives out there. Search for deleted posts and comments. Allows you to search by username, subreddit, date range, string, or a commination of all.
+- [Camas Reddit Archive Search](https://camas.unddit.com/)  
+  One of the best Reddit archives out there. Search for deleted posts and comments. Allows you to search by username, subreddit, date range, string, or a commination of all. 
+- [Camas Reddit Archive Search #2](https://bmai.dev/reddit/)  
+  Essentially a clone of the above.
 - [Reveddit](https://www.reveddit.com/about/)  
   A searchable archive of removed content on Reddit. Search by username, subreddit, link or domain.
 - [Reddit User Analyzer](https://reddit-user-analyser.netlify.app/)  
