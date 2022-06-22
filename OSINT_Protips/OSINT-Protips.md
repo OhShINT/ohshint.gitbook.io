@@ -855,3 +855,23 @@ In other words, don't be shitty.
 
 Attached image:  
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Breach-Data-Search-Results-Example.PNG"/>
+
+
+
+## **OSINT Protip 37**
+
+> Posted on *21/6/2022* at *9:34 PM*.  
+> URL: [https://twitter.com/ohshint_/status/1539466711237136384](https://twitter.com/ohshint_/status/1539466711237136384)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 37: 
+
+Stolen property databases are a great resource during loss prevention/asset recovery cases. From vehicles to firearms, here are a few resources. 
+
+- [https://hotgunz.com/search.php](https://www.hotgunz.com/search.php) 
+- [https://artloss.com/search/](https://www.artloss.com/search/) 
+- [https://isitnicked.com](https://isitnicked.com/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/HutGunz-Search-Example.PNG"/>
