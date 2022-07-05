@@ -41,8 +41,6 @@
   Identify new hidden services, or find investigation targets that you might not have otherwise known about. It is 100% free and every day you will receive a link to a spreadsheet you can download or view online. Requires you to provide an email address to join their mailing list.
 - [TOR66](http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh)  
   An onion site that lists newly discovered onion sites that have been submitted from a variety of different clearnet platforms.
-- [H-Indexer](http://jncyepk6zbnosf4p.onion/onions.html)  
-  Another onion site that offers a list of fresh onions. Beware, results are often uncensored, so you may encounter illegal material.
 - [DarkSearch](https://darksearch.io/)  
   ~~A search engine for TOR onion sites. Claims to index thousands of onions. Offers the ability to use [advanced search operators](https://darksearch.io/dorks), and they also provide a free API. Appears to be a bit outdated though.~~ Has removed all public access.
 - [Kilos](http://mlyusr6htlxsyc7t2f4z53wdxh3win7q3qpxcrbam6jf3dmua7tnzuyd.onion/)  
