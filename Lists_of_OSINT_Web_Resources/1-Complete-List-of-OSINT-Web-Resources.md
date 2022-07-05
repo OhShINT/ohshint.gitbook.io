@@ -3589,8 +3589,6 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Identify new hidden services, or find investigation targets that you might not have otherwise known about. It is 100% free and every day you will receive a link to a spreadsheet you can download or view online. Requires you to provide an email address to join their mailing list.
 - [TOR66](http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh)  
   An onion site that lists newly discovered onion sites that have been submitted from a variety of different clearnet platforms.
-- [H-Indexer](http://jncyepk6zbnosf4p.onion/onions.html)  
-  Another onion site that offers a list of fresh onions. Beware, results are often uncensored, so you may encounter illegal material.
 - [DarkSearch](https://darksearch.io/)  
   ~~A search engine for TOR onion sites. Claims to index thousands of onions. Offers the ability to use [advanced search operators](https://darksearch.io/dorks), and they also provide a free API. Appears to be a bit outdated though.~~ Has removed all public access.
 - [Kilos](http://mlyusr6htlxsyc7t2f4z53wdxh3win7q3qpxcrbam6jf3dmua7tnzuyd.onion/)  
@@ -3839,8 +3837,6 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Use this tool to check if your email address has been compromised in any known data breaches.
 - [Ashley Madison Search](https://ashley.cynic.al/)  
   Check to see if an email address was included in the Ashley Madison breach.
-- [PwnDB Onion](https://pwndb2am4tzkvold.onion/)  
-  A .onion site that allows you to search an email address and provides you with free, uncensored results. You can visit this site without TOR [here (CLEARNET PROXY)](http://pwndb2am4tzkvold.onion.pet/).
 - [Leaked.Domains](https://leaked.domains/)  
   Contains a large number of breached datasets to perform passive intelligence gathering on domains. Allows you to search a domain name and see how many times the domain has been included in breached data. Requires registration with a company email to access full reports for that specific domain.
 - [DeepSearch Onion](http://xjypo5vzgmo7jca6b322dnqbsdnp3amd24ybx26x5nxbusccjkm4pwid.onion/)  
