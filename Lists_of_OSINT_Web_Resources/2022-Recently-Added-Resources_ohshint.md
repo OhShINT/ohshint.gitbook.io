@@ -49,6 +49,10 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [OSINT Jobs](https://www.osint-jobs.com/) - *Added 9/2/2022.*
 
+### **Archive Search**
+
+- [Archive Portal Europe](https://archivesportaleurope.net) - *Added 10/7/2022.*
+
 ### **Software Search**
 
 - [Internet Archive Vintage Software Collection](https://archive.org/details/vintagesoftware) - *Added 21/2/2022.*
@@ -63,12 +67,16 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Newspaper and News Search**
 
+- [Newspaper Navigator](https://news-navigator.labs.loc.gov/search) - *Added 10/7/2022.*
+- [OnlineNewspapers](https://onlinenewspapers.com/index.shtml) - *Added 10/7/2022.*
+- [Swedish Newspaper Archive](https://paperarchive-prod.svd.se/) - *Added 10/7/2022.*
 - [BuzzSumo Content Search](https://app.buzzsumo.com/content/web) - *Added 9/2/2022.*
 
 ## <u>**Social Media Intelligence [SOCMINT]**</u>
 
 ### **General Social Media Tools**
 
+- [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/) - *Added 10/7/2022.*
 - [Tagdef](https://tagdef.com/en/) - *Added 25/1/2022.*
 - [Alternative Social Platform Search](https://www.osintcombine.com/alt-tech-social-search) - *Added 25/1/2022.*
 
@@ -111,6 +119,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Reddit**
 
+- [Better Reddit Search](https://betterredditsearch.web.app) - *Added 10/7/2022.*
 - [Redditle](https://redditle.com/) - *Added 25/4/2022.*
 - [Reddit Scraper](https://apify.com/trudax/reddit-scraper) - *Added 30/1/2022.*
 - [SocialGrep](https://socialgrep.com/) - *Added 30/1/2022.*
@@ -168,6 +177,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [OpenAerialMap](https://map.openaerialmap.org) - *Added 10/7/2022.* 
 - [HoodMaps](https://hoodmaps.com/) - *Added 25/4/2022.*
 - [Spectator.earth](https://spectator.earth/) - *Added 25/4/2022.*
 - [FarEarth Observer](http://observer.farearth.com/observer/)  - *Added 4/3/2022.*
@@ -213,7 +223,14 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Natural Disaster Maps**
 
+- [Natural Hazards Map](https://fmglobal.com/research-and-resources/nathaz-toolkit/flood-map) - *Added 10/7/2022.*
 - [North American Forest Fire Map](https://fires.globalincidentmap.com/) - *Added 9/2/2022.*
+
+### **Ocean Maps**
+
+#### **General Ocean Maps**
+
+- [River Runner Global](https://river-runner-global.samlearner.com) - *Added 10/7/2022.*
 
 ### **Network Maps**
 
@@ -226,6 +243,11 @@ All dates are listed in *DD/MM/YYYY* format.
 - [GlobalEnergyMonitor](https://globalenergymonitor.org/projects/global-fossil-infrastructure-tracker/tracker-map/) - *Added 13/4/2022.*
 - [Aenert Map of Heavy Oil Fields](https://aenert.com/technologies/fossil-fuel/unconventional-oil/interactive-map-of-heavy-oil-fields/) - *Added 13/4/2022.*
 - [U.S. Energy, Environment and Policy Map](https://www.bakerinstitute.org/energy-environment-and-policy-in-the-us/) - *Added 25/1/2022.*
+
+### **Outdoor Activity Maps**
+
+- [Rally Maps](https://rally-maps.com/map) - *Added 10/7/2022.*
+- [Meddin Bike-sharing World Map](https://bikesharingworldmap.com) - *Added 10/7/2022.*
 
 ### **Drone Footage** 
 
@@ -240,6 +262,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Mapping Resources**
 
+- [WikiShootMe](https://wikishootme.toolforge.org) - *Added 10/7/2022.*
+- [The Painted Planet](https://hicsuntleones.nl/paintedplanet/) - *Added 10/7/2022.*
 - [Global Biodiversity Information Facility Map](https://www.gbif.org/occurrence/map) - *Added 15/6/2022.*
 - [CIA World Fact Book](https://www.cia.gov/the-world-factbook/) - *Added 22/03/2022.*
 - [PowerOutage](https://poweroutage.com/) - *Added 4/3/2022.*
@@ -253,6 +277,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Image Search**
 
+- [LogoBook](http://www.logobook.com/) - *Added 10/7/2022.*
 - [PicSearch](https://www.picsearch.com/) - *Added 25/1/2022.*
 - [IconFinder](https://www.iconfinder.com/search) - *Added 2/1/2022.*
 
@@ -445,6 +470,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Radio Frequencies**
 
+- [Sondehub](http://sondehub.org/) - *Added 10/7/2022.*
 - [Priyom](https://priyom.org/) - *Added 15/6/2022.*
 - [Shortwave Radio Receiver Map](http://rx.linkfanel.net) - *Added 25/4/2022.*
 - [Number-Stations](https://www.numbers-stations.com/) - *Added 8/3/2022.*
@@ -470,6 +496,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General People Search**
 
+- [The Gazette Public Notices](https://www.thegazette.co.uk/all-notices?ref=topmenu) - *Added 10/7/2022.*
 - [IntelX Person Search](https://intelx.io/tools?tab=person) - *Added 25/4/2022.*
 - [How Many of Me](http://howmanyofme.com/search/) - *Added 25/1/2022.*
 - [Business Card Search](https://cse.google.com/cse?cx=bee58a1c31f451e4a) - *Added 25/1/2022.*
@@ -511,6 +538,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Real Estate**</u>
 
+### **General Real Estate**
+
 - [Foreclosure](https://www.foreclosure.com/) - *Added 25/4/2022.*
 - [Zoopla](https://www.zoopla.co.uk/) - *Added 25/4/2022.*
 - [Trulia](https://www.trulia.com/) - *Added 25/4/2022.*
@@ -518,10 +547,15 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Public Accountability Project](https://publicaccountability.org/) - *Added 25/4/2022.*
 - [Virtual Tours CSE](https://cse.google.com/cse?cx=b5bba571be1788aaa) - *Added 25/1/2022.*
 
+### **Property Records**
+
+- [Who Own What (New York, USA)](https://whoownswhat.justfix.nyc) - *Added 10/7/2022.*
+
 ## <u>**Data Sets**</u>
 
 ### **General Data Sets**
 
+- [DataReportal](https://datareportal.com/) - *Added 10/7/2022.*
 - [Grants4Teachers](https://grants4teachers.com/) - *Added 15/6/2022.*
 - [AI Incident Database](https://incidentdatabase.ai/?lang=en) - *Added 3/4/2022.*
 - [Information Operations Archive](https://www.io-archive.org/) - *Added 26/3/2022.*
@@ -559,6 +593,12 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Scammers.ru](https://scammers.ru/) - *Added 21/2/2022.*
 - [ScamsOnline](https://scamsonline.org/) - *Added 21/2/2022.*
 
+## <u>**Stolen Property**</u>
+
+### **Property**
+
+- [Stolen Camera Finder](https://www.stolencamerafinder.com/) - *Added 10/7/2022.*
+
 ## <u>**War, Crisis and Conflicts**</u>
 
 ### **General Crisis and Conflicts**
@@ -576,6 +616,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Firearms and Ammunition**
 
+- [Small Arms Review Archive](https://www.smallarmsreview.com/archive/reference.index.cfm) - *Added 10/7/2022.*
 - [Cartrology](http://www.cartrology.com/) - *Added 9/2/2022.*
 
 ### **Ordnance**
