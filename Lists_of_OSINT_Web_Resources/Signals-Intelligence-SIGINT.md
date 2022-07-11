@@ -58,7 +58,7 @@
 - [Priyom](https://priyom.org/)  
   Contains both current and historical information about number stations, allowing the recording, listening and analysis.
 - [Sondehub](http://sondehub.org/)  
-  A worldwide map of radiosondes with detailed info (altitude, coordinates, frequency, manufacturer, sonde-type and more.
+  A worldwide map of radiosondes with detailed info such as altitude, coordinates, frequency, manufacturer, sonde-type and more.
 
 ## **HAM Radio**
 
