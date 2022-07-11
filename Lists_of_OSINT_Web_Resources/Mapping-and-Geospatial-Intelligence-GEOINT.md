@@ -119,6 +119,8 @@
   A crowd-sourced mapping tool that shows you all kinds of unique information of an area. "If Google Maps and Urban Dictionary had a love child".
 - [Spectator.earth](https://spectator.earth/)  
   Features a range of tools for satellite imagery. It has easy access to freely available imagery by Sentinel and Landsat, and they even provide API access for easily monitoring an area.
+- [OpenAerialMap](https://map.openaerialmap.org)  
+  Select an area on the map and get a list of freely available aerial images for that area.
 
 ## **Street View Maps**
 
@@ -287,6 +289,8 @@
   Provides information and tracking of lava flows and high-risk areas on the Hawaiian Islands. Click [here](https://pubs.usgs.gov/mf/1992/2193/) for the latest lava flow hazard map. Archived copies of the .pdf document are available [here (Wayback)](https://web.archive.org/web/20211010025640/https://pubs.usgs.gov/mf/1992/2193/mf2193.pdf) and [here (archive.today)](https://archive.ph/h9gbJ).
 - [North American Forest Fire Map](https://fires.globalincidentmap.com/)  
   An interactive map that displays on-going forest fires in North America.
+- [Natural Hazards Map](https://fmglobal.com/research-and-resources/nathaz-toolkit/flood-map)  
+  Enter location and assess the risk of flooding, earthquakes and hail in this place on the map.
 
 ## **Ocean Maps**
 
@@ -304,6 +308,8 @@
   A pretty interesting mapping tool that lets you track sharks, turtles, whales and other ocean animals. Some of the data appears to be a few years old, but still cool.
 - [OpenCPN](https://opencpn.org/)  
   This software allows you to download and organize ocean and navigation charts.
+- [River Runner Global](https://river-runner-global.samlearner.com)  
+  Click on any point on the map and trace the path that a drop of rainwater takes from current location to the world's oceans.
 
 ### **Shipwreck Maps**
 
@@ -469,6 +475,10 @@
   Route planner for hiking, cycling and running.
 - [OpenCycleMap](https://www.opencyclemap.org/)  
   A global cycling map for general overview and trip planning.
+- [Rally Maps](https://rally-maps.com/map)  
+  A worldwide map showing thousands of race locations. You can also find names, routes, dates and more. Also offers historical data from the 1970s.
+- [Meddin Bike-sharing World Map](https://bikesharingworldmap.com)  
+  Provides information about rental stations that have recently closed or suspended their activities. A link to the bike rental operator is also provided for each station.
   
 ## **Drone Footage**
   
@@ -563,3 +573,7 @@
   Provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities.
 - [Global Biodiversity Information Facility Map](https://www.gbif.org/occurrence/map)  
   Enter the name of an animal, insect or plant and this map will show you where they have been spotted.
+- [The Painted Planet](https://hicsuntleones.nl/paintedplanet/)  
+  Click on a point on the map to get a list of landscapes by famous artists depicting the area.
+- [WikiShootMe](https://wikishootme.toolforge.org)  
+  Worldwide map of geotagged Wikipedia Creative Commons Images. To display more information, log in with your Media Wiki account.
