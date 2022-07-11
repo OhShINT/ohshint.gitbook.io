@@ -45,6 +45,8 @@
   A collection of AI deployment harms or near harms across all disciplines, geographies, and use cases.
 - [Grants4Teachers](https://grants4teachers.com/)  
   Teacher grant search database.
+- [DataReportal](https://datareportal.com/)  
+  An online reference library offering hundreds of free reports packed with data, insights, and trends.
 
 ## **<u>Government Data Sets</u>**
 
