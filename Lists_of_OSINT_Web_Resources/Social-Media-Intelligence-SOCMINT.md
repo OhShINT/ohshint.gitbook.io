@@ -41,6 +41,8 @@
   The "Social Media Dictionary". Helps discover what hashtags mean, also lets you add your own definitions.
 - [Alternative Social Platform Search](https://www.osintcombine.com/alt-tech-social-search)  
   A Google CSE from OSINT Combine that searches across alternative and "non-mainstream" social platforms and boards including Parler, Gab, Minds, BitChute, DLive.tv, Rumble, JustPaste.it, WrongThink.net & 8kun.
+- [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/)  
+  An awesome collection of many different OSINT tools from IntelTechniques. Thanks Mr. Bazzell!
 
 ## <u>**Clubhouse**</u>
 
@@ -286,6 +288,8 @@
   Crawl posts, comments, subreddits and users without having to login.
 - [Redditle](https://redditle.com/)  
   A Reddit-only Google search tool. Essentially the same as adding site:reddit.com to a Google search.
+- [Better Reddit Search](https://betterredditsearch.web.app)  
+  Reddit search tool for posts and subreddits that has boolean filters via keywords and publication date.
 
 ## <u>**SnapChat**</u>
 
