@@ -738,6 +738,8 @@
   A service that lets users see how websites looked in the past.
 - [Quick Cache and Archive Search](https://cipher387.github.io/quickcacheandarchivesearch/)  
   An awesome tool created by [@cyb_detective](https://twitter.com/cyb_detective) that lets you search for older versions of websites via search engines and various web archive services.
+- [Archive Portal Europe](https://archivesportaleurope.net)  
+  Search through online archives from across Europe. Search for names, companies, geographical locations and more.
   
 ## **Software Search**
 
@@ -780,6 +782,12 @@
   Wikipedia's list of worldwide newspaper archives.
 - [BuzzSumo Content Search](https://app.buzzsumo.com/content/web)  
   Enter a domain and find out its three most popular publications on social networks. Includes a time filter.
+- [Swedish Newspaper Archive](https://paperarchive-prod.svd.se/)  
+  Offers scans of Swedish newspapers dating from 1884-2022.
+- [Newspaper Navigator](https://news-navigator.labs.loc.gov/search)  
+  Search the Library of Congress newspaper database. Contains over 1.5 million newspaper articles with photos included.
+- [OnlineNewspapers](https://onlinenewspapers.com/index.shtml)  
+  An index of thousands of newspaper publishers from all over the world.
 
 ## <u>**Paste Sites**</u>
 
