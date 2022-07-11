@@ -11,7 +11,7 @@
 - [PicSearch](https://www.picsearch.com/)  
   Search for images online via keyword.
 - [LogoBook](http://www.logobook.com/)  
-  See which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate photo.
+  See which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate a photo.
 
 ## **<u>Reverse Image Search</u>**
 
