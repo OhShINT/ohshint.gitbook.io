@@ -1038,6 +1038,8 @@ A Google CSE that searches for scientific publications.
   A service that lets users see how websites looked in the past.
 - [Quick Cache and Archive Search](https://cipher387.github.io/quickcacheandarchivesearch/)  
   An awesome tool created by [@cyb_detective](https://twitter.com/cyb_detective) that lets you search for older versions of websites via search engines and various web archive services.
+- [Archive Portal Europe](https://archivesportaleurope.net)  
+  Search through online archives from across Europe. Search for names, companies, geographical locations and more.
   
 ## **Software Search**
 
@@ -1080,6 +1082,12 @@ A Google CSE that searches for scientific publications.
   Wikipedia's list of worldwide newspaper archives.
 - [BuzzSumo Content Search](https://app.buzzsumo.com/content/web)  
   Enter a domain and find out its three most popular publications on social networks. Includes a time filter.
+- [Swedish Newspaper Archive](https://paperarchive-prod.svd.se/)  
+  Offers scans of Swedish newspapers dating from 1884-2022.
+- [Newspaper Navigator](https://news-navigator.labs.loc.gov/search)  
+  Search the Library of Congress newspaper database. Contains over 1.5 million newspaper articles with photos included.
+- [OnlineNewspapers](https://onlinenewspapers.com/index.shtml)  
+  An index of thousands of newspaper publishers from all over the world.
 
 ## **Paste Sites**
 
@@ -1134,6 +1142,8 @@ A Google CSE that searches for scientific publications.
   The "Social Media Dictionary". Helps discover what hashtags mean, also lets you add your own definitions.
 - [Alternative Social Platform Search](https://www.osintcombine.com/alt-tech-social-search)  
   A Google CSE from OSINT Combine that searches across alternative and "non-mainstream" social platforms and boards including Parler, Gab, Minds, BitChute, DLive.tv, Rumble, JustPaste.it, WrongThink.net & 8kun.
+- [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/)  
+  An awesome collection of many different OSINT tools from IntelTechniques. Thanks Mr. Bazzell!
 
 ## **Clubhouse**
 
@@ -1379,6 +1389,8 @@ A Google CSE that searches for scientific publications.
   Crawl posts, comments, subreddits and users without having to login.
 - [Redditle](https://redditle.com/)  
   A Reddit-only Google search tool. Essentially the same as adding site:reddit.com to a Google search.
+- [Better Reddit Search](https://betterredditsearch.web.app)  
+  Reddit search tool for posts and subreddits that has boolean filters via keywords and publication date.
 
 ## **SnapChat**
 
@@ -1796,6 +1808,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A crowd-sourced mapping tool that shows you all kinds of unique information of an area. "If Google Maps and Urban Dictionary had a love child".
 - [Spectator.earth](https://spectator.earth/)  
   Features a range of tools for satellite imagery. It has easy access to freely available imagery by Sentinel and Landsat, and they even provide API access for easily monitoring an area.
+- [OpenAerialMap](https://map.openaerialmap.org)  
+  Select an area on the map and get a list of freely available aerial images for that area.
 
 ## **Street View Maps**
 
@@ -1966,6 +1980,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Provides information and tracking of lava flows and high-risk areas on the Hawaiian Islands. Click [here](https://pubs.usgs.gov/mf/1992/2193/) for the latest lava flow hazard map. Archived copies of the .pdf document are available [here (Wayback)](https://web.archive.org/web/20211010025640/https://pubs.usgs.gov/mf/1992/2193/mf2193.pdf) and [here (archive.today)](https://archive.ph/h9gbJ).
 - [North American Forest Fire Map](https://fires.globalincidentmap.com/)  
   An interactive map that displays on-going forest fires in North America.
+- [Natural Hazards Map](https://fmglobal.com/research-and-resources/nathaz-toolkit/flood-map)  
+  Enter location and assess the risk of flooding, earthquakes and hail in this place on the map.
 
 ## **Ocean Maps**
 
@@ -1983,6 +1999,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A pretty interesting mapping tool that lets you track sharks, turtles, whales and other ocean animals. Some of the data appears to be a few years old, but still cool.
 - [OpenCPN](https://opencpn.org/)  
   This software allows you to download and organize ocean and navigation charts.
+- [River Runner Global](https://river-runner-global.samlearner.com)  
+  Click on any point on the map and trace the path that a drop of rainwater takes from current location to the world's oceans.
 
 ### **Shipwreck Maps**
 
@@ -2148,6 +2166,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Route planner for hiking, cycling and running.
 - [OpenCycleMap](https://www.opencyclemap.org/)  
   A global cycling map for general overview and trip planning.
+- [Rally Maps](https://rally-maps.com/map)  
+  A worldwide map showing thousands of race locations. You can also find names, routes, dates and more. Also offers historical data from the 1970s.
+- [Meddin Bike-sharing World Map](https://bikesharingworldmap.com)  
+  Provides information about rental stations that have recently closed or suspended their activities. A link to the bike rental operator is also provided for each station.
   
 ## **Drone Footage**
 - [TravelWithDrone](https://travelwithdrone.com/)  
@@ -2241,6 +2263,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Provides basic intelligence on the history, people, government, economy, energy, geography, environment, communications, transportation, military, terrorism, and transnational issues for 266 world entities.
 - [Global Biodiversity Information Facility Map](https://www.gbif.org/occurrence/map)  
   Enter the name of an animal, insect or plant and this map will show you where they have been spotted.
+- [The Painted Planet](https://hicsuntleones.nl/paintedplanet/)  
+  Click on a point on the map to get a list of landscapes by famous artists depicting the area.
+- [WikiShootMe](https://wikishootme.toolforge.org)  
+  Worldwide map of geotagged Wikipedia Creative Commons Images. To display more information, log in with your Media Wiki account.
 
 # <u>**Imagery Intelligence [IMINT]**</u>
 
@@ -2254,6 +2280,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search for icons used for various apps and websites via keywords.
 - [PicSearch](https://www.picsearch.com/)  
   Search for images online via keyword.
+- [LogoBook](http://www.logobook.com/)  
+  See which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate photo.
 
 ## **Reverse Image Search**
 
@@ -3537,6 +3565,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Online map of shortwave radio receivers available for listening in your browser at the moment.
 - [Priyom](https://priyom.org/)  
   Contains both current and historical information about number stations, allowing the recording, listening and analysis.
+- [Sondehub](http://sondehub.org/)  
+  A worldwide map of radiosondes with detailed info (altitude, coordinates, frequency, manufacturer, sonde-type and more.
 
 ## **HAM Radio**
 
@@ -3688,6 +3718,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   This Google CSE allows you to search through digital business card sites. Created by [@dutch_osintguy](https://twitter.com/dutch_osintguy).
 - [IntelX Person Search](https://intelx.io/tools?tab=person)  
   A great people meta search engine offered by IntelX.
+- [The Gazette Public Notices](https://www.thegazette.co.uk/all-notices?ref=topmenu)  
+  The Gazette publishes public notices, such as are legally required in the UK for name changes, or declaring insolvency. Useful resource in a country which still has GDPR.
   
 ## **Vital Records**
 - [Vital Record Search Tools](https://stevemorse.org/index.html)  
@@ -4460,6 +4492,9 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 
 ## **Property Records**
 
+- [Who Own What (New York, USA)](https://whoownswhat.justfix.nyc)  
+  Enter an address and see details of the property and owner history, or search by last name to find their property.
+
 # <u>**Data Sets**</u>
 
 ## **General Data Sets**
@@ -4506,6 +4541,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A collection of AI deployment harms or near harms across all disciplines, geographies, and use cases.
 - [Grants4Teachers](https://grants4teachers.com/)  
   Teacher grant search database.
+- [DataReportal](https://datareportal.com/)  
+  An online reference library offering hundreds of free reports packed with data, insights, and trends.
 
 ## **Government Data Sets**
 
@@ -4768,6 +4805,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Search for items on eBay in different countries. Great for tracking down stolen items, which are often fenced on eBay.
 - [Lost Numbered Items Search (Lithuania)](https://www.epolicija.lt/indr_paieska/dokumentai_en.php)  
   Find out whether numbered object is lost. A full identification number of an object is required. Indicate the whole number or a part of it searching for lost bicycles.
+- [Stolen Camera Finder](https://www.stolencamerafinder.com/)  
+  Upload an image and locate other images online that were taken with the same camera.
 
 # <u>**War, Crisis and Conflicts**</u>
 
@@ -4832,6 +4871,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   An online database of firearms used or featured in films, television shows, video games, and anime.
 - [Cartrology](http://www.cartrology.com/)  
   This cartridge collection consists of military rifle, heavy machine gun, and small to medium caliber cannon ammunition. The primary focus is on ammunition up to 35mm caliber made during WWII or later, although some specimens do fall outside of these general guidelines.
+- [Small Arms Review Archive](https://www.smallarmsreview.com/archive/reference.index.cfm)  
+  A large collection of scanned firearm manuals, reviews, parts lists and more.
 
 ## **Ordnance**
 
