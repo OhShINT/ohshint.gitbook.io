@@ -10,6 +10,8 @@
   Search for icons used for various apps and websites via keywords.
 - [PicSearch](https://www.picsearch.com/)  
   Search for images online via keyword.
+- [LogoBook](http://www.logobook.com/)  
+  See which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate photo.
 
 ## **<u>Reverse Image Search</u>**
 
