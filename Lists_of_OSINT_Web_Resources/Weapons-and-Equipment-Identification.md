@@ -22,6 +22,8 @@
   An online database of firearms used or featured in films, television shows, video games, and anime.
 - [Cartrology](http://www.cartrology.com/)  
   This cartridge collection consists of military rifle, heavy machine gun, and small to medium caliber cannon ammunition. The primary focus is on ammunition up to 35mm caliber made during WWII or later, although some specimens do fall outside of these general guidelines.
+- [Small Arms Review Archive](https://www.smallarmsreview.com/archive/reference.index.cfm)  
+  A large collection of scanned firearm manuals, reviews, parts lists and more.
 
 ## **Ordnance**
 
