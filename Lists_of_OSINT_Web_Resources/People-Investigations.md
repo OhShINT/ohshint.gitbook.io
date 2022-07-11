@@ -27,6 +27,8 @@
   This Google CSE allows you to search through digital business card sites. Created by [@dutch_osintguy](https://twitter.com/dutch_osintguy).
 - [IntelX Person Search](https://intelx.io/tools?tab=person)  
   A great people meta search engine offered by IntelX.
+- [The Gazette Public Notices](https://www.thegazette.co.uk/all-notices?ref=topmenu)  
+  The Gazette publishes public notices, such as are legally required in the UK for name changes, or declaring insolvency. Useful resource in a country which still has GDPR.
   
 ## **Vital Records**
 
