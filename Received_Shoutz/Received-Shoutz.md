@@ -135,7 +135,7 @@ Thank you all! <3
   - ([Wayback](https://web.archive.org/web/20220619074623/https://start.me/p/ZME8nR/osint)), ([archive.today](https://archive.ph/ZH6EH)).
 
 - [OSINT4All - start.me](https://start.me/p/L1rEYQ/osint4all).
-  - [(Wayback)](https://web.archive.org/web/20220707063833/https://start.me/p/L1rEYQ/osint4all), [(archive.today)](https://archive.ph/KTs7a).
+  - ([Wayback](https://web.archive.org/web/20220707063833/https://start.me/p/L1rEYQ/osint4all)), ([archive.today](https://archive.ph/KTs7a)).
 
   
 
