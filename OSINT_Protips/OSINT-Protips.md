@@ -892,4 +892,21 @@ Public webcams and WAN facing surveillance cameras can be a great tool for monit
 - [https://the-webcam-network.com](https://www.the-webcam-network.com/) 
 - [http://insecam.org](http://insecam.org/) 
 
-[#OSINTProtip](
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+
+
+## OSINT Protip 39
+
+> Posted on *13/7/2022* at *10:39 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1547455612434276352](https://twitter.com/ohshint_/status/1547455612434276352)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 39: 
+
+Uncovering a targets older and/or alternate usernames can provide additional leads and much more information. Be sure to check for them! 
+
+- [https://memory.lol/tw/USERNAME-HERE](https://memory.lol/tw/USERNAME-HERE) 
+- [https://spoonbill.io](https://spoonbill.io/) 
+- [https://steamid.uk](https://steamid.uk/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
