@@ -875,3 +875,21 @@ Stolen property databases are a great resource during loss prevention/asset reco
 
 Attached image:
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/HutGunz-Search-Example.PNG"/>
+
+
+
+## **OSINT Protip 38**
+
+> Posted on *7/7/2022* at *6:55 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1545224950562242561](https://twitter.com/ohshint_/status/1545224950562242561)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 38: 
+
+Public webcams and WAN facing surveillance cameras can be a great tool for monitoring situations, tracking POIs and more. Some useful tools. 
+
+- [https://webcamtaxi.com/en/](https://www.webcamtaxi.com/en/)
+- [http://opentopia.com/map.php](http://www.opentopia.com/map.php) 
+- [https://the-webcam-network.com](https://www.the-webcam-network.com/) 
+- [http://insecam.org](http://insecam.org/) 
+
+[#OSINTProtip](
