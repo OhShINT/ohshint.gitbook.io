@@ -17,6 +17,8 @@
   Lets you find professional email addresses in seconds. Very useful tool. For best results, a paid subscription is required.
 - [Snov Email Finder](https://snov.io/email-finder)  
   Locate employee email addresses via domain name. Very handy.
+- [WhoWorksThere](https://www.whoworksthere.com/)  
+  Search for a company and provides email address, names and more. Paid subscription is required.
 - [Phonebook.cz](https://phonebook.cz/)  
   A tool from IntelX that lists all domains, email addresses, or URLs for the given input domain. Wildcards such as `*.gov.uk` are allowed. Search over 34 billion records.
 - [Have I Been Sold?](https://haveibeensold.app/)  
