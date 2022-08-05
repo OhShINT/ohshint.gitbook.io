@@ -87,6 +87,8 @@
   Provides detailed financial information on all companies, both private and public, that are located in Denmark.
 - [Armanian Electronic Register](https://www.e-register.am/ru/search)  
   Search for information about Armanian organizations.
+- [UK Company House](https://find-and-update.company-information.service.gov.uk/)  
+  Locate registered addresses, filing history, officers, annual returns and more.
 
 ### <u>**North America**</u>
 
