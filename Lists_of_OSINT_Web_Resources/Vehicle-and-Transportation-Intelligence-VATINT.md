@@ -24,6 +24,8 @@
   Search via VIN number and get vehicle information, specifications, title information and more. For best results, a paid subscription is required.
 - [IntelX VIN Search](https://intelx.io/tools?tab=vin)  
   A great VIN search engine offered by IntelX.
+- [UK VIN Info](https://uk.vin-info.com/)  
+  Enter a UK based VIN number and see details for that specific vehicle.
 
 ### **License Plates**
 
@@ -187,6 +189,8 @@
   A project that tracks the aircrafts of authoritarian regimes all over the world.
 - [Military Aircraft Tracker](https://ads-b.nl/)  
   Tracking information such as route and other technical details about military aircraft flying over a specific territory.
+- [Icarus.Flights](https://icarus.flights/)  
+  A tool for analyzing uncensored aircraft activity data and tracing global aircraft ownership records. Requires a paid subscription.
 
 ### **Aircraft Information**
 
