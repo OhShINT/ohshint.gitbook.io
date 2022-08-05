@@ -2398,6 +2398,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Enter a text query and this neural network will generate a picture based on the input.
 - [HOTDRV Facegen](http://foto.hotdrv.ru/facegen)  
   Generate faces using artificial intelligence. Essentially a Russian version of thispersondoesnotexist, very handy.
+- [Craiyon](https://www.craiyon.com/)  
+  Enter a few keywords and this tool will generate images based on user input using AI.
 
 ## **Image Enhancement**
 
@@ -2413,6 +2415,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Upload a black and white image and this tool will colorize it for you.
 - [ImageUpscaler](https://imageupscaler.com/)  
   An online service that upscales images and photos by 4 times. It uses artificial intelligence, which makes images bigger without making it blurry, saving its quality at the same time.
+- [ReminiAI](https://app.remini.ai/)  
+  Online tool that helps unblur and sharpen images.
 
 ## **Image Editing and Manipulation**
 
