@@ -4731,8 +4731,6 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Lots and lots of good information in here including some pretty interesting images. Has information about transnational traffickers in the Americas and Asia, trafficking methods, and illicit finance. Archived copies available [here (Wayback)](https://web.archive.org/web/20210918005345/https://www.dea.gov/sites/default/files/2021-02/DIR-008-21%202020%20National%20Drug%20Threat%20Assessment_WEB.pdf) and [here (Library Genesis)](https://libgen.rs/book/index.php?md5=99DEB4338B7B542BC4EC6CEE9F61515F).
 - [Global Drug Interdictions Map](https://drugs.globalincidentmap.com/)  
   A continuously updated global map of drug interdictions.
-- [DEA Drug Images](https://www.dea.gov/media-gallery/drug-images)  
-  A collection of images and information to assist with the identification of various drugs from the U.S. Drug Enforcement Agency (DEA).
 - [DrugInformer](https://druginformer.com/search/)  
   A search engine for pharmaceutical products and their side effects.
 - [RxPrice](https://rxprice.newbenefits.com/)  
