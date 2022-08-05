@@ -3173,6 +3173,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A great IP address search tool offered by IntelX.
 - [CriminalIP](https://www.criminalip.io/)  
   Search for information about IP addresses, domains, malicious links, phishing sites and more.
+- [IPinfo](https://ipinfo.io/)  
+  Provides information about IP addresses, also offers a great CLI tool. Requires a paid subscription.
 
 ## **Domain Name System [DNS] Records**
 
@@ -3239,6 +3241,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Scan a domain and visualize that domains ads.
 - [StylifyMe](https://stylifyme.com)  
   A great tool for analyzing the style characteristics of a particular website.
+- [Sitemap Generator](https://www.internetmarketingninjas.com/tools/google-sitemap-generator/)  
+  Simply enter a URL and this free tool will crawl the target site and provide a list of all URLs.
   
 ### **Web Page Monitoring**
 
@@ -3251,8 +3255,9 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [Carbon Dating The Web](https://carbondate.cs.odu.edu/)  
   Predict the birthday of any web page.
 - [GemiusAudience](https://rating.gemius.com/)  
-  Provides knowledge and information for online publishers, investors, media agencies and advertisers to make the right decisions.
-For example you can find, in the listed countries, how many some visitors or users a website has.
+  Provides knowledge and information for online publishers, investors, media agencies and advertisers to make the right decisions. For example you can find, in the listed countries, how many some visitors or users a website has.
+- [Defacer.ID](https://defacer.id/)  
+  Offers archives and statistics of website defacements and other cyber vandalism.
 
 ## **Uniform Resource Locators [URL] Redirects and Backlinks**
 
@@ -3388,6 +3393,8 @@ For example you can find, in the listed countries, how many some visitors or use
   Shows you cameras and guards almost everywhere. You can see where they are located and, if the information is available, what type they are, the area they observe, or other interesting facts.
 - [Ukraine Live Cams](https://nagix.github.io/ukraine-livecams/#5.5/47.774/31.685/0/45)  
   A large collection of live and real-time webcams in Ukraine plotted on 3D map.
+- [OpenTrafficCamMap](https://otc.armchairresearch.org/map)  
+  An interactive map of openly accessible traffic camera feeds in the United States.
 
 ## **Attack Maps**
 
