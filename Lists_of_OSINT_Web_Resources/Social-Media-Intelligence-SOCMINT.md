@@ -290,6 +290,8 @@
   A Reddit-only Google search tool. Essentially the same as adding site:reddit.com to a Google search.
 - [Better Reddit Search](https://betterredditsearch.web.app)  
   Reddit search tool for posts and subreddits that has boolean filters via keywords and publication date.
+- [Reddit about.json](https://www.reddit.com/user/USERNAME-HERE/about.json)  
+  Use the official Reddit service to view more details about a user. Example: `https://www.reddit.com/user/USERNAME-HERE/about.json`.
 
 ## <u>**SnapChat**</u>
 
@@ -305,6 +307,8 @@
   A very useful guide for law enforcement when dealing with SnapChat during an investigation. Archived copies can be found [here (Wayback)](https://web.archive.org/web/20210724093427/https://storage.googleapis.com/snap-inc/privacy/lawenforcement.pdf) and [here (Library Genesis)](http://libgen.rs/book/index.php?md5=27E6DE921660B3D2C1AF533199A08137).
 - [SoVIP Influencer Search](https://sovip.io/)  
   Search for SnapChat users by username or location. Very limited results, and some results may be NSFW.
+- [OSINTCombine SnapChat Multi-Viewer](https://www.osintcombine.com/snapchat-multi-viewer)  
+  Enter a location and view multiple SnapChat stories at once.
 
 ## <u>**Skype**</u>
 
@@ -493,6 +497,14 @@
   A tool to visualize Twitter conversations in a tree-style way.
 - [IntelX Twitter Search](https://intelx.io/tools?tab=twitter)  
   A great Twitter search engine offered by IntelX.
+- [memory.lol](https://memory.lol/tw/USERNAME-HERE)  
+  Provides historical information about social media accounts. It can currently be used to look up over 542 million historical screen names for 443 million Twitter accounts. Example: `https://memory.lol/tw/USERNAME-HERE`. See this projects [GitHub page](https://github.com/travisbrown/memory.lol) for more information.
+- [Shadowban Test](https://shadowban.yuzurisa.com/)  
+  A simple tool to test if a Twitter account has been "shadowbanned".
+- [Orbit](https://orbit.livasch.com/)  
+  Enter a username and view who is in their "orbit". Useful tool for finding a POIs friends.
+- [OSoMe Network Tool](https://osome.iu.edu/tools/networks)  
+  Explore how information spreads across Twitter with an interactive network using the OSoMe decahose archive.
 
 ## <u>**Untappd**</u>
 
@@ -514,6 +526,26 @@
   Search for users and images on the official VSCO platform. They have no option for users to set things as private, so all information is public, including image metadata when available.
 - [VSCO Page](https://vsco.page/)  
   Allows you to view full VSCO profiles, posts and image metadata. Also lets you download images and videos. Warning, this site goes quite heavy on the pop-ups and ads.
+  
+## **<u>WhatsApp</u>**
+
+- [WACheck](https://wacheck.online/)  
+  Enter a WhatsApp number and see if the user is currently online or not.
+- [WATools](https://watools.io/)  
+  Easily download a WhatsApp profile picture online, check to see if a phone number exists on WhatsApp, and check to see if a user is online or not.
+- [WhatsApp Reverse Phone Lookup](https://www.celltrack.eu/whatsapp)  
+  Tool that allows you to enter a phone number and view the WhatsApp account connected to it. Including username and profile picture. Requires a paid subscription.
+- [WhatsApp Law Enforcement Guide](https://faq.whatsapp.com/general/security-and-privacy/information-for-law-enforcement-authorities)  
+  A guide for law enforcement personnel when dealing with and requesting data from WhatsApp.
+- [WhatsAnalyze](https://whatsanalyze.com/)  
+  An open-source tool that analyzes WhatsApp group messages and provides statistics such as word clouds, timelines, message frequency and more.
+- [ChatVisualizer](https://chatvisualizer.com/)  
+  A simple tool to assist with the visualization of WhatsApp chats.
+  
+## **Wikipedia**
+
+- [xTools](https://xtools.wmflabs.org/)  
+  Offers tools to analyze Wikipedia users and page changes.
 
 ## **<u>YouTube</u>**
 
@@ -547,21 +579,6 @@
   Allows you to convert, edit and download subtitles from YouTube, Facebook, DailyMotion and more for free.
 - [IntelX YouTube Search](https://intelx.io/tools?tab=youtube)  
   A great YouTube search engine offered by IntelX. This is an improved fork of the above tool.
-
-## **<u>WhatsApp</u>**
-
-- [WACheck](https://wacheck.online/)  
-  Enter a WhatsApp number and see if the user is currently online or not.
-- [WATools](https://watools.io/)  
-  Easily download a WhatsApp profile picture online, check to see if a phone number exists on WhatsApp, and check to see if a user is online or not.
-- [WhatsApp Reverse Phone Lookup](https://www.celltrack.eu/whatsapp)  
-  Tool that allows you to enter a phone number and view the WhatsApp account connected to it. Including username and profile picture. Requires a paid subscription.
-- [WhatsApp Law Enforcement Guide](https://faq.whatsapp.com/general/security-and-privacy/information-for-law-enforcement-authorities)  
-  A guide for law enforcement personnel when dealing with and requesting data from WhatsApp.
-- [WhatsAnalyze](https://whatsanalyze.com/)  
-  An open-source tool that analyzes WhatsApp group messages and provides statistics such as word clouds, timelines, message frequency and more.
-- [ChatVisualizer](https://chatvisualizer.com/)  
-  A simple tool to assist with the visualization of WhatsApp chats.
 
 ## <u>**4chan and 8chan**</u>
 
