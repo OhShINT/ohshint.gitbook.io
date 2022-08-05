@@ -43,3 +43,5 @@
   A trusted timestamp that you can physically include in photos, videos and live streams using QR codes and audible data signals.
 - [HistoryPin](https://historypin.org)  
   A place for people to share photos and stories, telling the histories of their local communities. Search by place or explore history collections.
+- [Bravenewtech](https://www.bravenewtech.org/)  
+  Allows you to preserve online videos from most online video services.
