@@ -78,6 +78,8 @@
   An online directory and portal to those Tax Assessors', Treasurers’ and Recorders' offices that have developed websites for the retrieval of available public records for the U.S.
 - [BlackBookOnline](https://www.blackbookonline.info/index.html)  
   A large database and search tool for locating U.S. public records. Find everything from parking tickets to property records.
+- [U.S. Traffic Cameras and Reports](https://www.publicrecords.onlinesearches.com/Traffic-Cameras-and-Reports.htm)  
+  Covers state, county and city traffic cameras as well as accessing and filing traffic accident reports. Many state, county and city police departments provide forms online for filing accident reports and some even provide online searchable accident databases.
 
 ## **<u>Leaked Data Sets</u>**
 
