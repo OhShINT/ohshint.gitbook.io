@@ -59,6 +59,8 @@
   Contains both current and historical information about number stations, allowing the recording, listening and analysis.
 - [Sondehub](http://sondehub.org/)  
   A worldwide map of radiosondes with detailed info such as altitude, coordinates, frequency, manufacturer, sonde-type and more.
+- [GPSJam](https://gpsjam.org/)  
+  Free map of GPS interference. Watch jamming around conflict zones develop over time.
 
 ## **HAM Radio**
 
