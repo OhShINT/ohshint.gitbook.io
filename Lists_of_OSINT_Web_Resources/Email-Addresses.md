@@ -25,6 +25,8 @@
   A service that checks for email address that are included in marketing and spamming databases.
 - [IntelX Email Search](https://intelx.io/tools?tab=email)  
   A great email search engine offered by IntelX.
+- [PeepMail](https://samy.pl/peepmail/elift.cgi)  
+  A tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
 
 ## **Data Breach Search**
 
