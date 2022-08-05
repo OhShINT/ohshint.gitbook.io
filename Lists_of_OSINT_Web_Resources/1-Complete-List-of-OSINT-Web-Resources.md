@@ -4619,6 +4619,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   An online directory and portal to those Tax Assessors', Treasurers’ and Recorders' offices that have developed websites for the retrieval of available public records for the U.S.
 - [BlackBookOnline](https://www.blackbookonline.info/index.html)  
   A large database and search tool for locating U.S. public records. Find everything from parking tickets to property records.
+- [U.S. Traffic Cameras and Reports](https://www.publicrecords.onlinesearches.com/Traffic-Cameras-and-Reports.htm)  
+  Covers state, county and city traffic cameras as well as accessing and filing traffic accident reports. Many state, county and city police departments provide forms online for filing accident reports and some even provide online searchable accident databases.
 
 ## **Leaked Data Sets**
 
@@ -4729,6 +4731,16 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Lots and lots of good information in here including some pretty interesting images. Has information about transnational traffickers in the Americas and Asia, trafficking methods, and illicit finance. Archived copies available [here (Wayback)](https://web.archive.org/web/20210918005345/https://www.dea.gov/sites/default/files/2021-02/DIR-008-21%202020%20National%20Drug%20Threat%20Assessment_WEB.pdf) and [here (Library Genesis)](https://libgen.rs/book/index.php?md5=99DEB4338B7B542BC4EC6CEE9F61515F).
 - [Global Drug Interdictions Map](https://drugs.globalincidentmap.com/)  
   A continuously updated global map of drug interdictions.
+- [DEA Drug Images](https://www.dea.gov/media-gallery/drug-images)  
+  A collection of images and information to assist with the identification of various drugs from the U.S. Drug Enforcement Agency (DEA).
+- [DrugInformer](https://druginformer.com/search/)  
+  A search engine for pharmaceutical products and their side effects.
+- [RxPrice](https://rxprice.newbenefits.com/)  
+  A search engine to view and compare current prices for prescription drugs.
+- [National Drug Code Search](https://www.findacode.com/ndc/search.php)  
+  Search for drugs and this database will provide you with detailed information about almost any drug out there.
+- [DTome Drug Search](https://bioinfo.uth.edu/DTome/search.html)  
+  Search for information about various drugs and research chemicals (RCs).
 
 ## **Wildlife Crime**
 
@@ -5371,5 +5383,7 @@ Allows you to check grammar, spelling, punctuation, vocabulary, and other writin
   A trusted timestamp that you can physically include in photos, videos and live streams using QR codes and audible data signals.
 - [HistoryPin](https://historypin.org)  
   A place for people to share photos and stories, telling the histories of their local communities. Search by place or explore history collections.
+- [Bravenewtech](https://www.bravenewtech.org/)  
+  Allows you to preserve online videos from most online video services.
 
 ![](Contact/Images/donvito.png)
