@@ -1828,6 +1828,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Features a range of tools for satellite imagery. It has easy access to freely available imagery by Sentinel and Landsat, and they even provide API access for easily monitoring an area.
 - [OpenAerialMap](https://map.openaerialmap.org)  
   Select an area on the map and get a list of freely available aerial images for that area.
+- [WhatIsWhere](https://www.whatiswhere.com/)  
+  A more user friendly way of querying the OpenStreetMap database. It helps you to build queries in a similar way to Overpass Turbo, but without the complex query language and syntax.
 
 ## **Street View Maps**
 
@@ -2188,6 +2190,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A worldwide map showing thousands of race locations. You can also find names, routes, dates and more. Also offers historical data from the 1970s.
 - [Meddin Bike-sharing World Map](https://bikesharingworldmap.com)  
   Provides information about rental stations that have recently closed or suspended their activities. A link to the bike rental operator is also provided for each station.
+- [Worldwide Skatepark Map](https://www.google.com/maps/d/u/0/viewer?mid=1d3FyUTTwmUrTDoBpY0111r6OYAB145Fx&ll=0%2C0&z=2)  
+  A custom Google map that shows locations of skate parks all around the globe.
   
 ## **Drone Footage**
 - [TravelWithDrone](https://travelwithdrone.com/)  
@@ -2285,6 +2289,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Click on a point on the map to get a list of landscapes by famous artists depicting the area.
 - [WikiShootMe](https://wikishootme.toolforge.org)  
   Worldwide map of geotagged Wikipedia Creative Commons Images. To display more information, log in with your Media Wiki account.
+- [3D Sun Path](http://andrewmarsh.com/apps/staging/sunpath3d.html)  
+  Allows you to visualize the sun’s position, azimuth and shadow length. Useful for chronolocation.
 
 # <u>**Imagery Intelligence [IMINT]**</u>
 
