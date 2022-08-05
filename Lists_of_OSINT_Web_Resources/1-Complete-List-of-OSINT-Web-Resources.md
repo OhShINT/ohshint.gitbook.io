@@ -4773,6 +4773,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   A searchable database of Russian scammers and online dating agencies.
 - [ScamsOnline](https://scamsonline.org/)  
   Photos of real relationship and romance scammers, as well as other images commonly used by these scammers.
+- [Scamdex](https://www.scamdex.com/)  
+  A massive archive of emails from scammers dating back to 2004.
 
 ## **Other Illicit Trade**
 
