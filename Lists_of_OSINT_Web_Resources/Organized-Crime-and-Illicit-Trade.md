@@ -94,6 +94,14 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Lots and lots of good information in here including some pretty interesting images. Has information about transnational traffickers in the Americas and Asia, trafficking methods, and illicit finance. Archived copies available [here (Wayback)](https://web.archive.org/web/20210918005345/https://www.dea.gov/sites/default/files/2021-02/DIR-008-21%202020%20National%20Drug%20Threat%20Assessment_WEB.pdf) and [here (Library Genesis)](https://libgen.rs/book/index.php?md5=99DEB4338B7B542BC4EC6CEE9F61515F).
 - [Global Drug Interdictions Map](https://drugs.globalincidentmap.com/)  
   A continuously updated global map of drug interdictions.
+- [DrugInformer](https://druginformer.com/search/)  
+  A search engine for pharmaceutical products and their side effects.  
+- [RxPrice](https://rxprice.newbenefits.com/)  
+  A search engine to view and compare current prices for prescription drugs. 
+- [National Drug Code Search](https://www.findacode.com/ndc/search.php)  
+  Search for drugs and this database will provide you with detailed information about almost any drug out there. 
+- [DTome Drug Search](https://bioinfo.uth.edu/DTome/search.html)  
+  Search for information about various drugs and research chemicals (RCs).
 
 ## **Wildlife Crime**
 
