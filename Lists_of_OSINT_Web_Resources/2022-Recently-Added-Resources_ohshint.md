@@ -119,6 +119,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Reddit**
 
+- [Reddit about.json](https://www.reddit.com/user/USERNAME-HERE/about.json) - *Added 4/8/2022.*
 - [Better Reddit Search](https://betterredditsearch.web.app) - *Added 10/7/2022.*
 - [Redditle](https://redditle.com/) - *Added 25/4/2022.*
 - [Reddit Scraper](https://apify.com/trudax/reddit-scraper) - *Added 30/1/2022.*
@@ -129,6 +130,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **SnapChat**
 
+- [OSINTCombine SnapChat Multi-Viewer](https://www.osintcombine.com/snapchat-multi-viewer) - *Added 4/8/2022.*
 - [SoVIP Influencer Search](https://sovip.io/) - *Added 26/3/2022.*
 
 ### **Skype**
@@ -155,6 +157,10 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Twitter**
 
+- [OSoMe Network Tool](https://osome.iu.edu/tools/networks) - *Added 4/8/2022.*
+- [Orbit](https://orbit.livasch.com/) - *Added 4/8/2022.*
+- [Shadowban Test](https://shadowban.yuzurisa.com/) - *Added 4/8/2022.*
+- [memory.lol](https://memory.lol/tw/USERNAME-HERE) - *Added 4/8/2022.*
 - [IntelX Twitter Search](https://intelx.io/tools?tab=twitter) - *Added 25/4/2022.*
 - [TweeView](https://tweeview.ml/) - *Added 25/4/2022.*
 - [SocialBearing](https://socialbearing.com/) - *Added 25/4/2022.* 
@@ -169,6 +175,10 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [VK Search Engine](https://cse.google.com/cse?cx=f5e7cd4c6e33954ec) - *Added 26/3/2022.*
 
+### **Wikipedia**
+
+- [xTools](https://xtools.wmflabs.org/) - *Added 4/8/2022.*
+
 ### **YouTube**
 
 - [IntelX YouTube Search](https://intelx.io/tools?tab=youtube) - *Added 25/4/2022.*
@@ -177,6 +187,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [Smappen](https://www.smappen.com/) - *Added 7/8/2022.*
+- [WhatIsWhere](https://www.whatiswhere.com/) - *Added 4/8/2022.*
 - [OpenAerialMap](https://map.openaerialmap.org) - *Added 10/7/2022.* 
 - [HoodMaps](https://hoodmaps.com/) - *Added 25/4/2022.*
 - [Spectator.earth](https://spectator.earth/) - *Added 25/4/2022.*
@@ -246,6 +258,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Outdoor Activity Maps**
 
+- [Worldwide Skatepark Map](https://www.google.com/maps/d/u/0/viewer?mid=1d3FyUTTwmUrTDoBpY0111r6OYAB145Fx&ll=0%2C0&z=2) - *Added 4/8/2022.*
 - [Rally Maps](https://rally-maps.com/map) - *Added 10/7/2022.*
 - [Meddin Bike-sharing World Map](https://bikesharingworldmap.com) - *Added 10/7/2022.*
 
@@ -262,6 +275,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Mapping Resources**
 
+- [3D Sun Path](http://andrewmarsh.com/apps/staging/sunpath3d.html) - *Added 4/8/2022.*
 - [WikiShootMe](https://wikishootme.toolforge.org) - *Added 10/7/2022.*
 - [The Painted Planet](https://hicsuntleones.nl/paintedplanet/) - *Added 10/7/2022.*
 - [Global Biodiversity Information Facility Map](https://www.gbif.org/occurrence/map) - *Added 15/6/2022.*
@@ -291,8 +305,13 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Numiis Coin Identifier](https://www.numiis.com/coin-checker/) - *Added 25/1/2022.*
 - [Coins Catalog Identifier](https://coinscatalog.net/identify) - *Added 25/1/2022.*
 
+### **Image Generation**
+
+- [Craiyon](https://www.craiyon.com/) - *Added 4/8/2022.*
+
 ### **Image Enhancement**
 
+- [ReminiAI](https://app.remini.ai/) - *Added 4/8/2022.*
 - [ImageUpscaler](https://imageupscaler.com/) - *Added 23/3/2022.*
 
 ### **Image Editing and Manipulation**
@@ -331,6 +350,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Europe**
 
+- [UK Company House](https://find-and-update.company-information.service.gov.uk/) - *Added 4/8/2022.*
 - [Armanian Electronic Register](https://www.e-register.am/ru/search) - *Added 25/4/2022.*
 - [Norway Company Search](https://www.proff.no/) - *Added 26/3/2022.*
 - [Sweden Company Search](https://www.proff.se/) - *Added 26/3/2022.*
@@ -353,12 +373,17 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [IntelX Bitcoin Search](https://intelx.io/tools?tab=bitcoin) - *Added 25/4/2022.*
 
+### **Investments and Stocks**
+
+- [OpenBB](https://openbb.co/) - *Added 4/8/2022.*
+
 ## **<u>Vehicle and Transportation Intelligence [VATINT]</u>**
 
 ### **Road Vehicles**
 
 #### **Vehicle Identification Numbers [VIN]**
 
+- [UK VIN Info](https://uk.vin-info.com/) - *Added 4/8/2022.*
 - [IntelX VIN Search](https://intelx.io/tools?tab=vin) *Added 25/4/2022.*
 - [FaxVIN](https://www.faxvin.com/) - *Added 2/1/2022.*
 
@@ -376,6 +401,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Aircraft Tracking**
 
+- [Icarus.Flights](https://icarus.flights/) - *Added 4/8/2022.*
 - [Military Aircraft Tracker](https://ads-b.nl/) - *Added 22/03/2022.*
 
 #### **Aircraft information**
@@ -404,6 +430,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Internet Protocol Addresses [IP]**
 
+- [IPinfo](https://ipinfo.io/) - *Added 4/8/2022.*
 - [CriminalIP](https://www.criminalip.io/) - *Added 15/6/2022.*
 - [IntelX IP Address Search](https://intelx.io/tools?tab=ip) - *Added 25/4/2022.*
 
@@ -416,6 +443,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Enumeration**
 
+- [Sitemap Generator](https://www.internetmarketingninjas.com/tools/google-sitemap-generator/) - *Added 4/8/2022.*
 - [StylifyMe](https://stylifyme.com) - *Added 26/3/2022.*
 - [AdsByDomain](https://adsbydomain.fouanalytics.com/) - *Added 4/3/2022.*
 - [Well-Known.dev](https://well-known.dev/) - *Added 21/2/2022.*
@@ -423,6 +451,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Web Page Monitoring**
 
+- [Defacer.ID](https://defacer.id/) - *Added 4/8/2022.*
 - [GemiusAudience](https://rating.gemius.com/) - *Added 26/3/2022.*
 
 ### **Uniform Resource Locators [URL] Redirects and Backlinks**
@@ -437,6 +466,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **CCTV and Webcams**
 
+- [OpenTrafficCamMap](https://otc.armchairresearch.org/map) - *Added 4/8/2022.*
 - [Ukraine Live Cams](https://nagix.github.io/ukraine-livecams/#5.5/47.774/31.685/0/45) - *Added 8/4/2022.*
 - [Deckchair](https://www.deckchair.com/) - *Added 25/1/2022.*
 - [Surveillance Under Surveillance](https://sunders.uber.space/) - *Added 25/1/2022.*
@@ -470,6 +500,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Radio Frequencies**
 
+- [GPSJam](https://gpsjam.org/) - *Added 4/8/2022.*
 - [Sondehub](http://sondehub.org/) - *Added 10/7/2022.*
 - [Priyom](https://priyom.org/) - *Added 15/6/2022.*
 - [Shortwave Radio Receiver Map](http://rx.linkfanel.net) - *Added 25/4/2022.*
@@ -517,12 +548,15 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Email Tools**
 
+- [PeepMail](https://samy.pl/peepmail/elift.cgi) - *Added 4/8/2022.*
 - [IntelX Email Search](https://intelx.io/tools?tab=email) - *Added 25/4/2022.*
 - [Have I Been Sold?](https://haveibeensold.app/) - *Added 21/2/2022.*
 - [Phonebook.cz](https://phonebook.cz/) - *Added 9/2/2022.*
+- [WhoWorksThere](https://www.whoworksthere.com/) - *Added 26/7/2022.*
 
 ### **Data Breach Search**
 
+- [HackCheck](https://hackcheck.io/) - *Added 4/8/2022.*
 - [BreachChecker](https://breachchecker.com/) - *Added 25/4/2022.*
 - [Breached.co](https://breached.co/index.php) - *Added 22/03/2022.*
 
@@ -567,6 +601,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Government Data Sets**
 
+- [U.S. Traffic Cameras and Reports](https://www.publicrecords.onlinesearches.com/Traffic-Cameras-and-Reports.htm) - *Added 4/8/2022.*
 - [BlackBookOnline](https://www.blackbookonline.info/index.html) - *Added 3/4/2022.*
 - [US Library of Congress](https://www.loc.gov/) - *Added 30/1/2022.*
 - [Netronline Public Records](https://publicrecords.netronline.com/) - *Added 25/1/2022.*
@@ -585,10 +620,17 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Drugs and Drug Trade**
 
+- [DEA Drug Fact Sheets](https://www.dea.gov/factsheets) - *Added 4/8/2022.*
+- [Erowid](https://www.erowid.org/) - *Added 4/8/2022.*
+- [DTome Drug Search](https://bioinfo.uth.edu/DTome/search.html) - *Added 4/8/2022.*
+- [National Drug Code Search](https://www.findacode.com/ndc/search.php) - *Added 4/8/2022.*
+- [RxPrice](https://rxprice.newbenefits.com/) - *Added 4/8/2022.*
+- [DrugInformer](https://druginformer.com/search/) - *Added 4/8/2022.*
 - [Global Drug Interdictions Map](https://drugs.globalincidentmap.com/) - *Added 9/2/2022.*
 
 ### **Fraud and Scams**
 
+- [Scamdex](https://www.scamdex.com/) - *Added 4/8/2022.*
 - [Male-Scammers](https://www.male-scammers.com/) - *Added 21/2/2022.*
 - [Scammers.ru](https://scammers.ru/) - *Added 21/2/2022.*
 - [ScamsOnline](https://scamsonline.org/) - *Added 21/2/2022.*
@@ -667,6 +709,7 @@ All dates are listed in *DD/MM/YYYY* format.
 - [LexiLogos](https://www.lexilogos.com/keyboard/index.htm) - *Added 25/1/2022.*
 - [Google Document Translation](https://translate.google.com/?op=docs) - *Added 25/1/2022.*
 - [Lingva](https://lingva.ml/) - *Added 2/1/2022.*
+- [GrammarChecker](https://grammarchecker.net/) - *Added 26/7/2022.*
 
 ### **General Dictionaries**
 
@@ -677,6 +720,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## **<u>Miscellaneous</u>**
 
+- [Bravenewtech](https://www.bravenewtech.org/) - *Added 4/8/2022.*
 - [HistoryPin](https://historypin.org) - *Added 26/3/2022.*
 - [QR Date](https://qrdate.org/) - *Added 26/3/2022.*
 - [Forebears](https://forebears.io/) - *Added 21/2/2022.*
