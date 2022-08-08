@@ -93,6 +93,8 @@
   Ranks jurisdictions according to their secrecy and the scale of their offshore financial activities. A politically neutral ranking, it is a tool for understanding global financial secrecy, tax havens or secrecy jurisdictions, and illicit financial flows or capital flight.
 - [Enigma](https://enigma.com/)  
   Offers tools for small businesses operating in the United States such as real-time revenue insights, risk assessments, merchant transactions, marketing tools and a small business directory. Requires a paid subscription.
+- [OpenBB](https://openbb.co/)  
+  An open source company building a modern investment research terminal.
 
 ## **<u>Banking</u>**
 
