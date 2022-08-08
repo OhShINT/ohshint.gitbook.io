@@ -78,6 +78,8 @@
   A RaidForums alternative ran by the prolific pompompurin.
 - [BreachChecker](https://breachchecker.com/)  
   Enter an email address and see what data breaches it has been included in. Does not provide any leaked data, only a list of breaches similar to HIBP.
+- [HackCheck](https://hackcheck.io/)  
+  Another good site to search through data breaches. Requires a paid subscription.
 
 ## **Pretty Good Privacy [PGP]**
 
