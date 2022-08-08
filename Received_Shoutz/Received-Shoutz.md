@@ -28,6 +28,9 @@ Thank you all! <3
 - [Interview With Private Investigator, OSINT Specialist, OPSEC Wizard, Surveillance & TSCM Guru, OhShint! - thesecuritynoob.com](https://thesecuritynoob.com/interviews/interview-with-private-investigator-osint-specialist-opsec-wizard-surveillance-tscm-guru-ohshint/). 
   - ([Wayback](https://web.archive.org/web/20220319050135/https://thesecuritynoob.com/interviews/interview-with-private-investigator-osint-specialist-opsec-wizard-surveillance-tscm-guru-ohshint/)), ([archive.today](https://archive.ph/2TOgk)).
 
+- [An Interview with a Private Investigator and OSINT Master - medium.com/@xnomas](https://medium.com/@xnomas/an-interview-with-a-private-investigator-and-osint-master-6f882a221714).  
+  - ([Wayback](https://web.archive.org/web/20220805083121/https://medium.com/@xnomas/an-interview-with-a-private-investigator-and-osint-master-6f882a221714)), ([archive.today](https://archive.ph/CKPgP)).
+
 
 
 ## **Podcasts**
@@ -78,6 +81,9 @@ Thank you all! <3
 
 - [OSINT for Procurement and Supply Chain: No Hype, Just Promise - cottrillresearch.com](https://cottrillresearch.com/osint-for-procurement-and-supply-chain-no-hype-just-promise/).  
   - ([Wayback](https://web.archive.org/web/20220619075707/https://cottrillresearch.com/osint-for-procurement-and-supply-chain-no-hype-just-promise/)), ([archive.today](https://archive.ph/QA69I)).
+
+- [Trace Labs DC CTF Details - tracelabs.org](https://www.tracelabs.org/blog/dc-ctf).  
+  - ([Wayback](https://web.archive.org/web/20220730073407/https://www.tracelabs.org/blog/dc-ctf)), ([archive.today](https://archive.ph/T4jxP)).
 
   
 
@@ -136,6 +142,12 @@ Thank you all! <3
 
 - [OSINT4All - start.me](https://start.me/p/L1rEYQ/osint4all).
   - ([Wayback](https://web.archive.org/web/20220707063833/https://start.me/p/L1rEYQ/osint4all)), ([archive.today](https://archive.ph/KTs7a)).
+
+- [Officer_CIA X MaxWayld: Content Overview - officercia.medium.com](https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f). 
+  - ([Wayback](https://web.archive.org/web/20220804032339/https://officercia.medium.com/officer-cia-x-maxwayld-content-overview-39fa3011a73f)), ([archive.today](https://archive.ph/ptk6a)).
+
+- [MetaOSINT - metaosint.github.io](https://metaosint.github.io/table).  
+   - ([Wayback](https://web.archive.org/web/20220801061621/https://metaosint.github.io/table)), ([archive.today](https://archive.ph/KcCRa)).
 
   
 
