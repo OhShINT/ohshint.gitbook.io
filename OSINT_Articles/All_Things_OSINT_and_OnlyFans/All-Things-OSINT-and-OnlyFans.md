@@ -139,7 +139,7 @@ site:reddit.com inurl:"u/<Any known usernames>" AND "onlyfans"
 ```
 
 Often times you will encounter a Reddit post of interest that has been previously deleted, and you see the dreaded `u/[deleted]` on the post. This is very annoying at times I know, but Reddit posts (Especially NSFW posts) are very commonly archived on both the [Wayback Machine](https://web.archive.org) and [archive.today](https://archive.is). So be sure to check those as you might get a hit! 
-Reddit posts are also archived using the [Pushshift API](https://github.com/pushshift/api), although images are not usually saved. Only the original URLs to the images are provided. All text, usernames and comments are all saved, even if they have been recently deleted, you can still view them. One of the best tools for searching for deleted Reddit posts is this [Reddit Search](https://camas.github.io/reddit-search/) tool. So be sure to check there as well.
+Reddit posts are also archived using the [Pushshift API](https://github.com/pushshift/api), although images are not usually saved. Only the original URLs to the images are provided. All text, usernames and comments are all saved, even if they have been recently deleted, you can still view them. One of the best tools for searching for deleted Reddit posts is this [Reddit Search](https://camas.unddit.com/) tool. So be sure to check there as well.
 
 Content creators are also able to restrict access to their accounts by geo-blocking certain locations. 
 For example, if you are using an IP address located in Canada and are attempting to view an OF profile that has blocked access from Canadian IPs. You will get an error when loading the page as shown in the screenshot below. 
