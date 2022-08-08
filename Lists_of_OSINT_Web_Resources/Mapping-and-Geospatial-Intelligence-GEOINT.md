@@ -123,6 +123,8 @@
   Select an area on the map and get a list of freely available aerial images for that area.
 - [WhatIsWhere](https://www.whatiswhere.com/)  
   A more user friendly way of querying the OpenStreetMap database. It helps you to build queries in a similar way to Overpass Turbo, but without the complex query language and syntax.
+- [Smappen](https://www.smappen.com/)  
+  An interactive map that you can use to create areas based on travel times. Useful for narrowing down places where a target would go for their lunch break for example.
 
 ## **Street View Maps**
 
