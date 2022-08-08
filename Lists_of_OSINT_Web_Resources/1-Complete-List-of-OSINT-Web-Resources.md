@@ -1830,6 +1830,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Select an area on the map and get a list of freely available aerial images for that area.
 - [WhatIsWhere](https://www.whatiswhere.com/)  
   A more user friendly way of querying the OpenStreetMap database. It helps you to build queries in a similar way to Overpass Turbo, but without the complex query language and syntax.
+- [Smappen](https://www.smappen.com/)  
+  An interactive map that you can use to create areas based on travel times. Useful for narrowing down places where a target would go for their lunch break for example.
 
 ## **Street View Maps**
 
@@ -3924,6 +3926,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A RaidForums alternative ran by the prolific pompompurin.
 - [BreachChecker](https://breachchecker.com/)  
   Enter an email address and see what data breaches it has been included in. Does not provide any leaked data, only a list of breaches similar to HIBP.
+- [HackCheck](https://hackcheck.io/)  
+  Another good site to search through data breaches. Requires a paid subscription.
 
 ## **Pretty Good Privacy [PGP]**
 
