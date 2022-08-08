@@ -90,6 +90,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Includes information about drugs, including biological products, approved for human use in the United States.
 - [DEA Drug Images](https://www.dea.gov/media-gallery/drug-images)  
   A database with images of many different types of illicit drugs. Created and maintained by the United States DEA.
+- [DEA Drug Fact Sheets](https://www.dea.gov/factsheets)  
+  A collection of fact sheets for various different drugs provided by the U.S. Drug Enforcement Agency (DEA). All fact sheets are also available as PDFs.
 - [[PDF] 2020 National Drug Threat Assessment](https://www.dea.gov/sites/default/files/2021-02/DIR-008-21%202020%20National%20Drug%20Threat%20Assessment_WEB.pdf)  
   Lots and lots of good information in here including some pretty interesting images. Has information about transnational traffickers in the Americas and Asia, trafficking methods, and illicit finance. Archived copies available [here (Wayback)](https://web.archive.org/web/20210918005345/https://www.dea.gov/sites/default/files/2021-02/DIR-008-21%202020%20National%20Drug%20Threat%20Assessment_WEB.pdf) and [here (Library Genesis)](https://libgen.rs/book/index.php?md5=99DEB4338B7B542BC4EC6CEE9F61515F).
 - [Global Drug Interdictions Map](https://drugs.globalincidentmap.com/)  
@@ -102,6 +104,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Search for drugs and this database will provide you with detailed information about almost any drug out there. 
 - [DTome Drug Search](https://bioinfo.uth.edu/DTome/search.html)  
   Search for information about various drugs and research chemicals (RCs).
+- [Erowid](https://www.erowid.org/)  
+  A non-profit organization that provides information about psychoactive plants and chemicals. Erowid documents legal and illegal substances, including their intended and adverse effects.
 
 ## **Wildlife Crime**
 
