@@ -910,3 +910,44 @@ Uncovering a targets older and/or alternate usernames can provide additional lea
 - [https://steamid.uk](https://steamid.uk/) 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+
+
+## OSINT Protip 40
+
+> Posted on *29/7/2022* at *6:43 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1553194512666636288](https://twitter.com/ohshint_/status/1553194512666636288)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 40: 
+
+Reverse image searching can uncover unexpected results. From locating original works, identifying objects, and locating POIs. 
+
+- [https://pimeyes.com/en](https://pimeyes.com/en) 
+- [https://search4faces.com](https://search4faces.com/) 
+- [https://karmadecay.com](https://karmadecay.com/) 
+- [https://depositphotos.com/search/by-images.html](https://depositphotos.com/search/by-images.html) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#IMINT](https://twitter.com/hashtag/IMINT?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/PimEyes-Free-Censored-Search-Results-Example.jpg"/>
+
+
+
+## OSINT Protip 41
+
+> Posted on *4/8/2022* at *7:46 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1555384789519151104](https://twitter.com/ohshint_/status/1555384789519151104)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 41:  
+
+Whether you are a drug user or investigator (or both). Being able to identify [#drugs](https://twitter.com/hashtag/drugs?src=hashtag_click) and research chemicals is essential for both harm-reduction and investigations. 
+
+- [https://erowid.org](https://www.erowid.org/) 
+- [https://rxlist.com/pill-identification-tool/article.htm](https://www.rxlist.com/pill-identification-tool/article.htm)
+- [https://dea.gov/factsheets](https://www.dea.gov/factsheets) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Farfalla-Vendetta-Artwork-by-%40HexpaoN.jpg"/>
