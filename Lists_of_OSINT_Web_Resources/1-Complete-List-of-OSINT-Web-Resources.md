@@ -1282,7 +1282,7 @@ A Google CSE that searches for scientific publications.
 ## **Kik Messenger**
 
 - [Kik User Information](https://ws2.kik.com/user/<username_goes_here>)  
-  Enter a Kik username and get information for that account in JSON format. Includes full name, profile picture, and a UNIX formatted timestamp of when the profile picture was last changed. Example: `https://ws2.kik.com/user/<username_goes_here`.
+  Enter a Kik username and get information for that account in JSON format. Includes full name, profile picture, and a UNIX formatted timestamp of when the profile picture was last changed. Example: `https://ws2.kik.com/user/<username_goes_here>`.
 - [KikMe Username Search](http://kik.me/<username_goes_here>)  
   Check if a username exists simply by entering in a username in the URL. Displays full name, username and profile picture. Example: `http://kik.me/<username_goes_here>`.
 - [KikUsernames](https://kikusernames.com/search)  
