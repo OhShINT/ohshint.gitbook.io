@@ -4653,6 +4653,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A large database and search tool for locating U.S. public records. Find everything from parking tickets to property records.
 - [U.S. Traffic Cameras and Reports](https://www.publicrecords.onlinesearches.com/Traffic-Cameras-and-Reports.htm)  
   Covers state, county and city traffic cameras as well as accessing and filing traffic accident reports. Many state, county and city police departments provide forms online for filing accident reports and some even provide online searchable accident databases.
+- [MuckRock](https://www.muckrock.com/)  
+  Assists thousands of users to file, track, and share public and FOIA record requests at the state, local, and federal levels within the United States, as well as producing original reporting on government transparency.
 
 ## **Leaked Data Sets**
 
