@@ -10,6 +10,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Search**
 
+- [ResearchBuzz Search Gizmos](https://researchbuzz.github.io/) - *Added 14/7/2022.*
 - [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html) - *Added 30/3/2022.*
 - [DorkSearch](https://dorksearch.com/) - *Added 4/3/2022.*
 - [Ecosia](https://www.ecosia.org/) - *Added 24/2/2022.*
@@ -89,6 +90,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Facebook**
 
+- [Lookup-ID](https://lookup-id.com/) - *Added 14/7/2022.*
 - [Facebook Search CSE](https://cse.google.com/cse?cx=95ae46262a5f2958e) - *Added 15/6/2022.*
 - [IntelX Facebook Search](https://intelx.io/tools?tab=facebook) *Added 25/4/2022.*
 - [Facebook Image Search](https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0) - *Added 26/3/2022.*
@@ -119,6 +121,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Reddit**
 
+- [LaterForReddit](https://dashboard.laterforreddit.com/analysis) - *Added 14/7/2022.*
 - [Reddit about.json](https://www.reddit.com/user/USERNAME-HERE/about.json) - *Added 4/8/2022.*
 - [Better Reddit Search](https://betterredditsearch.web.app) - *Added 10/7/2022.*
 - [Redditle](https://redditle.com/) - *Added 25/4/2022.*
@@ -157,6 +160,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Twitter**
 
+- [TweeterID](https://tweeterid.com/) - *Added 14/7/2022.*
 - [OSoMe Network Tool](https://osome.iu.edu/tools/networks) - *Added 4/8/2022.*
 - [Orbit](https://orbit.livasch.com/) - *Added 4/8/2022.*
 - [Shadowban Test](https://shadowban.yuzurisa.com/) - *Added 4/8/2022.*
@@ -187,6 +191,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [GeoVisual Search](https://search.descarteslabs.com/) - *Added 14/7/2022.*
 - [Smappen](https://www.smappen.com/) - *Added 7/8/2022.*
 - [WhatIsWhere](https://www.whatiswhere.com/) - *Added 4/8/2022.*
 - [OpenAerialMap](https://map.openaerialmap.org) - *Added 10/7/2022.* 
@@ -275,6 +280,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Mapping Resources**
 
+- [ScratchMap](https://scratch-map-delta.vercel.app/) - *Added 14/7/2022.*
+- [MapChart](https://www.mapchart.net/) - *Added 14/7/2022.*
 - [3D Sun Path](http://andrewmarsh.com/apps/staging/sunpath3d.html) - *Added 4/8/2022.*
 - [WikiShootMe](https://wikishootme.toolforge.org) - *Added 10/7/2022.*
 - [The Painted Planet](https://hicsuntleones.nl/paintedplanet/) - *Added 10/7/2022.*
@@ -291,12 +298,14 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Image Search**
 
+- [MXFace](https://mxface.ai/face-comparing) - *Added 14/7/2022.*
 - [LogoBook](http://www.logobook.com/) - *Added 10/7/2022.*
 - [PicSearch](https://www.picsearch.com/) - *Added 25/1/2022.*
 - [IconFinder](https://www.iconfinder.com/search) - *Added 2/1/2022.*
 
 ### **Reverse Image Search**
 
+- [CamGirlFinder](https://camgirlfinder.net/search) - *Added 14/7/2022.*
 - [IntelX Image Search](https://intelx.io/tools?tab=image) - *Added 25/4/2022.*
 - [RootAbout](https://rootabout.com/) - *Added 25/4/2022.*
 - [RepostSleuth](https://repostsleuth.com/) - *Added 8/4/2022.*
@@ -417,7 +426,13 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Vessel Tracking**
 
+- [MyShipTracking](https://www.myshiptracking.com/) - *Added 14/7/2022.*
 - [Military Ship Tracker](https://www.marinevesseltraffic.com/2013/02/military-ship-track.html) - *Added 22/03/2022.*
+
+#### **Vessel and Crew Information**
+
+- [RigZone Equipment Market](https://www.rigzone.com/market/search.aspx) - *Added 14/7/2022.*
+- [Inmarsat Ships Directory](https://www.inmarsat.com/en/support-and-info/support/ships-directory.html) - *Added 14/7/2022.*
 
 ### **Railways**
 
@@ -443,6 +458,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Enumeration**
 
+- [Blacklight](https://themarkup.org/blacklight) - *Added 14/7/2022.*
 - [Sitemap Generator](https://www.internetmarketingninjas.com/tools/google-sitemap-generator/) - *Added 4/8/2022.*
 - [StylifyMe](https://stylifyme.com) - *Added 26/3/2022.*
 - [AdsByDomain](https://adsbydomain.fouanalytics.com/) - *Added 4/3/2022.*
@@ -601,6 +617,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Government Data Sets**
 
+- [MuckRock](https://www.muckrock.com/) - *Added 14/7/2022.*
 - [U.S. Traffic Cameras and Reports](https://www.publicrecords.onlinesearches.com/Traffic-Cameras-and-Reports.htm) - *Added 4/8/2022.*
 - [BlackBookOnline](https://www.blackbookonline.info/index.html) - *Added 3/4/2022.*
 - [US Library of Congress](https://www.loc.gov/) - *Added 30/1/2022.*
