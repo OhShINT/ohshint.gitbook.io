@@ -341,6 +341,8 @@ Remember, CTRL+F is your friend here.
   A tool that gives you a list of prebuilt templates for Google Dorks for different use cases.
 - [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html)  
   Super useful resource for building search operators and searching DuckDuckGo.
+- [ResearchBuzz Search Gizmos](https://researchbuzz.github.io/)  
+  An amazing collection of search tools and query builders. Some tools require API keys. Created by [@ResearchBuzz](https://twitter.com/ResearchBuzz).
 
 ## **Country Specific Search Engines and Directories**
 
@@ -1212,6 +1214,8 @@ A Google CSE that searches for scientific publications.
   A great Facebook search engine offered by IntelX.
 - [Facebook Search CSE](https://cse.google.com/cse?cx=95ae46262a5f2958e)  
   A Google CSE for Facebook. Made by [OSINT Me](https://www.osintme.com/).
+- [Lookup-ID](https://lookup-id.com/)  
+  A simple tool to get a Facebook ID of a user, group or page. Also provides a few other useful tools.
 
 ## **Flickr**
 
@@ -1394,6 +1398,8 @@ A Google CSE that searches for scientific publications.
   Reddit search tool for posts and subreddits that has boolean filters via keywords and publication date.
 - [Reddit about.json](https://www.reddit.com/user/USERNAME-HERE/about.json)  
   Use the official Reddit service to view more details about a user. Example: `https://www.reddit.com/user/USERNAME-HERE/about.json`.
+- [LaterForReddit](https://dashboard.laterforreddit.com/analysis)  
+  Use this tool to examine popular post trends for a given subreddit. It'll examine the top 1,000 posts in that subreddit in the past month/year, and tell you when they were posted.
 
 ## **SnapChat**
 
@@ -1416,7 +1422,7 @@ A Google CSE that searches for scientific publications.
 
 - [Epieos Skype Lookup](https://tools.epieos.com/skype.php)  
   Find Skype users via email address, phone number or username.
-- [Skypli](https://www.skypli.com/)  
+- [~~Skypli~~](https://www.skypli.com/)  
   Appears to be broken. Gives 500 errors upon searching as of 15/11/2021. Keeping this link here in case it starts working again.
 - [Email2Skype](https://www.vedbex.com/tools/email2skype)  
   A simple tool that retrieves a Skype account details such as profile picture, username, real name and location from an email address. Looks like a typical skid site, but it actually does work. This site also offers a bunch of other useful tools as well.
@@ -1607,6 +1613,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Enter a username and view who is in their "orbit". Useful tool for finding a POIs friends.
 - [OSoMe Network Tool](https://osome.iu.edu/tools/networks)  
   Explore how information spreads across Twitter with an interactive network using the OSoMe decahose archive.
+- [TweeterID](https://tweeterid.com/)  
+  Type in any Twitter ID or @handle, and it will be converted into the respective ID or username.
 
 
 ## **Untappd**
