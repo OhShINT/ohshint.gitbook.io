@@ -118,6 +118,8 @@
   A great tool for analyzing the style characteristics of a particular website.
 - [Sitemap Generator](https://www.internetmarketingninjas.com/tools/google-sitemap-generator/)  
   Simply enter a URL and this free tool will crawl the target site and provide a list of all URLs.
+- [Blacklight](https://themarkup.org/blacklight)  
+  This free online tool checks web pages for any privacy invading scripts, apps, session trackers, ads, and so on.
   
 ### **Web Page Monitoring**
 
