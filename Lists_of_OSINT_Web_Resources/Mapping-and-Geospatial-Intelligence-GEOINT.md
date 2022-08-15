@@ -125,6 +125,8 @@
   A more user friendly way of querying the OpenStreetMap database. It helps you to build queries in a similar way to Overpass Turbo, but without the complex query language and syntax.
 - [Smappen](https://www.smappen.com/)  
   An interactive map that you can use to create areas based on travel times. Useful for narrowing down places where a target would go for their lunch break for example.
+- [GeoVisual Search](https://search.descarteslabs.com/)  
+  Descartes Labs process public and commercial satellite imagery to detect visual similarities between scenes, and apply machine learning to recognize different types of objects across the globe.
 
 ## **Street View Maps**
 
@@ -585,3 +587,7 @@
   Worldwide map of geotagged Wikipedia Creative Commons Images. To display more information, log in with your Media Wiki account.
 - [3D Sun Path](http://andrewmarsh.com/apps/staging/sunpath3d.html)  
   Allows you to visualize the sun’s position, azimuth and shadow length. Useful for chronolocation.
+- [ScratchMap](https://scratch-map-delta.vercel.app/)  
+  Create a map based on Google location data. Useful if you have location data on a POI.
+- [MapChart](https://www.mapchart.net/)  
+  Create your own custom maps and fill in specific areas. Useful for keeping track of GEOINT investigations.
