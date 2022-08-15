@@ -93,7 +93,9 @@
 - [Fleet Tracker News](https://news.usni.org/category/fleet-tracker)  
   This is a great site that shows you positions of U.S. Navy carriers around the world.
 - [Military Ship Tracker](https://www.marinevesseltraffic.com/2013/02/military-ship-track.html)  
-  An interactive map that shows the location and direction of warships in real time.
+  An interactive map that shows the location and direction of warships in real-time.
+- [MyShipTracking](https://www.myshiptracking.com/)  
+  A free AIS vessel tracking service. Monitor positions, traffic and port activity in real-time.
 
 ### **Vessel and Crew Information**
 
@@ -127,6 +129,10 @@
   A searchable database that contains information on over 8400 production and semi-production sailboats dating back to 1900.
 - [[PDF] Anatomy of a Ship](https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/archive/education/pdfs/shipparts.pdf)  
   A document that details the different parts of a vessel. Archived copies can be found [here (Wayback)](https://web.archive.org/web/20210903061140/https://nmssanctuaries.blob.core.windows.net/sanctuaries-prod/media/archive/education/pdfs/shipparts.pdf) and [here (archive.today)](https://archive.ph/AZksT).
+- [RigZone Equipment Market](https://www.rigzone.com/market/search.aspx)  
+  A marketplace where sellers can either sell of rent out oil feild equipment. This includes vessels, and ads often include ownership data and contact information.
+- [Inmarsat Ships Directory](https://www.inmarsat.com/en/support-and-info/support/ships-directory.html)  
+  Find contact numbers for vessels fitted with Inmarsat. Type at least three characters of the ship's name.
 
 ### **Container Tracking and Information**
 
