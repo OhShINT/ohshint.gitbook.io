@@ -318,7 +318,7 @@
 
 - [Epieos Skype Lookup](https://tools.epieos.com/skype.php)  
   Find Skype users via email address, phone number or username.
-- ~~[Skypli](https://www.skypli.com/)  ~~
+- [~~Skypli~~](https://www.skypli.com/)  
   Appears to be broken. Gives 500 errors upon searching as of 15/11/2021. Keeping this link here in case it starts working again.
 - [Email2Skype](https://www.vedbex.com/tools/email2skype)  
   A simple tool that retrieves a Skype account details such as profile picture, username, real name and location from an email address. Looks like a typical skid site, but it actually does work. This site also offers a bunch of other useful tools as well.
