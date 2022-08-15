@@ -12,6 +12,8 @@
   Search for images online via keyword.
 - [LogoBook](http://www.logobook.com/)  
   See which companies have a logo that looks like a certain object. You can use the suggested variants to geolocate a photo.
+- [MXFace](https://mxface.ai/face-comparing)  
+  A great tool for comparing two faces to confirm identities. You can have up to 250 free searches per day.
 
 ## **<u>Reverse Image Search</u>**
 
@@ -89,6 +91,8 @@
   A great image search tool offered by IntelX. This tool allows you to perform a reverse search and analysis of an image. You must supply the URL of the uploaded image.
 - [RootAbout](https://rootabout.com/)  
   Upload an image and search it on the Internet Archive, OpenLibrary, Google and TinEye.
+- [CamGirlFinder](https://camgirlfinder.net/search)  
+  Search via image to find adult cam performers from 10 of the most popular adult cam sites. Results are NSFW, of course.
 
 ## **<u>Image Generation</u>**
 
