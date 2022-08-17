@@ -1400,6 +1400,8 @@ A Google CSE that searches for scientific publications.
   Use the official Reddit service to view more details about a user. Example: `https://www.reddit.com/user/USERNAME-HERE/about.json`.
 - [LaterForReddit](https://dashboard.laterforreddit.com/analysis)  
   Use this tool to examine popular post trends for a given subreddit. It'll examine the top 1,000 posts in that subreddit in the past month/year, and tell you when they were posted.
+- [RedditDownloader](https://redditdownloader.github.io/)  
+  Enter a username or subreddit and this tool will automatically download all images, videos and GIFs.
 
 ## **SnapChat**
 
@@ -1842,6 +1844,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   An interactive map that you can use to create areas based on travel times. Useful for narrowing down places where a target would go for their lunch break for example.
 - [GeoVisual Search](https://search.descarteslabs.com/)  
   Descartes Labs process public and commercial satellite imagery to detect visual similarities between scenes, and apply machine learning to recognize different types of objects across the globe.
+- [GaiaGPS](https://www.gaiagps.com/map/)  
+  Access topographic maps, satellite imagery, hiking trails and more online or via their mobile application.
+- [SarTopo](https://sartopo.com/map.html)  
+  A mapping service often used by first responders. Offers many mapping layers like topographic, OSM, structures, weather, slope angles, geology, fire history and more.
 
 ## **Street View Maps**
 
