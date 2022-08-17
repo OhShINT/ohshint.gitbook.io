@@ -296,6 +296,8 @@
   Use the official Reddit service to view more details about a user. Example: `https://www.reddit.com/user/USERNAME-HERE/about.json`.
 - [LaterForReddit](https://dashboard.laterforreddit.com/analysis)  
   Use this tool to examine popular post trends for a given subreddit. It'll examine the top 1,000 posts in that subreddit in the past month/year, and tell you when they were posted.
+- [RedditDownloader](https://redditdownloader.github.io/)  
+  Enter a username or subreddit and this tool will automatically download all images, videos and GIFs.
 
 ## <u>**SnapChat**</u>
 
