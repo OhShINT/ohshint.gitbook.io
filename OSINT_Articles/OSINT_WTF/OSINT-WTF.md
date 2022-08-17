@@ -70,6 +70,7 @@ Here is a list and brief descriptions of the common acronyms that you will likel
 | **OPSEC**   | **Op**eration **Sec**urity                                  |
 | **TSCM**    | **T**echnical **S**urveillance **C**ounter-**M**easures     |
 | **CI**      | **C**ounter-**I**ntelligence/**C**onfidential **I**nformant |
+| **POI**     | **P**erson **o**f **I**nterest                              |
 
 That is most of them. Read some more here.
 
