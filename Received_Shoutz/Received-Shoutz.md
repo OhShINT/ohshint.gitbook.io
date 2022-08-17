@@ -148,6 +148,9 @@ Thank you all! <3
 
 - [MetaOSINT - metaosint.github.io](https://metaosint.github.io/table).  
    - ([Wayback](https://web.archive.org/web/20220801061621/https://metaosint.github.io/table)), ([archive.today](https://archive.ph/KcCRa)).
+  
+- [OSINT Resources for Contestants - searchparty.tracelabs.org](https://searchparty.tracelabs.org/resources).
+   - ([Wayback](https://web.archive.org/web/20220816081132/https://searchparty.tracelabs.org/resources)), ([archive.today](https://archive.ph/xdonk)).
 
   
 
