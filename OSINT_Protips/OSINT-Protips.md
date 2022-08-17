@@ -951,3 +951,24 @@ Whether you are a drug user or investigator (or both). Being able to identify [#
 
 Attached image:
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Farfalla-Vendetta-Artwork-by-%40HexpaoN.jpg"/>
+
+
+
+## OSINT Protip 42
+
+> Posted on *12/8/2022* at *12:42 AM*.  
+> URL: [https://twitter.com/ohshint_/status/1557995941008773120](https://twitter.com/ohshint_/status/1557995941008773120)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 42: 
+
+Finding [#YouTube](https://twitter.com/hashtag/YouTube?src=hashtag_click) videos by location, finding comments, viewing metadata, and locating removed content can uncover essential information! 
+
+- [https://mattw.io/youtube-geofind/](https://mattw.io/youtube-geofind/)
+-  [https://hadzy.com](https://hadzy.com/) 
+- [https://citizenevidence.amnestyusa.org](https://citizenevidence.amnestyusa.org/)  
+- [https://altcensored.com](https://www.altcensored.com/l) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/YouTube-Metadata-Viewer-Example.jpg"/>
