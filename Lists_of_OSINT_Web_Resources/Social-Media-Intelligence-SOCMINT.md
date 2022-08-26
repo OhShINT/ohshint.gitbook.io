@@ -43,6 +43,8 @@
   A Google CSE from OSINT Combine that searches across alternative and "non-mainstream" social platforms and boards including Parler, Gab, Minds, BitChute, DLive.tv, Rumble, JustPaste.it, WrongThink.net & 8kun.
 - [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/)  
   An awesome collection of many different OSINT tools from IntelTechniques. Thanks Mr. Bazzell!
+- [PhantomBuster](https://phantombuster.com/)  
+  A cloud-based data extraction tool designed to scrape useful data from Twitter, Facebook, LinkedIn, Instagram, and more. Allows data export to CSV and JSON formats. Requires a paid subscription.
 
 ## <u>**Clubhouse**</u>
 
