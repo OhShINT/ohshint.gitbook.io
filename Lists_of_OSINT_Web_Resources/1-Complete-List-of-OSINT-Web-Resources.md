@@ -1245,7 +1245,7 @@ A Google CSE that searches for scientific publications.
 - [Gitvio](https://gitvio.vercel.app/)  
   View detailed information about a GitHub profile. Simply enter a username.
 - [ReposTimeline](https://repostimeline.nazifbara.com/)  
-  Enter a username and view a timeline of that users repositores and forks.
+  Enter a username and view a timeline of that users repositories and forks.
 
 ## **Gravatar**
 
@@ -2236,6 +2236,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A collection of free drone footage and videos from different locations.
 - [Map of Drone Laws](https://foxnomad.com/2017/07/25/map-shows-drone-laws-every-country-world-updated-regularly/)  
   An interactive map that displays laws for drones per country.
+- [ENAIRE Drones](https://drones.enaire.es/)  
+  An official website that offers help to pilots and operators of remotely controlled aircraft (RPAS) by providing the aeronautical information needed to plan safe operations.
 
 ## **Other Mapping Resources**
 
@@ -4932,6 +4934,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Find out whether numbered object is lost. A full identification number of an object is required. Indicate the whole number or a part of it searching for lost bicycles.
 - [Stolen Camera Finder](https://www.stolencamerafinder.com/)  
   Upload an image and locate other images online that were taken with the same camera.
+- [Stolen Drone Info](https://stolendrone.info/home)  
+  Search for or report stolen, lost or found drones by location or serial number.
 
 # <u>**War, Crisis and Conflicts**</u>
 
