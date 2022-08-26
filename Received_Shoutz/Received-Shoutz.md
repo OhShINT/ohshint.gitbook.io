@@ -85,6 +85,9 @@ Thank you all! <3
 - [Trace Labs DC CTF Details - tracelabs.org](https://www.tracelabs.org/blog/dc-ctf).  
   - ([Wayback](https://web.archive.org/web/20220730073407/https://www.tracelabs.org/blog/dc-ctf)), ([archive.today](https://archive.ph/T4jxP)).
 
+- [Drones & OSINT: What Flies Ahead - intel-inquier.medium.com](https://intel-inquirer.medium.com/drones-osint-what-flies-ahead-92a0a36c9353).  
+  - ([Wayback](https://web.archive.org/web/20220826000222/https://intel-inquirer.medium.com/drones-osint-what-flies-ahead-92a0a36c9353)), ([archove.today](https://archive.ph/84ukY)).
+
   
 
 ## **Resource Lists**
@@ -152,6 +155,12 @@ Thank you all! <3
 - [OSINT Resources for Contestants - searchparty.tracelabs.org](https://searchparty.tracelabs.org/resources).
    - ([Wayback](https://web.archive.org/web/20220816081132/https://searchparty.tracelabs.org/resources)), ([archive.today](https://archive.ph/xdonk)).
 
+- [Ottimo's Cheatsheets - ottimo.me](https://ottimo.me/projects/cheatsheets/#/).
+   - ([Wayback](https://web.archive.org/web/20220826040647/https://ottimo.me/projects/cheatsheets/)), ([archive.today](https://archive.ph/8IBB6)).
+
+- [Ethical Hacking Tookit - 0xcybery.github.io](https://0xcybery.github.io/ehtk/). 
+   - ([Wayback](https://web.archive.org/web/20220712134100/https://0xcybery.github.io/ehtk/)), ([archive.today](https://archive.ph/DoZOc)).
+
   
 
 ## **Documents**
@@ -180,6 +189,9 @@ Thank you all! <3
 
 - [OSINT / Cyberstalking General - lainchan.org/sec/](https://www.lainchan.org/sec/res/12162.html).  
   - ([Wayback](https://web.archive.org/web/20220404022733/https://www.lainchan.org/sec/res/12162.html)), ([archive.today](https://archive.ph/VlbbL)).
+
+- [Trace Labs OSINT VM - trafrlabs.org](https://www.tracelabs.org/initiatives/osint-vm). 
+  - ([Wayback](https://web.archive.org/web/20220823163521/https://www.tracelabs.org/initiatives/osint-vm)), ([archive.today](https://archive.ph/aaH1G)).
 
   
 
