@@ -190,7 +190,7 @@ Thank you all! <3
 - [OSINT / Cyberstalking General - lainchan.org/sec/](https://www.lainchan.org/sec/res/12162.html).  
   - ([Wayback](https://web.archive.org/web/20220404022733/https://www.lainchan.org/sec/res/12162.html)), ([archive.today](https://archive.ph/VlbbL)).
 
-- [Trace Labs OSINT VM - trafrlabs.org](https://www.tracelabs.org/initiatives/osint-vm). 
+- [Trace Labs OSINT VM - tracelabs.org](https://www.tracelabs.org/initiatives/osint-vm). 
   - ([Wayback](https://web.archive.org/web/20220823163521/https://www.tracelabs.org/initiatives/osint-vm)), ([archive.today](https://archive.ph/aaH1G)).
 
   
