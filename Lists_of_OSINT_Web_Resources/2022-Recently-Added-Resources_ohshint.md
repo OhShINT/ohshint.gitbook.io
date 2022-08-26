@@ -52,6 +52,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Archive Search**
 
+- [RaidForums Archive](https://rf-archive.com/)  - *Added 25/8/2022.*
 - [Archive Portal Europe](https://archivesportaleurope.net) - *Added 10/7/2022.*
 
 ### **Software Search**
@@ -77,6 +78,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Social Media Tools**
 
+- [PhantomBuster](https://phantombuster.com/) - *Added 25/8/2022.*
 - [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/) - *Added 10/7/2022.*
 - [Tagdef](https://tagdef.com/en/) - *Added 25/1/2022.*
 - [Alternative Social Platform Search](https://www.osintcombine.com/alt-tech-social-search) - *Added 25/1/2022.*
@@ -98,6 +100,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **GitHub**
 
+- [ReposTimeline](https://repostimeline.nazifbara.com/) - *Added 10/8/2022.*
+- [Gitvio](https://gitvio.vercel.app/) - *Added 10/8/2022.*
 - [SEART Github Search](https://seart-ghs.si.usi.ch) - *Added 15/6/2022.*
 - [GitHub Profile Summary](https://profile-summary-for-github.com/search) - *Added 21/2/2022.*
 
@@ -121,6 +125,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Reddit**
 
+- [RedditDownloader](https://redditdownloader.github.io/) - *Added 10/8/2022.*
 - [LaterForReddit](https://dashboard.laterforreddit.com/analysis) - *Added 14/7/2022.*
 - [Reddit about.json](https://www.reddit.com/user/USERNAME-HERE/about.json) - *Added 4/8/2022.*
 - [Better Reddit Search](https://betterredditsearch.web.app) - *Added 10/7/2022.*
@@ -191,6 +196,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [SarTopo](https://sartopo.com/map.html) - *Added 10/8/2022.*
+- [GaiaGPS](https://www.gaiagps.com/map/) - *Added 10/8/2022.*
 - [GeoVisual Search](https://search.descarteslabs.com/) - *Added 14/7/2022.*
 - [Smappen](https://www.smappen.com/) - *Added 7/8/2022.*
 - [WhatIsWhere](https://www.whatiswhere.com/) - *Added 4/8/2022.*
@@ -269,6 +276,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Drone Footage** 
 
+- [ENAIRE Drones](https://drones.enaire.es/) - *Added 25/8/2022.*
 - [Map of Drone Laws](https://foxnomad.com/2017/07/25/map-shows-drone-laws-every-country-world-updated-regularly/) - *Added 21/2/2022.*
 - [TravelWithDrone](https://travelwithdrone.com/) - *Added 25/1/2022.*
 - [Dronestagr.am](https://www.dronestagr.am/) - *Added 25/1/2022.*
@@ -507,6 +515,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Tools**
 
+- [IEMI.info](https://www.imei.info/) - *Added 10/8/2022.*
 - [API Guesser](https://api-guesser.netlify.app) - *Added 25/4/2022.*
 - [OpenSezMe](https://open-sez.me/) - *Added 2/1/2022.*
 - [Abuse.ch](https://abuse.ch/) - *Added 2/1/2022.*
@@ -529,15 +538,35 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **TOR Networking Tools**
 
+- [D3 TOR Relay Node Map](https://cdetr.io/tor-node-map/) - *Added 25/8/2022.*
+- [TorFlow](https://torflow.uncharted.software/) - *Added 25/8/2022.*
+- [TOR Node List](https://www.dan.me.uk/tornodes) - *Added 25/8/2022.*
 - [Ahmia Link Graph](https://ahmia.fi/stats/link_graph/) - *Added 21/2/2022.*
 
 #### **TOR Search Engines and Directories**
 
+- [Onion.live](https://onion.live/) - *Added 25/8/2022.*
 - [TOR Taxi](https://tor.taxi/) - *Added 2/1/2022.*
 
 ### **Miscellaneous TOR Resources**
 
 - [CafeDread](https://cafedread.com/) - *Added 25/1/2022.*
+
+### **Invisible Internet Project [I2P]**
+
+- [Eepsite Connectivity Graph](https://nesg.ugr.es/i2p/) - *Added 25/8/2022.*
+
+### **FreeNet**
+
+- [Freesite Connectivity Graph](https://nesg.ugr.es/freenet/) - *Added 25/8/2022.*
+
+### **FidoNet**
+
+- [FidoNet Node Visualization](https://www.ipingthereforeiam.com/bbs/nlmap/) - *Added 25/8/2022.*
+
+### **Usenet**
+
+- [Usenet Provider Map](https://usenetmap.b-cdn.net/latest.svg) - *Added 25/8/2022.*
 
 ## **<u>People Investigations</u>**
 
@@ -656,6 +685,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Property**
 
+- [Stolen Drone Info](https://stolendrone.info/home) - *Added 25/8/2022.*
 - [Stolen Camera Finder](https://www.stolencamerafinder.com/) - *Added 10/7/2022.*
 
 ## <u>**War, Crisis and Conflicts**</u>
