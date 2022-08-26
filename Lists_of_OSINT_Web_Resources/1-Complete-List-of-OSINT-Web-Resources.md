@@ -1043,6 +1043,8 @@ A Google CSE that searches for scientific publications.
   An awesome tool created by [@cyb_detective](https://twitter.com/cyb_detective) that lets you search for older versions of websites via search engines and various web archive services.
 - [Archive Portal Europe](https://archivesportaleurope.net)  
   Search through online archives from across Europe. Search for names, companies, geographical locations and more.
+- [RaidForums Archive](https://rf-archive.com/)  
+  An archive of the old RaidForums site. Data was scraped from both Google cache and the Wayback Machine.
   
 ## **Software Search**
 
@@ -1147,6 +1149,8 @@ A Google CSE that searches for scientific publications.
   A Google CSE from OSINT Combine that searches across alternative and "non-mainstream" social platforms and boards including Parler, Gab, Minds, BitChute, DLive.tv, Rumble, JustPaste.it, WrongThink.net & 8kun.
 - [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/)  
   An awesome collection of many different OSINT tools from IntelTechniques. Thanks Mr. Bazzell!
+- [PhantomBuster](https://phantombuster.com/)  
+  A cloud-based data extraction tool designed to scrape useful data from Twitter, Facebook, LinkedIn, Instagram, and more. Allows data export to CSV and JSON formats. Requires a paid subscription.
 
 ## **Clubhouse**
 
@@ -3683,8 +3687,12 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Look up an .onion address and see basic information such as date last seen, open ports, running software and banners. You can also query specific onions from the command line: `whois -h torwhois.com facebookcorewwwi.onion`
 - [Ahmia Link Graph](https://ahmia.fi/stats/link_graph/)  
   Enter a name of any .onion domain zone and see what other sites in the zone it's associated with.
-- [TOR Map](https://tormap.void.gr/)  
-  A worldwide map of TOR exit nodes.
+- [D3 TOR Relay Node Map](https://cdetr.io/tor-node-map/)  
+  A map of global TOR relay nodes.
+- [TorFlow](https://torflow.uncharted.software/)  
+  A map that shows the movement of data through the relay nodes of the Tor network up to 13/1/2016. Historical data goes back as far as 28/10/2007.
+- [TOR Node List](https://www.dan.me.uk/tornodes)  
+  A list of all TOR nodes that is updated every 30 minutes.
 
 ### **TOR Search Engines and Directories**
 
@@ -3694,8 +3702,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A search engine for the deep web. Official onion site can be found [here](http://3bbad7fauom4d6sgppalyqddsqbf5u5p56b5k5uk2zxsy3d6ey2jobad.onion/).
 - [Dargle](https://www.dargle.net/search)  
   A data aggregation platform for dark web domains. Using this directory, we can  generate a portfolio of domains and their statuses, gain insight into the content and nature of these services, as well as the connections between them.
-- [OSINT Party Fresh Onion RSS](https://osint.party/api/rss/fresh)  
-  An amazing RSS feed of fresh and newly discovered .onion sites. Be careful, this feed remains uncensored, so you may encounter illegal content.
+- ~~[OSINT Party Fresh Onion RSS](https://osint.party/api/rss/fresh)~~  
+  ~~An amazing RSS feed of fresh and newly discovered .onion sites. Be careful, this feed remains uncensored, so you may encounter illegal content.~~ Currently down.
 - [HiddenWiki](https://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion/wiki/index.php/Main_Page)  
   A large and neatly organized directory of .onion sites. You can visit this site without TOR [here (CLEARNET PROXY)](https://zqktlwiuavvvqqt4ybvgvi7tyo4hjl5xgfuvpdf6otjiycgwqbym2qad.onion.pet/wiki/index.php/Main_Page).
 - [Hidden Services Today](https://hidden-services.today/)  
@@ -3704,7 +3712,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Identify new hidden services, or find investigation targets that you might not have otherwise known about. It is 100% free and every day you will receive a link to a spreadsheet you can download or view online. Requires you to provide an email address to join their mailing list.
 - [TOR66](http://tor66sewebgixwhcqfnp5inzp5x5uohhdy3kvtnyfxc2e5mxiuh34iid.onion/fresh)  
   An onion site that lists newly discovered onion sites that have been submitted from a variety of different clearnet platforms.
-- [DarkSearch](https://darksearch.io/)  
+- ~~[DarkSearch](https://darksearch.io/)~~  
   ~~A search engine for TOR onion sites. Claims to index thousands of onions. Offers the ability to use [advanced search operators](https://darksearch.io/dorks), and they also provide a free API. Appears to be a bit outdated though.~~ Has removed all public access.
 - [Kilos](http://mlyusr6htlxsyc7t2f4z53wdxh3win7q3qpxcrbam6jf3dmua7tnzuyd.onion/)  
   Specific market & vendor sale of goods engine. Currently indexing over 876,601 forum posts, 106,558 listings, 6,313 vendors, and 1,443,739 reviews from 12 markets and 5 forums.
@@ -3712,6 +3720,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A collection of darkweb search tools. Allows you to query .onion search engines, marketplaces and social media sites.
 - [TOR Taxi](https://tor.taxi/)  
   A catalog and directory of the most popular onion sites.
+- [Onion.live](https://onion.live/)  
+  A clearnet search engine of onion sites. Also gives information about onion sites.
 
 ### **Miscellaneous TOR Resources**
 
@@ -3738,11 +3748,15 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Another great I2P search engine.
 - [Nekhbet I2P Links](http://nekhbet.com/i2p_links.shtml)  
   A neatly organized directory of eepsites.
+- [Eepsite Connectivity Graph](https://nesg.ugr.es/i2p/)  
+  This graph shows the relationships among eepsites in the I2P darknet.
 
 ## **FreeNet**
 
 - [FreeNet Documentation](https://freenetproject.org/pages/documentation.html)  
   Learn how to configure and use FreeNet.
+- [Freesite Connectivity Graph](https://nesg.ugr.es/freenet/)  
+  This graph shows the relationships among freesites in the Freenet darknet.
 
 ## **eMule**
 
@@ -3769,11 +3783,15 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 
 - [FidoNet Nodes](https://nodehist.fidonet.org.ua/)  
   A large list of FidoNet nodes. Searchable by node address or sysop name.
+- [FidoNet Node Visualization](https://www.ipingthereforeiam.com/bbs/nlmap/)  
+  A visualization of the FidoNet node list. Data dates from 1984 to 2022.
 
 ## **Usenet**
 
 - [NZBFriends](https://nzbfriends.com/)  
   A search engine for Usenet.
+- [Usenet Provider Map](https://usenetmap.b-cdn.net/latest.svg)  
+  A tree map that shows details like companies, providers, networks, retention and more.
 
 # <u>**People Investigations**</u>
 
