@@ -742,6 +742,8 @@
   An awesome tool created by [@cyb_detective](https://twitter.com/cyb_detective) that lets you search for older versions of websites via search engines and various web archive services.
 - [Archive Portal Europe](https://archivesportaleurope.net)  
   Search through online archives from across Europe. Search for names, companies, geographical locations and more.
+- [RaidForums Archive](https://rf-archive.com/)  
+  An archive of the old RaidForums site. Data was scraped from both Google cache and the Wayback Machine.
   
 ## **Software Search**
 
