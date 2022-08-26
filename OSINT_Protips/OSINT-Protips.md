@@ -972,3 +972,20 @@ Finding [#YouTube](https://twitter.com/hashtag/YouTube?src=hashtag_click) videos
 
 Attached image:
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/YouTube-Metadata-Viewer-Example.jpg"/>
+
+
+
+## OSINT Protip 43
+
+> Posted on *19/8/2022* at *1:42 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1560728890825326592](https://twitter.com/ohshint_/status/1560728890825326592)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 43: 
+
+Being able to search through public AWS buckets and open [#Google](https://twitter.com/hashtag/Google?src=hashtag_click) drives can help you locate some very interesting things. 
+
+- [https://buckets.grayhatwarfare.com](https://buckets.grayhatwarfare.com/) 
+- [https://osint.sh/buckets/](https://osint.sh/buckets/) 
+- [https://dedigger.com](https://www.dedigger.com/#gsc.tab=0) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
