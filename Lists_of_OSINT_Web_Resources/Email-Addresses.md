@@ -27,6 +27,8 @@
   A great email search engine offered by IntelX.
 - [PeepMail](https://samy.pl/peepmail/elift.cgi)  
   A tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
+- [Identificator.space](https://identificator.space/search)  
+  Locate information and linked accounts by searching an email address, phone number or Twitter handle. Requires registration.
 
 ## **Data Breach Search**
 
