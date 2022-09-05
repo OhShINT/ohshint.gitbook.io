@@ -917,6 +917,8 @@ Remember, CTRL+F is your friend here.
   Allows users to upload content including presentations, infographics, documents, and videos. Users can upload files privately or publicly in PowerPoint, Word, PDF, or OpenDocument format.
 - [Slideshare Downloader](https://slideshare-downloader.herokuapp.com/)  
   Enter the URL of any Slideshare document and this tool will download it for you. 
+- [SlideServe](https://www.slideserve.com/)  
+  A massive, searchable collection of powerpoint presentations about all kinds of different things. 
 - [Directory of Open Access Journals](https://doaj.org/)  
   Search over 16,000 journals, over 6.5 million articles in 80 different languages from 129 different countries.
 - [Napalm FTP Indexer](https://www.searchftps.net/)  
