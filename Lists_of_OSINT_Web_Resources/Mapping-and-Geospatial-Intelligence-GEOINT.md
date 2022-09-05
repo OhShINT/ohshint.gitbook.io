@@ -441,6 +441,8 @@
   A map of over 1,500 different oil fields located all over the world.
 - [GlobalEnergyMonitor](https://globalenergymonitor.org/projects/global-fossil-infrastructure-tracker/tracker-map/)  
   A collection of interactive maps and datasets regarding the energy sector. Fossil fuels, coal mines and more.
+- [GridFinder](https://gridfinder.org/)  
+  An open source tool for predicting the location of electricity network lines, using night-time lights satellite imagery and OpenStreetMap data. Data set available for download [here](https://zenodo.org/record/3628142).
   
 ## **Landmark Recognition**
 
@@ -462,6 +464,8 @@
   An interactive map that displays the locations of Orthodox churches and temples from all over the world.
 - [CCD School Map](https://nces.ed.gov/ccd/schoolmap/)  
   An interactive map of schools, colleges and universities in the U.S.
+- [GeoHints](https://www.geohints.com/)  
+  An excellent visual reference database of utility poles, bollards, license plates, road signs and much more. Great resource for any GEOINT investigation.
   
 ## **Outdoor Activity Maps**
 
