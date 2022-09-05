@@ -1151,6 +1151,8 @@ A Google CSE that searches for scientific publications.
   An awesome collection of many different OSINT tools from IntelTechniques. Thanks Mr. Bazzell!
 - [PhantomBuster](https://phantombuster.com/)  
   A cloud-based data extraction tool designed to scrape useful data from Twitter, Facebook, LinkedIn, Instagram, and more. Allows data export to CSV and JSON formats. Requires a paid subscription.
+- [HuntIntel](https://www.huntintel.io/)  
+  Find Instagram places, Facebook places, VK photos, public Snapchat stories and Tweets based on location as well as many more features. Requires registration.
 
 ## **Clubhouse**
 
@@ -1220,6 +1222,14 @@ A Google CSE that searches for scientific publications.
   A Google CSE for Facebook. Made by [OSINT Me](https://www.osintme.com/).
 - [Lookup-ID](https://lookup-id.com/)  
   A simple tool to get a Facebook ID of a user, group or page. Also provides a few other useful tools.
+- [Facebook Ads Library](https://www.facebook.com/ads/library/)  
+  Check to see who is behind and spending on Facebook ads.
+- [Facebook Live Map](https://www.facebook.com/livemap#)  
+  Find Facebook live streams via location.
+- [Crowdtangle Facebook Video Search](https://www.crowdtangle.com/videosearch)  
+  A tool from Meta to search for Facebook videos. Requires registration.
+- [Graph.tips Beta](https://graph.tips/beta/)  
+  An experimental tool to help search Facebooks new graph search function.
 
 ## **Flickr**
 
