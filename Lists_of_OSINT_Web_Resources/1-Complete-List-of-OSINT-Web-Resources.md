@@ -907,6 +907,8 @@ Remember, CTRL+F is your friend here.
 
 - [Library Genesis](https://libgen.rs/)  
   This is the largest free library in human history. Giving the world free access to over 84 million scholarly journals, over 6.6 million academic and general-interest books, over 2.2 million comics, and over 381 thousand magazines. Commonly referred to as "Libgen" for short. Libgen has zero regard for copyright.
+- [Library Genesis Technical](https://libgen.fun/)  
+  Essentially Library Genesis, but for technical books, documentation and whitepapers.
 - [SciHub](https://sci-hub.se/)  
   A "shadow library" that provides free access to millions of research papers and books by bypassing paywalls. SciHub has zero regard for copyright.
 - [The-Eye](https://the-eye.eu/public)  
@@ -959,6 +961,8 @@ A Google CSE that searches for scientific publications.
   A great file and document search engine offered by IntelX.
 - [deDigger](https://www.dedigger.com/)  
   Searches through Google Drives via keywords.
+- [FreeTechBooks](https://www.freetechbooks.com/)  
+  A database of free, open-access computer and IT books.
 
 ## **Video Search**
 
@@ -1195,6 +1199,16 @@ A Google CSE that searches for scientific publications.
   Enter a users ID and view the exact time and date when the account was created.
 - [Discord Badge Guide](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101)  
   A quick reference that explains the various different profile badges you may see on Discord.
+- [Lookup Guru](https://lookup.guru/)  
+  Lookup any Discord ID and view details such as creation date and user type.
+- [DiscordName](https://discord.name/)  
+  Enter any user ID and see when the account was created.
+- [DisTools](https://distools.app/lookup/guild)  
+  Enter a server ID and view general information about the server and its users. Will give you an invite code as well if available. Not the best tool, does not seem to work with some Discord servers.
+- [DiscordList](https://discordlist.me/)  
+  Yet another server search index.
+- [Public Flag List](https://github.com/Delitefully/DiscordLists/blob/master/flags.md)  
+  A list of account flags. These are the `public_flag` codes in the output of a user account.
 
 ## **Facebook**
 
@@ -1638,7 +1652,6 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [TweeterID](https://tweeterid.com/)  
   Type in any Twitter ID or @handle, and it will be converted into the respective ID or username.
 
-
 ## **Untappd**
 
 - [UntappdScraper](https://brandone.github.io/untappd-scraper-web/)  
@@ -1652,6 +1665,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A great tool for tracking a VK users time spent online.
 - [VK Search Engine](https://cse.google.com/cse?cx=f5e7cd4c6e33954ec)  
   A Google CSE for searching VK profiles.
+- [Spevktator](https://spevktator.io/)  
+  A searchable database of over 67,000 posts. They also offer a CLI tool as well.
 
 ## **VSCO**
 
@@ -3260,6 +3275,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Research domain information and all associated data, including records, IP addresses, page metadata, location and much more. Has over 315 million indexed domains.
 - [IntelX Domain Search](https://intelx.io/tools?tab=domain)  
   A great domain search engine offered by IntelX.
+- [DNS Institute](https://www.dnsinstitute.com/)  
+  Enables domain owners and DNS professionals to monitor and check conformance and vulnerabilities of their DNS infrastructure, through scheduled protocol tests, vulnerability tests, alerts, news, and statistics with complete reporting. They also offer many interesting reports.
 
 ## **Website Analysis**
 
