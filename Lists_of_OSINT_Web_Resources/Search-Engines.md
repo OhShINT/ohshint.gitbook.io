@@ -606,6 +606,8 @@
 
 - [Library Genesis](https://libgen.rs/)  
   This is the largest free library in human history. Giving the world free access to over 84 million scholarly journals, over 6.6 million academic and general-interest books, over 2.2 million comics, and over 381 thousand magazines. Commonly referred to as "Libgen" for short. Libgen has zero regard for copyright.
+- [Library Genesis Technical](https://libgen.fun/)  
+  Essentially Library Genesis, but for technical books, documentation and whitepapers.
 - [SciHub](https://sci-hub.se/)  
   A "shadow library" that provides free access to millions of research papers and books by bypassing paywalls. SciHub has zero regard for copyright.
 - [The-Eye](https://the-eye.eu/public)  
@@ -658,6 +660,8 @@
   A great file and document search engine offered by IntelX.
 - [deDigger](https://www.dedigger.com/)  
   Searches through Google Drives via keywords.
+- [FreeTechBooks](https://www.freetechbooks.com/)  
+  A database of free, open-access computer and IT books.
 
 ## **Video Search**
 
