@@ -31,6 +31,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Document and File Search**
 
+- [Library Genesis Technical](https://libgen.fun/) - *Added 10/9/2022.*
+- [FreeTechBooks](https://www.freetechbooks.com/) - *Added 10/9/2022.*
 - [deDigger](https://www.dedigger.com/) - *Added 25/4/2022.*
 - [IntelX File Search](https://intelx.io/tools?tab=file) - *Added 25/4/2022.*
 - [1337x](https://1337x.to/) - *Added 24/2/2022.*
@@ -78,6 +80,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Social Media Tools**
 
+- [HuntIntel](https://www.huntintel.io/) - *Added 5/9/2022.*
 - [PhantomBuster](https://phantombuster.com/) - *Added 25/8/2022.*
 - [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/) - *Added 10/7/2022.*
 - [Tagdef](https://tagdef.com/en/) - *Added 25/1/2022.*
@@ -85,6 +88,11 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Discord**
 
+- [Lookup Guru](https://lookup.guru/) - *Added 10/9/2022.*
+- [DiscordName](https://discord.name/) - *Added 10/9/2022.*
+- [DisTools](https://distools.app/lookup/guild) - *Added 10/9/2022.*
+- [DiscordList](https://discordlist.me/) - *Added 10/9/2022.*
+- [Public Flag List](https://github.com/Delitefully/DiscordLists/blob/master/flags.md) - *Added 10/9/2022.*
 - [Discord Badge Guide](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101) - *Added 26/3/2022.*
 - [Discord ID Creation Date](https://hugo.moe/discord/discord-id-creation-date.html) - *Added 26/3/2022.*
 - [DiscordCenter](https://discord.center/) - *Added 26/3/2022.*
@@ -92,6 +100,10 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Facebook**
 
+- [Facebook Ads Library](https://www.facebook.com/ads/library/) - *Added 5/9/2022.*
+- [Facebook Live Map](https://www.facebook.com/livemap#) - *Added 5/9/2022.*
+- [Crowdtangle Facebook Video Search](https://www.crowdtangle.com/videosearch) - *Added 5/9/2022.*
+- [Graph.tips Beta](https://graph.tips/beta/) - *Added 5/9/2022.*
 - [Lookup-ID](https://lookup-id.com/) - *Added 14/7/2022.*
 - [Facebook Search CSE](https://cse.google.com/cse?cx=95ae46262a5f2958e) - *Added 15/6/2022.*
 - [IntelX Facebook Search](https://intelx.io/tools?tab=facebook) *Added 25/4/2022.*
@@ -182,6 +194,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Vkontakte**
 
+- [Spevktator](https://spevktator.io/) - *Added 10/9/2022.*
 - [VK Search Engine](https://cse.google.com/cse?cx=f5e7cd4c6e33954ec) - *Added 26/3/2022.*
 
 ### **Wikipedia**
@@ -264,9 +277,14 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Industry Maps**
 
+- [GridFinder](https://gridfinder.org/) - *Added 5/9/2022.*
 - [GlobalEnergyMonitor](https://globalenergymonitor.org/projects/global-fossil-infrastructure-tracker/tracker-map/) - *Added 13/4/2022.*
 - [Aenert Map of Heavy Oil Fields](https://aenert.com/technologies/fossil-fuel/unconventional-oil/interactive-map-of-heavy-oil-fields/) - *Added 13/4/2022.*
 - [U.S. Energy, Environment and Policy Map](https://www.bakerinstitute.org/energy-environment-and-policy-in-the-us/) - *Added 25/1/2022.*
+
+### **Landmark Recognition**
+
+- [GeoHints](https://www.geohints.com/) - *Added 5/9/2022.*
 
 ### **Outdoor Activity Maps**
 
@@ -459,6 +477,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Domain Name Systems [DNS] Records**
 
+- [DNS Institute](https://www.dnsinstitute.com/) - *Added 10/9/2022.*
 - [IntelX Domain Search](https://intelx.io/tools?tab=domain) - *Added 25/4/2022.*
 - [DomainCodex](https://www.domaincodex.com/index.php) - *Added 30/1/2022.*
 
@@ -593,6 +612,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Email Tools**
 
+- [Identificator.space](https://identificator.space/search) - *Added 5/9/2022.*
 - [PeepMail](https://samy.pl/peepmail/elift.cgi) - *Added 4/8/2022.*
 - [IntelX Email Search](https://intelx.io/tools?tab=email) - *Added 25/4/2022.*
 - [Have I Been Sold?](https://haveibeensold.app/) - *Added 21/2/2022.*
