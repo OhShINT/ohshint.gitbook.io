@@ -71,6 +71,8 @@
   Research domain information and all associated data, including records, IP addresses, page metadata, location and much more. Has over 315 million indexed domains.
 - [IntelX Domain Search](https://intelx.io/tools?tab=domain)  
   A great domain search engine offered by IntelX.
+- [DNS Institute](https://www.dnsinstitute.com/)  
+  Enables domain owners and DNS professionals to monitor and check conformance and vulnerabilities of their DNS infrastructure, through scheduled protocol tests, vulnerability tests, alerts, news, and statistics with complete reporting. They also offer many interesting reports.
 
 ## **Website Analysis**
 
