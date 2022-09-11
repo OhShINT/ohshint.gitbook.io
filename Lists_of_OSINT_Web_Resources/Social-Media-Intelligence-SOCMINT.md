@@ -87,6 +87,16 @@
   Enter a users ID and view the exact time and date when the account was created.
 - [Discord Badge Guide](https://support.discord.com/hc/en-us/articles/360035962891-Profile-Badges-101)  
   A quick reference that explains the various different profile badges you may see on Discord.
+- [Lookup Guru](https://lookup.guru/)  
+  Lookup any Discord ID and view details such as creation date and user type.
+- [DiscordName](https://discord.name/)  
+  Enter any user ID and see when the account was created. 
+- [DisTools](https://distools.app/lookup/guild)  
+  Enter a server ID and view general information about the server and its users. Will give you an invite code as well if available. Not the best tool, does not seem to work with some Discord servers.  
+- [DiscordList](https://discordlist.me/)  
+  Yet another server search index.
+- [Public Flag List](https://github.com/Delitefully/DiscordLists/blob/master/flags.md)  
+  A list of account flags. These are the public_flag codes in the output of a user account.
 
 ## <u>**Facebook**</u>
 
@@ -543,6 +553,8 @@
   A great tool for tracking a VK users time spent online.
 - [VK Search Engine](https://cse.google.com/cse?cx=f5e7cd4c6e33954ec)  
   A Google CSE for searching VK profiles.
+- [Spevktator](https://spevktator.io/)  
+  A searchable database of over 67,000 posts. They also offer a CLI tool as well.
 
 ## <u>**VSCO**</u>
 
