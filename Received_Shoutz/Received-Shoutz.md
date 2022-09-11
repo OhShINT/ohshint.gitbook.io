@@ -73,6 +73,9 @@ Thank you all! <3
 - [Sector035 Week in OSINT #2022-24 - sector035.nl](https://sector035.nl/articles/2022-24).  
   - ([Wayback](http://web.archive.org/web/20220620210032/https://sector035.nl/articles/2022-24)), ([archive.today](https://archive.ph/vMA83)).
 
+- [Sector035 Week in OSINT #2022-35 - sector035.nl](https://sector035.nl/articles/2022-35). 
+  - ([Wayback](https://web.archive.org/web/20220905062202/https://sector035.nl/articles/2022-35)), ([archive.today](https://archive.ph/7J7fo)).
+
 - [It's A Match! Dating Apps and SOCMINT - intel-inquirer.medium.com](https://intel-inquirer.medium.com/its-a-match-dating-apps-and-socmint-2c05c44e9590).
   - ([Wayback](https://web.archive.org/web/20220408000410/https://intel-inquirer.medium.com/its-a-match-dating-apps-and-socmint-2c05c44e9590)), ([archive.today](https://archive.ph/HzyM2)).
 
@@ -160,6 +163,18 @@ Thank you all! <3
 
 - [Ethical Hacking Tookit - 0xcybery.github.io](https://0xcybery.github.io/ehtk/). 
    - ([Wayback](https://web.archive.org/web/20220712134100/https://0xcybery.github.io/ehtk/)), ([archive.today](https://archive.ph/DoZOc)).
+
+- [0xcyberpj OSINT Essentials - github.com](https://github.com/0xcyberpj/osint-essentials/blob/main/osint-essentials.md). 
+   - ([Wayback](https://web.archive.org/web/20220902042743/https://github.com/0xcyberpj/osint-essentials/blob/main/osint-essentials.md)), ([archive.today](https://archive.ph/f7okL)).
+
+- [abathelt Resources - github.com](https://github.com/abathelt/Resources). 
+   - ([Wayback](https://web.archive.org/web/20220902043117/https://github.com/abathelt/Resources)), ([archive.today](https://archive.ph/BIyuY)).
+
+- [mether049 OSINT References - github.com](https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md).  
+   - ([Wayback](https://web.archive.org/web/20220902043724/https://github.com/mether049/Research/blob/master/OSINT/osint_ref_and_memo.md)), ([archive.today](https://archive.ph/yqkca)).
+
+- [NatSec Tools - github.io](https://natsec.github.io/notes/tools.html).  
+   - ([Wayback](https://web.archive.org/web/20220909210104/https://natsec.github.io/notes/tools.html)), ([archive.today](https://archive.ph/Wszbe)).
 
   
 
