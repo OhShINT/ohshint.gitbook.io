@@ -96,7 +96,7 @@
 - [DiscordList](https://discordlist.me/)  
   Yet another server search index.
 - [Public Flag List](https://github.com/Delitefully/DiscordLists/blob/master/flags.md)  
-  A list of account flags. These are the public_flag codes in the output of a user account.
+  A list of account flags. These are the `public_flag` codes in the output of a user account.
 
 ## <u>**Facebook**</u>
 
