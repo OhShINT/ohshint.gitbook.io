@@ -963,6 +963,8 @@ A Google CSE that searches for scientific publications.
   Searches through Google Drives via keywords.
 - [FreeTechBooks](https://www.freetechbooks.com/)  
   A database of free, open-access computer and IT books.
+- [BTDigg](https://btdig.com/index.htm)  
+  A BitTorrent DHT search engine. Find torrents for just about anything.
 
 ## **Video Search**
 
@@ -3858,6 +3860,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A great people meta search engine offered by IntelX.
 - [The Gazette Public Notices](https://www.thegazette.co.uk/all-notices?ref=topmenu)  
   The Gazette publishes public notices, such as are legally required in the UK for name changes, or declaring insolvency. Useful resource in a country which still has GDPR.
+- [FindMyPast](https://search.findmypast.co.uk/search-world-records)  
+  Search for public records. Census, birth, death, marriage records and much more. Requires registration.
   
 ## **Vital Records**
 - [Vital Record Search Tools](https://stevemorse.org/index.html)  
@@ -5018,7 +5022,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 
 - [Armalytics](https://www.armalytics.ca/)  
   Here is a database of almost every firearm ever made.
-  It's a digital version of the Canadian RCMP Firearms Reference Table (FRT). You can download the full FRT in .pdf format from [here](https://www.rcmp-grc.gc.ca/en/firearms/firearms-reference-table), which is constantly being updated. An archived copy created on 3/12/2021 can be found [here (Wayback)](https://web.archive.org/web/20211203095856/https://mpfirearmspublicstore.blob.core.windows.net/firearms-reference-table/frt-traf-eng.pdf).
+  It's a digital version of the Canadian RCMP Firearms Reference Table (FRT). You can download the full FRT in .pdf format from [here](https://www.rcmp-grc.gc.ca/en/firearms/firearms-reference-table), which is constantly being updated. An archived copy created on 12/9/2022 can be found  [here (Wayback)](https://web.archive.org/web/20220912034451/https://mpfirearmspublicstore.blob.core.windows.net/firearms-reference-table/frt-traf-eng.pdf).
 - [Modern Firearms](https://modernfirearms.net/)  
   Encyclopedia of firearms and ammunition from the 20th and 21st centuries.
 - [The Weapons ID Database](http://www.smallarmssurvey.org/weapons-and-markets/tools/weapons-id-database.html)  
