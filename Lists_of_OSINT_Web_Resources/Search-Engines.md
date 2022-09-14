@@ -662,6 +662,8 @@
   Searches through Google Drives via keywords.
 - [FreeTechBooks](https://www.freetechbooks.com/)  
   A database of free, open-access computer and IT books.
+- [BTDigg](https://btdig.com/index.htm)  
+  A BitTorrent DHT search engine. Find torrents for just about anything.
 
 ## **Video Search**
 
