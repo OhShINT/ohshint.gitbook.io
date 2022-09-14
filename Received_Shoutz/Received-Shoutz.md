@@ -36,6 +36,7 @@ Thank you all! <3
 ## **Podcasts**
 
 - [Trace Labs: Breadcrumbs Podcast - Episode 17 - Sharing is Caring with OhShINT_](https://share.transistor.fm/s/34384522).
+  - ([Wayback](https://web.archive.org/web/20220912024544/https://share.transistor.fm/s/34384522)), ([archive.today](https://archive.ph/sSg7k)).
 
   > **Episode Details:**
   >
@@ -175,6 +176,9 @@ Thank you all! <3
 
 - [NatSec Tools - github.io](https://natsec.github.io/notes/tools.html).  
    - ([Wayback](https://web.archive.org/web/20220909210104/https://natsec.github.io/notes/tools.html)), ([archive.today](https://archive.ph/Wszbe)).
+
+- [Kalistamp OSINT - github.com](https://github.com/kalistamp/OSINT). 
+  - ([Wayback](https://web.archive.org/web/20220911085427/https://github.com/kalistamp/OSINT)), ([archive.today](https://archive.ph/6QdOp)).
 
   
 
