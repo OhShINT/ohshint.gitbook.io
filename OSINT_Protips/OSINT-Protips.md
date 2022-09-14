@@ -989,3 +989,40 @@ Being able to search through public AWS buckets and open [#Google](https://twitt
 - [https://dedigger.com](https://www.dedigger.com/#gsc.tab=0) 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+
+
+## OSINT Protip 44
+
+> Posted on *2/9/2022* at *1:42 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1565802445175140352](https://twitter.com/ohshint_/status/1565802445175140352)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 44: 
+
+Landmark identification and pinpointing locations where an image or video was taken is a very good skill when investigating current and past events. 
+
+- [https://geohints.com](https://geohints.com/) 
+-  [https://landmark.toolpie.com](https://landmark.toolpie.com/) 
+- [https://brueckenweb.de/2content/suchen/suche.php](https://www.brueckenweb.de/2content/suchen/suche.php) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#GEOINT](https://twitter.com/hashtag/GEOINT?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/GeoHints-Utility-Pole-Example.jpg"/>
+
+
+
+## OSINT Protip 45
+
+> Posted on *9/9/2022* at *6:16 PM.*
+> URL: [https://twitter.com/ohshint_/status/1568407979472621570](https://twitter.com/ohshint_/status/1568407979472621570)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 45: 
+
+Historical WHOIS and DNS records can reveal ownership details or locate other important details via past SOA records. 
+
+- [https://dnshistory.org](https://dnshistory.org/) 
+- [https://viewdns.info](https://viewdns.info/) 
+- [https://whoxy.com/whois-history/](https://www.whoxy.com/whois-history/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#DNINT](https://twitter.com/hashtag/DNINT?src=hashtag_click)
