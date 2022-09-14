@@ -31,6 +31,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Document and File Search**
 
+- [BTDigg](https://btdig.com/index.htm) - *Added 14/9/2022.*
 - [Library Genesis Technical](https://libgen.fun/) - *Added 10/9/2022.*
 - [FreeTechBooks](https://www.freetechbooks.com/) - *Added 10/9/2022.*
 - [deDigger](https://www.dedigger.com/) - *Added 25/4/2022.*
@@ -591,6 +592,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General People Search**
 
+- [FindMyPast](https://search.findmypast.co.uk/search-world-records) - *Added 14/9/2022.*
 - [The Gazette Public Notices](https://www.thegazette.co.uk/all-notices?ref=topmenu) - *Added 10/7/2022.*
 - [IntelX Person Search](https://intelx.io/tools?tab=person) - *Added 25/4/2022.*
 - [How Many of Me](http://howmanyofme.com/search/) - *Added 25/1/2022.*
