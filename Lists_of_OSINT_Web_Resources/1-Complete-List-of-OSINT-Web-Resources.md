@@ -1304,8 +1304,8 @@ A Google CSE that searches for scientific publications.
   Search and analyze profiles and hashtags without having to use an account.
 - [StoriesDown](https://storiesdown.com/)  
   Allows you to view and download Instagram stories and posts without an account.
-- [Bibliogram](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)  
-  Takes data from Instagram's public profile views and puts it into a friendlier page that loads faster, gives downloadable images, eliminates ads, generates RSS feeds, and doesn't urge you to sign up.
+- ~~[Bibliogram](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)  
+  Takes data from Instagram's public profile views and puts it into a friendlier page that loads faster, gives downloadable images, eliminates ads, generates RSS feeds, and doesn't urge you to sign up.~~ Project has been discontinued. Read more [here](https://cadence.moe/blog/2022-09-01-discontinuing-bibliogram).
 - [Instadp](https://www.instadp.com/)  
   An online tool that displays full size profile pictures of a user. It also allows you to download photos, videos, stories and reels.
 - [InstaFollowers](https://www.instafollowers.co/find-instagram-user-id)  
