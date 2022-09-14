@@ -29,6 +29,8 @@
   A great people meta search engine offered by IntelX.
 - [The Gazette Public Notices](https://www.thegazette.co.uk/all-notices?ref=topmenu)  
   The Gazette publishes public notices, such as are legally required in the UK for name changes, or declaring insolvency. Useful resource in a country which still has GDPR.
+- [FindMyPast](https://search.findmypast.co.uk/search-world-records)  
+  Search for public records. Census, birth, death, marriage records and much more. Requires registration.
   
 ## **Vital Records**
 
