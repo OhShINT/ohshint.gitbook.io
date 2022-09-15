@@ -614,7 +614,7 @@
 - [SaveSubs](https://savesubs.com/)  
   Allows you to convert, edit and download subtitles from YouTube, Facebook, DailyMotion and more for free.
 - [IntelX YouTube Search](https://intelx.io/tools?tab=youtube)  
-  A great YouTube search engine offered by IntelX. This is an improved fork of the above tool.
+  A great YouTube search engine offered by IntelX.
 - [YouTube Annotations Archive](https://archive.org/details/youtubeannotations)  
   An archive of YouTube annotations. Over 1.4 billion video annotations and 2.4TB of uncompressed data. Also offered as browser addons.
 
