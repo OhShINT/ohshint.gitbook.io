@@ -204,6 +204,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **YouTube**
 
+- [YouTube Annotations Archive](https://archive.org/details/youtubeannotations) - *Added 14/9/2022.*
 - [IntelX YouTube Search](https://intelx.io/tools?tab=youtube) - *Added 25/4/2022.*
 
 ## <u>**Mapping and Geo-Spatial Intelligence [GEOINT]**</u>
@@ -307,6 +308,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Mapping Resources**
 
+- [London Picture Map](https://www.londonpicturearchive.org.uk/london-picture-map) - *Added 14/9/2022.*
 - [ScratchMap](https://scratch-map-delta.vercel.app/) - *Added 14/7/2022.*
 - [MapChart](https://www.mapchart.net/) - *Added 14/7/2022.*
 - [3D Sun Path](http://andrewmarsh.com/apps/staging/sunpath3d.html) - *Added 4/8/2022.*
@@ -391,6 +393,11 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Norway Company Search](https://www.proff.no/) - *Added 26/3/2022.*
 - [Sweden Company Search](https://www.proff.se/) - *Added 26/3/2022.*
 - [Denmark Company Search](https://www.proff.dk/) - *Added 26/3/2022.*
+
+#### **North America**
+
+- **United States**
+  - [Secretary of State Business Search](https://cobaltintelligence.com/secretary-of-state-business-search) - *Added 14/9/2022.*
 
 ## **<u>Financial Intelligence [FININT]</u>**
 
