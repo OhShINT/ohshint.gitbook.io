@@ -601,3 +601,5 @@
   Create a map based on Google location data. Useful if you have location data on a POI.
 - [MapChart](https://www.mapchart.net/)  
   Create your own custom maps and fill in specific areas. Useful for keeping track of GEOINT investigations.
+- [London Picture Map](https://www.londonpicturearchive.org.uk/london-picture-map)  
+  Interactive map of more than 100,000 images of London. Photos from the 19th century to now.
