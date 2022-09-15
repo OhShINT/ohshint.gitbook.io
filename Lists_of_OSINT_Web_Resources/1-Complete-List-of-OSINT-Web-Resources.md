@@ -1255,6 +1255,8 @@ A Google CSE that searches for scientific publications.
   Image metadata from Flickr plotted on a map.
 - [idGettr](https://www.webfx.com/tools/idgettr/)  
   Use the URL of a Flickr photo stream to find the Flickr ID number, also works for groups.
+- [Flickr Photopool Contact Network](https://labs.polsys.net/tools/flickr/photopool/)  
+  Analyzes Flickr groups and makes a list of usernames of participants.
 
 ## **GitHub**
 
