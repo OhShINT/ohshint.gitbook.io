@@ -95,7 +95,7 @@
 #### **Canada** 
 
 - [Canada Business Registries Search](https://beta.canadasbusinessregistries.ca/search)  
-  Search through the official registries of Alberta, British Columbia, Manitoba, Ontario, Quebec, Saskatchewan, and Corporations Canada. This service lets you search across these registries at one time. Information from these registries may be updated on a daily or monthly basis.\
+  Search through the official registries of Alberta, British Columbia, Manitoba, Ontario, Quebec, Saskatchewan, and Corporations Canada. This service lets you search across these registries at one time. Information from these registries may be updated on a daily or monthly basis.
 - **United States**
   - [Secretary of State Business Search](https://cobaltintelligence.com/secretary-of-state-business-search)  
     Search for U.S. based businesses and find Secretary of State documents for a target business.
