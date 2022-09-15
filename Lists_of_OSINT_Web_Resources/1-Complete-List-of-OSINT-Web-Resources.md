@@ -2358,6 +2358,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Create a map based on Google location data. Useful if you have location data on a POI.
 - [MapChart](https://www.mapchart.net/)  
   Create your own custom maps and fill in specific areas. Useful for keeping track of GEOINT investigations.
+- [London Picture Map](https://www.londonpicturearchive.org.uk/london-picture-map)  
+  Interactive map of more than 100,000 images of London. Photos from the 19th century to now.
 
 # <u>**Imagery Intelligence [IMINT]**</u>
 
@@ -2686,6 +2688,9 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - **Canada** 
   - [Canada Business Registries Search](https://beta.canadasbusinessregistries.ca/search)  
     Search through the official registries of Alberta, British Columbia, Manitoba, Ontario, Quebec, Saskatchewan, and Corporations Canada. This service lets you search across these registries at one time. Information from these registries may be updated on a daily or monthly basis.
+- **United States**
+  - [Secretary of State Business Search](https://cobaltintelligence.com/secretary-of-state-business-search)  
+    Search for U.S. based businesses and find Secretary of State documents for a target business.
 
 ## **Shipping and International Trade**
 
