@@ -87,8 +87,6 @@
 
 - [MIT PGP Public Key Server](https://pgp.mit.edu/)  
   A searchable database of public PGP keys from MIT.
-- [PeeGeePee](https://peegeepee.com/)  
-  A public key server for public PGP keys.
 - [PGP Global Directory](https://keyserver.pgp.com/)  
   Search for public PGP keys.
 - [OpenPGP Key Search](https://keys.openpgp.org/)  
