@@ -1889,6 +1889,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Access topographic maps, satellite imagery, hiking trails and more online or via their mobile application.
 - [SarTopo](https://sartopo.com/map.html)  
   A mapping service often used by first responders. Offers many mapping layers like topographic, OSM, structures, weather, slope angles, geology, fire history and more.
+- [GeoReferencer](https://www.georeferencer.com/)  
+  An online tool that allows you to overlay images over locations and combine multiple maps into one. Very handy.
 
 ## **Street View Maps**
 
@@ -2775,6 +2777,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Locate transactions between two Bitcoin addresses.
 - [IntelX Bitcoin Search](https://intelx.io/tools?tab=bitcoin)  
   A great search engine for the Bitcoin blockchain offered by IntelX.
+- [[PDF] Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf)  
+  The original Bitcoin technical whitepaper written and released by the mysterious Satoshi Nakamoto on 31/10/2008. Archived copies available [here (Wayback)](https://web.archive.org/web/20220920015616/https://bitcoin.org/bitcoin.pdf) and [here (Library Genesis)](https://libgen.rs/book/index.php?md5=D56D71ECADF2137BE09D8B1D35C6C042).
 
 ### **Ethereum [ETH] Specific**
 
