@@ -3391,6 +3391,17 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [Short Link Verification Cheatsheet](https://seintpl.github.io/osint/short-links-verification-cheatsheet)  
   A list of techniques to verify links from many URL shortening services. Created by [@SIENT_pl](https://twitter.com/SEINT_pl). Archived [here (Wayback)](https://web.archive.org/web/20220213024000/https://seintpl.github.io/osint/short-links-verification-cheatsheet) and [here (archive.today)](https://archive.ph/Z4lWo).
 
+## **Certificate Transparency [CT]**
+
+- [crt.sh](https://crt.sh/)  
+  A great site where you could find all the SSL and/or TLS certificates of a target domain. crt.sh is pronounced "Search", by the way. 
+- [SSLMate](https://sslmate.com/ct_search_api/)  
+  Instantly search Certificate Transparency logs for any domains SSL certificates using this convenient API. 
+- [Entrust](https://www.entrust.com/resources/certificate-solutions/tools/certificate-transparency-search)  
+  Entrust records all SSL/TLS certificates that we issue to the CT logs. This practice promotes transparency and provides an open way for domain owners to audit and monitor certificates that have been issued in their name. 
+- [SSL Tools](https://ssl-tools.net/)  
+  Offers some useful tools when investigating SSL certificates.
+
 ## **Wireless Fidelity [WiFi]**
 
 - [WiGLE](https://wigle.net/)  
@@ -3504,6 +3515,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A large collection of live and real-time webcams in Ukraine plotted on 3D map.
 - [OpenTrafficCamMap](https://otc.armchairresearch.org/map)  
   An interactive map of openly accessible traffic camera feeds in the United States.
+- [The Follower](https://driesdepoorter.be/thefollower/)  
+  A pretty cool project that uses open cameras and AI to find how an Instagram photo is taken. Created by [@driesdepoorter](https://twitter.com/driesdepoorter).
 
 ## **Attack Maps**
 
@@ -4062,6 +4075,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Search for public PGP keys via email address, PGP fingerprint or key ID.
 - [Keybase](https://keybase.io/)  
   Search for Keybase users and PGP keys.
+- [PGP SKS Keyserver Dump](https://mirror.cyberbits.eu/sks/dump/)  
+  A database of public PGP keys which is updated often. Refer to their [README.txt](https://mirror.cyberbits.eu/sks/dump/README.txt) ([Wayback](https://web.archive.org/web/20220920014322/https://mirror.cyberbits.eu/sks/dump/README.txt)), ([archive.today](https://archive.ph/Y4dyq)) for more information on downloading and importing. Total archive size is just over 32GB.
 
 # <u>**Phone Numbers**</u>
 
@@ -4916,6 +4931,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Photos of real relationship and romance scammers, as well as other images commonly used by these scammers.
 - [Scamdex](https://www.scamdex.com/)  
   A massive archive of emails from scammers dating back to 2004.
+- [Link-Base](https://link-base.org/)  
+  World's biggest link list for hacking, carding and security forums and sites.
 
 ## **Other Illicit Trade**
 
@@ -5147,7 +5164,9 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 - [UAV Guide](https://www.militaryfactory.com/aircraft/unmanned-aerial-vehicle-uav.php)  
   List of UAVs including detailed information about payloads, dimensions and other drone specifications.
 - [Wikipedia - List of Unmanned Aerial Vehicles](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles) ([WikiLess](https://wikiless.org/wiki/List_of_unmanned_aerial_vehicles))  
-  Wikipedia's list of UAVs that sorts UAVs by country.  
+  Wikipedia's list of UAVs that sorts UAVs by country. 
+- [DroneWars Drone Crash Database](https://dronewars.net/drone-crash-database/)  
+  A database that covers crashes of large ([Class II and III](http://www.globalsecurity.org/military/world/europe/aircraft-uav-class.htm)) military drones since 1/1/2007. It has been compiled from USAF Accident Investigation Board (AIB) Reports, the Wikileaks War Logs, The Washington Post US drone crash database and reports from the general and military press.
 
 ### **Boats**
 
