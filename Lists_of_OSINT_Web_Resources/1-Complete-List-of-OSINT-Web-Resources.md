@@ -2899,6 +2899,11 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A U.S. license plate search tool.
 - [PlaqueFree](http://plaque.free.fr/ph_e.html)  
   A database of over 100,000 different license plates from all over the world.
+  
+### **Recalls and Safety Ratinngs**
+
+- [NHTSA Recalls and Safety Ratings](https://www.nhtsa.gov/campaign/safercargov)  
+  Search for vehicle safety ratings and recalls for vehicles, tires, parts, car seats and more.
 
 ## **Marine**
 
