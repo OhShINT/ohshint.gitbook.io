@@ -161,6 +161,17 @@
 - [Short Link Verification Cheatsheet](https://seintpl.github.io/osint/short-links-verification-cheatsheet)  
   A list of techniques to verify links from many URL shortening services. Created by [@SIENT_pl](https://twitter.com/SEINT_pl). Archived [here (Wayback)](https://web.archive.org/web/20220213024000/https://seintpl.github.io/osint/short-links-verification-cheatsheet) and [here (archive.today)](https://archive.ph/Z4lWo).
 
+## **Certificate Transparency [CT]**
+
+- [crt.sh](https://crt.sh/)  
+  A great site where you could find all the SSL and/or TLS certificates of a target domain. crt.sh is pronounced "Search", by the way. 
+- [SSLMate](https://sslmate.com/ct_search_api/)  
+  Instantly search Certificate Transparency logs for any domains SSL certificates using this convenient API. 
+- [Entrust](https://www.entrust.com/resources/certificate-solutions/tools/certificate-transparency-search)  
+  Entrust records all SSL/TLS certificates that we issue to the CT logs. This practice promotes transparency and provides an open way for domain owners to audit and monitor certificates that have been issued in their name. 
+- [SSL Tools](https://ssl-tools.net/)  
+  Offers some useful tools when investigating SSL certificates.
+
 ## **Wireless Fidelity [WiFi]**
 
 - [WiGLE](https://wigle.net/)  
@@ -274,6 +285,8 @@
   A large collection of live and real-time webcams in Ukraine plotted on 3D map.
 - [OpenTrafficCamMap](https://otc.armchairresearch.org/map)  
   An interactive map of openly accessible traffic camera feeds in the United States.
+- [The Follower](https://driesdepoorter.be/thefollower/)  
+  A pretty cool project that uses open cameras and AI to find how an Instagram photo is taken. Created by [@driesdepoorter](https://twitter.com/driesdepoorter).
 
 ## **Attack Maps**
 
