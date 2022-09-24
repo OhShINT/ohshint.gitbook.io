@@ -2156,6 +2156,12 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Presents the locations of tower sites for each licensed Canadian wireless provider. Each site is indicated by a color coded icon.
 - [Cell2GPS](http://www.cell2gps.com/)  
   Track down a GSM/WCDMA/TD-LTE/FDD-LTE cell phone online using LAC (Location Area Code) and Cell ID. Or CDMA/CDMA2000 using SID, NID and BID, and display its location on maps.
+- [Unwired Labs Location API](https://unwiredlabs.com/)  
+  Offers reliable mobile positioning and mapping technologies as a LaaS API (Location as a Service) to developers and companies globally. Requires registration.
+- [MLS Map](https://location.services.mozilla.com/map)  
+  The Mozilla Location Service (MLS) is an open service, which lets devices determine their location based on network infrastructure like Bluetooth beacons, cell towers and WiFi access points. This network based location service complements satellite based navigation systems like A-GPS. Also provides daily updates and offers downloadable data sets.
+- [LTE Italy](https://lteitaly.it/)  
+  Provides maps with TIM, WindTre, Vodafone and iliad's LTE broadcasting towers and shows information about these towers.
 
 ### **Cellular Coverage Maps**
 
