@@ -202,7 +202,7 @@ Attached image:
   
 
   
-## #OSINT Protip 10
+## OSINT Protip 10
 
 > Posted on *14/11/2021* at *5:32 PM*.  
 > URL: [https://twitter.com/ohshint_/status/1460058111188733952](https://twitter.com/ohshint_/status/1460058111188733952)
@@ -1026,3 +1026,24 @@ Historical WHOIS and DNS records can reveal ownership details or locate other im
 - [https://whoxy.com/whois-history/](https://www.whoxy.com/whois-history/) 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#DNINT](https://twitter.com/hashtag/DNINT?src=hashtag_click)
+
+
+
+## OSINT Protip 46
+
+> Posted on *19/9/2022* at *7:36 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1572052053962424320](https://twitter.com/ohshint_/status/1572052053962424320)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 46: 
+
+Identifying and monitoring [#blockchain](https://twitter.com/hashtag/blockchain?src=hashtag_click) transactions is essential when working on any crypto case. From ransomware to typical scams. 
+
+- [https://blockchair.com](https://blockchair.com/) 
+- [https://breadcrumbs.app](https://www.breadcrumbs.app/) 
+- [https://zapper.fi](https://zapper.fi/) 
+- [https://cryptologos.cc](https://cryptologos.cc/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#FININT](https://twitter.com/hashtag/FININT?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Basic-Bitcoin-Investigation-Using-Breadcrumbs-App.jpg"/>
