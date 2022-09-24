@@ -152,6 +152,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   Photos of real relationship and romance scammers, as well as other images commonly used by these scammers.
 - [Scamdex](https://www.scamdex.com/)  
   A massive archive of emails from scammers dating back to 2004.
+- [Link-Base](https://link-base.org/)  
+  World's biggest link list for hacking, carding and security forums and sites.
 
 ## **Other Illicit Trade**
 - [ICOM Red Lists](https://icom.museum/en/resources/red-lists/)  
