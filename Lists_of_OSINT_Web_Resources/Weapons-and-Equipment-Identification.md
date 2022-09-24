@@ -109,6 +109,9 @@
   List of UAVs including detailed information about payloads, dimensions and other drone specifications.
 - [Wikipedia - List of Unmanned Aerial Vehicles](https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles) ([WikiLess](https://wikiless.org/wiki/List_of_unmanned_aerial_vehicles))  
   Wikipedia's list of UAVs that sorts UAVs by country.  
+- [DroneWars Drone Crash Database](https://dronewars.net/drone-crash-database/)  
+  A database that covers crashes of large ([Class II and III](http://www.globalsecurity.org/military/world/europe/aircraft-uav-class.htm)) military drones since 1/1/2007. It has been compiled from USAF Accident Investigation Board (AIB) Reports, the Wikileaks War Logs, The Washington Post US drone crash database and reports from the general and military press.
+
 
 ### **Boats**
 
