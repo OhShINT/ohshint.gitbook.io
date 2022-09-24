@@ -131,6 +131,8 @@
   Access topographic maps, satellite imagery, hiking trails and more online or via their mobile application.
 - [SarTopo](https://sartopo.com/map.html)  
   A mapping service often used by first responders. Offers many mapping layers like topographic, OSM, structures, weather, slope angles, geology, fire history and more.
+- [GeoReferencer](https://www.georeferencer.com/)  
+  An online tool that allows you to overlay images over locations and combine multiple maps into one. Very handy.
 
 ## **Street View Maps**
 
