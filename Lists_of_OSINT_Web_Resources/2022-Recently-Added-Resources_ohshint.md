@@ -111,6 +111,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Facebook Image Search](https://cse.google.com/cse?cx=013991603413798772546:jyvyp2ppxma#gsc.tab=0) - *Added 26/3/2022.*
 - [StalkFace](https://stalkface.com/en/) - *Added 25/1/2022.*
 
+### Flickr
+
+- [Flickr Photopool Contact Network](https://labs.polsys.net/tools/flickr/photopool/) - *Added 14/9/2022.*
+
 ### **GitHub**
 
 - [ReposTimeline](https://repostimeline.nazifbara.com/) - *Added 10/8/2022.*
@@ -211,6 +215,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General Mapping Tools**
 
+- [GeoReferencer](https://www.georeferencer.com/) - *Added 24/9/2022.*
 - [SarTopo](https://sartopo.com/map.html) - *Added 10/8/2022.*
 - [GaiaGPS](https://www.gaiagps.com/map/) - *Added 10/8/2022.*
 - [GeoVisual Search](https://search.descarteslabs.com/) - *Added 14/7/2022.*
@@ -275,6 +280,9 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Cell Tower Maps**
 
+- [Unwired Labs Location API](https://unwiredlabs.com/) - *Added 24/9/2022.*
+- [MLS Map](https://location.services.mozilla.com/map) - *Added 24/9/2022.*
+- [LTE Italy](https://lteitaly.it/) - *Added 24/9/2022.*
 - [Cell2GPS](http://www.cell2gps.com/) - *Added 26/3/2022.*
 
 ### **Industry Maps**
@@ -414,6 +422,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Bitcoin [BTC] Specific**
 
+- [[PDF] Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf) - *Added 24/9/2022.*
 - [IntelX Bitcoin Search](https://intelx.io/tools?tab=bitcoin) - *Added 25/4/2022.*
 
 ### **Investments and Stocks**
@@ -439,6 +448,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [SearchQuarry](https://www.searchquarry.com/free-license-plate-number-lookup/) - *Added 2/1/2022.*
 - [FindByPlate](https://findbyplate.com/) - *Added 2/1/2022.*
 - [AutoCheck License Plate Search](https://www.autocheck.com/vehiclehistory/search-by-license-plate) - *Added 2/1/2022.*
+
+#### Recalls and Safety Ratings
+
+- [NHTSA Recalls and Safety Ratings](https://www.nhtsa.gov/campaign/safercargov) - *Added 24/9/2022.*
 
 ### **Aircraft**
 
@@ -509,7 +522,14 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [Short Link Verification Cheatsheet](https://seintpl.github.io/osint/short-links-verification-cheatsheet) - *Added 21/2/2022.*
 
-#### **Wireless Fidelity [WiFi]**
+### **Certificate Transparency [CT]**
+
+- [crt.sh](https://crt.sh/) - *Added 24/9/2022.*
+- [SSLMate](https://sslmate.com/ct_search_api/) - *Added 24/9/2022.*
+- [Entrust](https://www.entrust.com/resources/certificate-solutions/tools/certificate-transparency-search) - *Added 24/9/2022.*
+- [SSL Tools](https://ssl-tools.net/) - *Added 24/9/2022.*
+
+### **Wireless Fidelity [WiFi]**
 
 - [Airport WiFi](https://umap.openstreetmap.fr/en/map/wireless-passwords-from-airports-and-lounges-aroun_107272#9/) - *Added 21/2/2022.*
 
@@ -517,6 +537,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **CCTV and Webcams**
 
+- [The Follower](https://driesdepoorter.be/thefollower/) - *Added 24/9/2022.*
 - [OpenTrafficCamMap](https://otc.armchairresearch.org/map) - *Added 4/8/2022.*
 - [Ukraine Live Cams](https://nagix.github.io/ukraine-livecams/#5.5/47.774/31.685/0/45) - *Added 8/4/2022.*
 - [Deckchair](https://www.deckchair.com/) - *Added 25/1/2022.*
@@ -634,6 +655,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [BreachChecker](https://breachchecker.com/) - *Added 25/4/2022.*
 - [Breached.co](https://breached.co/index.php) - *Added 22/03/2022.*
 
+### **Pretty Good Privacy [PGP]**
+
+- [PGP SKS Keyserver Dump](https://mirror.cyberbits.eu/sks/dump/) - *Added 24/9/2022.*
+
 ## **<u>Usernames</u>**
 
 - [IntelX Username Search](https://intelx.io/tools?tab=username) - *Added 25/4/2022.*
@@ -705,6 +730,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Fraud and Scams**
 
+- [Link-Base](https://link-base.org/) - *Added 24/9/2022.*
 - [Scamdex](https://www.scamdex.com/) - *Added 4/8/2022.*
 - [Male-Scammers](https://www.male-scammers.com/) - *Added 21/2/2022.*
 - [Scammers.ru](https://scammers.ru/) - *Added 21/2/2022.*
@@ -752,6 +778,10 @@ All dates are listed in *DD/MM/YYYY* format.
 #### **Motor Vehicles**
 
 - [Tanks Encylopedia](https://tanks-encyclopedia.com/) - *Added 15/6/2022.*
+
+#### **Drones**
+
+- [DroneWars Drone Crash Database](https://dronewars.net/drone-crash-database/) - *Added 24/9/2022.*
 
 ## <u>**Government Information**</u>
 
