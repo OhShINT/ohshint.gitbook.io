@@ -158,6 +158,7 @@ Remember, CTRL+F is your friend here.
     + [**Enumeration**](#enumeration)
     + [**Web Page Monitoring**](#web-page-monitoring)
   * [**Uniform Resource Locators [URL] Redirects and Backlinks**](#uniform-resource-locators-url-redirects-and-backlinks)
+  * [**Certificate Transparency [CT]**](#certificate-transparency-ct)
   * [**Wireless Fidelity [WiFi]**](#wireless-fidelity-wifi)
   * [**Media Access Control [MAC]**](#media-access-control-mac)
   * [**User Agents**](#user-agents)
