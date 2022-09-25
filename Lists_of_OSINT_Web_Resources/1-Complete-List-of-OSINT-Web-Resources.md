@@ -132,6 +132,7 @@ Remember, CTRL+F is your friend here.
     + [**Vehicle Recognition**](#vehicle-recognition)
     + [**Vehicle Identification Numbers [VIN]**](#vehicle-identification-numbers-vin)
     + [**License Plates**](#license-plates)
+    + [**Recalls and Safety Ratings**](#recalls-and-safety-ratinngs)
   * [**Marine**](#marine)
     + [**Vessel Tracking**](#vessel-tracking)
     + [**Vessel and Crew Information**](#vessel-and-crew-information)
