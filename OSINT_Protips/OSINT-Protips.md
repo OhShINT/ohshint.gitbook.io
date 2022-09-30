@@ -1047,3 +1047,24 @@ Identifying and monitoring [#blockchain](https://twitter.com/hashtag/blockchain?
 
 Attached image:
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Basic-Bitcoin-Investigation-Using-Breadcrumbs-App.jpg"/>
+
+
+
+## OSINT Protip 47
+
+> Posted on *29/9/2022* at *7:36 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1575675999005839360](https://twitter.com/ohshint_/status/1575675999005839360)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 47: 
+
+Property and real estate records can reveal loads of information like 360° tours, floor plans, construction details, owners and more. 
+
+- [https://cse.google.com/cse?cx=b5bba571be1788aaa](https://cse.google.com/cse?cx=b5bba571be1788aaa)
+- [https://zillow.com](https://www.zillow.com/)
+- [https://officespace.com](https://www.officespace.com/)
+- [https://arivify.com](https://www.arivify.com/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/360-Tour-Example.PNG"/>
