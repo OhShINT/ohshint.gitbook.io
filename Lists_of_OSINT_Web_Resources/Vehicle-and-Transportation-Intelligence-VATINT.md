@@ -101,6 +101,8 @@ Search for vehicle safety ratings and recalls for vehicles, tires, parts, car se
   An interactive map that shows the location and direction of warships in real-time.
 - [MyShipTracking](https://www.myshiptracking.com/)  
   A free AIS vessel tracking service. Monitor positions, traffic and port activity in real-time.
+- [ShipTraffic](http://www.shiptraffic.net/)  
+  Offers maps, ship tracking, and other general information.
 
 ### **Vessel and Crew Information**
 
@@ -256,6 +258,8 @@ Search for vehicle safety ratings and recalls for vehicles, tires, parts, car se
   A database of airfields, not airports in the UK and elsewhere, searchable via map.
 - [AirportWebcams](https://airportwebcams.net/)  
   Directory of webcams from various airports and runways from around the world.
+- [AirLive Cams](https://cam.airlive.net/)  
+  Watch live camera feeds for many different airports all over the world.
 - [List of German Airfields](https://ulforum.de/flugplatzliste)  
   Great airfield database for Germany. Includes smaller training, private and military airfields. Click [here](https://www-ulforum-de.translate.goog/flugplatzliste?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en-US) for a German to English translation.
 
