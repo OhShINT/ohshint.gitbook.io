@@ -433,10 +433,44 @@
     - [SAPO](https://www.sapo.pt/)  
       A Portuguese search engines that is powered by Google.
   - <u>**Romaina**</u>
+    - [Bizroo](https://www.bizoo.ro/)  
+      A major web directory with more than 100,000 companies from Romania.  
+    - [RomanianStartups](https://www.romanianstartups.com/)  
+      The Romanian tech startup scene at a glance. Listings of tech startups including founders, accelerators, incubators, events and co-working space. 
   - <u>**Slovakia**</u>
+    - [EXO](https://www.exo.sk/)  
+      Slovak search engine, directory, RSS search and domain search. 
+    - [Dunco](https://www.dunco.sk/)  
+      Dunco is a Slovakian search engine with a friendly dog logo.   
+    - [Atlas SK](https://atlas.centrum.sk/)  
+      Slovak version of the Atlas search engine.  
+    - [Najdes](http://www.najdes.sk/)  
+      Search portal of the Slovak Internet offering information and entertainment for everyone.  
+    - [Zoznam](https://zoznam.sk/)  
+      List of the Slovak Internet.
   - <u>**Russia**</u>
+    - [KazanCity](https://www.kazancity.ru/)  
+      Universal directory and search engine of websites organized into categories and sorted by rank. Also available in English.   
+    - [MetaBear](https://www.metabear.ru/)  
+      Search engine with options for Russian search, world search and FTP search.  
+    - [MetaBot](https://www.metabot.ru/)  
+      The Russian version of the above "MetaBear" search engine.  
+    - [Aport](https://russia.aport.ru/)  
+      Russian search engine for goods and services.  
+    - [Rambler](https://www.rambler.ru/)  
+      Russian search engine portal page. One of the major Russian portals on the Internet.  
+    - [Mail.ru](https://mail.ru/)  
+      Offers a variety of online communication products and entertainment services for Russian speakers all over the world including search, social networks, cloud services and email.  
+    - [Ulitka](http://www.ulitka.ru/)  
+      Searcheable web directory of many different Russian sites. 
   - <u>**Slovenia**</u>
+    - [Najdi](https://www.najdi.si/)  
+      Slovenia search engine.  
+    - [Raziskovalec](https://www.raziskovalec.com/)  
+      Search engine and web portal for Slovenia.
   - <u>**Serbia**</u>
+    - [Yu Search](https://www.yusearch.com/)  
+      Internet search engine specialized for Yu cyberspace. If you want to find information or resources on the internet, related to Serbia/Yugoslavia. Start here.
   - <u>**Sweden**</u>
     - [Tjohoo](https://tjohoo.se/)  
       Features a Swedish web portal and search engine.
@@ -446,7 +480,17 @@
     - [Search.ch](https://www.search.ch/)  
       A search engine and web portal for Switzerland.
   - <u>**Spain**</u>
+    - [Apali!](http://www.apali.com/)  
+      A simple effective and dynamic searcher created in 1996 that has worked with the same system and philosophy since. An ethical search engine that controls personally all the information added to its files to ensure proper entries and truthful information. 
   - <u>**Ukraine**</u>
+    - [Brama](http://www.brama.com/)  
+      Information focusing on Ukraine and Ukrainians.  
+    - [Meta UA](https://meta.ua/)  
+      Ukrainian search engine and news portal.  
+    - [Ukrainian Directory](http://ukrainiandirectory.org/MainDir.htm)  
+      Web directory for Ukraine.  
+    - [Sesna](http://www.uazone.net/sesna/)  
+      Ukrainian search engine.
 - <u>**North America**</u>
   - <u>**Canada**</u>
     - [LookSeek Canada](http://www.lookseek.ca/)  
@@ -695,6 +739,8 @@
   A web-based code search and navigation tool. Indexes every open source repository with more than 1 star. Claims to have indexed over 1 million repositories and counting.
 - [Source Code Search Engine](https://publicwww.com/)  
   Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.
+- [Leaked Wiki](https://leaked.wiki/home)  
+  Search through thousands of scraped pastes, files and links.
 
 ## **Blog, Forum and Image Board Search**
 
