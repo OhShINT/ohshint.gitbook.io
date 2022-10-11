@@ -2783,6 +2783,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search through millions of public employee salary records by name.
 - [France Transparency](https://www.transparence.sante.gouv.fr/)  
   Similar to the above tool, except for France. Provides payments received from pharmaceutical companies and/or medical device companies.
+- [StAR: The Stolen Asset Recovery Initiative](https://star.worldbank.org/)  
+  A partnership between the World Bank Group and the United Nations Office on Drugs and Crime that supports international efforts to end safe havens for corrupt funds. Offers many reports and AML information.
 
 ## **Cryptocurrency and Blockchain**
 
