@@ -708,6 +708,8 @@
   A database of free, open-access computer and IT books.
 - [BTDigg](https://btdig.com/index.htm)  
   A BitTorrent DHT search engine. Find torrents for just about anything.
+- [CiteSeerX](https://citeseer.ist.psu.edu/index)  
+  A scientific literature digital library and search engine that focuses primarily on the literature in computer and information science.
 
 ## **Video Search**
 
