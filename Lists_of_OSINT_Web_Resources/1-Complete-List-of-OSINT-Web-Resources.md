@@ -1705,6 +1705,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Explore how information spreads across Twitter with an interactive network using the OSoMe decahose archive.
 - [TweeterID](https://tweeterid.com/)  
   Type in any Twitter ID or @handle, and it will be converted into the respective ID or username.
+- [GigaTweeter](http://gigatweeter.com/)  
+  Monitor Twitter topics and accounts without having to login. 
+- [ExportData](https://www.exportdata.io/)  
+  Export historical tweets, download lists of followers and followings from any public account.
 
 ## **Untappd**
 
