@@ -122,6 +122,8 @@
   Simply enter a URL and this free tool will crawl the target site and provide a list of all URLs.
 - [Blacklight](https://themarkup.org/blacklight)  
   This free online tool checks web pages for any privacy invading scripts, apps, session trackers, ads, and so on.
+- [GA Checker](http://www.gachecker.com/)  
+  Spiders a site, and identifies which pages contain Google Analytics and/or Google AdWords tags and which ones do not.
   
 ### **Web Page Monitoring**
 
@@ -437,3 +439,5 @@ Allows you to view a website in a different browser online. For example, a Mac u
   Enter the API key or token to find out which service it can be used by.
 - [IEMI.info](https://www.imei.info/)  
   Every mobile phone, GSM modem or device has an IMEI number. Based on this number, you can check some information about the device like brand and model.
+- [SNDeepInfo](https://sndeep.info/en)  
+  A service for checking a serial numbers of phones, smartphones, cameras, household appliances and IMEI phones of all brands.
