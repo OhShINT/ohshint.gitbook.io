@@ -474,6 +474,8 @@
   An interactive map of schools, colleges and universities in the U.S.
 - [GeoHints](https://www.geohints.com/)  
   An excellent visual reference database of utility poles, bollards, license plates, road signs and much more. Great resource for any GEOINT investigation.
+- [Strucurae](https://structurae.net/en/)  
+  A great structual engineering reference database. Provides information like clients, owners, construction specifications and more.
   
 ## **Outdoor Activity Maps**
 
