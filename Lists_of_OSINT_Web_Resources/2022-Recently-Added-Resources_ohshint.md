@@ -17,6 +17,42 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### Country Specific Search Engines and Directories
 
+#### Romania
+
+- [Bizroo](https://www.bizoo.ro/) - *Added 24/9/2022.*
+- [RomanianStartups](https://www.romanianstartups.com/) - *Added 24/9/2022.* 
+
+#### Russia
+
+- [KazanCity](https://www.kazancity.ru/) - *Added 24/9/2022.*
+- [MetaBear](https://www.metabear.ru/) - *Added 24/9/2022.*
+- [MetaBot](https://www.metabot.ru/) - *Added 24/9/2022.*
+- [Aport](https://russia.aport.ru/) - *Added 24/9/2022.*
+- [Rambler](https://www.rambler.ru/) - *Added 24/9/2022.*
+- [Mail.ru](https://mail.ru/) - *Added 24/9/2022.*
+- [Ulitka](http://www.ulitka.ru/) - *Added 24/9/2022.* 
+
+#### Serbia 
+
+- [Yu Search](https://www.yusearch.com/) - *Added 24/9/2022.* 
+
+#### Spain 
+
+- [Apali!](http://www.apali.com/) - *Added 24/9/2022.* 
+
+#### Slovakia 
+
+- [EXO](https://www.exo.sk/)  - *Added 24/9/2022.* 
+- [Dunco](https://www.dunco.sk/) - *Added 24/9/2022.* 
+- [Atlas SK](https://atlas.centrum.sk/) - *Added 24/9/2022.* 
+- [Najdes](http://www.najdes.sk/) - *Added 24/9/2022.* 
+- [Zoznam](https://zoznam.sk/) - *Added 24/9/2022.* 
+
+#### Slovenia
+
+- [Najdi](https://www.najdi.si/) - *Added 24/9/2022.* 
+- [Raziskovalec](https://www.raziskovalec.com/) - *Added 24/9/2022.* 
+
 #### Sri Lanka
 
 - [SpotJobs](https://www.spotjobs.lk/) - *Added 4/3/2022.*
@@ -25,12 +61,20 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [Rastgelelik](https://www.rastgelelik.com) - *Added 15/6/2022.*
 
+#### Ukraine 
+
+- [Brama](http://www.brama.com/) - *Added 15/6/2022.*
+- [Meta UA](https://meta.ua/) - *Added 15/6/2022.*
+- [Ukrainian Directory](http://ukrainiandirectory.org/MainDir.htm) - *Added 15/6/2022.*
+- [Sesna](http://www.uazone.net/sesna/) - *Added 15/6/2022.*
+
 ### **Meta Search**
 
 - [BizNar](https://biznar.com/biznar/desktop/en/) - *Added 25/1/2022.*
 
 ### **Document and File Search**
 
+- [CiteSeerX](https://citeseer.ist.psu.edu/index) - *Added 14/9/2022.*
 - [BTDigg](https://btdig.com/index.htm) - *Added 14/9/2022.*
 - [Library Genesis Technical](https://libgen.fun/) - *Added 10/9/2022.*
 - [FreeTechBooks](https://www.freetechbooks.com/) - *Added 10/9/2022.*
@@ -805,7 +849,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [Upplysning](https://www.upplysning.se/) - *Added 2/1/2022.*
 
-## <u>**Dictionaries,  Translation and Decoding**</u>
+## <u>**Dictionaries, Translation and Decoding**</u>
 
 ### **General Translation**
 
