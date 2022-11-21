@@ -1044,8 +1044,6 @@ A Google CSE that searches for scientific publications.
   A web-based code search and navigation tool. Indexes every open source repository with more than 1 star. Claims to have indexed over 1 million repositories and counting.
 - [Source Code Search Engine](https://publicwww.com/)  
   Find any alphanumeric snippet, signature or keyword in the web pages HTML, JS and CSS code.
-- [Leaked Wiki](https://leaked.wiki/home)  
-  Search through thousands of scraped pastes, files and links.
 
 ## **Blog, Forum and Image Board Search**
 
@@ -1161,7 +1159,9 @@ A Google CSE that searches for scientific publications.
 - [Online IDE and Paste Search Engine](https://redhuntlabs.com/online-ide-search)  
   Search and find strings across multiple IDEs, code aggregators and paste sites. 
 - [Doxbin](https://doxbin.org/)  
-  A document sharing and publishing website which invites users to contribute personally identifiable information (PII), or a "dox" of any person of interest. It previously operated on the darknet as a TOR hidden service.
+  A document sharing and publishing website which invites users to contribute personally identifiable information (PII), or a "dox" of any person of interest. It previously operated on the darknet as a TOR hidden service. 
+- [Leaked Wiki](https://leaked.wiki/home)  
+  Search through thousands of scraped pastes, files and links.
 
 # <u>**Social Media Intelligence [SOCMINT]**</u>
 
