@@ -394,11 +394,15 @@ Similar to the above, this is a big list of dialing codes for each different cou
     Polish business directory.
 - **<u>Portugal</u>**
 - **<u>Romania</u>**
+  - [Romanian Yellow Pages](https://romanianyellowpages.ro/)  
+    A Romanian business directory.
 - **<u>Serbia</u>**
   - [Yellow Pages Serbia](https://www.yell.rs/)  
     Business directory for Serbia.
 - **<u>Slovakia</u>**
 - **<u>Slovenia</u>**
+  - [ITIS](https://www.itis.si/)  
+    Telephone directory of Slovenia. Claims to have ~775,000 different phone numbers listed.
 - **<u>Spain</u>**
   - [Yellow Pages Spain](https://www.paginasamarillas.es/)  
     Business directory for Spain.
