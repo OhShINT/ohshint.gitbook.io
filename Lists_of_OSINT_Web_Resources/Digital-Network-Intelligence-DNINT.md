@@ -50,6 +50,8 @@
   Search for information about IP addresses, domains, malicious links, phishing sites and more.
 - [IPinfo](https://ipinfo.io/)  
   Provides information about IP addresses, also offers a great CLI tool. Requires a paid subscription.
+- [GreenSnow IP Blacklist](https://www.greensnow.co/)  
+  A IP blacklist of known spammer and malicious IP addresses that is constantly being updated.
 
 ## **Domain Name System [DNS] Records**
 
