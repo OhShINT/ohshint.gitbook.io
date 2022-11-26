@@ -4541,11 +4541,15 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
     Polish business directory.
 - **Portugal**
 - **Romania**
+  - [Romanian Yellow Pages](https://romanianyellowpages.ro/)  
+    A Romanian business directory.
 - **Serbia**
   - [Yellow Pages Serbia](https://www.yell.rs/)  
     Business directory for Serbia.
 - **Slovakia**
 - **Slovenia**
+  - [ITIS](https://www.itis.si/)  
+    Telephone directory of Slovenia. Claims to have ~775,000 different phone numbers listed.
 - **Spain**
   - [Yellow Pages Spain](https://www.paginasamarillas.es/)  
     Business directory for Spain.
