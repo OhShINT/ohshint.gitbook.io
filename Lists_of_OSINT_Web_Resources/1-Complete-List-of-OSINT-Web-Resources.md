@@ -3983,6 +3983,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A searchable archive of over 65 million records of passengers arriving to the Port of New York, USA from 1820 to 1957.
 - [VoterRecords](https://voterrecords.com/)  
   Free political research tool to study more than 92 million U.S. voter records.
+- [Fold3](https://www.fold3.com/)  
+  A massive searchable database of U.S. military records. Database contains information about the participants of wars since 1600 to the current year (2022).
 
 ## **Genealogy** 
 
