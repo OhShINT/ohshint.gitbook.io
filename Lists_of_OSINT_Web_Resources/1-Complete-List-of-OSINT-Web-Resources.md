@@ -2522,6 +2522,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Upload an image and search it on the Internet Archive, OpenLibrary, Google and TinEye.
 - [CamGirlFinder](https://camgirlfinder.net/search)  
   Search via image to find adult cam performers from 10 of the most popular adult cam sites. Results are NSFW, of course.
+- [HaveIBeenTrained](https://haveibeentrained.com/)  
+  Search an image and see if it has been used to train facial recognition AI.
 
 ## **Image Generation**
 
