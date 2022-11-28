@@ -601,6 +601,8 @@
   A search engine for the Apple app store and iTunes store.
 - [There Is A Bot For That](https://thereisabotforthat.com/bots/search)  
   A search engine that has over 5,000 bots for over 15 different platforms.
+- [WikiIndex](https://wikiindex.org/Welcome)  
+  An index of thousands of different wikis about virtually every subject.
 
 ## **Meta Search**
 
@@ -628,10 +630,14 @@
   Essentially a clone of iZito.
 - [I Search From](http://isearchfrom.com/)  
   Simulate using Google Search from a different location or device, or perform a search with custom search settings.
+- [U Search From](https://usearchfrom.com/)  
+  Simulate using Google Search from a different location or device or perform a search with custom search settings. It's useful for searching Google as if you were somewhere else.
 - [ScrapersnBots](https://scrapersnbots.com/webtools/)  
   A large collection of online tools for OSINT. Search for users with a specific name on different sites or a single domain. Google image search, YouTube tags, URL extractor and more.
 - [BizNar](https://biznar.com/biznar/desktop/en/)  
   A web search engine that returns high quality results by submitting your query to other search engines and collating, ranking and dropping duplicates in the results.
+- [Valentin.app](https://valentin.app/)  
+  An easy way to get localized search engine results pages [SERPs] at an exact location without any additional tools.
 
 ## **Similar Site Search**
 
@@ -798,6 +804,10 @@
   Search through online archives from across Europe. Search for names, companies, geographical locations and more.
 - [RaidForums Archive](https://rf-archive.com/)  
   An archive of the old RaidForums site. Data was scraped from both Google cache and the Wayback Machine.
+- [CachedView](https://cachedview.com/)  
+  Simply enter a URL and view the site via Google cache.
+- [CachedPages](http://www.cachedpages.com/)  
+  Enter any URL and view archived and cached versions of the webpage.
   
 ## **Software Search**
 
