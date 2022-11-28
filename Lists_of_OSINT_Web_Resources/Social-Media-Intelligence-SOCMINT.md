@@ -47,6 +47,11 @@
   A cloud-based data extraction tool designed to scrape useful data from Twitter, Facebook, LinkedIn, Instagram, and more. Allows data export to CSV and JSON formats. Requires a paid subscription.
 - [HuntIntel](https://www.huntintel.io/)  
   Find Instagram places, Facebook places, VK photos, public Snapchat stories and Tweets based on location as well as many more features. Requires registration.
+  
+## <u>**Bitmoji**</u>
+
+- [BACKMOJI](https://webbreacher.github.io/osinttools/)  
+  The Bitmoji avatar history enumerator, simply enter a Bitmoji ID, version (usually the number 5), and a maximum value. Press the “Grab Images!” button and your browser will make “maximum value” requests for the images of that user’s Bitmoji.
 
 ## <u>**Clubhouse**</u>
 
@@ -237,6 +242,14 @@
 
 - [NOC Social Search](https://search.noc.social/)  
   Search for social accounts across multiple Mastodon/Fediverse instances. Discover content and users on this open source social network.
+- [CommotionMade](https://www.commotionmade.com/)  
+  Bulk find Mastodon users via a list of usernames.
+- [MastoVue](https://mastovue.glitch.me/)  
+  Peek into any public Mastodon timeline or search for hashtags.
+- [Imagstodon](https://seintpl.github.io/imagstodon/)  
+  Enter a username and search for profile images on over 100 Mastodon instances. Made by [@SEINT_pl](https://twitter.com/SEINT_pl).
+- [Fediverse Mapping Project](https://kumu.io/Secjuice/fediverse)  
+  An interactive map of over 120,000 Mastodon instances. Made by [@Secjuice](https://twitter.com/Secjuice).
 
 ## <u>**OnlyFans**</u>
 
@@ -280,6 +293,8 @@
   One of the best Reddit archives out there. Search for deleted posts and comments. Allows you to search by username, subreddit, date range, string, or a commination of all.
 - [Camas Reddit Archive Search #2](https://bmai.dev/reddit/)  
   Essentially a clone of the above.
+- [Adhesivecheese Reddit Search](https://adhesivecheese.github.io/chearch/)  
+  Another clone of the Camas Reddit archive search tool. 
 - [Reveddit](https://www.reveddit.com/about/)  
   A searchable archive of removed content on Reddit. Search by username, subreddit, link or domain.
 - [Reddit User Analyzer](https://reddit-user-analyser.netlify.app/)  
