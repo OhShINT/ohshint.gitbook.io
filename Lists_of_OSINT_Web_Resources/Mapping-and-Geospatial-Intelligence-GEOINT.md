@@ -421,6 +421,8 @@
   Mobile telecom base station resources, tools and coverage maps for the UK.
 - [GSMA Network Coverage Maps](https://www.gsma.com/coverage/)  
   Continuously updated GSMA network coverage maps. Simply select the country you are visiting and the operators in that country will be listed.
+- [Ookla 5G Map](https://www.speedtest.net/ookla-5g-map)  
+  The interactive Ookla 5G Map tracks 5G rollouts in cities across the globe. Updated weekly from verified public sources and Ookla data.
 
 ### **Satellite Phone Coverage Maps**
 
@@ -451,6 +453,8 @@
   A collection of interactive maps and datasets regarding the energy sector. Fossil fuels, coal mines and more.
 - [GridFinder](https://gridfinder.org/)  
   An open source tool for predicting the location of electricity network lines, using night-time lights satellite imagery and OpenStreetMap data. Data set available for download [here](https://zenodo.org/record/3628142).
+- [U.S. Power Plants Map](https://physics.weber.edu/schroeder/energy/PowerPlantsMap.html)  
+  A map of all power plants currently operating in the United States.
   
 ## **Landmark Recognition**
 
