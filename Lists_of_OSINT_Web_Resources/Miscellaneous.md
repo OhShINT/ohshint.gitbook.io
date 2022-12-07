@@ -47,3 +47,7 @@
   Allows you to preserve online videos from most online video services.
 - [PDF24 Tools](https://tools.pdf24.org/en/all-tools)  
   A great collection of free PDF tools. Allows for editing, merging, converting, data extraction, OCRing, metadata editing, redaction, and much more.
+- [StickerLife](https://stickerlife.org/)  
+  An awesome archive of infosec and hacking related stickers created by [@koronkowy](https://twitter.com/koronkowy). Like, come on! Who doesn't like stickers 
+- [ConcertArchives](https://www.concertarchives.org/)  
+  An archive of concerts. Browse by location, artist, or concerts.
