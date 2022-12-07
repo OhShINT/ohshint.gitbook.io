@@ -1086,3 +1086,22 @@ Industry and infrastructure maps are essential when doing [#GEOINT](https://twit
 - [https://physics.weber.edu/schroeder/energy/PowerPlantsMap.html](https://physics.weber.edu/schroeder/energy/PowerPlantsMap.html)
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+
+
+## OSINT Protip 49
+
+> Posted on *29/10/2022* at *10:09 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1586586002365493248](https://twitter.com/ohshint_/status/1586586002365493248)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 49: 
+
+There are so many social media platforms out there. It's important to check these "lesser known" platforms during investigations. 
+
+- [https://osintcombine.com/world-social-media-platforms](https://www.osintcombine.com/world-social-media-platforms) 
+- [https://osintcombine.com/alt-tech-social-search](https://www.osintcombine.com/alt-tech-social-search) 
+- [https://en.wikipedia.org/wiki/List_of_social_networking_services](https://en.wikipedia.org/wiki/List_of_social_networking_services) ([WikiLess](https://wikiless.org/wiki/List_of_social_networking_services))
+
+Thanks [@osintcombine](https://twitter.com/osintcombine)! 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#SOCMINT](https://twitter.com/hashtag/SOCMINT?src=hashtag_click)
