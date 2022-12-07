@@ -167,6 +167,7 @@ Remember, CTRL+F is your friend here.
   * [**Internet of Things [IoT] Search**](#internet-of-things-iot-search)
     + [**Device Discovery**](#device-discovery)
     + [**CCTV and Webcams**](#cctv-and-webcams)
+  * [**Application Programming interfaces [API]**](#application-programming-interfaces-api)
   * [**Attack Maps**](#attack-maps)
   * [**Public Buckets**](#public-buckets)
   * [**Exploits and Proof of Concept [PoC]**](#exploits-and-proof-of-concept-poc)
@@ -3399,6 +3400,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A great domain search engine offered by IntelX.
 - [DNS Institute](https://www.dnsinstitute.com/)  
   Enables domain owners and DNS professionals to monitor and check conformance and vulnerabilities of their DNS infrastructure, through scheduled protocol tests, vulnerability tests, alerts, news, and statistics with complete reporting. They also offer many interesting reports.
+- [Host.io](https://host.io/)  
+  A great API for domain name data, uncover new domains and the relationships between them. Requires a paid subscription.
+- [RapidDNS](https://rapiddns.io/)  
+  DNS search tool. Find subdomains, shared IPs and more. Claims to have over 3 billion records.
 
 ## **Website Analysis**
 
@@ -3615,6 +3620,13 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   An interactive map of openly accessible traffic camera feeds in the United States.
 - [The Follower](https://driesdepoorter.be/thefollower/)  
   A pretty cool project that uses open cameras and AI to find how an Instagram photo is taken. Created by [@driesdepoorter](https://twitter.com/driesdepoorter).
+- [Masspirates](https://cctv.masspirates.org/)  
+  An interactive map of CCTV and IP cameras.
+  
+## **Application Programming Interfaces [API]**
+
+- [BeVigil OSINT API](https://bevigil.com/osint-api)  
+  A powerful tool that provides access to millions of asset footprint data points including domain intel, cloud services, API information, and third party assets extracted from millions of mobile apps being continuously uploaded and scanned. Requires registration.
 
 ## **Attack Maps**
 
