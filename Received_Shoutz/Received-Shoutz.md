@@ -92,6 +92,9 @@ Thank you all! <3
 - [Drones & OSINT: What Flies Ahead - intel-inquier.medium.com](https://intel-inquirer.medium.com/drones-osint-what-flies-ahead-92a0a36c9353).  
   - ([Wayback](https://web.archive.org/web/20220826000222/https://intel-inquirer.medium.com/drones-osint-what-flies-ahead-92a0a36c9353)), ([archove.today](https://archive.ph/84ukY)).
 
+- [OSINT News, Blogs and Publications - hackyourmom.com](https://hackyourmom.com/en/cyberwar-en/osint-academy/osint-news-blogs-and-publications/).  
+  - ([Wayback](https://web.archive.org/web/20221207042240/https://hackyourmom.com/web/20221207042240/https://hackyourmom.com/en/cyberwar-en/osint-academy/osint-news-blogs-and-publications/)), ([archive.today](https://archive.ph/6YUCk)).
+
   
 
 ## **Resource Lists**
@@ -179,6 +182,18 @@ Thank you all! <3
 
 - [Kalistamp OSINT - github.com](https://github.com/kalistamp/OSINT). 
   - ([Wayback](https://web.archive.org/web/20220911085427/https://github.com/kalistamp/OSINT)), ([archive.today](https://archive.ph/6QdOp)).
+
+- [OSINT Pro Tips: A Collection of useful OSINT tips and tricks (https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-protips) - hackliberty.org](https://community.hackliberty.org/post/9460).  
+  - ([Wayback](https://web.archive.org/web/20221207041637/https://community.hackliberty.org/post/9460)), ([archive.today](https://archive.ph/rLbYL)).
+
+- [OSINT Pages - osint4justice.org](https://www.osint4justice.org/osint-pages).  
+  - ([Wayback](https://web.archive.org/web/20221207041743/https://www.osint4justice.org/osint-pages)), ([archive.today](https://archive.ph/jfECu)).
+
+- [SEARCH Investigative and Forensic Toolbar - search.org](https://www.search.org/toolbar/).  
+  - ([Wayback](https://web.archive.org/web/20221113143205/https://www.search.org/toolbar/)), ([archive.today](https://archive.ph/aHFXE)).
+
+- [OSINT Investigation Assistant - lambda.black](https://lambda.black/osint.html).  
+  - ([Wayback](https://web.archive.org/web/20221030041146/https://lambda.black/osint.html)), ([archive.today](https://archive.ph/wIsP4)).
 
   
 
