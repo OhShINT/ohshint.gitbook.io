@@ -11,6 +11,8 @@
   Guide to learning and recognizing specific cars.
 - [Vehicle Recognition](https://carmodel.toolpie.com/)  
   This car recognition system can accurately identify vehicle information based on an uploaded image of a car. Including brand, model, year and color.
+- [CarLogos](https://www.carlogos.org/)  
+  A database of vehicle manufacturer logos, sorted by country. Very handy.
 
 ### **Vehicle Identification Numbers [VIN]**
 
