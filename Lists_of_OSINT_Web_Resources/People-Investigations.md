@@ -31,6 +31,8 @@
   The Gazette publishes public notices, such as are legally required in the UK for name changes, or declaring insolvency. Useful resource in a country which still has GDPR.
 - [FindMyPast](https://search.findmypast.co.uk/search-world-records)  
   Search for public records. Census, birth, death, marriage records and much more. Requires registration.
+- [Lullar.com](https://com.lullar.com/)  
+  Profile and person search tool. Search via email address or name.
   
 ## **Vital Records**
 
