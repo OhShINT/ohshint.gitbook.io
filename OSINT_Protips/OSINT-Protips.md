@@ -1068,3 +1068,21 @@ Property and real estate records can reveal loads of information like 360° tour
 
 Attached image:
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/360-Tour-Example.PNG"/>
+
+
+
+## OSINT Protip 48
+
+> Posted on *14/10/2022* at *8:10 PM.* 
+> URL: [https://twitter.com/ohshint_/status/1581120419461201920](https://twitter.com/ohshint_/status/1581120419461201920)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 48: 
+
+Industry and infrastructure maps are essential when doing [#GEOINT](https://twitter.com/hashtag/GEOINT?src=hashtag_click), environmental monitoring, threat assessments, etc. 
+
+- [https://energywebatlas.com/interactiveworldgasmap.html](https://energywebatlas.com/interactiveworldgasmap.html)
+- [https://openinframap.org](https://openinframap.org/)
+- [https://mindat.org/countrylist.php](https://www.mindat.org/countrylist.php)
+- [https://physics.weber.edu/schroeder/energy/PowerPlantsMap.html](https://physics.weber.edu/schroeder/energy/PowerPlantsMap.html)
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
