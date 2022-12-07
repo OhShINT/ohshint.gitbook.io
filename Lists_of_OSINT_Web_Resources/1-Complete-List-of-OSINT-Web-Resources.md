@@ -1736,6 +1736,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Monitor Twitter topics and accounts without having to login. 
 - [ExportData](https://www.exportdata.io/)  
   Export historical tweets, download lists of followers and followings from any public account.
+- [TrueTN](https://truetn.com/INSERTTWITTERHANDLEHERE)  
+  Allows you to view accounts, cached/archived tweets, metrics and easily download image and video posts. Appears to only work correctly if the target account has been archived on the Wayback Machine. Example: `https://truetn.com/ENTER-USERNAME-HERE`.
 
 ## **Untappd**
 
@@ -2948,6 +2950,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Guide to learning and recognizing specific cars.
 - [Vehicle Recognition](https://carmodel.toolpie.com/)  
   This car recognition system can accurately identify vehicle information based on an uploaded image of a car. Including brand, model, year and color.
+- [CarLogos](https://www.carlogos.org/)  
+  A database of vehicle manufacturer logos, sorted by country. Very handy.
 
 ### **Vehicle Identification Numbers [VIN]**
 
