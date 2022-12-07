@@ -246,6 +246,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Twitter**
 
+- [TrueTN](https://truetn.com/INSERTTWITTERHANDLEHERE) - *Added 6/12/2022.*
 - [ExportData](https://www.exportdata.io/) - *Added 24/9/2022.*
 - [GigaTweeter](http://gigatweeter.com/) - *Added 24/9/2022.*
 - [TweeterID](https://tweeterid.com/) - *Added 14/7/2022.*
@@ -511,6 +512,10 @@ All dates are listed in *DD/MM/YYYY* format.
 ## **<u>Vehicle and Transportation Intelligence [VATINT]</u>**
 
 ### **Road Vehicles**
+
+#### **Vehicle Recognition**
+
+- [CarLogos](https://www.carlogos.org/) - *Added 6/12/2022.*
 
 #### **Vehicle Identification Numbers [VIN]**
 
