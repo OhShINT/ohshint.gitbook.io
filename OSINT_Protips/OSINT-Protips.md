@@ -1105,3 +1105,24 @@ There are so many social media platforms out there. It's important to check thes
 Thanks [@osintcombine](https://twitter.com/osintcombine)! 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#SOCMINT](https://twitter.com/hashtag/SOCMINT?src=hashtag_click)
+
+
+
+## OSINT Protip 50
+
+> Posted on *11/11/2022* at *4:12 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1591222427400667136](https://twitter.com/ohshint_/status/1591222427400667136)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 50: 
+
+[#Mastodon](https://twitter.com/hashtag/Mastodon?src=hashtag_click) is becoming more popular, so it is becoming more essential to include this platform during investigations. 
+
+- [https://search.noc.social](https://search.noc.social/)
+- [https://mastovue.glitch.me](https://mastovue.glitch.me/)
+- [https://commotionmade.com](https://www.commotionmade.com/)
+- [https://kumu.io/Secjuice/fediverse](https://kumu.io/Secjuice/fediverse) 
+  
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#SOCMINT](https://twitter.com/hashtag/SOCMINT?src=hashtag_click)
+
+Attached image: 
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Mastodon-Known-Network-Graph.jpg"/>
