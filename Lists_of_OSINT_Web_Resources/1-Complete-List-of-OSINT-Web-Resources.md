@@ -2555,6 +2555,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search via image to find adult cam performers from 10 of the most popular adult cam sites. Results are NSFW, of course.
 - [HaveIBeenTrained](https://haveibeentrained.com/)  
   Search an image and see if it has been used to train facial recognition AI.
+- [Kleptopfinder](https://kleptofinder.com/)  
+  Reverse image search tool locate NFTs and other photos.
 
 ## **Image Generation**
 
@@ -2637,6 +2639,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A face detection and face recognition web service. It can scan uploaded images or image URLs, find faces and analyze them.
 - [Extract.pics](https://extract.pics/)  
   A simple online tool that allows your to download images from a webpage.
+- [FotoForensics](https://fotoforensics.com/)  
+  A great online tool for image forensics and metadata viewing.
 
 # <u>**Orbital Intelligence [ORBINT]**</u>
 
