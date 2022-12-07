@@ -68,8 +68,14 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Ukrainian Directory](http://ukrainiandirectory.org/MainDir.htm) - *Added 15/6/2022.*
 - [Sesna](http://www.uazone.net/sesna/) - *Added 15/6/2022.*
 
+### **Specialty Search**
+
+- [WikiIndex](https://wikiindex.org/Welcome) - *Added 27/11/2022.*
+
 ### **Meta Search**
 
+- [U Search From](https://usearchfrom.com/) - *Added 27/11/2022.*
+- [Valentin.app](https://valentin.app/) - *Added 27/11/2022.*
 - [BizNar](https://biznar.com/biznar/desktop/en/) - *Added 25/1/2022.*
 
 ### **Document and File Search**
@@ -99,6 +105,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Archive Search**
 
+- [CachedView](https://cachedview.com/) - *Added 27/11/2022.*
+- [CachedPages](http://www.cachedpages.com/) - *Added 27/11/2022.*
 - [RaidForums Archive](https://rf-archive.com/)  - *Added 25/8/2022.*
 - [Archive Portal Europe](https://archivesportaleurope.net) - *Added 10/7/2022.*
 
@@ -130,6 +138,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [IntelTechniques OSINT Tools](https://inteltechniques.com/tools/) - *Added 10/7/2022.*
 - [Tagdef](https://tagdef.com/en/) - *Added 25/1/2022.*
 - [Alternative Social Platform Search](https://www.osintcombine.com/alt-tech-social-search) - *Added 25/1/2022.*
+
+### **Bitmoji**
+
+- [BACKMOJI](https://webbreacher.github.io/osinttools/) - *Added 27/11/2022.*
 
 ### **Discord**
 
@@ -176,6 +188,13 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Lisearcher](https://www.lisearcher.com/) *Added 25/4/2022.*
 - [LinkedIn User Search](https://cse.google.com/cse?cx=daaf18e804f81bed0) - *Added 26/3/2022.*
 
+### **Mastodon**
+
+- [CommotionMade](https://www.commotionmade.com/) - *Added 27/11/2022.*
+- [MastoVue](https://mastovue.glitch.me/) - *Added 27/11/2022.*
+- [Imagstodon](https://seintpl.github.io/imagstodon/) - *Added 27/11/2022.*
+- [Fediverse Mapping Project](https://kumu.io/Secjuice/fediverse) - *Added 27/11/2022.*
+
 ### **OnlyFans**
 
 - [SimilarFans](https://similarfans.com/) - *Added 22/03/2022.*
@@ -186,6 +205,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Reddit**
 
+- [Adhesivecheese Reddit Search](https://adhesivecheese.github.io/chearch/) - *Added 27/11/2022.*
 - [RedditDownloader](https://redditdownloader.github.io/) - *Added 10/8/2022.*
 - [LaterForReddit](https://dashboard.laterforreddit.com/analysis) - *Added 14/7/2022.*
 - [Reddit about.json](https://www.reddit.com/user/USERNAME-HERE/about.json) - *Added 4/8/2022.*
@@ -226,6 +246,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Twitter**
 
+- [ExportData](https://www.exportdata.io/) - *Added 24/9/2022.*
+- [GigaTweeter](http://gigatweeter.com/) - *Added 24/9/2022.*
 - [TweeterID](https://tweeterid.com/) - *Added 14/7/2022.*
 - [OSoMe Network Tool](https://osome.iu.edu/tools/networks) - *Added 4/8/2022.*
 - [Orbit](https://orbit.livasch.com/) - *Added 4/8/2022.*
@@ -329,6 +351,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [LTE Italy](https://lteitaly.it/) - *Added 24/9/2022.*
 - [Cell2GPS](http://www.cell2gps.com/) - *Added 26/3/2022.*
 
+#### **Cellular Coverage Maps**
+
+- [Ookla 5G Map](https://www.speedtest.net/ookla-5g-map) - *Added 27/11/2022.*
+
 ### **Industry Maps**
 
 - [GridFinder](https://gridfinder.org/) - *Added 5/9/2022.*
@@ -338,6 +364,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Landmark Recognition**
 
+- [U.S. Power Plants Map](https://physics.weber.edu/schroeder/energy/PowerPlantsMap.html) - *Added 27/11/2022.*
+- [Strucurae](https://structurae.net/en/) - *Added 24/9/2022.*
 - [GeoHints](https://www.geohints.com/) - *Added 5/9/2022.*
 
 ### **Outdoor Activity Maps**
@@ -386,6 +414,8 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Reverse Image Search**
 
+- [Kleptopfinder](https://kleptofinder.com/) - *Added 6/12/2022.*
+- [HaveIBeenTrained](https://haveibeentrained.com/) - *Added 25/11/2022.*
 - [CamGirlFinder](https://camgirlfinder.net/search) - *Added 14/7/2022.*
 - [IntelX Image Search](https://intelx.io/tools?tab=image) - *Added 25/4/2022.*
 - [RootAbout](https://rootabout.com/) - *Added 25/4/2022.*
@@ -411,6 +441,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Image Metadata and Forensics**
 
+- [FotoForensics](https://fotoforensics.com/) - *Added 6/12/2022.*
 - [Imgur Album Downloader](https://dschep.github.io/imgur-album-downloader/)  - *Added 4/3/2022.*
 - [BetaFace API](https://www.betafaceapi.com/demo.html) - *Added 25/1/2022.*
 
@@ -452,6 +483,10 @@ All dates are listed in *DD/MM/YYYY* format.
   - [Secretary of State Business Search](https://cobaltintelligence.com/secretary-of-state-business-search) - *Added 14/9/2022.*
 
 ## **<u>Financial Intelligence [FININT]</u>**
+
+### General FININT
+
+- [StAR: The Stolen Asset Recovery Initiative](https://star.worldbank.org/) - *Added 24/9/2022.*
 
 ### **Cryptocurrency and Blockchain**
 
@@ -517,6 +552,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Vessel Tracking**
 
+- [ShipTraffic](http://www.shiptraffic.net/) - *Added 24/9/2022.*
 - [MyShipTracking](https://www.myshiptracking.com/) - *Added 14/7/2022.*
 - [Military Ship Tracker](https://www.marinevesseltraffic.com/2013/02/military-ship-track.html) - *Added 22/03/2022.*
 
@@ -536,12 +572,15 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Internet Protocol Addresses [IP]**
 
+- [GreenSnow IP Blacklist](https://www.greensnow.co/) - *Added 25/11/2022.*
 - [IPinfo](https://ipinfo.io/) - *Added 4/8/2022.*
 - [CriminalIP](https://www.criminalip.io/) - *Added 15/6/2022.*
 - [IntelX IP Address Search](https://intelx.io/tools?tab=ip) - *Added 25/4/2022.*
 
 ### **Domain Name Systems [DNS] Records**
 
+- [Host.io](https://host.io/) - *Added 6/12/2022.*
+- [RapidDNS](https://rapiddns.io/) - *Added 6/12/2022.*
 - [DNS Institute](https://www.dnsinstitute.com/) - *Added 10/9/2022.*
 - [IntelX Domain Search](https://intelx.io/tools?tab=domain) - *Added 25/4/2022.*
 - [DomainCodex](https://www.domaincodex.com/index.php) - *Added 30/1/2022.*
@@ -550,6 +589,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **Enumeration**
 
+- [GA Checker](http://www.gachecker.com/) - *Added 24/9/2022.*
 - [Blacklight](https://themarkup.org/blacklight) - *Added 14/7/2022.*
 - [Sitemap Generator](https://www.internetmarketingninjas.com/tools/google-sitemap-generator/) - *Added 4/8/2022.*
 - [StylifyMe](https://stylifyme.com) - *Added 26/3/2022.*
@@ -581,11 +621,16 @@ All dates are listed in *DD/MM/YYYY* format.
 
 #### **CCTV and Webcams**
 
+- [Masspirates](https://cctv.masspirates.org/) - *Added 6/12/2022.*
 - [The Follower](https://driesdepoorter.be/thefollower/) - *Added 24/9/2022.*
 - [OpenTrafficCamMap](https://otc.armchairresearch.org/map) - *Added 4/8/2022.*
 - [Ukraine Live Cams](https://nagix.github.io/ukraine-livecams/#5.5/47.774/31.685/0/45) - *Added 8/4/2022.*
 - [Deckchair](https://www.deckchair.com/) - *Added 25/1/2022.*
 - [Surveillance Under Surveillance](https://sunders.uber.space/) - *Added 25/1/2022.*
+
+### **Application Programming Interfaces [API]**
+
+- [BeVigil OSINT API](https://bevigil.com/osint-api) - *Added 6/12/2022.*
 
 ### **Exploits and Proof of Concept [PoC]**
 
@@ -607,6 +652,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Other Tools**
 
+- [SNDeepInfo](https://sndeep.info/en) - *Added 24/9/2022.*
 - [IEMI.info](https://www.imei.info/) - *Added 10/8/2022.*
 - [API Guesser](https://api-guesser.netlify.app) - *Added 25/4/2022.*
 - [OpenSezMe](https://open-sez.me/) - *Added 2/1/2022.*
@@ -623,6 +669,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Shortwave Radio Receiver Map](http://rx.linkfanel.net) - *Added 25/4/2022.*
 - [Number-Stations](https://www.numbers-stations.com/) - *Added 8/3/2022.*
 - [EAM Watch](https://eam.watch/) - *Added 21/2/2022.*
+
+### **HAM Radio**
+
+- [LevineCentral HAM Tools](https://www.levinecentral.com/ham/) - *Added 6/12/2022.*
 
 ## <u>**Deep Webs and Darknets**</u>
 
@@ -664,6 +714,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **General People Search**
 
+- [Lullar.com](https://com.lullar.com/) - *Added 6/12/2022.*
 - [FindMyPast](https://search.findmypast.co.uk/search-world-records) - *Added 14/9/2022.*
 - [The Gazette Public Notices](https://www.thegazette.co.uk/all-notices?ref=topmenu) - *Added 10/7/2022.*
 - [IntelX Person Search](https://intelx.io/tools?tab=person) - *Added 25/4/2022.*
@@ -672,7 +723,12 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Vital Records**
 
+- [Fold3](https://www.fold3.com/) - *Added 25/11/2022.*
 - [VoterRecords](https://voterrecords.com/) - *Added 21/2/2022.*
+
+### **Criminal Records**
+
+- [Myrotvorets](https://myrotvorets.center/criminal/) - *Added 25/11/2022.*
 
 ## <u>**Phone Numbers**</u>
 
@@ -681,6 +737,13 @@ All dates are listed in *DD/MM/YYYY* format.
 - [ZLookup](https://www.zlookup.com/) - *Added 25/4/2022.*
 - [IntelX Phone Number Search](https://intelx.io/tools?tab=telephone) - *Added 25/4/2022.*
 - [Phonerator](https://www.martinvigo.com/tools/phonerator/) - *Added 25/1/2022.*
+
+### **Country Specific Yellow Pages**
+
+#### **Europe**
+
+- [Romanian Yellow Pages](https://romanianyellowpages.ro/) - *Added 25/11/2022.*
+- [ITIS](https://www.itis.si/) - *Added 25/11/2022.*
 
 ## <u>**Email Addresses**</u>
 
@@ -751,6 +814,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [Netronline Public Records](https://publicrecords.netronline.com/) - *Added 25/1/2022.*
 - [SpatialHub Scotland Datasets](https://data.spatialhub.scot/dataset) - *Added 25/1/2022.*
 
+### **Leaked Data Sets**
+
+- [WikiSpooks](https://wikispooks.com/wiki/Main_Page) - *Added 6/12/2022.*
+
 ## <u>**Organized Crime and Illicit Trade**</u>
 
 ### **Criminal Enterprises, Gangs and Syndicates**
@@ -804,6 +871,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ### **Firearms and Ammunition**
 
+- [Military-Today](https://www.military-today.com/index.htm) - *Added 6/12/2022.*
 - [Small Arms Review Archive](https://www.smallarmsreview.com/archive/reference.index.cfm) - *Added 10/7/2022.*
 - [Cartrology](http://www.cartrology.com/) - *Added 9/2/2022.*
 
@@ -870,6 +938,9 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## **<u>Miscellaneous</u>**
 
+- [StickerLife](https://stickerlife.org/) - *Added 6/12/2022.*
+- [ConcertArchives](https://www.concertarchives.org/) - *Added 6/12/2022.*
+- [PDF24 Tools](https://tools.pdf24.org/en/all-tools) - *Added 25/11/2022.*
 - [Bravenewtech](https://www.bravenewtech.org/) - *Added 4/8/2022.*
 - [HistoryPin](https://historypin.org) - *Added 26/3/2022.*
 - [QR Date](https://qrdate.org/) - *Added 26/3/2022.*
