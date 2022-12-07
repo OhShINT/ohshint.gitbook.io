@@ -3855,6 +3855,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Allows you to search for amateur radio operators by callsign, name or FRN. Search results can provide a persons full name, callsign, addresses and in some cases, felony records.
 - [Canadian Amateur Radio Operator Search](https://apc-cap.ic.gc.ca/pls/apc_anon/query_amat_cs$.startup)  
   A database where you can search Canadians who are licensed amateur radio operators. Search by callsign, last name, city, province or postal code.
+- [LevineCentral HAM Tools](https://www.levinecentral.com/ham/)  
+  Provides useful mapping tools for HAM radio repeaters and more.
 
 # <u>**Deep Webs and Darknets**</u>
 
@@ -4015,6 +4017,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   The Gazette publishes public notices, such as are legally required in the UK for name changes, or declaring insolvency. Useful resource in a country which still has GDPR.
 - [FindMyPast](https://search.findmypast.co.uk/search-world-records)  
   Search for public records. Census, birth, death, marriage records and much more. Requires registration.
+- [Lullar.com](https://com.lullar.com/)  
+  Profile and person searcg tool. Search via email address or name.
   
 ## **Vital Records**
 - [Vital Record Search Tools](https://stevemorse.org/index.html)  
@@ -4900,6 +4904,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Also known as the "LuxLeaks", is a collection of over 350 documents about Luxembourg's tax rulings set up by PricewaterhouseCoopers from 2002 to 2010 to the benefits of its clients. 
 - [Distributed Denial of Secrets](https://www.ddosecrets.com/wiki/Distributed_Denial_of_Secrets)  
   A journalist 501(c)(3) non-profit devoted to enabling the free transmission of data in the public interest. Aims to avoid political, corporate or personal leanings, to act as a beacon of available information.
+- [WikiSpooks](https://wikispooks.com/wiki/Main_Page)  
+  An open source encyclopedia of deep politics.
 
 # <u>**Organized Crime and Illicit Trade**</u>
 
@@ -5204,6 +5210,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   This cartridge collection consists of military rifle, heavy machine gun, and small to medium caliber cannon ammunition. The primary focus is on ammunition up to 35mm caliber made during WWII or later, although some specimens do fall outside of these general guidelines.
 - [Small Arms Review Archive](https://www.smallarmsreview.com/archive/reference.index.cfm)  
   A large collection of scanned firearm manuals, reviews, parts lists and more.
+- [Military-Today](https://www.military-today.com/index.htm)  
+  A large database of military weapons and equipment.
 
 ## **Ordnance**
 
