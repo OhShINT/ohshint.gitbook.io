@@ -95,6 +95,8 @@
   Search via image to find adult cam performers from 10 of the most popular adult cam sites. Results are NSFW, of course.
 - [HaveIBeenTrained](https://haveibeentrained.com/)  
   Search an image and see if it has been used to train facial recognition AI.
+- [Kleptopfinder](https://kleptofinder.com/)  
+  Reverse image search tool locate NFTs and other photos.
 
 ## **<u>Image Generation</u>**
 
@@ -177,3 +179,5 @@
   Simple online tool to automate the downloading of entire Imgur albums.
 - [Extract.pics](https://extract.pics/)  
   A simple online tool that allows your to download images from a webpage.
+- [FotoForensics](https://fotoforensics.com/)  
+  A great online tool for image forensics and metadata viewing.
