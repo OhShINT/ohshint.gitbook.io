@@ -2489,6 +2489,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Google reverse image search.
 - [Search4Faces](https://search4faces.com/)  
   Search by image for VK, Odnoklassniki, TikTok, Clubhouse and Instagram profiles.
+- [FaceCheckID](https://facecheck.id/)  
+  Upload a face of a person of interest and discover their social media profiles, appearances in blogs, video, and news websites.
 - [KarmaDecay](https://karmadecay.com/)  
   A reverse image search tool for Reddit. Currently, still in beta.
 - [RepostSleuth](https://repostsleuth.com/)  
@@ -4806,6 +4808,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A directory of all U.S. county tax assessor databases.
 - [Public Accountability Project](https://publicaccountability.org/)  
   Allows you to conduct one search in one place, and most importantly it also gives you the ability to search a name.
+- [SkyscraperPage](https://skyscraperpage.com/)  
+  The World's largest database on skyscraper diagrams. Hundreds of illustrators have contributed drawings, and millions of people have been using the SkyscraperPage discussion forum since its inception.
 
 ## **Historical Data**
 
