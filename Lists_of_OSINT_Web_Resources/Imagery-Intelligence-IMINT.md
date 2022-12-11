@@ -27,6 +27,8 @@
   Google reverse image search.
 - [Search4Faces](https://search4faces.com/)  
   Search by image for VK, Odnoklassniki, TikTok, Clubhouse and Instagram profiles.
+- [FaceCheckID](https://facecheck.id/)  
+  Upload a face of a person of interest and discover their social media profiles, appearances in blogs, video, and news websites.
 - [KarmaDecay](https://karmadecay.com/)  
   A reverse image search tool for Reddit. Currently, still in beta.
 - [RepostSleuth](https://repostsleuth.com/)  
