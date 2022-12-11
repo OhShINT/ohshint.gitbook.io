@@ -2664,6 +2664,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A great resource that displays images and information for *most* mission patches from the early days of space exploration to present day missions. Appears to be missing some more recent patches like the [Inspiration 4](https://inspiration4.com/) patch and a few others.
 - [[PDF] NASA ISS Reference Guide](https://www.nasa.gov/pdf/508318main_ISS_ref_guide_nov2010.pdf)  
   A document provided by NASA in November 2010 that acts as a reference guide and provides details of the construction and layout of the International Space Station. Archived copies can be found [here (Wayback)](https://web.archive.org/web/20210912213137/https://www.nasa.gov/pdf/508318main_ISS_ref_guide_nov2010.pdf) and [here (Library Genesis)](http://libgen.rs/book/index.php?md5=8E878DE8BE1D9C769B83D2C7CCE68FE2).
+- [[PDF] NASA ISS Reference Guide - Utilization Edition](https://www.nasa.gov/sites/default/files/atoms/files/np-2015-05-022-jsc-iss-guide-2015-update-111015-508c.pdf)  
+Another, more recent document from NASA in September 2015 that is a reference guide for the research equipment on-board the International Space Station. Archived copies available [here (Wayback)](http://web.archive.org/web/20220919105825/https://www.nasa.gov/sites/default/files/atoms/files/np-2015-05-022-jsc-iss-guide-2015-update-111015-508c.pdf) and [here (Library Genesis)](https://libgen.rs/book/index.php?md5=04305C17B6F9E023F39F56F7CECDE44E).
 - [Stellarium](https://stellarium-web.org/)  
   A virtual online planetarium. Pretty neat.
 - [Moon Trek](https://trek.nasa.gov/moon/)  
