@@ -4788,8 +4788,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   An online search engine that connects tenants and brokers in the U.S commercial real estate marketplace. Requires registration.
 - [Arivify](https://www.arivify.com/)  
   Allows you to search for public property records for addresses in the U.S.
-- [Emporis](https://www.emporis.com/)  
-  Provides information about skyscrapers and high-rise buildings. They also provide an [interactive map](https://www.emporis.com/buildings/map#c=57.956477,-16.97009&z=0).
+- [CoStar](https://www.costar.com/)  
+  Provides information about skyscrapers and high-rise buildings. Requires a paid subscription. RIP Emporis.
 - [DataTree](https://dna.firstam.com/)  
   Great resource and toolkit for finding real estate information and records. Requires a paid subscription.
 - [Virtual Tours CSE](https://cse.google.com/cse?cx=b5bba571be1788aaa)  
