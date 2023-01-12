@@ -982,7 +982,7 @@ Remember, CTRL+F is your friend here.
 - [ManualsLib](https://www.manualslib.com/)  
   This is a great free resource for finding manuals for a wide range of different products and items. Search by keyword or product brand.
 - [FreeFullPDF](http://www.freefullpdf.com/index.html)  
-A Google CSE that searches for scientific publications.
+  A Google CSE that searches for scientific publications.
 - [Open Directory CSE](http://palined.com/search/)  
   A neat Google CSE for finding open directories.
 - [FileChef](https://www.filechef.com/)  
@@ -1021,6 +1021,10 @@ A Google CSE that searches for scientific publications.
   A BitTorrent DHT search engine. Find torrents for just about anything.
 - [CiteSeerX](https://citeseer.ist.psu.edu/index)  
   A scientific literature digital library and search engine that focuses primarily on the literature in computer and information science.
+- [WorldCat](https://worldcat.org/)  
+  Search for a book and view which public libraries where you can find it.
+- [Anna's Archive](https://annas-archive.org/)  
+  A project that aims to catalog all the books in existence, by aggregating data from various sources. Search this pirate library for whatever books you are looking for. Made by [@AnnaArchivist](https://twitter.com/AnnaArchivist).
 
 ## **Video Search**
 
@@ -1343,6 +1347,8 @@ A Google CSE that searches for scientific publications.
   View detailed information about a GitHub profile. Simply enter a username.
 - [ReposTimeline](https://repostimeline.nazifbara.com/)  
   Enter a username and view a timeline of that users repositories and forks.
+- [OSS Insight](https://ossinsight.io/)  
+  Analyze developers and repository data based on over 5 billion GitHub events.
 
 ## **Gravatar**
 
@@ -1387,6 +1393,12 @@ A Google CSE that searches for scientific publications.
   A simple online tool that allows you to download images, videos and IGTV posts via URL.
 - [InstaHunt](https://instahunt.co/)  
   Displays Instagram posts in any chosen geographic location.
+- [InstaNavigation](https://instanavigation.com/)  
+  View Instagram profiles without registration.
+- [Iganony](https://iganony.com/)  
+  View Instagram profiles and download stores and posts without registration.
+- [InstaFreeView](https://instafreeview.com/)  
+  View Instagram profiles anonymously without having to login.
 
 ## **Kik Messenger**
 
@@ -1426,6 +1438,10 @@ A Google CSE that searches for scientific publications.
   Enter a username and search for profile images on over 100 Mastodon instances. Made by [@SEINT_pl](https://twitter.com/SEINT_pl).
 - [Fediverse Mapping Project](https://kumu.io/Secjuice/fediverse)  
   An interactive map of over 120,000 Mastodon instances. Made by [@Secjuice](https://twitter.com/Secjuice).
+- [FollowGraph](https://followgraph.vercel.app/)  
+  Enter a Mastodon username and get a list of accounts followed by the people this profile follows.
+- [Movetodon](https://movetodon.org/)  
+  Get a list of your Twitter followers in Mastodon.
 
 ## **OnlyFans**
 
@@ -1647,6 +1663,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   See what channels a user is following.
 - [TwitchStats](https://twitchstats.net/)  
   You can find detailed stats about your favorite streamer, channel, game and teams. There are many different stats including newest twitch team, channel subscriber count, new and best clips and multiple ranking for all the games and streamers.
+- [Twitch Followage Tool](https://streamscharts.com/tools/followage)  
+  Enter the Twitch username and get a complete list of channels they follow.
 
 ## **Twitter**
 
@@ -1738,6 +1756,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Export historical tweets, download lists of followers and followings from any public account.
 - [TrueTN](https://truetn.com/INSERTTWITTERHANDLEHERE)  
   Allows you to view accounts, cached/archived tweets, metrics and easily download image and video posts. Appears to only work correctly if the target account has been archived on the Wayback Machine. Example: `https://truetn.com/ENTER-USERNAME-HERE`.
+- [PerplexitySQL](https://www.perplexity.ai/sql)  
+  Perplexity SQL answers Twitter graph queries by translating natural language to SQL code. Note, not all Twitter users are available as their database is currently incomplete.
 
 ## **Untappd**
 
@@ -1781,6 +1801,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 
 - [xTools](https://xtools.wmflabs.org/)  
   Offers tools to analyze Wikipedia users and page changes.
+- [WikiWho](http://wikiwho.ailef.tech/)  
+  Database of edits made to Wikipedia using IP ranges of organizations, government agencies and companies.
+- [WikiPageViews](https://pageviews.wmcloud.org)  
+  Displays how many times a specific Wikipedia page has been viewed within a certain time.
 
 ## **YouTube**
 
@@ -4196,7 +4220,7 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Enter an email address and see what data breaches it has been included in. Does not provide any leaked data, only a list of breaches similar to HIBP.
 - [HackCheck](https://hackcheck.io/)  
   Another good site to search through data breaches. Requires a paid subscription.
-- [ProxyNova COMB Search](https://www.proxynova.com/tools/comb) 
+- [ProxyNova COMB Search](https://www.proxynova.com/tools/comb)  
   Allows you to search via email address, username or password through the "[Compilation of Many Breaches [COMB]](https://cybernews.com/news/largest-compilation-of-emails-and-passwords-leaked-free/)" ([Wayback](https://web.archive.org/web/20221129072721/https://cybernews.com/news/largest-compilation-of-emails-and-passwords-leaked-free/)), ([archive.today](https://archive.vn/7XumX)) breach data. Provides uncensored results.
 
 ## **Pretty Good Privacy [PGP]**
