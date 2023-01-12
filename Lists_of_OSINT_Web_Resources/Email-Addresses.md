@@ -82,6 +82,8 @@
   Enter an email address and see what data breaches it has been included in. Does not provide any leaked data, only a list of breaches similar to HIBP.
 - [HackCheck](https://hackcheck.io/)  
   Another good site to search through data breaches. Requires a paid subscription.
+- [ProxyNova COMB Search](https://www.proxynova.com/tools/comb) 
+  Allows you to search via email address, username or password through the "[Compilation of Many Breaches [COMB]](https://cybernews.com/news/largest-compilation-of-emails-and-passwords-leaked-free/)" ([Wayback](https://web.archive.org/web/20221129072721/https://cybernews.com/news/largest-compilation-of-emails-and-passwords-leaked-free/)), ([archive.today](https://archive.vn/7XumX)) breach data. Provides uncensored results.
 
 ## **Pretty Good Privacy [PGP]**
 
