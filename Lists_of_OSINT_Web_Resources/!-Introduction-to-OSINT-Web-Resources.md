@@ -33,7 +33,7 @@ The below lists are currently still a work in progress! It was going to take age
 
 When new resources are added, they will be listed and dated here: [2023-Recently-Added-Resources_ohshint.md](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/2023-Recently-Added-Resources_ohshint.md)
 
-Additions from 2022 can be found here: [2022-Recently-Added-Resources_ohshint.md](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/2022-Recently-Added-Resources_ohshint.md)
+Additions from 2022 can be found here: [2022-Recently-Added-Resources_ohshint.md](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/2022-Recently-Added-Resources_ohshint.md)  
 Additions from 2021 can be found here: [2021-Recently-Added-Resources_ohshint.md](https://github.com/OhShINT/ohshint.gitbook.io/blob/main/Lists_of_OSINT_Web_Resources/2021-Recently-Added-Resources_ohshint.md)
 
 All dates are listed in *DD/MM/YYYY* format. 
