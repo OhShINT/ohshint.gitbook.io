@@ -167,6 +167,8 @@
   View detailed information about a GitHub profile. Simply enter a username.
 - [ReposTimeline](https://repostimeline.nazifbara.com/)  
   Enter a username and view a timeline of that users repositores and forks.
+- [OSS Insight](https://ossinsight.io/)  
+  Analyze developers and repository data based on over 5 billion GitHub events.
 
 ## **<u>Gravatar</u>**
 
@@ -211,6 +213,12 @@
   A simple online tool that allows you to download images, videos and IGTV posts via URL.
 - [InstaHunt](https://instahunt.co/)  
   Displays Instagram posts in any chosen geographic location.
+- [InstaNavigation](https://instanavigation.com/)  
+  View Instagram profiles without registration.
+- [Iganony](https://iganony.com/)  
+  View Instagram profiles and download stores and posts without registration.
+- [InstaFreeView](https://instafreeview.com/)  
+  View Instagram profiles anonymously without having to login.
 
 ## **<u>Kik Messenger</u>**
 
@@ -250,6 +258,10 @@
   Enter a username and search for profile images on over 100 Mastodon instances. Made by [@SEINT_pl](https://twitter.com/SEINT_pl).
 - [Fediverse Mapping Project](https://kumu.io/Secjuice/fediverse)  
   An interactive map of over 120,000 Mastodon instances. Made by [@Secjuice](https://twitter.com/Secjuice).
+- [FollowGraph](https://followgraph.vercel.app/)  
+  Enter a Mastodon username and get a list of accounts followed by the people this profile follows.
+- [Movetodon](https://movetodon.org/)  
+  Get a list of your Twitter followers in Mastodon.
 
 ## <u>**OnlyFans**</u>
 
@@ -471,6 +483,8 @@
   See what channels a user is following.
 - [TwitchStats](https://twitchstats.net/)  
   You can find detailed stats about your favorite streamer, channel, game and teams. There are many different stats including newest twitch team, channel subscriber count, new and best clips and multiple ranking for all the games and streamers.
+- [Twitch Followage Tool](https://streamscharts.com/tools/followage)  
+  Enter the Twitch username and get a complete list of channels they follow.
 
 ## <u>**Twitter**</u>
 
@@ -562,6 +576,8 @@
   Export historical tweets, download lists of followers and followings from any public account.
 - [TrueTN](https://truetn.com/INSERTTWITTERHANDLEHERE)  
   Allows you to view accounts, cached/archived tweets, metrics and easily download image and video posts. Appears to only work correctly if the target account has been archived on the Wayback Machine. Example: `https://truetn.com/ENTER-USERNAME-HERE`.
+- [PerplexitySQL](https://www.perplexity.ai/sql)  
+  Perplexity SQL answers Twitter graph queries by translating natural language to SQL code. Note, not all Twitter users are available as their database is currently incomplete.
 
 ## <u>**Untappd**</u>
 
@@ -605,6 +621,10 @@
 
 - [xTools](https://xtools.wmflabs.org/)  
   Offers tools to analyze Wikipedia users and page changes.
+- [WikiWho](http://wikiwho.ailef.tech/)  
+  Database of edits made to Wikipedia using IP ranges of organizations, government agencies and companies.
+- [WikiPageViews](https://pageviews.wmcloud.org)  
+  Displays how many times a specific Wikipedia page has been viewed within a certain time.
 
 ## **<u>YouTube</u>**
 
