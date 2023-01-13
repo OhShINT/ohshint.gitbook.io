@@ -716,6 +716,10 @@
   A BitTorrent DHT search engine. Find torrents for just about anything.
 - [CiteSeerX](https://citeseer.ist.psu.edu/index)  
   A scientific literature digital library and search engine that focuses primarily on the literature in computer and information science.
+- [WorldCat](https://worldcat.org/)  
+  Search for a book and view which public libraries where you can find it.
+- [Anna's Archive](https://annas-archive.org/)  
+  A project that aims to catalog all the books in existence, by aggregating data from various sources. Search this pirate library for whatever books you are looking for. Made by [@AnnaArchivist](https://twitter.com/AnnaArchivist).
 
 ## **Video Search**
 
