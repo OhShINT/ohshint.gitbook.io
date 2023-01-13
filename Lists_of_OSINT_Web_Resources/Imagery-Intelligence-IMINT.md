@@ -99,6 +99,8 @@
   Search an image and see if it has been used to train facial recognition AI.
 - [Kleptopfinder](https://kleptofinder.com/)  
   Reverse image search tool locate NFTs and other photos.
+- [Fingible](https://fingible.nftport.xyz/)  
+  A reverse image search tool for finding NFTs.
 
 ## **<u>Image Generation</u>**
 
@@ -116,6 +118,8 @@
   Generate faces using artificial intelligence. Essentially a Russian version of thispersondoesnotexist, very handy.
 - [Craiyon](https://www.craiyon.com/)  
   Enter a few keywords and this tool will generate images based on user input using AI.
+- [VisualHound](https://visualhound.com/)  
+  An AI service that generates photos of clothing by description.
 
 ## **<u>Image Enhancement</u>**
 
