@@ -314,6 +314,8 @@ Search for vehicle safety ratings and recalls for vehicles, tires, parts, car se
   A collection of railroad maps for Russia and various European countries.
 - [Ferrocarta](https://ferrocarta.net/)  
   Large collection of railroad maps for Brazil, Canada, France and the United States.
+- [RailCabRides](https://railcabrides.com/en/mapsearch)  
+  Click on a point on the railway on the world map to see a list of rail cab videos from that location.
 
 ### **Railway Video**
 
