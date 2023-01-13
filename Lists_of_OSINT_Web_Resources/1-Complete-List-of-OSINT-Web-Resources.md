@@ -2585,6 +2585,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search an image and see if it has been used to train facial recognition AI.
 - [Kleptopfinder](https://kleptofinder.com/)  
   Reverse image search tool locate NFTs and other photos.
+- [Fingible](https://fingible.nftport.xyz/)  
+  A reverse image search tool for finding NFTs.
 
 ## **Image Generation**
 
@@ -2602,6 +2604,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Generate faces using artificial intelligence. Essentially a Russian version of thispersondoesnotexist, very handy.
 - [Craiyon](https://www.craiyon.com/)  
   Enter a few keywords and this tool will generate images based on user input using AI.
+- [VisualHound](https://visualhound.com/)  
+  An AI service that generates photos of clothing by description.
 
 ## **Image Enhancement**
 
@@ -3281,6 +3285,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   A collection of railroad maps for Russia and various European countries.
 - [Ferrocarta](https://ferrocarta.net/)  
   Large collection of railroad maps for Brazil, Canada, France and the United States.
+- [RailCabRides](https://railcabrides.com/en/mapsearch)  
+  Click on a point on the railway on the world map to see a list of rail cab videos from that location.
 
 ### **Railway Video**
 
@@ -5211,6 +5217,8 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   An interactive map of Russian military forces that is regularly updated.
 - [MapHub Russian and Ukraine Conflict Monitor](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)  
   A crowdsourced effort to map, document and verify information in order to provide reliable information for policymakers and journalists of the on-the-ground and online situation in and around Ukraine.
+- [SafeAirspace](https://safeairspace.net/)  
+  A worldwide map showing the countries where flying over may be dangerous. Includes detailed history of incidents and official warnings for each country.
 
 ## **Terrorism**
 
