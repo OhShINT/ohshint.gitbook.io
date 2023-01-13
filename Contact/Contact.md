@@ -19,6 +19,8 @@ Feel free to reach out to me via email or Twitter.
 
 > **GitHub:** [OhShINT](https://github.com/ohshint) 
 
+> **Internet Archive:** [ohshint](https://archive.org/details/@ohshint) 
+
 > **URL:** [ohshint.gitbook.io](https://ohshint.gitbook.io/oh-shint-its-a-blog/)
 
 Like this blog? Consider giving me money so I can buy stuff :)
