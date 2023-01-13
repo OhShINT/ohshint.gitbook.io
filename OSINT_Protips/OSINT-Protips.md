@@ -1126,3 +1126,46 @@ Thanks [@osintcombine](https://twitter.com/osintcombine)!
 
 Attached image: 
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Mastodon-Known-Network-Graph.jpg"/>
+
+
+
+## OSINT Protip 51
+
+> Posted on *6/12/2022* at *11:44 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1600395744783237120](https://twitter.com/ohshint_/status/1600395744783237120)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 51: 
+
+[#ShadowLibraries](https://twitter.com/hashtag/ShadowLibraries?src=hashtag_click) 
+
+Essential for the freeflow of information. Whether you are pro or anti-piracy, these libraries are important! Find information on almost any subject. 
+
+- [https://libgen.rs](https://libgen.rs/) 
+- [https://annas-archive.org](https://annas-archive.org/) 
+- [https://the-eye.eu/public/](https://the-eye.eu/public/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Shadow-Library-Search-Example.jpg"/>
+
+
+
+## OSINT Protip 52
+
+> Posted on *23/12/2022* at *8:45 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1606511393783812096](https://twitter.com/ohshint_/status/1606511393783812096)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 52:
+
+During the holidays, people tend to post pictures of their family, loved ones and even pets.  
+
+Take advantage of this!  
+Look at friends and family profiles for updated photos and information about your targets. 
+
+Also, Happy Holidays everyone!
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Happy-Holidays-from-OhShINT.jpg"/>
