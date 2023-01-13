@@ -8,17 +8,56 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Search Engines**</u>
 
+### **Document and File Search**
+
+- [WorldCat](https://worldcat.org/) - *Added 12/1/2023.*
+- [Anna's Archive](https://annas-archive.org/) - *Added 12/1/2023.*
+
 
 
 ## <u>**Social Media Intelligence [SOCMINT]**</u>
 
+### **GitHub**
 
+- [OSS Insight](https://ossinsight.io/) - *Added 12/1/2023.*
+
+### **Instagram**
+
+- [InstaNavigation](https://instanavigation.com/) - *Added 12/1/2023.*
+- [Iganony](https://iganony.com/) - *Added 12/1/2023.*
+- [InstaFreeView](https://instafreeview.com/) - *Added 12/1/2023.*
+
+### **Mastodon**
+
+- [FollowGraph](https://followgraph.vercel.app/) - *Added 12/1/2023.*
+- [Movetodon](https://movetodon.org/) - *Added 12/1/2023.*
+
+### **Twitch**
+
+- [Twitch Followage Tool](https://streamscharts.com/tools/followage) - *Added 12/1/2023.*
+
+### **Twitter**
+
+- [PerplexitySQL](https://www.perplexity.ai/sql) - *Added 12/1/2023.*
+
+### **Wikipedia**
+
+- [WikiWho](http://wikiwho.ailef.tech/) - *Added 12/1/2023.*
+- [WikiPageViews](https://pageviews.wmcloud.org) - *Added 12/1/2023.*
 
 ## <u>**Mapping and Geo-Spatial Intelligence [GEOINT]**</u>
 
 
 
 ## <u>**Imagery Intelligence [IMINT]**</u>
+
+### **Reverse Image Search**
+
+- [Fingible](https://fingible.nftport.xyz/) - *Added 12/1/2023.*
+
+### **Image Generation**
+
+- [VisualHound](https://visualhound.com/) - *Added 12/1/2023.*
 
 
 
@@ -35,6 +74,12 @@ All dates are listed in *DD/MM/YYYY* format.
 
 
 ## **<u>Vehicle and Transportation Intelligence [VATINT]</u>**
+
+### **Railways**
+
+#### **Railway Maps and Tracking**
+
+- [RailCabRides](https://railcabrides.com/en/mapsearch) - *Added 12/1/2023.*
 
 
 
@@ -89,6 +134,10 @@ All dates are listed in *DD/MM/YYYY* format.
 
 
 ## <u>**War, Crisis and Conflicts**</u>
+
+### **General Crisis and Conflicts**
+
+- [SafeAirspace](https://safeairspace.net/) - *Added 12/1/2023.*
 
 
 
