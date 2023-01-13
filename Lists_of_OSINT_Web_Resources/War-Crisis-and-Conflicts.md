@@ -28,6 +28,8 @@
   An interactive map of Russian military forces that is regularly updated.
 - [MapHub Russian and Ukraine Conflict Monitor](https://maphub.net/Cen4infoRes/russian-ukraine-monitor)  
   A crowdsourced effort to map, document and verify information in order to provide reliable information for policymakers and journalists of the on-the-ground and online situation in and around Ukraine.
+- [SafeAirspace](https://safeairspace.net/)  
+  A worldwide map showing the countries where flying over may be dangerous. Includes detailed history of incidents and official warnings for each country.
 
 
 ## **Terrorism**
