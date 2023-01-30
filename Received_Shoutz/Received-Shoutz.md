@@ -94,6 +94,9 @@ Thank you all! <3
 
 - [OSINT News, Blogs and Publications - hackyourmom.com](https://hackyourmom.com/en/cyberwar-en/osint-academy/osint-news-blogs-and-publications/).  
   - ([Wayback](https://web.archive.org/web/20221207042240/https://hackyourmom.com/web/20221207042240/https://hackyourmom.com/en/cyberwar-en/osint-academy/osint-news-blogs-and-publications/)), ([archive.today](https://archive.ph/6YUCk)).
+  
+- [Assessing Information from Overt Sources or OSINT - red-team.ir](https://red-team.ir/osint).
+  - ([Wayback](https://web.archive.org/web/20230111132411/https://red-team.ir/osint)), ([archive.today](https://archive.ph/VRuWn)).
 
   
 
@@ -194,6 +197,9 @@ Thank you all! <3
 
 - [OSINT Investigation Assistant - lambda.black](https://lambda.black/osint.html).  
   - ([Wayback](https://web.archive.org/web/20221030041146/https://lambda.black/osint.html)), ([archive.today](https://archive.ph/wIsP4)).
+  
+- [Abstract Security OSINT Resources - gitlab.com](https://gitlab.com/AbsSecGroup/osint-resources).
+  - ([Wayback](https://web.archive.org/web/20221210011908/https://gitlab.com/AbsSecGroup/osint-resources)), ([archive.today](https://archive.ph/oUnSg)).
 
   
 
