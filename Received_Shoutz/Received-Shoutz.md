@@ -186,7 +186,7 @@ Thank you all! <3
 - [Kalistamp OSINT - github.com](https://github.com/kalistamp/OSINT). 
   - ([Wayback](https://web.archive.org/web/20220911085427/https://github.com/kalistamp/OSINT)), ([archive.today](https://archive.ph/6QdOp)).
 
-- [OSINT Pro Tips: A Collection of useful OSINT tips and tricks (https://ohshint.gitbook.io/oh-shint-its-a-blog/osint/osint-protips) - hackliberty.org](https://community.hackliberty.org/post/9460).  
+- [OSINT Pro Tips: A Collection of useful OSINT tips and tricks - hackliberty.org](https://community.hackliberty.org/post/9460).  
   - ([Wayback](https://web.archive.org/web/20221207041637/https://community.hackliberty.org/post/9460)), ([archive.today](https://archive.ph/rLbYL)).
 
 - [OSINT Pages - osint4justice.org](https://www.osint4justice.org/osint-pages).  
