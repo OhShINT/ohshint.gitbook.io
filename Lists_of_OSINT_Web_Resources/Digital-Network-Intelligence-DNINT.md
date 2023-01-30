@@ -230,6 +230,8 @@
   Lookup a browser user-agent and view details about it such as software versions, OS types, and more.
 - [UA Parser](https://useragent.toolpie.com/)  
   A simple tool that displays your current user agent strings.
+- [LocaBrowser](https://www.locabrowser.com/)  
+  Test geo-targeted websites from different locations in real-time.
 
 ## **Internet of Things [IoT] Search**
 
