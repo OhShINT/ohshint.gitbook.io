@@ -123,6 +123,8 @@
   Comprehensive guide that includes operation classes, new underdevelopment classes, and classes that have been retired since the Cold War specific to the US Navy. 
 - [NavyRecognition](https://www.navyrecognition.com/)  
   A neatly organized directory of naval and naval equipment used by various militaries from all over the world.
+- [[PDF] Maritime Recognition Guide - China](https://www.oni.navy.mil/Portals/12/2022_PLAN_Recognition_Poster_UNCLASSIFIED.pdf)  
+  A recognition guide for Chinese Navy, Coast Guard and government maritime forces. Published by the U.S. Office of Naval Intelligence. Archived [here (Wayback)](http://web.archive.org/web/20230130045135/https://www.oni.navy.mil/Portals/12/2022_PLAN_Recognition_Poster_UNCLASSIFIED.pdf).
 
 ### **Submarines**
 
