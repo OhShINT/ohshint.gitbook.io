@@ -1840,6 +1840,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A great YouTube search engine offered by IntelX.
 - [YouTube Annotations Archive](https://archive.org/details/youtubeannotations)  
   An archive of YouTube annotations. Over 1.4 billion video annotations and 2.4TB of uncompressed data. Also offered as browser addons.
+- [Get YouTube Thumbnail](https://www.get-youtube-thumbnail.com/)  
+  A simple tool that allows you to grab a copy of any YouTube video thumbnail.
 
 ## **4chan and 8chan**
 
