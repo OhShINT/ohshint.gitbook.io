@@ -96,7 +96,7 @@ Thank you all! <3
   - ([Wayback](https://web.archive.org/web/20221207042240/https://hackyourmom.com/web/20221207042240/https://hackyourmom.com/en/cyberwar-en/osint-academy/osint-news-blogs-and-publications/)), ([archive.today](https://archive.ph/6YUCk)).
   
 - [Assessing Information from Overt Sources or OSINT - red-team.ir](https://red-team.ir/osint).
-  - ([Wayback](https://web.archive.org/web/20230111132411/https://red-team.ir/osint)), ([archive.today](https://archive.ph/VRuWn)).
+  - ([Wayback](https://web.archive.org/web/20230111132411/https://red-team.ir/osint)), ([archive.today](https://archive.ph/VRuWn)), ([English Translation](https://red--team-ir.translate.goog/osint?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp)).
 
   
 
