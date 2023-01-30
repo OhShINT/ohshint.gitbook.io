@@ -15,6 +15,8 @@
   Search WHOIS information in over 2,000 extensions including international ccTLDs and gTLDs.
 - [IQ WHOIS](https://iqwhois.com/advanced-search)  
   A great WHOIS search tool that offers downloadable databases, historical WHOIS records and more.
+- [WhoisDS](https://www.whoisds.com/)  
+  Access over 30 days worth of newly registered domains with this database. Database is updated daily.
 
 ## **Internet Protocol Addresses [IP]**
 
@@ -52,6 +54,8 @@
   Provides information about IP addresses, also offers a great CLI tool. Requires a paid subscription.
 - [GreenSnow IP Blacklist](https://www.greensnow.co/)  
   A IP blacklist of known spammer and malicious IP addresses that is constantly being updated.
+- [InfoByIP](https://www.infobyip.com/ipbulklookup.php)  
+  Domain and IP bulk lookup tool allows you to lookup domains, locations, ISPs and ASNs for multiple hosts at once.
 
 ## **Domain Name System [DNS] Records**
 
@@ -130,6 +134,8 @@
   This free online tool checks web pages for any privacy invading scripts, apps, session trackers, ads, and so on.
 - [GA Checker](http://www.gachecker.com/)  
   Spiders a site, and identifies which pages contain Google Analytics and/or Google AdWords tags and which ones do not.
+- [AADInternals](https://aadinternals.com/osint/)  
+  This OSINT tool will extract openly available information for the given Azure AD tenant.
   
 ### **Web Page Monitoring**
 
