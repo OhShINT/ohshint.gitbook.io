@@ -30,6 +30,12 @@
   Allows you to conduct one search in one place, and most importantly it also gives you the ability to search a name.
 - [SkyscraperPage](https://skyscraperpage.com/)  
   The World's largest database on skyscraper diagrams. Hundreds of illustrators have contributed drawings, and millions of people have been using the SkyscraperPage discussion forum since its inception.
+- [SkyDB](https://www.skydb.net/)  
+  Claims to be the world’s largest database of high-rise buildings with more than 174,000 tall buildings listed, which you can sort, compare and share. 
+- [OSM Buildings](https://osmbuildings.org/)  
+  Free and open source web viewer for 3D buildings. Provides data such as names, specifications and other public data.
+- [Council on Tall Building and Urban Habitat](https://www.ctbuh.org/)  
+  CTBUH is the world's leading nonprofit organization for all those interested in the future of cities. Offers an interactive map as well as a searchable database.
 
 ## <u>**Historical Data**</u>
 
