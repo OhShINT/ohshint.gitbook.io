@@ -462,3 +462,5 @@ Allows you to view a website in a different browser online. For example, a Mac u
   Every mobile phone, GSM modem or device has an IMEI number. Based on this number, you can check some information about the device like brand and model.
 - [SNDeepInfo](https://sndeep.info/en)  
   A service for checking a serial numbers of phones, smartphones, cameras, household appliances and IMEI phones of all brands.
+- [Yandex Ranking Factor Explorer](https://yandex-explorer.herokuapp.com/)  
+  This is a list of ranking factors that Yandex uses to rank websites in their search results.
