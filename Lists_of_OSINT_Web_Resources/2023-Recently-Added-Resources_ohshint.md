@@ -45,6 +45,10 @@ All dates are listed in *DD/MM/YYYY* format.
 - [WikiWho](http://wikiwho.ailef.tech/) - *Added 12/1/2023.*
 - [WikiPageViews](https://pageviews.wmcloud.org) - *Added 12/1/2023.*
 
+### **YouTube**
+
+- [Get YouTube Thumbnail](https://www.get-youtube-thumbnail.com/) - *Added 29/1/2023.*
+
 ## <u>**Mapping and Geo-Spatial Intelligence [GEOINT]**</u>
 
 
@@ -85,7 +89,27 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Digital Network Intelligence [DNINT]**</u>
 
+### **WHOIS**
 
+- [WhoisDS](https://www.whoisds.com/) - *Added 29/1/2023.*
+
+### **Internet Protocol Addresses [IP]**
+
+- [InfoByIP](https://www.infobyip.com/ipbulklookup.php) - *Added 29/1/2023.*
+
+### **Website Analysis**
+
+#### **Enumeration**
+
+- [AADInternals](https://aadinternals.com/osint/) - *Added 29/1/2023.*
+
+### **User Agents**
+
+- [LocaBrowser](https://www.locabrowser.com/) - *Added 29/1/2023.*
+
+### **Other Tools**
+
+- [Yandex Ranking Factor Explorer](https://yandex-explorer.herokuapp.com/) - *Added 29/1/2023.*
 
 ## **<u>Signals Intelligence [SIGINT]</u>**
 
@@ -119,6 +143,12 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Real Estate**</u>
 
+### **General Real Estate**
+
+- [SkyDB](https://www.skydb.net/) - *Added 29/1/2023.*
+- [OSM Buildings](https://osmbuildings.org/) - *Added 29/1/2023.*
+- [Council on Tall Building and Urban Habitat](https://www.ctbuh.org/) - *Added 29/1/2023.*
+
 
 
 ## <u>**Data Sets**</u>
@@ -143,6 +173,12 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Weapons and Equipment Identification**</u>
 
+### **Equipment**
+
+#### **Boats**
+
+- [[PDF] Maritime Recognition Guide - China](https://www.oni.navy.mil/Portals/12/2022_PLAN_Recognition_Poster_UNCLASSIFIED.pdf) - *Added 29/1/2023.*
+
 
 
 ## <u>**Government Information**</u>
@@ -155,3 +191,5 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## **<u>Miscellaneous</u>**
 
+- [WhoPaysTechnicalWriters](https://whopaystechnicalwriters.com/) - *Added 29/1/2023.*
+- [MarkWhen](https://markwhen.com/) - *Added 29/1/2023.*
