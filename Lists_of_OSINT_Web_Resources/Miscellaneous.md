@@ -51,3 +51,7 @@
   An awesome archive of infosec and hacking related stickers created by [@koronkowy](https://twitter.com/koronkowy). Like, come on! Who doesn't like stickers 
 - [ConcertArchives](https://www.concertarchives.org/)  
   An archive of concerts. Browse by location, artist, or concerts.
+- [WhoPaysTechnicalWriters](https://whopaystechnicalwriters.com/)  
+  List of publishers, publications and agencies that pay for technical content.
+- [MarkWhen](https://markwhen.com/)  
+  A great, and free online tool that converts markdown to a graphical timeline.
