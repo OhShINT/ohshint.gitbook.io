@@ -3599,6 +3599,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   Lookup a browser user-agent and view details about it such as software versions, OS types, and more.
 - [UA Parser](https://useragent.toolpie.com/)  
   A simple tool that displays your current user agent strings.
+- [LocaBrowser](https://www.locabrowser.com/)  
+  Test geo-targeted websites from different locations in real-time.
 
 ## **Internet of Things [IoT] Search**
 
@@ -3829,6 +3831,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Every mobile phone, GSM modem or device has an IMEI number. Based on this number, you can check some information about the device like brand and model.
 - [SNDeepInfo](https://sndeep.info/en)  
   A service for checking a serial numbers of phones, smartphones, cameras, household appliances and IMEI phones of all brands.
+- [Yandex Ranking Factor Explorer](https://yandex-explorer.herokuapp.com/)  
+  This is a list of ranking factors that Yandex uses to rank websites in their search results.
 
 # <u>**Signals Intelligence [SIGINT]**</u>
 
@@ -5733,5 +5737,9 @@ Allows you to check grammar, spelling, punctuation, vocabulary, and other writin
   An awesome archive of infosec and hacking related stickers created by [@koronkowy](https://twitter.com/koronkowy). Like, come on! Who doesn't like stickers? 
 - [ConcertArchives](https://www.concertarchives.org/)  
   An archive of concerts. Browse by location, artist, or concerts.
+- [WhoPaysTechnicalWriters](https://whopaystechnicalwriters.com/)  
+  List of publishers, publications and agencies that pay for technical content.
+- [MarkWhen](https://markwhen.com/)  
+  A great, and free online tool that converts markdown to a graphical timeline.
 
 ![](Contact/Images/donvito.png)
