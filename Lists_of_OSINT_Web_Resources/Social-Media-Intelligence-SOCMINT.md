@@ -662,6 +662,8 @@
   An archive of YouTube annotations. Over 1.4 billion video annotations and 2.4TB of uncompressed data. Also offered as browser addons.
 - [Get YouTube Thumbnail](https://www.get-youtube-thumbnail.com/)  
   A simple tool that allows you to grab a copy of any YouTube video thumbnail.
+- [Filmot](https://filmot.com/)  
+  An excellent search engine for YouTube subtitles and video metadata.
 
 ## <u>**4chan and 8chan**</u>
 
