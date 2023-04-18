@@ -48,6 +48,8 @@
   The leading blockchain explorer for the Binance Smart Chain, built by the same team behind Etherscan. Besides tracking transactions, verifying smart contracts and other features, it is also the leading validator for BSC.
 - [Whale Alert](https://whale-alert.io/)  
   The most advanced blockchain tracker and analytics system reporting large and interesting transactions as they happen.
+- [Cosmos Address Convertor](https://cosmos-checker.atmon3r.dev/)  
+  Convert any Cosmos address to +100 ecosystem blockchains and see the amount for each wallet. 
 
 ### **<u>Bitcoin [BTC] Specific</u>**
 
@@ -123,6 +125,8 @@
   Here you can validate, verify and check a credit card or debit card number.
 - [BIN List](https://binlist.net/)  
   BIN list is a public web service for looking up credit and debit card metadata. They also provide a free API.
+- [BinBase](https://www.binbase.com/)  
+  Virtual BIN lookup for various users, including merchants, bookmakers, payment processors, collection agencies and fraud prevention specialists. You can find information for credit, debit, prepaid, reloadable, gift cards and other card types.
 
 ## **<u>Physical Currency</u>**
 
