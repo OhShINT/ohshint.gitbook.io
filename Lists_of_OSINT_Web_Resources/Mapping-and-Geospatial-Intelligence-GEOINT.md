@@ -516,7 +516,7 @@
 - [Worldwide Skatepark Map](https://www.google.com/maps/d/u/0/viewer?mid=1d3FyUTTwmUrTDoBpY0111r6OYAB145Fx&ll=0%2C0&z=2)  
   A custom Google map that shows locations of skate parks all around the globe.
 - [SkateparkTour](https://skateparktour.ca/)  
-  A directory of local skate parks all accross Canada.
+  A directory of local skate parks all across Canada.
   
 ## **Drone Footage**
   
