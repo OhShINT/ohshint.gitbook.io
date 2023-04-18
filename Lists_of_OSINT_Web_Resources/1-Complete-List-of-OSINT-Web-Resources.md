@@ -2401,7 +2401,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [Worldwide Skatepark Map](https://www.google.com/maps/d/u/0/viewer?mid=1d3FyUTTwmUrTDoBpY0111r6OYAB145Fx&ll=0%2C0&z=2)  
   A custom Google map that shows locations of skate parks all around the globe.
 - [SkateparkTour](https://skateparktour.ca/)  
-  A directory of local skate parks all accross Canada.
+  A directory of local skate parks all across Canada.
   
 ## **Drone Footage**
 - [TravelWithDrone](https://travelwithdrone.com/)  
@@ -3668,7 +3668,7 @@ Another, more recent document from NASA in September 2015 that is a reference gu
 - [BinaryEdge](https://app.binaryedge.io/)  
   Focuses on acquiring, analyzing and classifying internet wide data by combining efforts in the areas of cybersecurity, data science and machine learning. Requires registration.
 - [FullHunt.io](https://fullhunt.io/)  
-  Attack surface database of the entire Internet. Search info by domain, ip, technology, host, tag, port, city and more.
+  Attack surface database of the entire Internet. Search info by domain, IP, technology, host, tag, port, city and more.
 
 ### **CCTV and Webcams**
 
