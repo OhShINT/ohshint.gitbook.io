@@ -55,3 +55,5 @@
   List of publishers, publications and agencies that pay for technical content.
 - [MarkWhen](https://markwhen.com/)  
   A great, and free online tool that converts markdown to a graphical timeline.
+- [How to Verify?](https://www.howtoverify.info/)  
+  A great resource to help you learn about verification workflows and tools.
