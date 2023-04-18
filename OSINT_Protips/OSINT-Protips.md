@@ -1247,3 +1247,8 @@ This new service from [@cybersecuwu](https://twitter.com/cybersecuwu) will assis
 - [https://search.illicit.services](https://search.illicit.services/) 
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Disclaimer: 
+As breach data is technically open-source. The malicious use of it can have heavy legal implications. Using this data for credential-stuffing, phishing, blackmail or any other malicious purpose is against the law. 
+
+In other words, don't be shitty. 
