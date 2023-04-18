@@ -3337,6 +3337,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   Provides data on the impact of the freight rail industry in the US.
 - [Length of Railway Networks](https://www.citypopulation.de/en/world/bymap/railways/)  
   Provides the total length of railway networks from many different countries of the world.
+- [Defect Detector](https://database.defectdetector.net/)  
+  The largest collection of railway [defect detector](https://en.wikipedia.org/wiki/Defect_detector) ([WikiLess](https://wikiless.org/wiki/Defect_detector)) audio recordings on the internet with over 2,500 recordings to date.
 
 ## **Public Transit**
 
@@ -3350,6 +3352,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   Shows you areas you can reach with public transport in a given time. 
 - [TransitLand](https://www.transit.land/)  
   An open data platform that collects [General Transit Feed Specification (GTFS)](https://en.wikipedia.org/wiki/General_Transit_Feed_Specification) ([WikiLess](https://wikiless.org/wiki/General_Transit_Feed_Specification)), GTFS Realtime, and other open data feeds from over 2,500 transit providers in over 55 countries. Also offers a free API.
+- [DOT Open Data Catalog](https://data.transportation.gov/)  
+  A large catalog of various datasets from the U.S. Department of Transportation. Including railroads, maritime, roadways, aviation and more.
 
 ### **Europe**
 
