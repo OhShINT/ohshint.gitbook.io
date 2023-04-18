@@ -131,8 +131,6 @@
   A Google CSE for Facebook. Made by [OSINT Me](https://www.osintme.com/).
 - [Lookup-ID](https://lookup-id.com/)  
   A simple tool to get a Facebook ID of a user, group or page. Also provides a few other useful tools.
-- [Facebook Ads Library](https://www.facebook.com/ads/library/)  
-  Check to see who is behind and spending on Facebook ads.
 - [Facebook Live Map](https://www.facebook.com/livemap#)  
   Find Facebook live streams via location.
 - [Crowdtangle Facebook Video Search](https://www.crowdtangle.com/videosearch)  
