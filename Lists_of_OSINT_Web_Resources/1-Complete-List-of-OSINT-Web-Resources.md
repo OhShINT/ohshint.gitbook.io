@@ -2807,6 +2807,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   A massive database that offers over 130 million patent documents for free.
 - [WIPO Global Brand Database](https://www3.wipo.int/branddb/en/)  
   Gateway to more than 46 million trademark records from 71 different national and international collections.
+- [Public Copyright Catalog](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First)  
+  A searchable copyright catalog that has records starting from 1978 to the present.
 
 ## **Business Registries**
 
@@ -2915,6 +2917,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   The leading blockchain explorer for the Binance Smart Chain, built by the same team behind Etherscan. Besides tracking transactions, verifying smart contracts and other features, it is also the leading validator for BSC.
 - [Whale Alert](https://whale-alert.io/)  
   The most advanced blockchain tracker and analytics system reporting large and interesting transactions as they happen.
+- [Cosmos Address Convertor](https://cosmos-checker.atmon3r.dev/)  
+  Convert any Cosmos address to +100 ecosystem blockchains and see the amount for each wallet. 
 
 ### **Bitcoin [BTC] Specific**
 
@@ -2990,6 +2994,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   Here you can validate, verify and check a credit card or debit card number.
 - [BIN List](https://binlist.net/)  
   BIN list is a public web service for looking up credit and debit card metadata. They also provide a free API.
+- [BinBase](https://www.binbase.com/)  
+  Virtual BIN lookup for various users, including merchants, bookmakers, payment processors, collection agencies and fraud prevention specialists. You can find information for credit, debit, prepaid, reloadable, gift cards and other card types.
 
 ## **Physical Currency**
 
@@ -5689,7 +5695,9 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
 - [Grammica](https://grammica.com/)  
   This free online grammar check uses a fully advanced machine-learning algorithm to identify and grammar, spelling, punctuation, and syntax errors in your writing. They also provide many other useful tools such as a plagiarism checker, anagram solver and more.
 - [GrammarChecker](https://grammarchecker.net/)  
-Allows you to check grammar, spelling, punctuation, vocabulary, and other writing mistakes. Our punctuation checker tool is easy to use and available in a web-based version.
+  Allows you to check grammar, spelling, punctuation, vocabulary, and other writing mistakes. Our punctuation checker tool is easy to use and available in a web-based version.
+- [Apertium](https://www.apertium.org/)  
+  A great open-source machine translation platform.
 
 ## **General Dictionaries**
 
@@ -5783,5 +5791,7 @@ Allows you to check grammar, spelling, punctuation, vocabulary, and other writin
   List of publishers, publications and agencies that pay for technical content.
 - [MarkWhen](https://markwhen.com/)  
   A great, and free online tool that converts markdown to a graphical timeline.
+- [How to Verify?](https://www.howtoverify.info/)  
+  A great resource to help you learn about verification workflows and tools.
 
 ![](Contact/Images/donvito.png)
