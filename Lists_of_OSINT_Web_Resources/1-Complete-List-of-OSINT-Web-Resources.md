@@ -4956,6 +4956,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Teacher grant search database.
 - [DataReportal](https://datareportal.com/)  
   An online reference library offering hundreds of free reports packed with data, insights, and trends.
+- [openAFRICA](https://openafrica.net/)  
+  Aims to be the largest independent repository of open data on the African continent.
 
 ## **Government Data Sets**
 
