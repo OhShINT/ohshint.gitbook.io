@@ -2541,6 +2541,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Search by image for VK, Odnoklassniki, TikTok, Clubhouse and Instagram profiles.
 - [FaceCheckID](https://facecheck.id/)  
   Upload a face of a person of interest and discover their social media profiles, appearances in blogs, video, and news websites.
+- [Baidu Image Search](http://image.baidu.com)  
+  A great reverse image search tool from Baidu.
 - [KarmaDecay](https://karmadecay.com/)  
   A reverse image search tool for Reddit. Currently, still in beta.
 - [RepostSleuth](https://repostsleuth.com/)  
