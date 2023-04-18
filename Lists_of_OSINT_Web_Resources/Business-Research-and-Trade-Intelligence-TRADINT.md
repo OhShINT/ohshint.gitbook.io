@@ -48,6 +48,8 @@
   A massive database that offers over 130 million patent documents for free.
 - [WIPO Global Brand Database](https://www3.wipo.int/branddb/en/)  
   Gateway to more than 46 million trademark records from 71 different national and international collections.
+- [Public Copyright Catalog](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First)  
+  A searchable copyright catalog that has records starting from 1978 to the present.
 
 ## <u>**Business Registries**</u>
 
