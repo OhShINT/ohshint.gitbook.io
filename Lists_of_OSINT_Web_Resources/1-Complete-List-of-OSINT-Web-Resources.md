@@ -4221,6 +4221,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A tool that allows you to discover business email addresses for users, even if their email address may not be publicly available or shared.
 - [Identificator.space](https://identificator.space/search)  
   Locate information and linked accounts by searching an email address, phone number or Twitter handle. Requires registration.
+- [User Email Encrichment](https://taitems.github.io/user-email-enrichment/)  
+  A free, open source identity resolution alternative to tools like FullContact and Clearbit. Requires registration.
 
 ## **Data Breach Search**
 
@@ -4276,6 +4278,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Another good site to search through data breaches. Requires a paid subscription.
 - [ProxyNova COMB Search](https://www.proxynova.com/tools/comb)  
   Allows you to search via email address, username or password through the "[Compilation of Many Breaches [COMB]](https://cybernews.com/news/largest-compilation-of-emails-and-passwords-leaked-free/)" ([Wayback](https://web.archive.org/web/20221129072721/https://cybernews.com/news/largest-compilation-of-emails-and-passwords-leaked-free/)), ([archive.today](https://archive.vn/7XumX)) breach data. Provides uncensored results.
+- [Illicit Services](https://search.illicit.services/)  
+  A searchable database of leaked and breached information. All information is in the public domain and has been compiled into one search engine.
 
 ## **Pretty Good Privacy [PGP]**
 
