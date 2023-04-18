@@ -1169,3 +1169,81 @@ Also, Happy Holidays everyone!
 
 Attached image:
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Happy-Holidays-from-OhShINT.jpg"/>
+
+
+
+## OSINT Protip 53
+
+> Posted on *21/1/2023* at *9:13 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1617027649704165378](https://twitter.com/ohshint_/status/1617027649704165378)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 53: 
+
+[#TOR](https://twitter.com/hashtag/TOR?src=hashtag_click) is great for privacy, and finding loads of information on just about anything. Here are some great [#onion](https://twitter.com/hashtag/onion?src=hashtag_click) search engines. 
+
+- [https://dargle.net/search](https://dargle.net/search) 
+- [https://ahmia.fi](https://ahmia.fi/) 
+- [https://onionlandsearchengine.com](https://onionlandsearchengine.com/) 
+- [https://onion.live](https://onion.live/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#Darknet](https://twitter.com/hashtag/Darknet?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Onion-Search-Engine-Example.jpg"/>
+
+
+
+## OSINT Protip 54
+
+> Posted on *4/2/2023* at *9:34 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1622106296135880706](https://twitter.com/ohshint_/status/1622106296135880706)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 54: 
+
+Searching through [#YouTube](https://twitter.com/hashtag/YouTube?src=hashtag_click) subtitles via specific keywords or phrases is excellent for finding videos of interest and/or locating additional information on an event. 
+
+- [https://filmot.com](https://filmot.com/) 
+- [https://savesubs.com](https://savesubs.com/) 
+- [https://archive.org/details/youtubeannotations](https://archive.org/details/youtubeannotations) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/YouTube-Subtitle-Search-Example.jpg"/>
+
+
+
+## OSINT Protip 55
+
+> Posted on *3/3/2023* at *4:22 PM.*  
+> URL: [https://twitter.com/ohshint_/status/1631812323462758400](https://twitter.com/ohshint_/status/1631812323462758400)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 55: 
+
+Image boards like 4chan can reveal a ton of information on just about anything. Searching archives can help locate posts, comments, images, etc.  
+Beware, lots of NSFW. 
+
+- [https://archived.moe](https://archived.moe/) 
+- [https://4plebs.org](https://4plebs.org/) 
+- [https://thebarchive.com](https://thebarchive.com/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/4chan-Archive-Search-Example.PNG"/>
+
+
+
+## OSINT Protip 56
+
+> Posted on *23/3/2023* at *1:49 AM.*  
+> URL: [https://twitter.com/ohshint_/status/1638825402155286530](https://twitter.com/ohshint_/status/1638825402155286530)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 56: 
+
+[#Breach](https://twitter.com/hashtag/Breach?src=hashtag_click) data can uncover all kinds of information about a target. Emails, usernames, IPs, etc.  
+This new service from [@cybersecuwu](https://twitter.com/cybersecuwu) will assist you with most investigations. 
+
+- [https://search.illicit.services](https://search.illicit.services/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
