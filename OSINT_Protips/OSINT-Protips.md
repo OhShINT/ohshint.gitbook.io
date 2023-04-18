@@ -1167,7 +1167,7 @@ Also, Happy Holidays everyone!
 
 [#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
 
-Attached image:
+Attached image: 
 <img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Happy-Holidays-from-OhShINT.jpg"/>
 
 
