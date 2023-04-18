@@ -1319,6 +1319,8 @@ Remember, CTRL+F is your friend here.
   A tool from Meta to search for Facebook videos. Requires registration.
 - [Graph.tips Beta](https://graph.tips/beta/)  
   An experimental tool to help search Facebooks new graph search function.
+- [Facebook Ads Library](https://www.facebook.com/ads/library/)  
+  Search all the ads currently running across Meta technologies. To find an ad, search for keywords or an advertiser. The Ad Library also archives ads about social issues, elections or politics for 7 years. Find details about these ads like who paid for them and who the advertiser was targeting. Requires log in.
 
 ## **Flickr**
 
@@ -1844,6 +1846,12 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   A simple tool that allows you to grab a copy of any YouTube video thumbnail.
 - [Filmot](https://filmot.com/)  
   An excellent search engine for YouTube subtitles and video metadata.
+- [YoutubeVideoFinder](https://findyoutubevideo.thetechrobo.ca/)  
+  Checks for archived versions and other information. Search via YouTube video ID.
+- [YouTube Channel Crawler](https://channelcrawler.com/)  
+  Search for specific creators and categories. Has a wide range of search filters.
+- [Youtube Video Data Viewer](https://ytlarge.com/youtube/video-data-viewer/)  
+  A tool that extracts YouTube metadata, such as upload date and time, metrics, thumbnails and more.
 
 ## **4chan and 8chan**
 
