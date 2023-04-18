@@ -133,6 +133,10 @@
   A mapping service often used by first responders. Offers many mapping layers like topographic, OSM, structures, weather, slope angles, geology, fire history and more.
 - [GeoReferencer](https://www.georeferencer.com/)  
   An online tool that allows you to overlay images over locations and combine multiple maps into one. Very handy.
+- [World Bank Maps](https://maps.worldbank.org/)  
+  An interactive map with lots of data on various parts of the world, satellite imagery, projects in different sectors and area analyses.
+- [NASA Earthdata Search](https://search.earthdata.nasa.gov/search)  
+  Search, discover, visualize, refine, and access NASA Earth Observation data in your browser. 
 
 ## **Street View Maps**
 
@@ -404,6 +408,8 @@
   The Mozilla Location Service (MLS) is an open service, which lets devices determine their location based on network infrastructure like Bluetooth beacons, cell towers and WiFi access points. This network based location service complements satellite based navigation systems like A-GPS. Also provides daily updates and offers downloadable data sets.
 - [LTE Italy](https://lteitaly.it/)  
   Provides maps with TIM, WindTre, Vodafone and iliad's LTE broadcasting towers and shows information about these towers.
+- [AntennaSearch](https://www.antennasearch.com/)  
+  Provides detailed information about telecommunication towers and antennas in the United States.
 
 ### **Cellular Coverage Maps**
 
@@ -509,6 +515,8 @@
   Provides information about rental stations that have recently closed or suspended their activities. A link to the bike rental operator is also provided for each station.
 - [Worldwide Skatepark Map](https://www.google.com/maps/d/u/0/viewer?mid=1d3FyUTTwmUrTDoBpY0111r6OYAB145Fx&ll=0%2C0&z=2)  
   A custom Google map that shows locations of skate parks all around the globe.
+- [SkateparkTour](https://skateparktour.ca/)  
+  A directory of local skate parks all accross Canada.
   
 ## **Drone Footage**
   
