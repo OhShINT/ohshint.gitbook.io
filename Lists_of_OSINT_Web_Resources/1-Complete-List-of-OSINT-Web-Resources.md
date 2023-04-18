@@ -3478,6 +3478,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   A great API for domain name data, uncover new domains and the relationships between them. Requires a paid subscription.
 - [RapidDNS](https://rapiddns.io/)  
   DNS search tool. Find subdomains, shared IPs and more. Claims to have over 3 billion records.
+- [CompleteDNS](https://completedns.com/)  
+  Research domain history and other DNS details. Currently has over 20 years worth of data. Requires a paid subscription.
 
 ## **Website Analysis**
 
@@ -3531,6 +3533,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   Spiders a site, and identifies which pages contain Google Analytics and/or Google AdWords tags and which ones do not.
 - [AADInternals](https://aadinternals.com/osint/)  
   This OSINT tool will extract openly available information for the given Azure AD tenant.
+- [Netlas](https://netlas.io/)  
+  Internet intelligence apps that provide accurate technical information on IP addresses, domain names, websites, web applications, IoT devices, and other online assets.
   
 ### **Web Page Monitoring**
 
@@ -3653,6 +3657,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   Search engine indexing open ports on the internet. It focuses on listing the databases and table names and keeps an history of every successful connection.
 - [BinaryEdge](https://app.binaryedge.io/)  
   Focuses on acquiring, analyzing and classifying internet wide data by combining efforts in the areas of cybersecurity, data science and machine learning. Requires registration.
+- [FullHunt.io](https://fullhunt.io/) 
+  Attack surface database of the entire Internet. Search info by domain, ip, technology, host, tag, port, city and more.
 
 ### **CCTV and Webcams**
 
