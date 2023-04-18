@@ -943,6 +943,8 @@ Remember, CTRL+F is your friend here.
   A web search engine that returns high quality results by submitting your query to other search engines and collating, ranking and dropping duplicates in the results.
 - [Valentin.app](https://valentin.app/)  
   An easy way to get localized search engine results pages [SERPs] at an exact location without any additional tools.
+- [GNOD Search](https://www.gnod.com/search/)  
+  Search various engines at the same time and compare results. Very handy.
 
 ## **Similar Site Search**
 
@@ -1025,6 +1027,10 @@ Remember, CTRL+F is your friend here.
   Search for a book and view which public libraries where you can find it.
 - [Anna's Archive](https://annas-archive.org/)  
   A project that aims to catalog all the books in existence, by aggregating data from various sources. Search this pirate library for whatever books you are looking for. Made by [@AnnaArchivist](https://twitter.com/AnnaArchivist).
+- [Smithsonian Libraries](https://library.si.edu/)  
+  Search for historical books, documents and images.
+- [FilePursuit](https://filepursuit.com/)  
+  Search open directories for files, documents, books, images, videos and more.
 
 ## **Video Search**
 
