@@ -263,7 +263,7 @@
 - [BinaryEdge](https://app.binaryedge.io/)  
   Focuses on acquiring, analyzing and classifying internet wide data by combining efforts in the areas of cybersecurity, data science and machine learning. Requires registration.
 - [FullHunt.io](https://fullhunt.io/)  
-  Attack surface database of the entire Internet. Search info by domain, ip, technology, host, tag, port, city and more.
+  Attack surface database of the entire Internet. Search info by domain, IP, technology, host, tag, port, city and more.
 
 ### **CCTV and Webcams**
 
