@@ -262,7 +262,7 @@
   Search engine indexing open ports on the internet. It focuses on listing the databases and table names and keeps an history of every successful connection.
 - [BinaryEdge](https://app.binaryedge.io/)  
   Focuses on acquiring, analyzing and classifying internet wide data by combining efforts in the areas of cybersecurity, data science and machine learning. Requires registration.
-- [FullHunt.io](https://fullhunt.io/) 
+- [FullHunt.io](https://fullhunt.io/)  
   Attack surface database of the entire Internet. Search info by domain, ip, technology, host, tag, port, city and more.
 
 ### **CCTV and Webcams**
