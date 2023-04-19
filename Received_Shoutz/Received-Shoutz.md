@@ -201,6 +201,12 @@ Thank you all! <3
 - [Abstract Security OSINT Resources - gitlab.com](https://gitlab.com/AbsSecGroup/osint-resources).
   - ([Wayback](https://web.archive.org/web/20221210011908/https://gitlab.com/AbsSecGroup/osint-resources)), ([archive.today](https://archive.ph/oUnSg)).
 
+- [Sussex Global Analysis - Intelligence Subject Matter - start.me](https://start.me/p/ADypgr/intelligence-subject-matter).  
+  - ([Wayback](https://web.archive.org/web/20230324080043/https://start.me/p/ADypgr/intelligence-subject-matter)), ([archive.today](https://archive.ph/OxQPc)).
+
+- [ForensicFocus Resources - forensicfocus.com](https://www.forensicfocus.com/resources/).  
+  - ([Wayback](https://web.archive.org/web/20230324080522/https://www.forensicfocus.com/resources/)), ([archive.today](https://archive.ph/1cgK9)).
+
   
 
 ## **Documents**
@@ -232,6 +238,9 @@ Thank you all! <3
 
 - [Trace Labs OSINT VM - tracelabs.org](https://www.tracelabs.org/initiatives/osint-vm). 
   - ([Wayback](https://web.archive.org/web/20220823163521/https://www.tracelabs.org/initiatives/osint-vm)), ([archive.today](https://archive.ph/aaH1G)).
+
+- [What are Some Good Websites for OSINT? - reddit.com/r/OSINT](https://www.reddit.com/r/OSINT/comments/11mdfjz/what_are_some_good_websites_for_osint/).  
+  - ([Wayback](https://web.archive.org/web/20230324081703/https://www.reddit.com/r/OSINT/comments/11mdfjz/what_are_some_good_websites_for_osint/)), ([archive.today](https://archive.ph/iiik8)).
 
   
 
