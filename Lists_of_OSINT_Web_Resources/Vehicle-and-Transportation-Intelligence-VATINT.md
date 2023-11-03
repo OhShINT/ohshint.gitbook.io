@@ -206,6 +206,8 @@ Search for vehicle safety ratings and recalls for vehicles, tires, parts, car se
   Tracking information such as route and other technical details about military aircraft flying over a specific territory.
 - [Icarus.Flights](https://icarus.flights/)  
   A tool for analyzing uncensored aircraft activity data and tracing global aircraft ownership records. Requires a paid subscription.
+- [ITAMilRadar](https://www.itamilradar.com/)  
+  Track military flights over Italy and over the Mediterranean Sea.
 
 ### **Aircraft Information**
 
