@@ -65,7 +65,7 @@ Remember, CTRL+F is your friend here.
   * [**Tinder**](#tinder)
   * [**Tumblr**](#tumblr)
   * [**Twitch**](#twitch)
-  * [**Twitter**](#twitter)
+  * [**Twitter/X**](#twitter)
   * [**Untappd**](#untappd)
   * [**VKontakte**](#vkontakte)
   * [**VSCO**](#vsco)
@@ -1671,8 +1671,10 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   You can find detailed stats about your favorite streamer, channel, game and teams. There are many different stats including newest twitch team, channel subscriber count, new and best clips and multiple ranking for all the games and streamers.
 - [Twitch Followage Tool](https://streamscharts.com/tools/followage)  
   Enter the Twitch username and get a complete list of channels they follow.
+- [Twitch-Tools](https://twitch-tools.lolarchiver.com/)  
+  A collection of Twitch tools, like username history, chat history, and other changelog history. 
 
-## **Twitter**
+## **Twitter/X**
 
 - [TinfoLeak](https://tinfoleak.com/)  
   Create a dossier on a Twitter user. Information includes name, username, profile picture, location, followers, devices, applications and operating systems used, social networks, creation date, hashstags used, user mentions, and more.
@@ -2017,7 +2019,13 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [World Bank Maps](https://maps.worldbank.org/)  
   An interactive map with lots of data on various parts of the world, satellite imagery, projects in different sectors and area analyses.
 - [NASA Earthdata Search](https://search.earthdata.nasa.gov/search)  
-  Search, discover, visualize, refine, and access NASA Earth Observation data in your browser. 
+  Search, discover, visualize, refine, and access NASA Earth Observation data in your browser.
+- [EastView](https://www.eastview.com/resources/atlases-maps/)  
+  Offers a wide variety of atlases, maps, and geospatial data from all around the world. Requires a paid subscription for full access.
+- [Maps-for-Free](https://maps-for-free.com/)  
+  Offers many color visualizations of the Earths surface. Data is sourced from OpenStreetMap.
+- [ShadowMap](https://app.shadowmap.org/)  
+  Visualizes solar shadows on an interactive 3D web-based map. For any moment in time, anywhere on Earth.
 
 ## **Street View Maps**
 
@@ -2613,6 +2621,8 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
   Reverse image search tool locate NFTs and other photos.
 - [Fingible](https://fingible.nftport.xyz/)  
   A reverse image search tool for finding NFTs.
+- [EZGIF](https://ezgif.com/reverse)  
+  Simply upload a .gif and reverse search it.
 
 ## **Image Generation**
 
@@ -2707,7 +2717,7 @@ A very interesting Russian OSINT bot for Telegram. Search via username, email, I
 - [Space-Track](https://www.space-track.org)  
   Promotes space flight safety, protection of the space environment and the peaceful use of space worldwide by sharing space situational awareness services and information with U.S. and international satellite owners/operators, academia and other entities. Requires account.
 - [N2YO](https://www.n2yo.com/)  
-  Select any satellite orbiting the Earth and check where is located in real-time. Check satellite passes over your location and receive alerts on your phone.
+  Select any satellite orbiting the Earth and check where it is located in real-time. Check satellite passes over your location and receive alerts on your phone.
 - [Heavens-Above](https://www.heavens-above.com/)  
   Provides satellite predictions and other astronomical data customized for your location.
 - [SatFlare](http://www.satflare.com/track.as)  
@@ -2738,13 +2748,15 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   An interactive 3D map of the universe. 
 - [MoonCalc](https://www.mooncalc.org/)  
   Shows the motion of the Moon and Moon phase for a particular day at a particular location. Also offers a [free API](https://auroraforecast.space/#api).
+- [Gunter's Space Page](https://space.skyrocket.de/index.html)  
+  Established in 1996, Gunter's Space Page is one of the leading and most comprehensive online resources dedicated to space missions, satellites, rockets, and related space exploration activities.
+- [Jonathan's Space Home Page](http://www.planet4589.org/)  
+  A great blog where you can find extensive data on the history of space exploration.
 
 ## **Visualization**
 
 - [LeoLabs Low Earth Orbit Visualization](https://platform.leolabs.space/visualization)  
   A visualization of satellites, debris, and other objects tracked by LeoLabs in low earth orbit.
-- [Stuff In Space](http://stuffin.space/)  
-  Stuff in Space is a real-time 3D map of objects in Earth orbit, visualized using WebGL. Daily updates with orbit data from Space-Track.org and uses the excellent satellite.js JavaScript library to calculate satellite positions.
 - [ESRI Satellite Map](https://maps.esri.com/rc/sat2/index.html)  
   This satellite map shows current position and trajectory of over 19300 satellites orbiting the Earth. View satellites by country, type, size, launch date, ect.
 - [Live Starlink Satellite Map](https://satellitemap.space/)  
@@ -2843,10 +2855,12 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   Provides detailed financial information on all companies, both private and public, that are located in Sweden.
 - [Denmark Company Search](https://www.proff.dk/)  
   Provides detailed financial information on all companies, both private and public, that are located in Denmark.
-- [Armanian Electronic Register](https://www.e-register.am/ru/search)  
-  Search for information about Armanian organizations.
+- [Armenian Electronic Register](https://www.e-register.am/ru/search)  
+  Search for information about Armenian organizations.
 - [UK Company House](https://find-and-update.company-information.service.gov.uk/)  
   Locate registered addresses, filing history, officers, annual returns and more.
+- [Librebor](https://librebor.me/en/)  
+  For searching Spanish companies, it provides quite some detailed information.
 
 #### **North America**
 
@@ -3209,6 +3223,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   Tracking information such as route and other technical details about military aircraft flying over a specific territory.
 - [Icarus.Flights](https://icarus.flights/)  
   A tool for analyzing uncensored aircraft activity data and tracing global aircraft ownership records. Requires a paid subscription.
+- [ITAMilRadar](https://www.itamilradar.com/)  
+  Track military flights over Italy and over the Mediterranean Sea.
 
 ### **Aircraft Information**
 
@@ -3412,8 +3428,6 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   Search for WHOIS records and  other data via domain name, email address or keyword. For enhanced results, a paid subscription is required.
 - [DomainBigData](https://domainbigdata.com/)  
   Find the registrant and other domains owned by the same person with their reverse WHOIS. Find domain history, domains on same IP, network owner and more.
-- [GoFindWHOIS](https://gofindwhois.com/)  
-  A great online tool for locating information about a website or IP address. Offers WHOIS lookups, DNS records, IP tools, and other website enumeration tools. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
 - [Marcaria](https://whois.marcaria.com/en)  
   Search WHOIS information in over 2,000 extensions including international ccTLDs and gTLDs.
 - [IQ WHOIS](https://iqwhois.com/advanced-search)  
@@ -3459,6 +3473,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   A IP blacklist of known spammer and malicious IP addresses that is constantly being updated.
 - [InfoByIP](https://www.infobyip.com/ipbulklookup.php)  
   Domain and IP bulk lookup tool allows you to lookup domains, locations, ISPs and ASNs for multiple hosts at once.
+- [Spur.us](https://spur.us/context/ENTER-IP-ADDRESS-HERE)  
+  A great tool that provides tools and data to detect VPNs, residential IPs, proxies, and bots. Simply input an IP address in the URL, like so: `spur.us/context/ENTER-IP-ADDRESS-HERE`.
 
 ## **Domain Name System [DNS] Records**
 
@@ -3488,6 +3504,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   DNS search tool. Find subdomains, shared IPs and more. Claims to have over 3 billion records.
 - [CompleteDNS](https://completedns.com/)  
   Research domain history and other DNS details. Currently has over 20 years worth of data. Requires a paid subscription.
+- [DNSDumpster](https://dnsdumpster.com/)  
+  A free domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
 
 ## **Website Analysis**
 
@@ -3543,6 +3561,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   This OSINT tool will extract openly available information for the given Azure AD tenant.
 - [Netlas](https://netlas.io/)  
   Internet intelligence apps that provide accurate technical information on IP addresses, domain names, websites, web applications, IoT devices, and other online assets.
+- [Visual Site Mapper](http://visualsitemapper.com/)  
+  A free online tool for generating site maps in graph form. Allows you to visually see the links between the pages of a website.
   
 ### **Web Page Monitoring**
 
@@ -3795,6 +3815,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A collection of infographics that display the various known and currently active cyber operation groups per country. Archived [here (Wayback)](https://web.archive.org/web/20211109034140/https://imgur.com/a/VePzyqX) and [here (archive.today)](https://archive.ph/dDkTw).
 - [SOCRadar Daily APT Feed](https://labs.socradar.com/apt-feeds/)  
   Collects APT IOC feeds from several public and private sources and sensors. These feeds are free and refreshed daily. Requires you to provide an email address.
+- [eCrime.sh](https://ecrime.ch/)  
+  Monitors over 90 actor-maintained ransomware and data leak sites and provides insights into the data. Requires a paid subscription.
   
 ## **Malware and Malware Analysis**
 
@@ -3816,6 +3838,10 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Provides ransomware tracking in real-time, tracking ransomware groups and their victims.
 - [RansomWatch](https://ransomwatch.telemetry.ltd/)  
   A constantly updated database that tracks ransomware operators.
+- [RansomLook](https://www.ransomlook.io/)  
+  A simple tool to monitor ransomware groups and markets. Also provides information on breached/leaked data. Very similar to the above tool.
+- [Threat Intelligence Platform](https://threatintelligenceplatform.com/)  
+  Combines several threat intelligence sources to provide in-depth insights on threat hosts and attack infrastructure. Requires a paid subscription.
 
 ## **Personal Connection Profiling**
 
@@ -4163,6 +4189,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A large catalog of public records and data sources for the U.S.
 - [New Zealand Court Records](https://www.courtsofnz.govt.nz/judgments/)  
   Judgements of public interest issued by the Supreme Court, Court of Appeal and the High Court of New Zealand.
+- [ICJ Document Search](https://www.icj-cij.org/advanced-search)  
+  Search and find case-related documents in the International Court of Justice (ICJ) database.
 
 ## **Criminal Records**
 
@@ -4227,6 +4255,12 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Locate information and linked accounts by searching an email address, phone number or Twitter handle. Requires registration.
 - [User Email Encrichment](https://taitems.github.io/user-email-enrichment/)  
   A free, open source identity resolution alternative to tools like FullContact and Clearbit. Requires registration.
+- [FindEmails](https://www.findemails.com/)  
+  A sales and lead generation tool that helps discover a target's email address. Requires registration.
+- [Experte Email Finder](https://www.experte.com/email-finder)  
+  A free email finder tool. Enter a full name and domain and get a list of possible email addresses.
+- [Defastra](https://defastra.com/)  
+  A fraud prevention service that provides information on email addresses and phone numbers. Requires a paid subscription for full results.
 
 ## **Data Breach Search**
 
@@ -4866,6 +4900,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Search for a League of Legends player and view their statistics.
 - [Fortnite Tracker](https://fortnitetracker.com/)  
   Search for a player by their username and view their Fortnite statistics.
+- [LoL-Archiver](https://lolarchiver.com/)  
+  Allows you to see the username history of any ranked League of Legends players. Requires a paid subscription.
 
 
 # <u>**Real Estate**</u>
@@ -5791,5 +5827,7 @@ Search for and identify any unknown pills and/or capsules. Search by brand, impr
   A great, and free online tool that converts markdown to a graphical timeline.
 - [How to Verify?](https://www.howtoverify.info/)  
   A great resource to help you learn about verification workflows and tools.
+- [nHentai User Finder](https://nhentai.lolarchiver.com/)  
+  Search for any nHentai user and view that user's stats and comment history. Requires a paid subscription.
 
 ![](Contact/Images/donvito.png)
