@@ -5,8 +5,6 @@
 
 - [World Social Media Platforms](https://www.osintcombine.com/world-social-media-platforms)  
   A tool from [@osintcombine](https://twitter.com/osintcombine) that lets you search for popular social media platforms by country.
-- [GoFindWho](https://gofindwho.com/)  
-  This is one of the coolest collection of online OSINT tools I have seen. Find people for free by phone number, name, email address, and username on Facebook and in public records. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
 - [EffectGroup](https://effectgroup.io/)  
   One of the best tools for searching people by username, email address, real name or phone number and build a dossier on your target. Searches social media sites, data breaches, documents and much more. Requires a paid subscription after first search.
 - [OnePlus OSINT Toolkit](https://one-plus.github.io/access.html)  
@@ -485,8 +483,10 @@
   You can find detailed stats about your favorite streamer, channel, game and teams. There are many different stats including newest twitch team, channel subscriber count, new and best clips and multiple ranking for all the games and streamers.
 - [Twitch Followage Tool](https://streamscharts.com/tools/followage)  
   Enter the Twitch username and get a complete list of channels they follow.
+- [Twitch-Tools](https://twitch-tools.lolarchiver.com/)  
+  A collection of Twitch tools, like username history, chat history, and other changelog history. 
 
-## <u>**Twitter**</u>
+## <u>**Twitter/X**</u>
 
 - [TinfoLeak](https://tinfoleak.com/)  
   Create a dossier on a Twitter user. Information includes name, username, profile picture, location, followers, devices, applications and operating systems used, social networks, creation date, hashstags used, user mentions, and more.
