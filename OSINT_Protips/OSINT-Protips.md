@@ -1252,3 +1252,223 @@ Disclaimer:
 As breach data is technically open-source. The malicious use of it can have heavy legal implications. Using this data for credential-stuffing, phishing, blackmail or any other malicious purpose is against the law. 
 
 In other words, don't be shitty. 
+
+
+
+## OSINT Protip 57
+
+> Posted on *12/5/2023* at *7:38 PM*.  
+> URL: [https://twitter.com/ohshint_/status/1657213586178207744](https://twitter.com/ohshint_/status/1657213586178207744)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 57: 
+
+Searching for data on the [#BitTorrent](https://twitter.com/hashtag/BitTorrent?src=hashtag_click) network can help uncover some very useful things. Datasets, books, videos and pretty much anything else. 
+
+- [https://btdig.com](https://btdig.com/) 
+- [https://snowfl.com](https://snowfl.com/) 
+- [https://bt4g.org](https://bt4gprx.com/)
+- [https://filelisting.com](https://filelisting.com/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+
+
+
+## OSINT Protip 58
+
+> Posted on *17/6/2023* at *3:42 AM*.  
+> URL: [https://twitter.com/ohshint_/status/1670018962934099968](https://twitter.com/ohshint_/status/1670018962934099968)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 58: 
+
+The ability to recognize and identify firearms is essential when investigating images and footage coming out of combat zones and other conflict areas. 
+
+- [https://modernfirearms.net/en/](https://modernfirearms.net/en/)
+- [https://armalytics.ca](https://www.armalytics.ca/) 
+- [https://www.smallarmssurvey.org/resource/introductory-guide-identification-small-arms-light-weapons-and-associated-ammunition](https://www.smallarmssurvey.org/resource/introductory-guide-identification-small-arms-light-weapons-and-associated-ammunition) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Firearm-Identification-Example.jpg"/>
+
+
+
+
+## OSINT Protip 59
+
+> Posted on *14/6/2023* at *8:08 PM*.  
+> URL: [https://twitter.com/ohshint_/status/1680051693856366592](https://twitter.com/ohshint_/status/1680051693856366592)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 59: 
+
+The Internet is an interesting place. Finding information on [#IoT](https://twitter.com/hashtag/IoT?src=hashtag_click) devices and networks is an essential skill for threat detection and OSINT. 
+
+- [https://shodan.io](https://www.shodan.io/)
+- [https://censys.io](https://censys.com/)
+- [https://greynoise.io](https://www.greynoise.io/) 
+- [https://zoomeye.org](https://www.zoomeye.org/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/IoT-Device-Discovery-Example.png"/>
+
+
+
+
+## OSINT Protip 60
+
+> Posted on *2/8/2023* at *8:00 PM*.  
+> URL: [https://twitter.com/ohshint_/status/1686935057125244928](https://twitter.com/ohshint_/status/1686935057125244928)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 60: 
+
+Tracking aircraft is very important for all types of investigations and for research. [#ADSB](https://twitter.com/hashtag/ADSB?src=hashtag_click) is also a lot of fun! 
+
+- [https://flightradar24.com](https://www.flightradar24.com/)
+- [https://adsbexchange.com](https://www.adsbexchange.com/)
+- [https://flightaware.com](https://www.flightaware.com/)
+- [https://planefinder.net](https://planefinder.net/)
+- [https://data.dictatoralert.org](https://data.dictatoralert.org/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/ADSB-Flight-Tracking-Example.jpg"/>
+
+
+
+
+## OSINT Protip 61
+
+> Posted on *7/8/2023* at *11:37 PM*.  
+> URL: [https://twitter.com/ohshint_/status/1688801474585980928](https://twitter.com/ohshint_/status/1688801474585980928)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 61: 
+
+Ship tracking via [#AIS](https://twitter.com/hashtag/AIS?src=hashtag_click) can give insight into vessel locations, routes, global trade, and even illicit trade. 
+
+- [https://marinetraffic.com](https://www.marinetraffic.com/en/)
+- [https://vesselfinder.com](https://www.vesselfinder.com/)
+- [https://marinevesseltraffic.com/2013/02/military-ship-track.html](https://www.marinevesseltraffic.com/2013/02/military-ship-track.html)
+- [https://shippingexplorer.net/en/map](https://www.shippingexplorer.net/en/map)
+- [https://icc-ccs.org/piracy-reporting-centre/live-piracy-map](https://www.icc-ccs.org/piracy-reporting-centre/live-piracy-map) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#VATINT](https://twitter.com/hashtag/VATINT?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/AIS-Ship-Tracking-Example.png"/>
+
+
+
+
+## OSINT Protip 62
+
+> Posted on *8/8/2023* at *6:42 PM*.  
+> URL: [https://twitter.com/ohshint_/status/1689085091748974592](https://twitter.com/ohshint_/status/1689085091748974592)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 62: 
+
+CVEs are discovered daily. It's important to stay updated. Also, PoC is fun to play with! 
+
+- [https://exploit-db.com](https://www.exploit-db.com/)
+- [https://cve.mitre.org](https://cve.mitre.org/)
+- [https://vuldb.com](https://vuldb.com/)
+- [https://rapid7.com/db/](https://www.rapid7.com/db/)
+- [https://vulners.com](https://vulners.com/)
+- [https://0day.today](https://0day.today/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Exploit-PoC-Example.jpg"/>
+
+
+
+
+## OSINT Protip 63
+
+> Posted on *18/8/2023* at *8:55 PM*.  
+> URL: [https://twitter.com/ohshint_/status/1692747056086200739](https://twitter.com/ohshint_/status/1692747056086200739)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 63: 
+
+The value that email addresses have during investigations is unmatched. You can find out many new things. 
+
+- [https://epieos.com](https://epieos.com/)
+- [https://castrickclues.com](https://castrickclues.com/)
+- [https://snov.io/email-finder](https://snov.io/email-finder)
+- [https://dehashed.com](https://dehashed.com/) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Email-Attack-Surface-for-OSINT-Investigations.jpg"/>
+
+
+
+
+## OSINT Protip 64
+
+> Posted on *24/8/2023* at *7:09 PM*.  
+> URL: [https://twitter.com/ohshint_/status/1694894633556603278](https://twitter.com/ohshint_/status/1694894633556603278)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 64: 
+
+[#Snapchat](https://twitter.com/hashtag/Snapchat?src=hashtag_click) can be extremely useful during a crises, and can provide good information on a target person or place. 
+
+- [https://map.snapchat.com](https://map.snapchat.com/)
+- [https://osintcombine.com/snapchat-multi-viewer](https://www.osintcombine.com/snapchat-multi-viewer)
+- [https://backmoji.myosint.training](https://backmoji.myosint.training/)
+- [https://snapchat.com/add/USERNAME](https://www.snapchat.com/add/USERNAME) 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click) [#SOCMINT](https://twitter.com/hashtag/SOCMINT?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Snapchat-Bitmoji-Avatar-History-Example.jpg"/>
+
+
+
+
+## OSINT Protip 65
+
+> Posted on *18/9/2023* at *11:11 PM*.  
+> URL: [https://twitter.com/ohshint_/status/1704015303817244766](https://twitter.com/ohshint_/status/1704015303817244766)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 65: 
+
+Country-specific search engines and web directories can help you uncover plenty of useful information. 
+
+- [https://searchenginelinks.co.uk](https://www.searchenginelinks.co.uk/)
+- [https://searchenginecolossus.com](https://www.searchenginecolossus.com/)
+- [http://araboo.com](http://www.araboo.com/)
+- [https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/search-engines](https://ohshint.gitbook.io/oh-shint-its-a-blog/osint-web-resources/search-engines)
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Country-Specific-Search-Engine-Example.jpg"/>
+
+
+
+
+## OSINT Protip 66
+
+> Posted on *5/10/2023* at *1:39 AM*.  
+> URL: [https://twitter.com/ohshint_/status/1709850785465676050](https://twitter.com/ohshint_/status/1709850785465676050)
+
+[#OSINT](https://twitter.com/hashtag/OSINT?src=hashtag_click) Protip 66: 
+
+Sometimes its necessary to crack/decode various hashes and encoded strings during investigations. 
+
+- [https://hashes.com/en/decrypt/hash](https://hashes.com/en/decrypt/hash)
+- [https://crackstation.net](https://crackstation.net/)
+- [https://gchq.github.io/CyberChef/](https://gchq.github.io/CyberChef/) 
+
+For everything else, use hashcat and wordlists. 
+
+[#OSINTProtip](https://twitter.com/hashtag/OSINTProtip?src=hashtag_click)
+
+Attached image:
+<img src="https://github.com/OhShINT/ohshint.gitbook.io/blob/main/OSINT_Protips/Images/Hash-Cracking-Example.jpg"/>
