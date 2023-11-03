@@ -213,7 +213,7 @@
   Displays Instagram posts in any chosen geographic location.
 - [InstaNavigation](https://instanavigation.com/)  
   View Instagram profiles without registration.
-- [Iganony](https://iganony.com/)  
+- [Iganony](https://iganony.io/)  
   View Instagram profiles and download stores and posts without registration.
 - [InstaFreeView](https://instafreeview.com/)  
   View Instagram profiles anonymously without having to login.
