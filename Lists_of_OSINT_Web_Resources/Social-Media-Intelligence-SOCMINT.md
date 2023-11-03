@@ -277,6 +277,8 @@
   Search for OnlyFans accounts by category, location or popularity. Also offers reviews and ratings.
 - [OnlyFans Law Enforcement Guide](https://onlyfans.com/legalguide/)  
   A guide for law enforcement on what to do when dealing with OnlyFans investigations.
+- [Sotugas](https://sotugas.com/)  
+  A directory of OnlyFans creators located in Portugal.
 
 ## <u>**Parler**</u>
 
