@@ -141,6 +141,8 @@
   An online service that upscales images and photos by 4 times. It uses artificial intelligence, which makes images bigger without making it blurry, saving its quality at the same time.
 - [ReminiAI](https://app.remini.ai/)  
   Online tool that helps unblur and sharpen images.
+- [VanceAI Image Upscaler](https://vanceai.com/image-enlarger/)  
+  A cutting-edge AI driven tool designed to elevate the quality of images by increasing their resolution while maintaining exceptional clarity and sharpness.
 
 ## **<u>Image Editing and Manipulation</u>**
 
