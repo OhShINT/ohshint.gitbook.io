@@ -38,9 +38,14 @@ All dates are listed in *DD/MM/YYYY* format.
 - [FollowGraph](https://followgraph.vercel.app/) - *Added 12/1/2023.*
 - [Movetodon](https://movetodon.org/) - *Added 12/1/2023.*
 
+### **OnlyFans**
+
+- [Sotugas](https://sotugas.com/) - *Added 3/11/2023.*
+
 ### **Twitch**
 
 - [Twitch Followage Tool](https://streamscharts.com/tools/followage) - *Added 12/1/2023.*
+- [Twitch-Tools](https://twitch-tools.lolarchiver.com/) - *Added 3/11/2023.*
 
 ### **Twitter**
 
@@ -67,6 +72,9 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [World Bank Maps](https://maps.worldbank.org/) - *Added 18/4/2023.*
 - [NASA Earthdata Search](https://search.earthdata.nasa.gov/search) - *Added 18/4/2023.*
+- [EastView](https://www.eastview.com/resources/atlases-maps/) - *Added 3/11/2023.*
+- [Maps-for-Free](https://maps-for-free.com/) - *Added 3/11/2023.*
+- [ShadowMap](https://app.shadowmap.org/) - *Added 3/11/2023.*
 
 ### **Cell Tower Maps**
 
@@ -83,15 +91,25 @@ All dates are listed in *DD/MM/YYYY* format.
 ### **Reverse Image Search**
 
 - [Fingible](https://fingible.nftport.xyz/) - *Added 12/1/2023.*
-- [Baidu Image Search](http://image.baidu.com) 
+- [Baidu Image Search](http://image.baidu.com) - *Added 12/1/2023.*
+- [EZGIF](https://ezgif.com/reverse) - *Added 3/11/2023.*
 
 ### **Image Generation**
 
 - [VisualHound](https://visualhound.com/) - *Added 12/1/2023.*
 
+### **Image Enhancement**
+
+- [VanceAI Image Upscaler](https://vanceai.com/image-enlarger/) - *Added 3/11/2023.*
+
 
 
 ## <u>**Orbital Intelligence**</u>
+
+### **General Orbital Intelligence**
+
+- [Gunter's Space Page](https://space.skyrocket.de/index.html) - *Added 3/11/2023.*
+- [Jonathan's Space Home Page](http://www.planet4589.org/) - *Added 3/11/2023.*
 
 
 
@@ -100,6 +118,14 @@ All dates are listed in *DD/MM/YYYY* format.
 ### **Patents and Trademarks**
 
 - [Public Copyright Catalog](https://cocatalog.loc.gov/cgi-bin/Pwebrecon.cgi?DB=local&PAGE=First) - *Added 18/4/2023.*
+
+### **Business Registries**
+
+#### **Country and Region Specific Registries**
+
+##### **Europe**
+
+- [Librebor](https://librebor.me/en/) - *Added 3/11/2023.*
 
 
 
@@ -118,6 +144,12 @@ All dates are listed in *DD/MM/YYYY* format.
 
 
 ## **<u>Vehicle and Transportation Intelligence [VATINT]</u>**
+
+### **Aircraft**
+
+#### **Aircraft Tracking**
+
+- [ITAMilRadar](https://www.itamilradar.com/) - *Added 3/11/2023.*
 
 ### **Railways**
 
@@ -146,10 +178,12 @@ All dates are listed in *DD/MM/YYYY* format.
 ### **Internet Protocol Addresses [IP]**
 
 - [InfoByIP](https://www.infobyip.com/ipbulklookup.php) - *Added 29/1/2023.*
+- [Spur.us](https://spur.us/context/ENTER-IP-ADDRESS-HERE) - *Added 3/11/2023.*
 
 ### **Domain Name System [DNS]**
 
 - [CompleteDNS](https://completedns.com/) - *Added 18/4/2023.*
+- [DNSDumpster](https://dnsdumpster.com/) - *Added 3/11/2023.*
 
 ### **Website Analysis**
 
@@ -157,6 +191,7 @@ All dates are listed in *DD/MM/YYYY* format.
 
 - [AADInternals](https://aadinternals.com/osint/) - *Added 29/1/2023.*
 - [Netlas](https://netlas.io/) - *Added 18/4/2023.*
+- [Visual Site Mapper](http://visualsitemapper.com/) - *Added 3/11/2023.*
 
 ### **User Agents**
 
@@ -167,6 +202,15 @@ All dates are listed in *DD/MM/YYYY* format.
 #### **Device Discovery**
 
 - [FullHunt.io](https://fullhunt.io/) - *Added 18/4/2023.*
+
+### **Advanced Persistent Threats [APTs]**
+
+- [eCrime.sh](https://ecrime.ch/) - *Added 3/11/2023.*
+
+### **Malware and Malware Analysis**
+
+- [RansomLook](https://www.ransomlook.io/) - *Added 3/11/2023.*
+- [Threat Intelligence Platform](https://threatintelligenceplatform.com/) - *Added 3/11/2023.*
 
 ### **Other Tools**
 
@@ -182,7 +226,9 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## **<u>People Investigations</u>**
 
+### **Court Records**
 
+- [ICJ Document Search](https://www.icj-cij.org/advanced-search) - *Added 3/11/2023.*
 
 ## <u>**Phone Numbers**</u>
 
@@ -193,6 +239,9 @@ All dates are listed in *DD/MM/YYYY* format.
 ### **General Email Tools**
 
 - [User Email Enrichment](https://taitems.github.io/user-email-enrichment/) - *Added 18/4/2023.*
+- [FindEmails](https://www.findemails.com/) - *Added 3/11/2023.*
+- [Experte Email Finder](https://www.experte.com/email-finder) - *Added 3/11/2023.*
+- [Defastra](https://defastra.com/) - *Added 3/11/2023.*
 
 ### **Data Breach Search**
 
@@ -207,7 +256,9 @@ All dates are listed in *DD/MM/YYYY* format.
 
 ## <u>**Gaming**</u>
 
+### **Game Specific**
 
+- [LoL-Archiver](https://lolarchiver.com/) - *Added 3/11/2023.*
 
 ## <u>**Real Estate**</u>
 
@@ -270,3 +321,4 @@ All dates are listed in *DD/MM/YYYY* format.
 - [WhoPaysTechnicalWriters](https://whopaystechnicalwriters.com/) - *Added 29/1/2023.*
 - [MarkWhen](https://markwhen.com/) - *Added 29/1/2023.*
 - [How to Verify?](https://www.howtoverify.info/) - *Added 18/4/2023.*
+- [nHentai User Finder](https://nhentai.lolarchiver.com/) - *Added 3/11/2023.*
