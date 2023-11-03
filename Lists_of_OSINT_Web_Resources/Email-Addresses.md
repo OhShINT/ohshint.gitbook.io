@@ -31,6 +31,12 @@
   Locate information and linked accounts by searching an email address, phone number or Twitter handle. Requires registration.
 - [User Email Encrichment](https://taitems.github.io/user-email-enrichment/)  
   A free, open source identity resolution alternative to tools like FullContact and Clearbit. Requires registration.
+- [FindEmails](https://www.findemails.com/)  
+  A sales and lead generation tool that helps discover a target's email address. Requires registration.
+- [Experte Email Finder](https://www.experte.com/email-finder)  
+  A free email finder tool. Enter a full name and domain and get a list of possible email addresses.
+- [Defastra](https://defastra.com/)  
+  A fraud prevention service that provides information on email addresses and phone numbers. Requires a paid subscription for full results.
 
 ## **Data Breach Search**
 
