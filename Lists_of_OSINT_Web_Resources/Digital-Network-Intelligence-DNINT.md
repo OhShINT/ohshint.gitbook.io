@@ -9,8 +9,6 @@
   Search for WHOIS records and  other data via domain name, email address or keyword. For enhanced results, a paid subscription is required.
 - [DomainBigData](https://domainbigdata.com/)  
   Find the registrant and other domains owned by the same person with their reverse WHOIS. Find domain history, domains on same IP, network owner and more.
-- [GoFindWHOIS](https://gofindwhois.com/)  
-  A great online tool for locating information about a website or IP address. Offers WHOIS lookups, DNS records, IP tools, and other website enumeration tools. Created by [@netbootcamp](https://twitter.com/netbootcamp), so be sure to follow them for updates.
 - [Marcaria](https://whois.marcaria.com/en)  
   Search WHOIS information in over 2,000 extensions including international ccTLDs and gTLDs.
 - [IQ WHOIS](https://iqwhois.com/advanced-search)  
@@ -56,6 +54,8 @@
   A IP blacklist of known spammer and malicious IP addresses that is constantly being updated.
 - [InfoByIP](https://www.infobyip.com/ipbulklookup.php)  
   Domain and IP bulk lookup tool allows you to lookup domains, locations, ISPs and ASNs for multiple hosts at once.
+- [Spur.us](https://spur.us/context/ENTER-IP-ADDRESS-HERE)  
+  A great tool that provides tools and data to detect VPNs, residential IPs, proxies, and bots. Simply input an IP address in the URL, like so: `spur.us/context/ENTER-IP-ADDRESS-HERE`.
 
 ## **Domain Name System [DNS] Records**
 
@@ -85,6 +85,8 @@
   DNS search tool. Find subdomains, shared IPs and more. Claims to have over 3 billion records.
 - [CompleteDNS](https://completedns.com/)  
   Research domain history and other DNS details. Currently has over 20 years worth of data. Requires a paid subscription.
+- [DNSDumpster](https://dnsdumpster.com/)  
+  A free domain research tool that can discover hosts related to a domain. Finding visible hosts from the attackers perspective is an important part of the security assessment process.
 
 ## **Website Analysis**
 
@@ -140,6 +142,8 @@
   This OSINT tool will extract openly available information for the given Azure AD tenant.
 - [Netlas](https://netlas.io/)  
   Internet intelligence apps that provide accurate technical information on IP addresses, domain names, websites, web applications, IoT devices, and other online assets.
+- [Visual Site Mapper](http://visualsitemapper.com/)  
+  A free online tool for generating site maps in graph form. Allows you to visually see the links between the pages of a website.
   
 ### **Web Page Monitoring**
 
@@ -392,6 +396,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   A collection of infographics that display the various known and currently active cyber operation groups per country. Archived [here (Wayback)](https://web.archive.org/web/20211109034140/https://imgur.com/a/VePzyqX) and [here (archive.today)](https://archive.ph/dDkTw).
 - [SOCRadar Daily APT Feed](https://labs.socradar.com/apt-feeds/)  
   Collects APT IOC feeds from several public and private sources and sensors. These feeds are free and refreshed daily. Requires you to provide an email address.
+- [eCrime.sh](https://ecrime.ch/)  
+  Monitors over 90 actor-maintained ransomware and data leak sites and provides insights into the data. Requires a paid subscription.
   
 ## **Malware and Malware Analysis**
 
@@ -413,6 +419,10 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
   Provides ransomware tracking in real-time, tracking ransomware groups and their victims.
 - [RansomWatch](https://ransomwatch.telemetry.ltd/)  
   A constantly updated database that tracks ransomware operators.
+- [RansomLook](https://www.ransomlook.io/)  
+  A simple tool to monitor ransomware groups and markets. Also provides information on breached/leaked data. Very similar to the above tool.
+- [Threat Intelligence Platform](https://threatintelligenceplatform.com/)  
+  Combines several threat intelligence sources to provide in-depth insights on threat hosts and attack infrastructure. Requires a paid subscription.
 
 ## **Personal Connection Profiling**
 
