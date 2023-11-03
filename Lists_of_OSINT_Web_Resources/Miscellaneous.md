@@ -57,3 +57,5 @@
   A great, and free online tool that converts markdown to a graphical timeline.
 - [How to Verify?](https://www.howtoverify.info/)  
   A great resource to help you learn about verification workflows and tools.
+- [nHentai User Finder](https://nhentai.lolarchiver.com/)  
+  Search for any nHentai user and view that user's stats and comment history. Requires a paid subscription.
