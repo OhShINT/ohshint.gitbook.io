@@ -136,7 +136,13 @@
 - [World Bank Maps](https://maps.worldbank.org/)  
   An interactive map with lots of data on various parts of the world, satellite imagery, projects in different sectors and area analyses.
 - [NASA Earthdata Search](https://search.earthdata.nasa.gov/search)  
-  Search, discover, visualize, refine, and access NASA Earth Observation data in your browser. 
+  Search, discover, visualize, refine, and access NASA Earth Observation data in your browser.
+- [EastView](https://www.eastview.com/resources/atlases-maps/)  
+  Offers a wide variety of atlases, maps, and geospatial data from all around the world. Requires a paid subscription for full access.
+- [Maps-for-Free](https://maps-for-free.com/)  
+  Offers many color visualizations of the Earths surface. Data is sourced from OpenStreetMap.
+- [ShadowMap](https://app.shadowmap.org/)  
+  Visualizes solar shadows on an interactive 3D web-based map. For any moment in time, anywhere on Earth.
 
 ## **Street View Maps**
 
