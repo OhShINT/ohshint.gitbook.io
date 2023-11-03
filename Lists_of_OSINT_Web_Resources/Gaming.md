@@ -60,3 +60,5 @@
   Search for a League of Legends player and view their statistics.
 - [Fortnite Tracker](https://fortnitetracker.com/)  
   Search for a player by their username and view their Fortnite statistics.
+- [LoL-Archiver](https://lolarchiver.com/)  
+  Allows you to see the username history of any ranked League of Legends players. Requires a paid subscription.
