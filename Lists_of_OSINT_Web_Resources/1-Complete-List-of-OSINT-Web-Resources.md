@@ -65,7 +65,7 @@ Remember, CTRL+F is your friend here.
   * [**Tinder**](#tinder)
   * [**Tumblr**](#tumblr)
   * [**Twitch**](#twitch)
-  * [**Twitter/X**](#twitter)
+  * [**Twitter/X**](#twitterx)
   * [**Untappd**](#untappd)
   * [**VKontakte**](#vkontakte)
   * [**VSCO**](#vsco)
