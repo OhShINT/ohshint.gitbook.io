@@ -103,6 +103,8 @@
   Reverse image search tool locate NFTs and other photos.
 - [Fingible](https://fingible.nftport.xyz/)  
   A reverse image search tool for finding NFTs.
+- [EZGIF](https://ezgif.com/reverse)  
+  Simply upload a .gif and reverse search it.
 
 ## **<u>Image Generation</u>**
 
