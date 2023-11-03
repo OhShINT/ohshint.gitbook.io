@@ -87,10 +87,12 @@
   Provides detailed financial information on all companies, both private and public, that are located in Sweden.
 - [Denmark Company Search](https://www.proff.dk/)  
   Provides detailed financial information on all companies, both private and public, that are located in Denmark.
-- [Armanian Electronic Register](https://www.e-register.am/ru/search)  
-  Search for information about Armanian organizations.
+- [Armenian Electronic Register](https://www.e-register.am/ru/search)  
+  Search for information about Armenian organizations.
 - [UK Company House](https://find-and-update.company-information.service.gov.uk/)  
   Locate registered addresses, filing history, officers, annual returns and more.
+- [Librebor](https://librebor.me/en/)  
+  For searching Spanish companies, it provides quite some detailed information.
 
 ### <u>**North America**</u>
 
