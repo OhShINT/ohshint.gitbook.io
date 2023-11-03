@@ -88,6 +88,8 @@
   A large catalog of public records and data sources for the U.S.
 - [New Zealand Court Records](https://www.courtsofnz.govt.nz/judgments/)  
   Judgements of public interest issued by the Supreme Court, Court of Appeal and the High Court of New Zealand.
+- [ICJ Document Search](https://www.icj-cij.org/advanced-search)  
+  Search and find case-related documents in the International Court of Justice (ICJ) database.
 
 ## **Criminal Records**
 
