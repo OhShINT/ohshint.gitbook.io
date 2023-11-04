@@ -5,6 +5,8 @@
 
 - [Epieos Email Tool](https://tools.epieos.com/email.php)  
   Enter an email address and see which sites the email address has been used. This is a web frontend of the [holehe](https://github.com/megadose/holehe) tool.
+- [Predicta Search](https://predictasearch.com)  
+  Lookup an email address or phone number to retrieve detailed profiles associated with the respective email address or phone number's usage.
 - [Email Header Analyzer](https://mxtoolbox.com/EmailHeaders.aspx)  
   Simple tool that analyzes email headers and making them human-readable.
 - [Free Email Scraper](https://freemailscraper.herokuapp.com/complete-website-email-scraper)  
