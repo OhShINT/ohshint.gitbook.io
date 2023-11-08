@@ -242,6 +242,7 @@ All dates are listed in *DD/MM/YYYY* format.
 - [FindEmails](https://www.findemails.com/) - *Added 3/11/2023.*
 - [Experte Email Finder](https://www.experte.com/email-finder) - *Added 3/11/2023.*
 - [Defastra](https://defastra.com/) - *Added 3/11/2023.*
+- [Predicta Search](https://predictasearch.com) - *Added 7/11/2023.*
 
 ### **Data Breach Search**
 
