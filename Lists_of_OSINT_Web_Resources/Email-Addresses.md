@@ -37,6 +37,8 @@
   A free email finder tool. Enter a full name and domain and get a list of possible email addresses.
 - [Defastra](https://defastra.com/)  
   A fraud prevention service that provides information on email addresses and phone numbers. Requires a paid subscription for full results.
+- [Predicta Search](https://predictasearch.com)  
+  Look up an email address or phone number to retrieve detailed profiles associated with the respective email address or phone number's usage.
 
 ## **Data Breach Search**
 
