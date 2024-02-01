@@ -146,9 +146,9 @@ Here are some additional white-papers about the OSINT processes and various OSIN
 
 This is a list of open-source related books, manuals, articles and research papers that you should read, or at the very least download and/or purchase for future reference.
 
-- [Open Source Intelligence Techniques 9th Edition - Michael Bazzell - 2022](https://inteltechniques.com/book1.html).
+- [OSINT Techniques: Resources for Uncovering Online Information 10th Edition - Michael Bazzell - 2023](https://inteltechniques.com/book1.html).
   - If you are only going to read one book here, then it should be this one^.
-  - ([archive.today](https://archive.ph/qvnrW)).
+  - ([archive.today](https://archive.ph/nU1Os)).
 - [[PDF] US Army - Open-Source Intelligence ATP 2-22.9 - June 2017 - Redacted Copy](https://irp.fas.org/doddir/army/atp2-22-9-2017.pdf).
   - ([Wayback](https://web.archive.org/web/20210926093547/https://irp.fas.org/doddir/army/atp2-22-9-2017.pdf)), ([Library Genesis](https://libgen.rs/book/index.php?md5=B294FA28A8F5E1C52CB7DFE3B391A83C)).
 - [[PDF] US Army - Open-Source Intelligence - ATP 2-22.9 - July 2012](https://fas.org/irp/doddir/army/atp2-22-9.pdf).
