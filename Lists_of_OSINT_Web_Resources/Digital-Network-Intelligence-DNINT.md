@@ -144,6 +144,8 @@
   Internet intelligence apps that provide accurate technical information on IP addresses, domain names, websites, web applications, IoT devices, and other online assets.
 - [Visual Site Mapper](http://visualsitemapper.com/)  
   A free online tool for generating site maps in graph form. Allows you to visually see the links between the pages of a website.
+- [Tiny Scan](https://www.tiny-scan.com)  
+  Tiny Scan is a powerful URL scan tool that provides comprehensive information about any given URL. Get insights into IP address, location, screenshots, technology stack, performance metrics, and more.
   
 ### **Web Page Monitoring**
 
