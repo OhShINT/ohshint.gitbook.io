@@ -39,3 +39,5 @@
   An awesome JavaScript tool to generate possible usernames and login search patterns with links. Created by [@SEINT_pl](https://.twitter.com/SEINT_pl).
 - [IntelX Username Search](https://intelx.io/tools?tab=username)  
   A great username search engine offered by IntelX.
+- [User Searcher](https://www.user-searcher.com)  
+  A free OSINT tool to search username in 2000+ websites, including social networks, dating site, crypto forums and etc.
