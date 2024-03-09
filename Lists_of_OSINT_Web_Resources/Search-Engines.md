@@ -38,7 +38,7 @@
   A tool that gives you a list of prebuilt templates for Google Dorks for different use cases.
 - [DuckDuckBang](https://mosermichael.github.io/duckduckbang/html/main.html)  
   Super useful resource for building search operators and searching DuckDuckGo.
-- [ResearchBuzz Search Gizmos](https://researchbuzz.github.io/)  
+- [ResearchBuzz Search Gizmos]([https://researchbuzz.github.io/](https://searchgizmos.com/))  
   An amazing collection of search tools and query builders. Some tools require API keys. Created by [@ResearchBuzz](https://twitter.com/ResearchBuzz).
 
 ## <u>**Country Specific Search Engines and Directories**</u>
