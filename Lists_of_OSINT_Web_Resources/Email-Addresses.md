@@ -44,6 +44,8 @@
 
 - [HaveIBeenPwned](https://haveibeenpwned.com/)  
   Lets you search for an email address or phone number. Will tell you what breaches include what you have searched.
+- [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools)  
+  Lets you search for an email address, username, or domain that was compromised in global Infostealer attacks. 
 - [BreachDirectory](https://breachdirectory.org/)  
   Search via email address, username or phone number to see censored passwords. They also provide the full password as a SHA-1 hash, which can easily be cracked.
 - [DeHashed](https://dehashed.com/)  
