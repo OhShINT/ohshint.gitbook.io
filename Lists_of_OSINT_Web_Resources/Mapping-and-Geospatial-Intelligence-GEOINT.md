@@ -165,8 +165,6 @@
 
 ## **Political Maps**
 
-- [IR Map](https://www.ir-map.com/)  
-  IR Map provides a clear and comprehensive picture of international relations between countries.
 - [24 Time Zones](https://24timezones.com/timezone-map)  
   This interactive map represent time zones around the world and cities observing them. Just point at the city on the map or search it in the search field to see the detailed information.
 - [Native Land](https://native-land.ca/)  
