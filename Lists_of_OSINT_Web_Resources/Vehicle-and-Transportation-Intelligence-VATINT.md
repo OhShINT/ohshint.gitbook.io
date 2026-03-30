@@ -47,6 +47,8 @@
   A simple map that shows examples of the different plates for each country in Europe. Archived copies available [here (Wayback)](https://web.archive.org/web/20210927044105/https://upload.wikimedia.org/wikipedia/commons/b/bb/Vehicle_registration_plates_in_Europe.png) and [here (archive.today)](https://archive.ph/Qahid).
 - [Partial Number Plate Search UK](https://www.partialnumberplate.co.uk/)  
   Need to find a UK registration plate but don't know all of the characters? Give this tool a try.
+  - [License Plate Owner API](https://license-plate-owner.com/)
+DPPA-compliant vehicle lookup API built by a licensed private investigator.
 - [UK Number Plate Search](https://vehicleenquiry.service.gov.uk/?locale=en)  
   A number plate search tool offered by the UK government.
 - [Number Plate Check](https://www.checkcardetails.co.uk/number-plate-check)  
