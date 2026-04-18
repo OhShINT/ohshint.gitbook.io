@@ -153,6 +153,8 @@
   A service that enables you to automatically collect new information from any web page. Select which pages to monitor, and this will find which pages have changed, and collect all the new content for you.
 - [VisualPing](https://visualping.io/)  
   Enter a URL that you would like to monitor, then enter an email address and this will send you emails everytime that page changes.
+- [Snaplert](https://snaplert.com/)  
+  Monitor any webpage for visual changes with AI-powered diffs and before/after screenshots. Select a specific zone on the page with an element-level picker and get email alerts with an AI summary of what changed. Free during open beta.
 - [Carbon Dating The Web](https://carbondate.cs.odu.edu/)  
   Predict the birthday of any web page.
 - [GemiusAudience](https://rating.gemius.com/)  
