@@ -850,6 +850,8 @@
   A search engine that allows you to search for newspapers from all over the world.
 - [EMM News Search](https://emm.newsbrief.eu/NewsBrief/clusteredition/en/latest.html)  
   Search for news articles from all over the world via keyword. Very useful when investigating companies and widely known individuals.
+- [Albis](https://www.albis.news/?utm_source=ohshint_osint_resources&utm_medium=github_pr&utm_campaign=albis_public_launch)  
+  Free public news-discovery site for comparing global story coverage, source diversity, and framing gaps across public news feeds. Useful as a context-finding prompt alongside original reporting and primary sources, not as a verification authority.
 - [NewspaperArchive](https://newspaperarchive.com/)  
   Explore billions of newspaper articles from all over the world. Extremely useful tool. Requires a paid subscription.
 - [AllYouCanRead](https://www.allyoucanread.com/)  
