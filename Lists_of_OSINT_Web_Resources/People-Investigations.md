@@ -32,7 +32,7 @@
 - [FindMyPast](https://search.findmypast.co.uk/search-world-records)  
   Search for public records. Census, birth, death, marriage records and much more. Requires registration.
 - [Lullar.com](https://com.lullar.com/)  
-  Profile and person search tool. Search via email address or name.
+  Profile and person search tool. Search via email address, username, or name across 175+ social networks.
   
 ## **Vital Records**
 
