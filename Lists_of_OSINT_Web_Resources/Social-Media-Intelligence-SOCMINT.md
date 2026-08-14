@@ -504,6 +504,8 @@
   Analytics and statistics for a Twitter account. Requires you to login.
 - [TweetBeaver](https://tweetbeaver.com/)  
   A great collection of various tools for preforming Twitter account OSINT. Requires you to be sign into your Twitter account.
+- [Xquik](https://github.com/Xquik-dev/x-twitter-scraper)  
+  Independent X (Twitter) search, follower export, and monitoring API.
 - [TweetMap](https://www.omnisci.com/demos/tweetmap)  
   Visualize hundreds of millions of tweets in real-time, from the global level all the way down to your neighborhood.
 - [OneMillionTweetMap](https://onemilliontweetmap.com/)  
