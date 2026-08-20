@@ -2900,6 +2900,8 @@ Another, more recent document from NASA in September 2015 that is a reference gu
   Similar to the above tool, except for France. Provides payments received from pharmaceutical companies and/or medical device companies.
 - [StAR: The Stolen Asset Recovery Initiative](https://star.worldbank.org/)  
   A partnership between the World Bank Group and the United Nations Office on Drugs and Crime that supports international efforts to end safe havens for corrupt funds. Offers many reports and AML information.
+- [Horizons](https://horizons.c4ads.org/about)  
+  [C4ADS's](https://c4ads.org) investigative data platform for searching billions of public-interest records and uncovering connections across people, companies, and networks. 
 
 ## **Cryptocurrency and Blockchain**
 
