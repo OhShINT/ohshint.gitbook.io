@@ -456,8 +456,8 @@ The Google Hacking Data Base is an index of search queries (we call them dorks) 
 
 - [Domains-Index](https://domains-index.com/)  
   An index of registered domains, sorted by TLD. Allows you to download lists of registered TLDs in .csv format. Requires registration and a paid subscription. However, some TLD lists are free.
-- [ZoneFiles](https://zonefiles.io/)  
-  Another index of registered domains sorted by TLDs. Updated daily. Requires paid subscription and registration to access their datasets.
+- [NetAPI](https://netapi.com/)  
+  Another index of registered domains sorted by TLDs. Updated daily. The compromised domain and IP lists are free.
 - [Zone-H](https://www.zone-h.org/)  
   An Internet security portal containing original IT security news, digital warfare news, geopolitics, proprietary and general advisories, analyses, forums, and a large archive of website defacements.
 - [Default Router Settings](https://www.cleancss.com/router-default/)  
