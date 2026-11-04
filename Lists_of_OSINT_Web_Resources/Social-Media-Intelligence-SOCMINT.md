@@ -370,6 +370,8 @@
   Search for SnapChat users by username or location. Very limited results, and some results may be NSFW.
 - [OSINTCombine SnapChat Multi-Viewer](https://www.osintcombine.com/snapchat-multi-viewer)  
   Enter a location and view multiple SnapChat stories at once.
+- [SnapDataHub](https://snapdatahub.com/)  
+  Look up a public Snapchat profile for free and see its Spotlight performance and engagement metrics.
 
 ## <u>**Skype**</u>
 
